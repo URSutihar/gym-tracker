@@ -10,6 +10,13 @@ from queries import (
     get_daily_protein,
     get_weight_with_moving_avg,
     get_workout_volume,
+    get_sleep_hr_data,
+    get_cardio_sessions,
+    get_personal_records,
+    get_pr_history,
+    get_weekly_summary,
+    get_sleep_workout_correlation,
+    get_nutrition_trends,
 )
 import charts
 import components
@@ -18,8 +25,7 @@ import os
 st.set_page_config(page_title="Gym Tracker Dashboard", layout="wide", page_icon="🏋️")
 
 def main():
-    st.title("URS Progress Tracker")
-    st.markdown("Gym & Fitness Tracker .")
+    st.title("URS Progress Tracker 💪")
 
     if st.button("Refresh Data"):
         st.cache_data.clear()
@@ -30,7 +36,7 @@ def main():
         st.error(f"Database not found at {DB_PATH}. Please run `python db/init_db.py` first.")
         return
 
-    # ── Load data ─────────────────────────────────────────────────────────
+    # ── Load core data ─────────────────────────────────────────────────────
     try:
         days_df = get_days_data()
         exercises = get_all_exercise_names()
@@ -40,7 +46,7 @@ def main():
         return
 
     if days_df.empty:
-        st.warning("No data found. Use the CLI scripts in `scripts/` to log some days!")
+        st.warning("No data found. Use `python scripts/import_json.py day.json` to log your first day!")
         return
 
     # ══════════════════════════════════════════════════════════════════════
@@ -86,7 +92,6 @@ def main():
     col_chart1, col_chart2 = st.columns(2)
 
     with col_chart1:
-        # Weight + 7-day MA
         weight_ma_df = get_weight_with_moving_avg()
         fig_weight = charts.plot_weight_with_ma(weight_ma_df) if not weight_ma_df.empty else None
         if fig_weight:
@@ -94,22 +99,26 @@ def main():
         else:
             st.info("No weight data available.")
 
-        # Sleep
         fig_sleep = charts.plot_sleep_over_time(days_df)
         if fig_sleep:
             st.plotly_chart(fig_sleep, use_container_width=True)
         else:
             st.info("No sleep data available.")
 
+        # Heart Rate
+        hr_df = get_sleep_hr_data()
+        if not hr_df.empty:
+            fig_hr = charts.plot_heart_rate_over_time(hr_df)
+            if fig_hr:
+                st.plotly_chart(fig_hr, use_container_width=True)
+
     with col_chart2:
-        # Protein + target line
         fig_protein = charts.plot_protein_with_target(days_df)
         if fig_protein:
             st.plotly_chart(fig_protein, use_container_width=True)
         else:
             st.info("No protein data available.")
 
-        # Daily Calories
         cal_df = get_daily_calories()
         fig_cal = charts.plot_daily_calories(cal_df) if not cal_df.empty else None
         if fig_cal:
@@ -124,7 +133,6 @@ def main():
     # ══════════════════════════════════════════════════════════════════════
     st.header("Exercise Progression")
 
-    # Summary chart (max weight per exercise)
     summary_df = get_exercise_summary_timeseries()
     fig_summary = charts.plot_exercise_summary(summary_df)
     if fig_summary:
@@ -132,7 +140,6 @@ def main():
     else:
         st.info("No exercise summary data available.")
 
-    # Volume progression
     vol_df = get_workout_volume()
     fig_vol = charts.plot_volume_progression(vol_df)
     if fig_vol:
@@ -140,11 +147,11 @@ def main():
     else:
         st.info("No volume data available.")
 
-    # Per-exercise drill-down
     if exercises:
         selected_exercise = st.selectbox("Select Exercise", exercises)
         prog_df = get_exercise_progression(selected_exercise)
-        fig_prog = charts.plot_exercise_progression(prog_df, selected_exercise)
+        pr_df = get_pr_history(selected_exercise)
+        fig_prog = charts.plot_pr_timeline(prog_df, pr_df, selected_exercise)
         if fig_prog:
             st.plotly_chart(fig_prog, use_container_width=True)
         else:
@@ -154,7 +161,36 @@ def main():
 
     st.divider()
 
+    # ══════════════════════════════════════════════════════════════════════
+    #  PERSONAL RECORDS
+    # ══════════════════════════════════════════════════════════════════════
+    st.header("Personal Records")
+    pr_all_df = get_personal_records()
+    if not pr_all_df.empty:
+        st.dataframe(
+            pr_all_df.rename(columns={
+                'exercise_name': 'Exercise',
+                'pr_weight_kg': 'PR (kg)',
+                'pr_date': 'Date Achieved'
+            }),
+            use_container_width=True,
+            hide_index=True,
+        )
+    else:
+        st.info("No PR data available yet.")
 
+    st.divider()
+
+    # ══════════════════════════════════════════════════════════════════════
+    #  CARDIO
+    # ══════════════════════════════════════════════════════════════════════
+    cardio_df = get_cardio_sessions()
+    if not cardio_df.empty:
+        st.header("Cardio")
+        fig_cardio = charts.plot_cardio_over_time(cardio_df)
+        if fig_cardio:
+            st.plotly_chart(fig_cardio, use_container_width=True)
+        st.divider()
 
     # ══════════════════════════════════════════════════════════════════════
     #  CONSISTENCY PANEL
@@ -194,6 +230,61 @@ def main():
         st.plotly_chart(fig_activity, use_container_width=True)
     else:
         st.info("No activity data available.")
+
+    st.divider()
+
+    # ══════════════════════════════════════════════════════════════════════
+    #  NUTRITION TRENDS
+    # ══════════════════════════════════════════════════════════════════════
+    st.header("Nutrition Trends")
+    nutrition_df = get_nutrition_trends()
+    fig_nutrition = charts.plot_nutrition_trends(nutrition_df)
+    if fig_nutrition:
+        st.plotly_chart(fig_nutrition, use_container_width=True)
+    else:
+        st.info("No nutrition data available.")
+
+    st.divider()
+
+    # ══════════════════════════════════════════════════════════════════════
+    #  WEEKLY SUMMARY
+    # ══════════════════════════════════════════════════════════════════════
+    with st.expander("Weekly Summary"):
+        weekly_df = get_weekly_summary()
+        if not weekly_df.empty:
+            col_w1, col_w2 = st.columns(2)
+            with col_w1:
+                fig_wk_gym = charts.plot_weekly_gym_days(weekly_df)
+                if fig_wk_gym:
+                    st.plotly_chart(fig_wk_gym, use_container_width=True)
+            with col_w2:
+                fig_wk_nut = charts.plot_weekly_nutrition(weekly_df)
+                if fig_wk_nut:
+                    st.plotly_chart(fig_wk_nut, use_container_width=True)
+            st.dataframe(
+                weekly_df[['week_start', 'gym_days', 'total_gym_minutes',
+                            'avg_weight_kg', 'avg_sleep_minutes', 'total_steps',
+                            'avg_protein_g', 'avg_calories']].rename(columns={
+                    'week_start': 'Week', 'gym_days': 'Gym Days',
+                    'total_gym_minutes': 'Gym Min', 'avg_weight_kg': 'Avg Weight (kg)',
+                    'avg_sleep_minutes': 'Avg Sleep (min)', 'total_steps': 'Total Steps',
+                    'avg_protein_g': 'Avg Protein (g)', 'avg_calories': 'Avg Calories',
+                }),
+                use_container_width=True, hide_index=True,
+            )
+        else:
+            st.info("Not enough data for weekly summary.")
+
+    # ══════════════════════════════════════════════════════════════════════
+    #  INSIGHTS: Sleep vs RPE
+    # ══════════════════════════════════════════════════════════════════════
+    corr_df = get_sleep_workout_correlation()
+    if not corr_df.empty and len(corr_df) >= 5:
+        with st.expander("Insight: Sleep vs Workout Performance"):
+            fig_corr = charts.plot_sleep_vs_rpe(corr_df)
+            if fig_corr:
+                st.plotly_chart(fig_corr, use_container_width=True)
+
 
 if __name__ == "__main__":
     main()

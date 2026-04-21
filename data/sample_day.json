@@ -1,0 +1,90 @@
+{
+  "date": "2026-01-01",
+  "notes": "Optional notes about this day.",
+  "overall_rpe": 7.5,
+  "gym_minutes": 90,
+  "body_metrics": {
+    "weight_kg": 75.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 450,
+    "hr_min": 48,
+    "hr_max": 112,
+    "notes": "Slept 11PM-6:30AM. One brief waking around 3AM."
+  },
+  "activity": {
+    "move_calories": 550,
+    "exercise_minutes": 45,
+    "stand_hours": 10,
+    "steps": 9500,
+    "distance_km": 6.3
+  },
+  "workout": {
+    "duration_minutes": 90,
+    "notes": "Push day. Felt strong on chest.",
+    "exercises": [
+      {
+        "name": "Bench Press (Barbell)",
+        "muscle_group": "chest",
+        "equipment": "barbell",
+        "sets": [
+          { "set": 1, "weight_kg": 40.0, "reps": 10 },
+          { "set": 2, "weight_kg": 50.0, "reps": 8 },
+          { "set": 3, "weight_kg": 60.0, "reps": 6 }
+        ]
+      },
+      {
+        "name": "Overhead Press (Barbell)",
+        "muscle_group": "shoulders",
+        "equipment": "barbell",
+        "sets": [
+          { "set": 1, "weight_kg": 30.0, "reps": 10 },
+          { "set": 2, "weight_kg": 35.0, "reps": 8 },
+          { "set": 3, "weight_kg": 35.0, "reps": 7 }
+        ]
+      },
+      {
+        "name": "Tricep Rope Pushdown (Cable)",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "sets": [
+          { "set": 1, "weight_kg": 20.0, "reps": 12 },
+          { "set": 2, "weight_kg": 25.0, "reps": 10 },
+          { "set": 3, "weight_kg": 25.0, "reps": 10 }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Oats 80g, 2 eggs, banana",
+      "calories": 520,
+      "protein_g": 28,
+      "carbs_g": 70,
+      "fat_g": 12,
+      "fiber_g": 7,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Grilled chicken rice, salad",
+      "calories": 650,
+      "protein_g": 50,
+      "carbs_g": 65,
+      "fat_g": 15,
+      "fiber_g": 4,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Salmon, sweet potato, broccoli",
+      "calories": 700,
+      "protein_g": 55,
+      "carbs_g": 60,
+      "fat_g": 20,
+      "fiber_g": 8,
+      "is_estimated": false
+    }
+  ]
+}
