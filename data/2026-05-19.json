@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-19",
+  "body_metrics": {
+    "weight_kg": 74.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 445,
+    "notes": "7h25m; split blocks ~2-5AM (deep+Core+REM) and ~1-4PM (Core+REM+deep); 7-day avg 6h47m"
+  },
+  "activity": {
+    "move_calories": 601.0,
+    "exercise_minutes": 84,
+    "stand_hours": 11,
+    "steps": 14781,
+    "distance_km": 9.36
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (rice + boneless chicken + extra chicken + egg + choys + soup + chilli paste) + 150g banana pudding",
+      "calories": 950.0,
+      "protein_g": 58.0,
+      "carbs_g": 105.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Meiji High Protein Milk 350ml (32g) + 2pc Chicken McCrispy + large crisscut fries + 2pc McWings + 2 bananas",
+      "calories": 1780.0,
+      "protein_g": 88.0,
+      "carbs_g": 160.0,
+      "fat_g": 88.0,
+      "fiber_g": 10.0,
+      "is_estimated": true
+    }
+  ]
+}

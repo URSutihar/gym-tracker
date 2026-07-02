@@ -10,7 +10,7 @@ Track your daily metrics (weight, sleep, activity), log workouts and exercises, 
 - `db/`: Database configuration and initialization code.
 - `scripts/`: Python CLI scripts for adding tracking data from the terminal.
 - `app/`: Streamlit dashboard codebase.
-- `data/backups/`: Directory for database backups.
+- `data/`: Per-day JSON files (`YYYY-MM-DD.json`) — the canonical, git-tracked history of every logged day.
 
 ## Setup Instructions
 
@@ -32,7 +32,7 @@ Track your daily metrics (weight, sleep, activity), log workouts and exercises, 
 ### 1. Data Logging (CLI)
 You can log data using the minimal terminal scripts in the `scripts/` directory:
 
-- **Log Daily Metrics** (Sleep, weight, general activity, soreness):
+- **Log Daily Metrics** (Sleep, weight, general activity):
   ```bash
   python scripts/insert_day.py
   ```
@@ -55,5 +55,12 @@ streamlit run app/app.py
 ```
 This will open up a localhost web page in your default browser where you can view charts mapping weight, sleep, habits, and exercise progression.
 
-## Backups
-It is highly recommended to periodically copy `gym_log.db` into `data/backups/` so you do not lose your logging history.
+## Data History (no DB backups needed)
+Every logged day lives as its own JSON file in `data/YYYY-MM-DD.json`, in the exact schema `scripts/import_json.py` consumes. The database can be rebuilt from scratch at any time:
+
+```bash
+python3 db/init_db.py
+for f in data/20*.json; do python3 scripts/import_json.py "$f"; done
+```
+
+Keep the JSON files committed to git — they are the backup. To sync files from the DB (e.g. after a manual DB edit): `python3 scripts/export_days.py`.

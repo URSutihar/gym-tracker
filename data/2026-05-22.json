@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-22",
+  "notes": "Rest day. DOMS almost cleared. Weekend ahead.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 75.3,
+    "bmi": 24.0,
+    "body_fat_pct": 21.2,
+    "fat_mass_kg": 16.0,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 54.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.9,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 499,
+    "notes": "10h12m on Watch - 2h39m (yesterday nap) + 46m (today nap not in image) = 8h19m; 7-day avg 7h08m per Watch"
+  },
+  "activity": {
+    "move_calories": 275.0,
+    "exercise_minutes": 6,
+    "stand_hours": 8,
+    "steps": 6469,
+    "distance_km": 4.13
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (steamed boneless chicken, extra chicken, egg, cucumber)",
+      "calories": 785.0,
+      "protein_g": 52.0,
+      "carbs_g": 78.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk (32g) + Banana",
+      "calories": 285.0,
+      "protein_g": 33.4,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "166g chicken wings airfryed (red label) + 222g BI skin-on chicken drumstick (155g edible after bone) + 10g tandoori paste + 1 banana",
+      "calories": 735.0,
+      "protein_g": 58.9,
+      "carbs_g": 40.9,
+      "fat_g": 38.8,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    }
+  ]
+}

@@ -9,7 +9,19 @@ CREATE TABLE IF NOT EXISTS days (
 CREATE TABLE IF NOT EXISTS body_metrics (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     day_id INTEGER UNIQUE REFERENCES days(id) ON DELETE CASCADE,
-    weight REAL
+    weight REAL,
+    bmi REAL,
+    body_fat_pct REAL,
+    fat_mass_kg REAL,
+    muscle_mass_kg REAL,
+    skeletal_muscle_mass_kg REAL,
+    body_water_pct REAL,
+    bone_mineral_kg REAL,
+    protein_mass_kg REAL,
+    bmr_kcal REAL,
+    visceral_fat INTEGER,
+    body_age INTEGER,
+    waist_hip_ratio REAL
 );
 
 CREATE TABLE IF NOT EXISTS sleep_logs (
@@ -31,12 +43,20 @@ CREATE TABLE IF NOT EXISTS activity_logs (
     distance_km REAL
 );
 
-CREATE TABLE IF NOT EXISTS soreness_logs (
+-- Estimated daily micronutrient intake (one row per day, written by /log-day)
+CREATE TABLE IF NOT EXISTS micros (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    day_id INTEGER REFERENCES days(id) ON DELETE CASCADE,
-    body_part TEXT,
-    soreness_score INTEGER,
-    notes TEXT
+    day_id INTEGER UNIQUE REFERENCES days(id) ON DELETE CASCADE,
+    calcium_mg REAL,
+    iron_mg REAL,
+    zinc_mg REAL,
+    b12_ug REAL,
+    potassium_mg REAL,
+    sodium_mg REAL,
+    vitamin_c_mg REAL,
+    vitamin_d_ug REAL,
+    omega3_g REAL,
+    magnesium_mg REAL
 );
 
 CREATE TABLE IF NOT EXISTS workouts (
@@ -131,3 +151,4 @@ CREATE INDEX IF NOT EXISTS idx_meals_day_id ON meals(day_id);
 CREATE INDEX IF NOT EXISTS idx_foods_meal_id ON foods(meal_id);
 CREATE INDEX IF NOT EXISTS idx_daily_summary_day_id ON daily_summary(day_id);
 CREATE INDEX IF NOT EXISTS idx_cardio_logs_day_id ON cardio_logs(day_id);
+CREATE INDEX IF NOT EXISTS idx_micros_day_id ON micros(day_id);

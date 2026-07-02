@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-03",
+  "body_metrics": {
+    "weight_kg": 75.6,
+    "bmi": 24.1,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.4,
+    "skeletal_muscle_mass_kg": 30.5,
+    "body_water_pct": 55.6,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1660.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 436,
+    "notes": "7h16m; two blocks: ~midnight-6:30AM + ~12:30PM-2:30PM; waking at 6:30AM to pee (3-4 day pattern); 7-day avg 8h05m"
+  },
+  "activity": {
+    "move_calories": 606.0,
+    "exercise_minutes": 76,
+    "stand_hours": 11,
+    "steps": 13099,
+    "distance_km": 8.51
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (270g fragrant rice, 52g braised egg, 115g boneless skinless chicken breast, cucumber, bok choy, soup) + banana [Measurement #3]",
+      "calories": 831.0,
+      "protein_g": 52.7,
+      "carbs_g": 116.6,
+      "fat_g": 16.8,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Rokeby Protein Milk Vanilla Bean 425ml (242cal, 30P, 833mg Ca) + banana + 125g Starbucks Strawberry Cake in a Cup",
+      "calories": 682.0,
+      "protein_g": 33.1,
+      "carbs_g": 113.2,
+      "fat_g": 12.9,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "202g BI skinless drumstick (141g edible after bone) + 14g tandoori, 70g oats + 1/2 chicken stock cube + 50g frozen veggies, 4 eggs, 10g psyllium, kimchi",
+      "calories": 846.0,
+      "protein_g": 66.5,
+      "carbs_g": 66.6,
+      "fat_g": 35.1,
+      "fiber_g": 18.25,
+      "is_estimated": false
+    }
+  ]
+}

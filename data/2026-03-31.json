@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-31",
+  "notes": "Rest day. No gym.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 442,
+    "notes": "Split sleep — afternoon nap + morning block"
+  },
+  "activity": {
+    "move_calories": 582.0,
+    "exercise_minutes": 47,
+    "stand_hours": 12,
+    "steps": 9679,
+    "distance_km": 6.44
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice — rice, egg tofu, chicken, egg",
+      "calories": 650.0,
+      "protein_g": 38.0,
+      "carbs_g": 72.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's — $1 vanilla cone, spicy tomato McChicken meal (burger + small Coke + star potatoes), McCrispy 2pc, small fries",
+      "calories": 1580.0,
+      "protein_g": 55.0,
+      "carbs_g": 176.0,
+      "fat_g": 70.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    }
+  ]
+}

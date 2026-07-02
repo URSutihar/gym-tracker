@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-30",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 223,
+    "notes": "Evening sleep 4:29pm-8:17pm only, circadian still inverted"
+  },
+  "activity": {
+    "move_calories": 511.0,
+    "exercise_minutes": 49,
+    "stand_hours": 11,
+    "steps": 10159,
+    "distance_km": 6.33
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Subway 6\" Chicken & Mushroom Melt on Parmesan Oregano (chicken, mushroom, mozzarella, cheddar slice, caramelized onions, smoked cheese sauce)",
+      "calories": 550.0,
+      "protein_g": 30.0,
+      "carbs_g": 50.0,
+      "fat_g": 22.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 30g + chocolate rice slice",
+      "calories": 310.0,
+      "protein_g": 33.7,
+      "carbs_g": 30.8,
+      "fat_g": 5.8,
+      "fiber_g": 1.9,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "Chicken biryani: 200g rice + 200g boneless chicken + 1 egg",
+      "calories": 708.0,
+      "protein_g": 61.8,
+      "carbs_g": 50.6,
+      "fat_g": 27.3,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    }
+  ]
+}

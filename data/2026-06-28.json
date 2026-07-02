@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-28",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 576
+  },
+  "activity": {
+    "move_calories": 677.0,
+    "exercise_minutes": 47,
+    "stand_hours": 9,
+    "steps": 15143,
+    "distance_km": 9.53
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Kung Pao chicken rice bowl + fried egg + banana + 175g banana pudding",
+      "calories": 1064.0,
+      "protein_g": 39.699999999999996,
+      "carbs_g": 128.0,
+      "fat_g": 39.7,
+      "fiber_g": 6.3999999999999995,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 32g (375ml, no banana today)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "1 plain naan, 1 garlic naan, 3pc angaara chicken tikka, desi chicken curry 2pc (1 drumstick + 1 boneless), pyaaza chicken 2pc (1 drumstick + 1 boneless)",
+      "calories": 1140.0,
+      "protein_g": 86.3,
+      "carbs_g": 74.7,
+      "fat_g": 51.5,
+      "fiber_g": 3.9,
+      "is_estimated": true
+    }
+  ]
+}

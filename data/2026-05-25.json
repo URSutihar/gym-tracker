@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-25",
+  "notes": "Rest day. Slept instead of gym. No gym on weekdays missed.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 74.6,
+    "bmi": 23.8,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.7,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 54.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.9,
+    "bmr_kcal": 1642.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 408,
+    "notes": "~5h main (estimated - image cropped) + 1h48m evening nap = ~6h48m; slept instead of going to gym"
+  },
+  "activity": {
+    "move_calories": 277.0,
+    "exercise_minutes": 8,
+    "stand_hours": 9,
+    "steps": 5653,
+    "distance_km": 3.73
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "260g BI skinless chicken drumstick + 15g airfryer paste, 1 banana, 70g rolled oats + 50g frozen veggies + 1 maggi masala",
+      "calories": 772.0,
+      "protein_g": 65.4,
+      "carbs_g": 84.1,
+      "fat_g": 21.4,
+      "fiber_g": 12.7,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk (32g) + Banana",
+      "calories": 285.0,
+      "protein_g": 33.4,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Indian garlic chowmein + egg + chicken, Banana",
+      "calories": 780.0,
+      "protein_g": 42.2,
+      "carbs_g": 83.0,
+      "fat_g": 32.4,
+      "fiber_g": 5.6,
+      "is_estimated": true
+    }
+  ]
+}

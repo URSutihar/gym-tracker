@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-18",
+  "body_metrics": {
+    "weight_kg": 74.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 326,
+    "notes": "5h26m; split blocks ~12AM and ~2PM; 7-day avg dropped to 6h57m"
+  },
+  "activity": {
+    "move_calories": 411.0,
+    "exercise_minutes": 4,
+    "stand_hours": 9,
+    "steps": 9838,
+    "distance_km": 5.9
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "284g skin-on bone-in chicken drumstick + 20g tandoori paste (air fried) + 1 banana",
+      "calories": 360.0,
+      "protein_g": 32.0,
+      "carbs_g": 26.0,
+      "fat_g": 20.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Choco Protein Milk 350ml (30g protein) + 1 banana",
+      "calories": 275.0,
+      "protein_g": 31.0,
+      "carbs_g": 35.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 Plain Naan (77g) + 295g Chicken Tikka Masala",
+      "calories": 720.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 35.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "supper",
+      "description": "299g skin-on bone-in chicken drumstick + 22g tandoori paste (air fried)",
+      "calories": 305.0,
+      "protein_g": 34.0,
+      "carbs_g": 3.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "breakfast",
+      "description": "Cream cheese waffle",
+      "calories": 350.0,
+      "protein_g": 7.0,
+      "carbs_g": 40.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    }
+  ]
+}

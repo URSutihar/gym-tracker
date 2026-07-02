@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-06",
+  "body_metrics": {
+    "weight_kg": 75.5,
+    "bmi": 24.1,
+    "body_fat_pct": 21.4,
+    "fat_mass_kg": 16.2,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.2,
+    "body_water_pct": 53.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.1,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 443,
+    "notes": "7h23m daytime sleep ~5AM-12:30PM; deep sleep at start, multiple REM cycles, 2 brief awakenings"
+  },
+  "activity": {
+    "move_calories": 596.0,
+    "exercise_minutes": 79,
+    "stand_hours": 8,
+    "steps": 11931,
+    "distance_km": 8.4
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Rice + Claypot chicken ginger onion (hawker)",
+      "calories": 480.0,
+      "protein_g": 26.0,
+      "carbs_g": 55.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk 350ml (32g protein) + 1 banana",
+      "calories": 270.0,
+      "protein_g": 33.2,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "300g skinless bone-in chicken leg + 70g oats + Maggi masala + 4 eggs + kimchi",
+      "calories": 875.0,
+      "protein_g": 76.6,
+      "carbs_g": 58.0,
+      "fat_g": 40.4,
+      "fiber_g": 7.0,
+      "is_estimated": true
+    }
+  ]
+}

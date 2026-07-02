@@ -1,0 +1,289 @@
+{
+  "date": "2026-04-09",
+  "notes": "Face still puffy. Some tripping when walking but legs feel better than Apr 8.",
+  "overall_rpe": 6.5,
+  "gym_minutes": 90,
+  "body_metrics": {
+    "weight_kg": 78.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 541,
+    "notes": "5h31m overnight (2AM, fragmented) + 3h30m afternoon nap = 9h01m total"
+  },
+  "activity": {
+    "move_calories": 657.0,
+    "exercise_minutes": 50,
+    "stand_hours": 14,
+    "steps": 14156,
+    "distance_km": 8.93
+  },
+  "workout": {
+    "duration_minutes": 90,
+    "notes": "Shoulder/trap/forearm. Still some tripping, legs improving.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 2.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 5.0,
+            "reps": 8
+          },
+          {
+            "set": 4,
+            "weight_kg": 7.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 7.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shoulder Press",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "rear delts",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Upright Row",
+        "muscle_group": "traps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Extension",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 5.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "High Incline Shrug Row",
+        "muscle_group": "traps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lu Raise",
+        "muscle_group": "shoulders",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 14.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with extra chicken",
+      "calories": 680.0,
+      "protein_g": 60.0,
+      "carbs_g": 65.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji protein milk 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Oats 80g, chicken drumstick 313g skin-removed air-fried, kimchi, 3 asparagus sticks, paneer tikka skewer, Chobani Flip 140g",
+      "calories": 1165.0,
+      "protein_g": 93.0,
+      "carbs_g": 93.0,
+      "fat_g": 47.0,
+      "fiber_g": 13.0,
+      "is_estimated": true
+    }
+  ]
+}

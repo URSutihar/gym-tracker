@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-23",
+  "body_metrics": {
+    "weight_kg": 75.1,
+    "bmi": 24.0,
+    "body_fat_pct": 21.1,
+    "fat_mass_kg": 15.8,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 54.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.5,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 452
+  },
+  "activity": {
+    "move_calories": 525.0,
+    "exercise_minutes": 76,
+    "stand_hours": 11,
+    "steps": 9722,
+    "distance_km": 6.33
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Hainanese variant: 270g rice + 310g cooked skin-on BI drumstick + chilli paste + banana",
+      "calories": 966.0,
+      "protein_g": 43.9,
+      "carbs_g": 108.0,
+      "fat_g": 33.3,
+      "fiber_g": 3.7,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 30g + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "200g chicken tikka masala, 1 plain naan, 1 garlic naan",
+      "calories": 920.0,
+      "protein_g": 43.5,
+      "carbs_g": 100.0,
+      "fat_g": 37.3,
+      "fiber_g": 4.8,
+      "is_estimated": true
+    }
+  ]
+}

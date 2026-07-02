@@ -1,0 +1,302 @@
+{
+  "date": "2026-04-01",
+  "notes": "Bicep + Back day. Gym 2 hours after lunch. 4h sleep.",
+  "overall_rpe": 7.5,
+  "gym_minutes": 120,
+  "body_metrics": {
+    "weight_kg": 78.2
+  },
+  "sleep": {
+    "total_sleep_minutes": 247,
+    "notes": "Daytime nap ~10AM–4PM only"
+  },
+  "activity": {
+    "move_calories": 727.0,
+    "exercise_minutes": 74,
+    "stand_hours": 13,
+    "steps": 14521,
+    "distance_km": 9.6
+  },
+  "workout": {
+    "duration_minutes": 120,
+    "notes": "Back + Biceps. First deadlift session logged.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Spider Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Spider Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 39.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Supported Row",
+        "muscle_group": "back",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Deadlift",
+        "muscle_group": "back",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 41.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice — rice, egg tofu, tofu and bean, cauliflower and broccoli",
+      "calories": 570.0,
+      "protein_g": 28.0,
+      "carbs_g": 83.0,
+      "fat_g": 14.0,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 chicken drumsticks skinless, 70g rolled oats, 4 tbsp yogurt with chia seeds, 4 whole boiled eggs, cabbage kimchi",
+      "calories": 1010.0,
+      "protein_g": 88.0,
+      "carbs_g": 63.0,
+      "fat_g": 45.0,
+      "fiber_g": 13.0,
+      "is_estimated": true
+    }
+  ]
+}

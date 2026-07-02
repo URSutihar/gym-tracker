@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-27",
+  "body_metrics": {
+    "weight_kg": 75.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 396,
+    "notes": "Onset ~midnight (slight drift from 10PM anchor streak). Wake ~6:30AM. Clean deep sleep in first two cycles, strong REM in second half. Two brief awakenings near 6AM."
+  },
+  "activity": {
+    "move_calories": 594.0,
+    "exercise_minutes": 48,
+    "stand_hours": 11,
+    "steps": 7672,
+    "distance_km": 4.87
+  },
+  "meals": [
+    {
+      "meal_type": "snack",
+      "description": "Milk choco (30g protein) - Meiji 350ml",
+      "calories": 185.0,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "1 Cavendish banana",
+      "calories": 107.0,
+      "protein_g": 1.3,
+      "carbs_g": 27.1,
+      "fat_g": 0.4,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "370g bone-in skinless chicken drumstick airfryed",
+      "calories": 401.0,
+      "protein_g": 61.6,
+      "carbs_g": 0.0,
+      "fat_g": 16.1,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "70g rolled oats",
+      "calories": 266.0,
+      "protein_g": 9.1,
+      "carbs_g": 47.3,
+      "fat_g": 5.2,
+      "fiber_g": 5.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 Maggi masala seasoning packets",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 11.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Kimchi ~50g",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.1,
+      "fiber_g": 0.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Fried shallot topping ~10g",
+      "calories": 50.0,
+      "protein_g": 0.5,
+      "carbs_g": 5.0,
+      "fat_g": 3.2,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "10g psyllium husk",
+      "calories": 35.0,
+      "protein_g": 0.3,
+      "carbs_g": 7.8,
+      "fat_g": 0.1,
+      "fiber_g": 7.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - rice (~200g cooked)",
+      "calories": 260.0,
+      "protein_g": 5.0,
+      "carbs_g": 57.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - chicken (300g bone-in skin-on poached)",
+      "calories": 419.0,
+      "protein_g": 42.9,
+      "carbs_g": 0.0,
+      "fat_g": 27.3,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - 1 egg (steamed)",
+      "calories": 78.0,
+      "protein_g": 6.3,
+      "carbs_g": 0.6,
+      "fat_g": 5.3,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - mixed choys ~150g (bok choy, gai lan)",
+      "calories": 25.0,
+      "protein_g": 2.5,
+      "carbs_g": 4.0,
+      "fat_g": 0.2,
+      "fiber_g": 3.8,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - sauces (ginger, chili, dark soy)",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    }
+  ]
+}

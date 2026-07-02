@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-28",
+  "notes": "Weekend - gym closed early at 7pm. Usual trend of no gym on weekends.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 525,
+    "notes": "8hr 45min. Approx 2:30 AM to 12:00 PM, multiple wake periods shown in tracker."
+  },
+  "activity": {
+    "move_calories": 889.0,
+    "exercise_minutes": 148,
+    "stand_hours": 10,
+    "steps": 20353,
+    "distance_km": 13.0
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "BBQ chicken hotplate set: chicken hotplate, rice, kimchi",
+      "calories": 750.0,
+      "protein_g": 42.0,
+      "carbs_g": 85.0,
+      "fat_g": 26.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "3 chicken drumsticks (300g skinless), 70g rolled oats with 2 packets Maggi masala and frozen veggies, 4 soft boiled eggs, 4 spoons yogurt with 1 spoon chia seeds",
+      "calories": 1120.0,
+      "protein_g": 92.0,
+      "carbs_g": 68.0,
+      "fat_g": 52.0,
+      "fiber_g": 11.0,
+      "is_estimated": true
+    }
+  ]
+}

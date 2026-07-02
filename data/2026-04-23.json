@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-23",
+  "notes": "Rest day. Only 2 meals (820 kcal total) — lowest calorie day logged. No dinner again.",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 403,
+    "notes": "6h43m. Block1: ~midnight-5AM (Core+REM+Deep, awakenings ~1AM and 3AM). Gap 5AM-1PM. Block2: ~1-2:30PM afternoon nap (Core+REM+Deep, well consolidated). Onset drifted later vs Apr22 (10PM→midnight)."
+  },
+  "activity": {
+    "move_calories": 370.0,
+    "exercise_minutes": 5,
+    "stand_hours": 12,
+    "steps": 8288,
+    "distance_km": 5.12
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "McCrispy Chicken 2pc",
+      "calories": 590.0,
+      "protein_g": 39.0,
+      "carbs_g": 35.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk (32g protein) - Meiji High Protein 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    }
+  ]
+}

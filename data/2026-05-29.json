@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-29",
+  "notes": "Field work day 2. Another high activity day - 18.2k steps, 11.8km. No gym.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 75.2,
+    "bmi": 24.0,
+    "body_fat_pct": 21.1,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.8,
+    "body_water_pct": 54.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 478,
+    "notes": "7h58m; ~9PM-6AM consolidated block with deep+REM; 7-day avg 7h50m; best sleep pattern in weeks"
+  },
+  "activity": {
+    "move_calories": 711.0,
+    "exercise_minutes": 45,
+    "stand_hours": 14,
+    "steps": 18177,
+    "distance_km": 11.8
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Burrito-v4 + Banana",
+      "calories": 442.0,
+      "protein_g": 32.6,
+      "carbs_g": 50.3,
+      "fat_g": 13.1,
+      "fiber_g": 5.8,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (rice, chicken + extra, egg, 2 piece tofu)",
+      "calories": 881.0,
+      "protein_g": 58.0,
+      "carbs_g": 81.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Custard pancake (munchi) + cheese corndog",
+      "calories": 450.0,
+      "protein_g": 13.0,
+      "carbs_g": 52.0,
+      "fat_g": 22.0,
+      "fiber_g": 1.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Meiji Milk (32g) + Banana + 2pc Chicken McCrispy (McDonalds)",
+      "calories": 845.0,
+      "protein_g": 73.4,
+      "carbs_g": 65.8,
+      "fat_g": 34.2,
+      "fiber_g": 6.0,
+      "is_estimated": true
+    }
+  ]
+}

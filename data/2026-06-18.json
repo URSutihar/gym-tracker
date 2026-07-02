@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-18",
+  "notes": "No gym. High activity day (21.7k steps).",
+  "body_metrics": {
+    "weight_kg": 76.1,
+    "bmi": 24.3,
+    "body_fat_pct": 21.5,
+    "fat_mass_kg": 16.4,
+    "muscle_mass_kg": 56.6,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 54.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.8,
+    "bmr_kcal": 1660.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 411,
+    "notes": "6h07m Watch + 44min nap = 6h51m. Main block ~4AM-10AM + nap ~5-6PM. Avg bedtime shifted to 4:15 AM."
+  },
+  "activity": {
+    "move_calories": 962.0,
+    "exercise_minutes": 160,
+    "stand_hours": 14,
+    "steps": 21750,
+    "distance_km": 13.92
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice STANDARD (270g rice, 120g skin-on boneless breast, 25g cucumber, chilli, soup) + banana",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (32g) + Banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "300g BI skinless chicken drumstick + 18g tandoori paste, 10g psyllium, 1 frozen roasted chicken leg (88g)",
+      "calories": 493.0,
+      "protein_g": 61.0,
+      "carbs_g": 15.2,
+      "fat_g": 21.0,
+      "fiber_g": 7.95,
+      "is_estimated": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-03",
+  "body_metrics": {
+    "weight_kg": 75.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 602,
+    "notes": "Split sleep: 6h49m daytime (6AM-12:45PM, after late May 2 night) + 3h13m evening nap (7PM-10:15PM). Total ~10h02m but circadian timing inverted. Good deep blocks in both sessions."
+  },
+  "activity": {
+    "move_calories": 319.0,
+    "exercise_minutes": 29,
+    "stand_hours": 5,
+    "steps": 3989,
+    "distance_km": 2.8
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "2 garlic naan (restaurant)",
+      "calories": 600.0,
+      "protein_g": 16.0,
+      "carbs_g": 90.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Paneer karahi (ala carte, restaurant)",
+      "calories": 420.0,
+      "protein_g": 20.0,
+      "carbs_g": 12.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Baby corn manchurian (ala carte, restaurant)",
+      "calories": 310.0,
+      "protein_g": 5.0,
+      "carbs_g": 38.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Milk choco (30g protein) - Meiji 350ml",
+      "calories": 185.0,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 Cavendish banana",
+      "calories": 107.0,
+      "protein_g": 1.3,
+      "carbs_g": 27.1,
+      "fat_g": 0.4,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    }
+  ]
+}

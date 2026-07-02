@@ -1,0 +1,260 @@
+{
+  "date": "2026-05-15",
+  "body_metrics": {
+    "weight_kg": 74.8,
+    "bmi": 23.9,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.7,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 53.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.2,
+    "bmr_kcal": 1647.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 381,
+    "notes": "6h21m daytime sleep ~6AM-12:30PM; deep at start, good REM distribution, 4+ awakenings; 7-day avg now 8hr"
+  },
+  "activity": {
+    "move_calories": 607.0,
+    "exercise_minutes": 85,
+    "stand_hours": 10,
+    "steps": 13298,
+    "distance_km": 8.54
+  },
+  "workout": {
+    "duration_minutes": 55,
+    "notes": "Legs + Abs day. RPE 6.5. Squats abandoned - couldn't get form, quads tired from extensions. Cable crunches limited by finger grip on cable not core strength.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Extension",
+        "muscle_group": "quads",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Curl",
+        "muscle_group": "hamstrings",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hip Thrust",
+        "muscle_group": "glutes",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Calf Raise",
+        "muscle_group": "calves",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Cajun Fusilli Pasta with Smoked Duck",
+      "calories": 670.0,
+      "protein_g": 29.0,
+      "carbs_g": 75.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk 350ml (32g protein) + 1 banana",
+      "calories": 270.0,
+      "protein_g": 33.2,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 Plain Naan + Chicken Tikka Masala",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 65.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "supper",
+      "description": "284g skinless bone-in chicken leg + 20g tandoori seasoning (air fried)",
+      "calories": 280.0,
+      "protein_g": 42.0,
+      "carbs_g": 3.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    }
+  ]
+}

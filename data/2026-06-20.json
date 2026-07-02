@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-20",
+  "notes": "Workshop Day 3 (Final). No gym. DOMS from first squat session. Dinner/snacks timing flipped.",
+  "body_metrics": {
+    "weight_kg": 75.4,
+    "bmi": 24.1,
+    "body_fat_pct": 21.3,
+    "fat_mass_kg": 16.1,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 54.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.9,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 315,
+    "notes": "DOMS from first leg session yesterday"
+  },
+  "activity": {
+    "move_calories": 452.0,
+    "exercise_minutes": 12,
+    "stand_hours": 13,
+    "steps": 8052,
+    "distance_km": 4.99
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "2 frozen roasted chicken legs (~80g each), 1 banana",
+      "calories": 407.0,
+      "protein_g": 32.7,
+      "carbs_g": 29.4,
+      "fat_g": 19.0,
+      "fiber_g": 3.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk (32g protein), 1 banana, 1 lotus-biscoff pandan waffle",
+      "calories": 585.0,
+      "protein_g": 37.0,
+      "carbs_g": 73.8,
+      "fat_g": 16.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "1 plain naan, 1 garlic naan, 200g chicken tikka masala, 168g paneer pakora",
+      "calories": 1407.0,
+      "protein_g": 63.7,
+      "carbs_g": 126.9,
+      "fat_g": 70.9,
+      "fiber_g": 4.8,
+      "is_estimated": false
+    }
+  ]
+}

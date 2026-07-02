@@ -1,0 +1,251 @@
+{
+  "date": "2026-04-13",
+  "notes": "Push day — chest and triceps. Smith machine chest press: felt in biceps/shoulders not chest (form issue to address). Sleep still daytime (7AM-~3PM).",
+  "overall_rpe": 7,
+  "gym_minutes": 90,
+  "body_metrics": {
+    "weight_kg": 77.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 486,
+    "notes": "8h6m — entirely daytime sleep, 7AM to ~3PM. Back to late crash pattern despite Apr 12 improvement."
+  },
+  "activity": {
+    "move_calories": 661.0,
+    "exercise_minutes": 81,
+    "stand_hours": 11,
+    "steps": 11760,
+    "distance_km": 7.86
+  },
+  "workout": {
+    "duration_minutes": 90,
+    "notes": "Push day. Smith machine chest press not felt in chest — form issue noted. Combined ascending sets on tricep bar pushdown and overhead tricep extension.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 15
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 8
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 18.0,
+            "reps": 8
+          },
+          {
+            "set": 4,
+            "weight_kg": 23.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Skull Crusher",
+        "muscle_group": "triceps",
+        "equipment": "ez_bar",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bench Press",
+        "muscle_group": "chest",
+        "equipment": "smith_machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 30.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 23.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 11.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 32.0,
+            "reps": 3
+          },
+          {
+            "set": 5,
+            "weight_kg": 36.0,
+            "reps": 5
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "New meal prep burrito",
+      "calories": 425.0,
+      "protein_g": 44.0,
+      "carbs_g": 22.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji protein milk 350ml + McDonald's Chicken McCrispy 2pc + 1 banana",
+      "calories": 875.0,
+      "protein_g": 72.0,
+      "carbs_g": 71.0,
+      "fat_g": 35.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Oats 60g with mixed veggies, chicken drumstick 216g (skin removed, air fried)",
+      "calories": 442.0,
+      "protein_g": 37.0,
+      "carbs_g": 49.0,
+      "fat_g": 12.0,
+      "fiber_g": 9.0,
+      "is_estimated": true
+    }
+  ]
+}

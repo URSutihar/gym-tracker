@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-17",
+  "body_metrics": {
+    "weight_kg": 74.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 466,
+    "notes": "7h46m sleep ~4AM-3PM; deep sleep at start with good cycling throughout"
+  },
+  "activity": {
+    "move_calories": 301.0,
+    "exercise_minutes": 2,
+    "stand_hours": 7,
+    "steps": 7212,
+    "distance_km": 4.49
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice + 1 fried egg",
+      "calories": 540.0,
+      "protein_g": 32.0,
+      "carbs_g": 65.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk 350ml (32g protein) + 1 banana",
+      "calories": 270.0,
+      "protein_g": 33.2,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    }
+  ]
+}

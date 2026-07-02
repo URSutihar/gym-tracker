@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-14",
+  "body_metrics": {
+    "weight_kg": 77.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 404,
+    "notes": "Split sleep: short block ~11PM-1AM + afternoon nap ~2PM-4PM; circadian slowly improving"
+  },
+  "activity": {
+    "move_calories": 636.0,
+    "exercise_minutes": 93,
+    "stand_hours": 8,
+    "steps": 11809,
+    "distance_km": 7.55
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Meal prep burrito",
+      "calories": 425.0,
+      "protein_g": 44.0,
+      "carbs_g": 22.0,
+      "fat_g": 14.0,
+      "fiber_g": 6.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Polar strawberry roll wafer snack",
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk (32g protein) - Meiji High Protein 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Kimchi chicken ramen with egg",
+      "calories": 630.0,
+      "protein_g": 46.0,
+      "carbs_g": 57.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "is_estimated": false
+    }
+  ]
+}

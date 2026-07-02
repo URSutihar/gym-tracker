@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-10",
+  "body_metrics": {
+    "weight_kg": 74.3,
+    "bmi": 23.7,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.6,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 28.6,
+    "body_water_pct": 53.3,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.4,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 576,
+    "notes": "6h59m main sleep (~7AM-2PM) + 2h37m evening nap (~6-8:30PM); recovery sleep after days of deprivation"
+  },
+  "activity": {
+    "move_calories": 382.0,
+    "exercise_minutes": 43,
+    "stand_hours": 7,
+    "steps": 8086,
+    "distance_km": 5.27
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice + 1 fried egg + 145g banana pudding",
+      "calories": 840.0,
+      "protein_g": 34.0,
+      "carbs_g": 110.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Choco Protein Milk 350ml (30g protein)",
+      "calories": 185.0,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "246g skinless BI chicken drumstick + 24g tandoori paste, 70g oats + maggi masala, 4 eggs, kimchi, 10g psyllium husk",
+      "calories": 870.0,
+      "protein_g": 70.5,
+      "carbs_g": 70.0,
+      "fat_g": 38.8,
+      "fiber_g": 15.0,
+      "is_estimated": true
+    }
+  ]
+}

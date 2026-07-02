@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-21",
+  "notes": "Rest day. Large indulgent breakfast. Selective eating at lunch. Good TDEE day (2,652 kcal). Short sleep again (3h30m).",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 210,
+    "notes": "3h30m. Onset ~10:30PM. Blocks: ~10:30PM-12AM and ~1AM-3:30AM, with awakenings. Deep+Core+REM stages present. Short night despite reasonable onset time."
+  },
+  "activity": {
+    "move_calories": 647.0,
+    "exercise_minutes": 39,
+    "stand_hours": 14,
+    "steps": 11578,
+    "distance_km": 7.37
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Spicy chicken burrito (wrap, pilaf rice, spicy chicken, chickpea, cheese, onions, cucumber, pickles, volcano sauce, herb mayo) + nacho and cheese + banana pudding",
+      "calories": 1400.0,
+      "protein_g": 56.0,
+      "carbs_g": 174.0,
+      "fat_g": 48.0,
+      "fiber_g": 9.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Bulgogi chicken rice — 25% rice, 50% chicken, 1 fried egg, kimchi, some onions",
+      "calories": 390.0,
+      "protein_g": 37.0,
+      "carbs_g": 25.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Butter paneer (cheese) kathi roll",
+      "calories": 480.0,
+      "protein_g": 19.0,
+      "carbs_g": 42.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-09",
+  "body_metrics": {
+    "weight_kg": 76.5,
+    "bmi": 24.4,
+    "body_fat_pct": 21.3,
+    "fat_mass_kg": 16.3,
+    "muscle_mass_kg": 57.0,
+    "skeletal_muscle_mass_kg": 30.8,
+    "body_water_pct": 55.4,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1670.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 467,
+    "notes": "7h47m (6h39m Watch + 68min afternoon nap); single main block ~3:40AM-10:20AM; bedtime 3:40AM (missed avg by 2h44m); avg bedtime 12:56AM; good Core+REM architecture, some Deep around 5AM"
+  },
+  "activity": {
+    "move_calories": 798.0,
+    "exercise_minutes": 103,
+    "stand_hours": 12,
+    "steps": 16854,
+    "distance_km": 10.65
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (fragrant rice ~270g, steamed boneless skinless chicken ~120g est, braised egg ~53g, cucumber, bok choy, NO soup) + banana",
+      "calories": 816.0,
+      "protein_g": 52.7,
+      "carbs_g": 115.1,
+      "fat_g": 15.5,
+      "fiber_g": 4.9,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk 375ml (30g protein, matcha/choco) + banana",
+      "calories": 290.0,
+      "protein_g": 31.3,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken Tikka Masala (~180g chicken in sauce), 1 plain naan, 1 butter tandoori roti, 10g psyllium husk, 2 mangoes (~190g edible est)",
+      "calories": 1024.0,
+      "protein_g": 44.9,
+      "carbs_g": 131.7,
+      "fat_g": 39.7,
+      "fiber_g": 16.35,
+      "is_estimated": true
+    }
+  ]
+}

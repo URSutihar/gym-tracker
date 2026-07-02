@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-23",
+  "notes": "Rest day. DOMS cleared. High activity day - 17k steps, 11km.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 75.0,
+    "bmi": 23.9,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.8,
+    "muscle_mass_kg": 56.1,
+    "skeletal_muscle_mass_kg": 29.5,
+    "body_water_pct": 54.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.7,
+    "bmr_kcal": 1649.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 284,
+    "notes": "1h22m + 3h22m = 4h44m; heavily fragmented, two separate blocks"
+  },
+  "activity": {
+    "move_calories": 696.0,
+    "exercise_minutes": 77,
+    "stand_hours": 12,
+    "steps": 17161,
+    "distance_km": 11.0
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (steamed boneless chicken, extra chicken, braised egg)",
+      "calories": 780.0,
+      "protein_g": 52.0,
+      "carbs_g": 78.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Banana + Meiji High Protein Milk (32g)",
+      "calories": 285.0,
+      "protein_g": 33.4,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    }
+  ]
+}

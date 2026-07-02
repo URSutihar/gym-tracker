@@ -1,0 +1,361 @@
+{
+  "date": "2026-04-06",
+  "notes": "Exam day - went very well (90th percentile target). Post-exam Leg/Core session. Extreme sleep deprivation (4h 27m). Weight hit new low of 76.8kg.",
+  "overall_rpe": 9,
+  "gym_minutes": 140,
+  "body_metrics": {
+    "weight_kg": 76.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 267,
+    "notes": "4hr 27min. Highly fragmented: blocks from ~7-9 AM and ~3-5 PM."
+  },
+  "activity": {
+    "move_calories": 650.0,
+    "exercise_minutes": 33,
+    "stand_hours": 10,
+    "steps": 14174,
+    "distance_km": 8.92
+  },
+  "workout": {
+    "duration_minutes": 140,
+    "notes": "Legs and Core focus. First time doing 45-degree Leg Press and heavy Core stability work.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Pallof Press",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pallof Press",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 20
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 20
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 51.0,
+            "reps": 12
+          },
+          {
+            "set": 6,
+            "weight_kg": 59.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 59.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Extension",
+        "muscle_group": "quads",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 6,
+            "weight_kg": 64.0,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Squat",
+        "muscle_group": "legs",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Press",
+        "muscle_group": "legs",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 80.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Curl",
+        "muscle_group": "hamstrings",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Goblet Squat",
+        "muscle_group": "adductors",
+        "equipment": "kettlebell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 24.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hip Thrust",
+        "muscle_group": "glutes",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 15.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Calf Raise",
+        "muscle_group": "calves",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 15.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 5
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Meal Prep Burrito (eaten as 6 AM snack)",
+      "calories": 600.0,
+      "protein_g": 60.0,
+      "carbs_g": 34.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "preworkout",
+      "description": "Meiji Chocolate Protein Milk (350ml)",
+      "calories": 180.0,
+      "protein_g": 30.0,
+      "carbs_g": 10.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Murga Do Pyaza, white rice, Coke Zero",
+      "calories": 950.0,
+      "protein_g": 55.0,
+      "carbs_g": 95.0,
+      "fat_g": 38.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    }
+  ]
+}

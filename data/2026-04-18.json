@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-18",
+  "notes": "No gym. Highest activity day logged — 26,219 steps, 17.17km, 1,137 active kcal. Earned 100 Move Goals award. Large biryani dinner.",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 246,
+    "notes": "4h6m shown on Apr 19 Apple Health record — covers Apr 18 evening ~7:30PM-12:30AM. Only 'Asleep' stage shown (no Deep/Core/REM breakdown) — likely iPhone sleep detection, watch possibly not worn."
+  },
+  "activity": {
+    "move_calories": 1137.0,
+    "exercise_minutes": 149,
+    "stand_hours": 13,
+    "steps": 26219,
+    "distance_km": 17.17
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Gong Bao chicken rice",
+      "calories": 520.0,
+      "protein_g": 30.0,
+      "carbs_g": 60.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "McCrispy Chicken 2pc + 1 Cavendish banana",
+      "calories": 680.0,
+      "protein_g": 40.0,
+      "carbs_g": 58.0,
+      "fat_g": 33.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken Hyderabadi Biryani 700g (rice + chicken + 1 egg), raita, 1 Cavendish banana",
+      "calories": 1225.0,
+      "protein_g": 84.0,
+      "carbs_g": 154.0,
+      "fat_g": 27.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ]
+}

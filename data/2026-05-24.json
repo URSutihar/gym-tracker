@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-24",
+  "notes": "Rest day (weekend). Sleep recovered well - 9h19m. No gym on weekends.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 74.4,
+    "bmi": 23.7,
+    "body_fat_pct": 20.8,
+    "fat_mass_kg": 15.5,
+    "muscle_mass_kg": 55.8,
+    "skeletal_muscle_mass_kg": 29.2,
+    "body_water_pct": 54.2,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.9,
+    "bmr_kcal": 1642.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 559,
+    "notes": "9h19m; two blocks visible in chart — good REM+deep architecture; recovery from May 23 deficit"
+  },
+  "activity": {
+    "move_calories": 403.0,
+    "exercise_minutes": 34,
+    "stand_hours": 8,
+    "steps": 6117,
+    "distance_km": 4.03
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "2 BI skinless chicken drumsticks + tandoori paste, 70g rolled oats + 50g frozen veggies + 1 maggi masala",
+      "calories": 699.0,
+      "protein_g": 68.7,
+      "carbs_g": 57.6,
+      "fat_g": 22.4,
+      "fiber_g": 10.2,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk (32g)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 Plain Naan + 1 Garlic Naan + Chicken Tikka Masala",
+      "calories": 1010.0,
+      "protein_g": 45.0,
+      "carbs_g": 108.0,
+      "fat_g": 42.0,
+      "fiber_g": 7.0,
+      "is_estimated": true
+    }
+  ]
+}

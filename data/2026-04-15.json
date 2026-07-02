@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-15",
+  "notes": "Rest day. Weight not measured — assumed same as Apr 14 (77.8kg).",
+  "body_metrics": {
+    "weight_kg": 77.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 244,
+    "notes": "Watch tracked 4h4m. User also reports nap 6:30-10 PM (~3.5hr, not fully captured by watch). Split pattern continuing. Night block ~10PM-1:30AM."
+  },
+  "activity": {
+    "move_calories": 705.0,
+    "exercise_minutes": 43,
+    "stand_hours": 15,
+    "steps": 14151,
+    "distance_km": 9.35
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Oats 65g (maggi masala, garlic powder, paprika, frozen veggies ~50g), 1 banana, psyllium husk, chicken drumsticks 286g bone-in skin-on (skin removed, airfryed with olive oil + seasonings)",
+      "calories": 622.0,
+      "protein_g": 53.0,
+      "carbs_g": 72.0,
+      "fat_g": 14.0,
+      "fiber_g": 14.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Milk (32g protein) + chicken manchurian kathi roll 9\"",
+      "calories": 700.0,
+      "protein_g": 56.0,
+      "carbs_g": 78.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    }
+  ]
+}

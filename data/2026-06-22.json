@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-22",
+  "body_metrics": {
+    "weight_kg": 75.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 359
+  },
+  "activity": {
+    "move_calories": 639.0,
+    "exercise_minutes": 45,
+    "stand_hours": 14,
+    "steps": 12662,
+    "distance_km": 7.92
+  },
+  "meals": [
+    {
+      "meal_type": "Breakfast",
+      "description": "2pc roasted chicken leg (~85g each, 170g total, frozen pack)",
+      "calories": 321.0,
+      "protein_g": 33.4,
+      "carbs_g": 2.6,
+      "fat_g": 19.7,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 32g + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "2pc McCrispy Spicy (689 cal label), 9pc Spicy Jalapeno McNuggets (409 cal label), 22g smoky cheese sauce, banana",
+      "calories": 1253.0,
+      "protein_g": 61.8,
+      "carbs_g": 97.0,
+      "fat_g": 69.9,
+      "fiber_g": 8.1,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks2",
+      "description": "Oreo full pack (105g, 12 sandwiches)",
+      "calories": 504.0,
+      "protein_g": 4.8,
+      "carbs_g": 72.8,
+      "fat_g": 21.6,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    }
+  ]
+}

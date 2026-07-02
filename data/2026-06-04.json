@@ -1,0 +1,251 @@
+{
+  "date": "2026-06-04",
+  "body_metrics": {
+    "weight_kg": 75.9,
+    "bmi": 24.2,
+    "body_fat_pct": 20.9,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.8,
+    "skeletal_muscle_mass_kg": 31.1,
+    "body_water_pct": 56.3,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 13.4,
+    "bmr_kcal": 1666.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 358,
+    "notes": "5h58m; single consolidated block ~1AM-8AM with 4 sleep cycles; multiple brief awakenings; good deep+REM architecture; 7-day avg 7h45m"
+  },
+  "activity": {
+    "steps": 12161,
+    "distance_km": 7.63
+  },
+  "workout": {
+    "duration_minutes": 110,
+    "notes": "Was supposed to be abs+legs only but back got activated too. Got squat+deadlift form coaching from fellow gym-goer. Reverse cable crunch stopped early due to tricep DOMS from Jun 2 Push.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 59.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 46.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 59.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Squat",
+        "muscle_group": "quads",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 30.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Curl",
+        "muscle_group": "hamstrings",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Calf Raise",
+        "muscle_group": "calves",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hip Thrust",
+        "muscle_group": "glutes",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 45.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 54.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (fragrant rice ~270g, steamed skinless boneless chicken + extra skin-on boneless chicken ~120g est, 1 braised egg ~53g, soup, cucumber, bok choy)",
+      "calories": 754.0,
+      "protein_g": 51.9,
+      "carbs_g": 89.6,
+      "fat_g": 19.6,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Regular Protein Milk 375ml (180cal, 32.2P) + 2 bananas",
+      "calories": 390.0,
+      "protein_g": 34.8,
+      "carbs_g": 62.8,
+      "fat_g": 2.6,
+      "fiber_g": 7.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2pc McCrispy chicken + 1 Mango Coco de Nato",
+      "calories": 790.0,
+      "protein_g": 43.0,
+      "carbs_g": 75.0,
+      "fat_g": 37.0,
+      "fiber_g": 2.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "supper",
+      "description": "70g oats + 1 maggi masala + 50g frozen veggies, 288g BI skinless drumstick (202g edible after bone) + 12g tandoori",
+      "calories": 588.0,
+      "protein_g": 52.8,
+      "carbs_g": 55.2,
+      "fat_g": 17.1,
+      "fiber_g": 9.1,
+      "is_estimated": false
+    }
+  ]
+}

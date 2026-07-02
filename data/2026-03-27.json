@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-27",
+  "notes": "Rest day. Went for 2 movies. Very low sleep third day in a row.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 258,
+    "notes": "~3:30 AM to ~7:48 AM, fragmented"
+  },
+  "activity": {
+    "move_calories": 500.0,
+    "exercise_minutes": 18,
+    "stand_hours": 11,
+    "steps": 10000,
+    "distance_km": 6.5
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "1 besan ladoo, regular mixed popcorn (caramel + salted) at cinema",
+      "calories": 620.0,
+      "protein_g": 7.0,
+      "carbs_g": 80.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Set meal: 1 Kashmiri naan, chicken karahi, chicken boti kebab, chicken seekh kebab, salad, 1 can regular Coke",
+      "calories": 1179.0,
+      "protein_g": 73.0,
+      "carbs_g": 108.0,
+      "fat_g": 49.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    }
+  ]
+}

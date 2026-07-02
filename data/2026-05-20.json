@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-20",
+  "body_metrics": {
+    "weight_kg": 74.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 280,
+    "notes": "2h25m afternoon nap ~3:30-6PM + 2h15m evening nap; total 4h40m; tried sleep reset but crashed twice; 7-day avg ~6h"
+  },
+  "activity": {
+    "move_calories": 597.0,
+    "exercise_minutes": 70,
+    "stand_hours": 16,
+    "steps": 10427,
+    "distance_km": 6.6
+  },
+  "workout": {
+    "duration_minutes": 95,
+    "notes": "Shoulders + Forearms + Biceps. RPE 8 on targeted muscles. Finished with burnout superset across all exercises. Reset session - first gym in 5 days.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 10.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 10.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shoulder Press",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 12.5,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 15.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "shoulders",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Upright Row",
+        "muscle_group": "shoulders",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 41.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 12.5,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Extension",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 7.5,
+            "reps": 3
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 12.5,
+            "reps": 0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice - large rice + roasted chicken wing (2+ portions) + lots of cucumber + soup",
+      "calories": 850.0,
+      "protein_g": 55.0,
+      "carbs_g": 85.0,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Matcha Protein Milk 350ml (30g protein)",
+      "calories": 185.0,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "274g skinless BI chicken drumstick + 13g tandoori paste + 10g psyllium + 3 eggs + 70g oats + maggi masala",
+      "calories": 830.0,
+      "protein_g": 72.0,
+      "carbs_g": 63.0,
+      "fat_g": 33.0,
+      "fiber_g": 14.0,
+      "is_estimated": true
+    }
+  ]
+}

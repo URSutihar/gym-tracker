@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-16",
+  "notes": "No gym. Added morning psyllium to lunch.",
+  "body_metrics": {
+    "weight_kg": 75.4,
+    "bmi": 24.1,
+    "body_fat_pct": 21.3,
+    "fat_mass_kg": 16.1,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.5,
+    "body_water_pct": 54.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.8,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 524,
+    "notes": "7h39m Watch + 65min. Main block ~3:30AM-9AM + afternoon nap ~4-5:30PM. June avg 6h58m."
+  },
+  "activity": {
+    "move_calories": 815.0,
+    "exercise_minutes": 139,
+    "stand_hours": 13,
+    "steps": 17870,
+    "distance_km": 11.55
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (230g rice, 105g chicken breast, 15g cucumber, chilli paste) + banana + 10g psyllium",
+      "calories": 629.0,
+      "protein_g": 39.9,
+      "carbs_g": 105.2,
+      "fat_g": 6.9,
+      "fiber_g": 11.55,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (32g) + Banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Cajun Fusili (85g smoked duck + 415g pasta+mushrooms) + 380g BI skinless chicken leg + 18g lemongrass paste + 10g psyllium",
+      "calories": 994.0,
+      "protein_g": 82.0,
+      "carbs_g": 82.2,
+      "fat_g": 35.0,
+      "fiber_g": 10.95,
+      "is_estimated": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-01",
+  "notes": "No gym. Bedtime shifted to 5:56 PM. High sleep (10h11m). Good activity with 12.7k steps.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 74.9,
+    "bmi": 23.9,
+    "body_fat_pct": 20.8,
+    "fat_mass_kg": 15.6,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 30.4,
+    "body_water_pct": 55.5,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.7
+  },
+  "sleep": {
+    "total_sleep_minutes": 611,
+    "notes": "10h11m; bedtime 10:48PM; two blocks: 10:48PM-6:18AM + 3:02PM-6:16PM; deep sleep in first block"
+  },
+  "activity": {
+    "move_calories": 541.0,
+    "exercise_minutes": 46,
+    "stand_hours": 10,
+    "steps": 12666,
+    "distance_km": 8.28
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Banana",
+      "calories": 105.0,
+      "protein_g": 1.2,
+      "carbs_g": 27.0,
+      "fat_g": 0.4,
+      "fiber_g": 2.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Rice + Bari Kadhi (half) + Palak Paneer (half) + Tandoori Chicken + Salad + Mango Lassi (~250ml, per label: 118kcal/100ml)",
+      "calories": 1070.0,
+      "protein_g": 59.5,
+      "carbs_g": 125.0,
+      "fat_g": 37.5,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "2pc McCrispy + Rokeby Protein Milk Strawberry (425ml: 289cal, 30P, 833mg Ca) + Banana",
+      "calories": 954.0,
+      "protein_g": 71.19999999999999,
+      "carbs_g": 83.8,
+      "fat_g": 38.800000000000004,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "256g BI skinless chicken drumstick + 15g tandoori masala + Banana",
+      "calories": 456.0,
+      "protein_g": 52.9,
+      "carbs_g": 29.5,
+      "fat_g": 15.0,
+      "fiber_g": 2.8,
+      "is_estimated": true
+    }
+  ]
+}

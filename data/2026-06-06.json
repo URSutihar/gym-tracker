@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-06",
+  "body_metrics": {
+    "weight_kg": 76.7,
+    "bmi": 24.5,
+    "body_fat_pct": 21.4,
+    "fat_mass_kg": 16.4,
+    "muscle_mass_kg": 57.1,
+    "skeletal_muscle_mass_kg": 30.4,
+    "body_water_pct": 54.8,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 14.5,
+    "bmr_kcal": 1672.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 643,
+    "notes": "10h43m; sleep score 100; two blocks: ~midnight-7AM + ~noon-3PM; excellent deep+REM in both blocks; recovery sleep after 3 sub-6h nights; 7-day avg 7h34m"
+  },
+  "activity": {
+    "steps": 8832,
+    "distance_km": 5.04
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice (rice ~250g, kung pao chicken ~150g with peanuts) + 1 fried egg",
+      "calories": 665.0,
+      "protein_g": 34.3,
+      "carbs_g": 80.4,
+      "fat_g": 21.5,
+      "fiber_g": 2.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Regular Protein Milk 375ml (180cal, 32.2P) + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Butter chicken set (~250g butter chicken, 1 plain naan) + 1 lacchha paratha + 2 bananas",
+      "calories": 1170.0,
+      "protein_g": 43.6,
+      "carbs_g": 146.0,
+      "fat_g": 49.8,
+      "fiber_g": 11.7,
+      "is_estimated": false
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "date": "2026-06-19",
+  "notes": "Legs+Abs day. First true barbell squat session. 2hrs. TFL cramping on outer thigh abductor (chronic nas chadna issue).",
+  "body_metrics": {
+    "weight_kg": 75.3,
+    "bmi": 24.0,
+    "body_fat_pct": 21.1,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.3,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 54.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.6,
+    "bmr_kcal": 1653.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 454,
+    "notes": "8h18m Watch - 44min from Jun 18 nap = 7h34m. Main block ~2AM-9AM. 7-day avg 6h58m."
+  },
+  "activity": {
+    "move_calories": 1387.0,
+    "exercise_minutes": 214,
+    "stand_hours": 12,
+    "steps": 12580,
+    "distance_km": 7.91
+  },
+  "workout": {
+    "duration_minutes": 120,
+    "notes": "First true barbell squat session. Outer thigh abductor abandoned last set due to TFL cramping (chronic childhood issue - nas chadna).",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 54.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 54.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 54.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Raise",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 0.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 0.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 0.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Squat",
+        "muscle_group": "quads",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Extension",
+        "muscle_group": "quads",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Curl",
+        "muscle_group": "hamstrings",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Press",
+        "muscle_group": "quads",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 100.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 109.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 118.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hip Thrust",
+        "muscle_group": "glutes",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hip Adduction",
+        "muscle_group": "adductors",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hip Abduction",
+        "muscle_group": "abductors",
+        "equipment": "machine",
+        "pain_flag": true,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Calf Raise",
+        "muscle_group": "calves",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed Rice: 300g white rice, pressed tofu (gravy), silken tofu (gravy), black pepper chicken (gravy), braised egg + banana",
+      "calories": 983.0,
+      "protein_g": 47.3,
+      "carbs_g": 126.1,
+      "fat_g": 30.6,
+      "fiber_g": 3.7,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (32g) + Banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Chips full pack (56g: 340cal/4P/26C/24F), Gummy bears full pack (40g: 136cal/2P/32C), Biscuits 3pc (27g: 133cal/1.3P/17.5C/6.4F)",
+      "calories": 609.0,
+      "protein_g": 7.3,
+      "carbs_g": 75.5,
+      "fat_g": 30.4,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "200g BI skinless chicken drumstick + 15g lemongrass paste, 10g psyllium",
+      "calories": 228.0,
+      "protein_g": 28.7,
+      "carbs_g": 12.0,
+      "fat_g": 8.0,
+      "fiber_g": 7.95,
+      "is_estimated": false
+    }
+  ]
+}

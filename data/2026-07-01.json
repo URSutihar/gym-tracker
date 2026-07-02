@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-01",
+  "overall_rpe": 3,
+  "gym_minutes": 70,
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 485
+  },
+  "activity": {
+    "move_calories": 604.0,
+    "exercise_minutes": 85,
+    "stand_hours": 10,
+    "steps": 7408,
+    "distance_km": 4.66
+  },
+  "workout": {
+    "duration_minutes": 70,
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": []
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": []
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "rear delts",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": []
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": []
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Extension",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": []
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Hainanese variant: 270g rice + 120g roasted boneless chicken + cucumber + banana",
+      "calories": 695.0,
+      "protein_g": 42.0,
+      "carbs_g": 104.0,
+      "fat_g": 21.2,
+      "fiber_g": 3.9,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 32g + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "306g raw BI skinless drumstick + tandoori paste + 4 boiled eggs + 10g psyllium",
+      "calories": 640.0,
+      "protein_g": 68.6,
+      "carbs_g": 15.1,
+      "fat_g": 35.3,
+      "fiber_g": 7.95,
+      "is_estimated": true
+    }
+  ],
+  "micros": {
+    "calcium_mg": 500.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 9.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 1900.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 4.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 250.0
+  }
+}

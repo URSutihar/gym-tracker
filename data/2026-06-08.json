@@ -1,0 +1,316 @@
+{
+  "date": "2026-06-08",
+  "body_metrics": {
+    "weight_kg": 76.1,
+    "bmi": 24.3,
+    "body_fat_pct": 21.4,
+    "fat_mass_kg": 16.3,
+    "muscle_mass_kg": 56.6,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 54.7,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1662.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 328,
+    "notes": "5h28m (6h18m Watch - 50min from yesterday); two blocks: ~4-5PM nap + ~midnight-8AM main; 7-day avg 6h44m"
+  },
+  "activity": {
+    "move_calories": 869.0,
+    "exercise_minutes": 97,
+    "stand_hours": 14,
+    "steps": 19509,
+    "distance_km": 12.05
+  },
+  "workout": {
+    "duration_minutes": 120,
+    "notes": "Shoulders day. Right shoulder broken tendon was hurting on machine shoulder press. Barbell shrugs+upright rows done as superset. Hammer preacher curls for brachioradialis.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shoulder Press",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shoulder Press",
+        "muscle_group": "shoulders",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 15.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "rear delts",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shrug",
+        "muscle_group": "traps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Upright Row",
+        "muscle_group": "shoulders",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lu Raise",
+        "muscle_group": "shoulders",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 9.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Extension",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 8
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Hammer Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 8
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 5
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (fragrant rice ~270g, steamed boneless skinless chicken ~120g est, braised egg ~53g, cucumber, bok choy, soup) + banana",
+      "calories": 841.0,
+      "protein_g": 54.4,
+      "carbs_g": 116.6,
+      "fat_g": 17.1,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Regular Protein Milk 375ml (180cal, 32.2P) + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chowmein noodles 70g dry (371cal/100g, 11.2P, 80.5C, 8.9 fiber) + 2 masala packets (7g) + olive oil + ginger garlic paste + vinegar + dark soy sauce, 4 fried eggs in olive oil, 302g BI skinless drumstick, 10g psyllium husk, 2 mangoes (152g+140g whole, ~190g edible flesh)",
+      "calories": 1216.0,
+      "protein_g": 79.0,
+      "carbs_g": 100.7,
+      "fat_g": 57.6,
+      "fiber_g": 17.65,
+      "is_estimated": false
+    }
+  ]
+}

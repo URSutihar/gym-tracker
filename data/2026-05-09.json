@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-09",
+  "body_metrics": {
+    "weight_kg": 74.5,
+    "bmi": 23.8,
+    "body_fat_pct": 21.1,
+    "fat_mass_kg": 15.7,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 28.8,
+    "body_water_pct": 53.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.3,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 289,
+    "notes": "4h49m daytime sleep 7:49am-12:38pm"
+  },
+  "activity": {
+    "move_calories": 548.0,
+    "exercise_minutes": 29,
+    "stand_hours": 8,
+    "steps": 12286,
+    "distance_km": 8.16
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice + 1 fried egg",
+      "calories": 590.0,
+      "protein_g": 34.0,
+      "carbs_g": 58.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk 350ml (32g protein)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hyderabadi Chicken Dum Biryani with 1 egg + 1 chai + roasted papad + 2pc malai murgh tikka",
+      "calories": 1140.0,
+      "protein_g": 75.0,
+      "carbs_g": 100.0,
+      "fat_g": 49.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    }
+  ]
+}

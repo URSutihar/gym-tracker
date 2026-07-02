@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-29",
+  "notes": "Rest day. Skipping dinner resulted in a significant calorie deficit. Weight sitting at 76.4kg. Sleep remains fragmented but totaled over 7 hours.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 76.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 430,
+    "notes": "7hr 10min total. One deep block before 5 AM, followed by highly fragmented recovery blocks in the afternoon (1 PM - 4 PM)."
+  },
+  "activity": {
+    "move_calories": 574.0,
+    "exercise_minutes": 48,
+    "stand_hours": 12,
+    "steps": 8619,
+    "distance_km": 5.77
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Rice set meal: Rice, extra chicken, 1 extra egg",
+      "calories": 820.0,
+      "protein_g": 52.0,
+      "carbs_g": 85.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Protein Milk (32g) + 1 Banana - Meiji High Protein",
+      "calories": 270.0,
+      "protein_g": 33.0,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Skipped",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    }
+  ]
+}

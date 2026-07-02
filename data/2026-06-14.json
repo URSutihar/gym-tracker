@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-14",
+  "notes": "Recovery sleep day. No gym.",
+  "body_metrics": {
+    "weight_kg": 76.1,
+    "bmi": 24.3,
+    "body_fat_pct": 21.5,
+    "fat_mass_kg": 16.4,
+    "muscle_mass_kg": 56.6,
+    "skeletal_muscle_mass_kg": 29.8,
+    "body_water_pct": 54.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.8,
+    "bmr_kcal": 1660.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 593,
+    "notes": "9h53m Watch. Rebound from 3.5h Jun 13. Main block ~1AM-8AM + afternoon nap. Bedtime 5:53 PM (crash)."
+  },
+  "activity": {
+    "move_calories": 853.0,
+    "exercise_minutes": 142,
+    "stand_hours": 11,
+    "steps": 18301,
+    "distance_km": 12.36
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mala Dry: big portion thick white noodles, 4x1/2 chicken sausages, big-large chicken thighs, good-large chicken breast, 2pc cheese tofu, 2 bok choy",
+      "calories": 1400.0,
+      "protein_g": 112.0,
+      "carbs_g": 72.0,
+      "fat_g": 72.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (32g) + 1/2 pandan cheese waffle",
+      "calories": 320.0,
+      "protein_g": 35.2,
+      "carbs_g": 26.8,
+      "fat_g": 8.8,
+      "fiber_g": 1.9,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "210g boneless angaara chicken tikka (restaurant) + 10g psyllium husk",
+      "calories": 400.0,
+      "protein_g": 54.9,
+      "carbs_g": 16.6,
+      "fat_g": 17.3,
+      "fiber_g": 7.95,
+      "is_estimated": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-07",
+  "body_metrics": {
+    "weight_kg": 75.4,
+    "bmi": 24.1,
+    "body_fat_pct": 21.3,
+    "fat_mass_kg": 16.1,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 53.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.2,
+    "bmr_kcal": 1651.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 350,
+    "notes": "5h50m; includes brief ~7PM nap (carry from May 6 evening) + morning sleep continuation"
+  },
+  "activity": {
+    "move_calories": 304.0,
+    "exercise_minutes": 14,
+    "stand_hours": 9,
+    "steps": 4159,
+    "distance_km": 2.83
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice - rice + fried egg + veggies + tofu + chicken cutlet + spring roll (heavy fried)",
+      "calories": 785.0,
+      "protein_g": 38.0,
+      "carbs_g": 92.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "1 banana",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Jollibee - 1pc chickenjoy 145g + 1 chicken tender + 1/2 apple cinnamon biscuit; El Fajita - 290g chicken + sauteed veg + 3/4 large tortilla + cheese sauce + guacamole + salsa",
+      "calories": 1525.0,
+      "protein_g": 116.0,
+      "carbs_g": 116.0,
+      "fat_g": 70.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    }
+  ]
+}

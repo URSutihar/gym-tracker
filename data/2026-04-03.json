@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-03",
+  "notes": "Good Friday - gym closed. Success on sleep reset with a massive recovery block. Added psyllium husk for digestion/satiety.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.2
+  },
+  "sleep": {
+    "total_sleep_minutes": 561,
+    "notes": "9hr 21min. Significant recovery sleep following the all-nighter attempt. Large block from approx 4 AM to 10 AM, plus an afternoon recovery session shown in tracker."
+  },
+  "activity": {
+    "move_calories": 574.0,
+    "exercise_minutes": 63,
+    "stand_hours": 10,
+    "steps": 10641,
+    "distance_km": 7.06
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice bowl",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 75.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "50g oats, 2 skinless chicken drumsticks, 4 boiled eggs, 6 asparagus, cabbage kimchi, psyllium husk in water, yogurt and chia seeds",
+      "calories": 920.0,
+      "protein_g": 74.0,
+      "carbs_g": 58.0,
+      "fat_g": 46.0,
+      "fiber_g": 18.0,
+      "is_estimated": true
+    }
+  ]
+}

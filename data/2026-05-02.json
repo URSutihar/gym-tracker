@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-02",
+  "notes": "Weight 75.1kg measured late night in underwear (not morning fasted + light clothes as usual). Not directly comparable to prior readings. Gym resumes Monday May 4.",
+  "body_metrics": {
+    "weight_kg": 75.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 316,
+    "notes": "5h16m. Onset ~midnight (anchor slipped from 11PM — first night post-exams). Multiple awakenings early (1-2AM). Deep blocks in cycles 1 and 3, REM at 2AM and 5AM. Short night, likely staying up celebrating."
+  },
+  "activity": {
+    "move_calories": 668.0,
+    "exercise_minutes": 46,
+    "stand_hours": 13,
+    "steps": 11459,
+    "distance_km": 7.35
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Rolled oats 70g + Maggi masala 1 packet",
+      "calories": 343.0,
+      "protein_g": 11.1,
+      "carbs_g": 59.5,
+      "fat_g": 7.9,
+      "fiber_g": 6.1,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "breakfast",
+      "description": "370g skinless bone-in chicken leg + 6g olive oil (airfryed)",
+      "calories": 449.0,
+      "protein_g": 64.8,
+      "carbs_g": 0.0,
+      "fat_g": 14.4,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "BK Quarter Chicken Leg",
+      "calories": 300.0,
+      "protein_g": 32.0,
+      "carbs_g": 5.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Starbucks Cookie Crumble Cheesecake",
+      "calories": 400.0,
+      "protein_g": 6.0,
+      "carbs_g": 45.0,
+      "fat_g": 22.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    }
+  ]
+}

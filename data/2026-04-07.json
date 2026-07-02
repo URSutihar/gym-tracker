@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-07",
+  "notes": "Intense DOMS in quads and upper abs from previous RPE 9 session. Heavy internship application workload. Managed a survival sleep schedule. Weight bounced to 78.0kg.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 262,
+    "notes": "4hr 22min total. Split into a morning block (8:30 AM - 11:30 AM) and an afternoon nap (4 PM - 5:30 PM)."
+  },
+  "activity": {
+    "move_calories": 470.0,
+    "exercise_minutes": 37,
+    "stand_hours": 11,
+    "steps": 6740,
+    "distance_km": 4.2
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Meal Prep Burrito (60g protein variant)",
+      "calories": 600.0,
+      "protein_g": 60.0,
+      "carbs_g": 34.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Protein Milk (32g protein)",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "75g oats with Maggi masala, 2 air-fried skinless chicken drumsticks, 4 boiled eggs, yogurt + chia seeds, psyllium husk",
+      "calories": 1020.0,
+      "protein_g": 72.0,
+      "carbs_g": 76.0,
+      "fat_g": 45.0,
+      "fiber_g": 18.0,
+      "is_estimated": true
+    }
+  ]
+}

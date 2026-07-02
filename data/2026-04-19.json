@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-19",
+  "notes": "Rest day. Very short sleep (2h30m). No dinner. High sodium day (mala + burrito-3).",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 150,
+    "notes": "2h30m only — very short. Likely consequence of early 7:30PM crash on Apr18 (slept too early, woke too early)."
+  },
+  "activity": {
+    "move_calories": 408.0,
+    "exercise_minutes": 3,
+    "stand_hours": 10,
+    "steps": 4586,
+    "distance_km": 2.84
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Burrito-3",
+      "calories": 375.0,
+      "protein_g": 39.0,
+      "carbs_g": 20.0,
+      "fat_g": 16.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Mala dry (lots of chicken) + 1 banana",
+      "calories": 740.0,
+      "protein_g": 61.0,
+      "carbs_g": 48.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk (32g protein) + 1 banana - Meiji High Protein",
+      "calories": 270.0,
+      "protein_g": 33.0,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    }
+  ]
+}

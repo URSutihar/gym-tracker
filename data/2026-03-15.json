@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-15",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 317
+  },
+  "activity": {
+    "move_calories": 643.0,
+    "exercise_minutes": 57,
+    "stand_hours": 13,
+    "steps": 12153,
+    "distance_km": 7.63
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "chicken karahi (250g chicken) + rice + veggies",
+      "calories": 700.0,
+      "protein_g": 45.0,
+      "carbs_g": 65.0,
+      "fat_g": 30.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "3 chicken drumsticks (tandoori seasoning)",
+      "calories": 450.0,
+      "protein_g": 45.0,
+      "carbs_g": 2.0,
+      "fat_g": 28.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    }
+  ]
+}

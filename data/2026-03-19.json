@@ -1,0 +1,173 @@
+{
+  "date": "2026-03-19",
+  "notes": "short session due to late dinner; leg press overload caused thigh tightness/cramping",
+  "overall_rpe": 2,
+  "gym_minutes": 30,
+  "body_metrics": {
+    "weight_kg": 79.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 320,
+    "notes": "fragmented, insufficient sleep"
+  },
+  "activity": {
+    "move_calories": 648.0,
+    "exercise_minutes": 46,
+    "stand_hours": 13,
+    "steps": 11463,
+    "distance_km": 7.62
+  },
+  "workout": {
+    "duration_minutes": 30,
+    "notes": "short session due to late dinner; leg press overload caused thigh tightness/cramping",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.1,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.2,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.4,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 13.6,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.1,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "triceps",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.7,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.2,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.2,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.4,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Press",
+        "muscle_group": "legs",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 90.7,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 136.1,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Squat",
+        "muscle_group": "legs",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "mixed rice: rice + scrambled egg with tomato + egg tofu + small vegetables",
+      "calories": 550.0,
+      "protein_g": 28.0,
+      "carbs_g": 65.0,
+      "fat_g": 22.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "creamy truffle mushroom carbonara",
+      "calories": 900.0,
+      "protein_g": 25.0,
+      "carbs_g": 90.0,
+      "fat_g": 45.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ]
+}

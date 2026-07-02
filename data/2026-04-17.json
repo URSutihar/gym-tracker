@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-17",
+  "notes": "Rest day. Event attended (lunch). Low activity. High sleep volume (fragmented across whole day). Weight not measured — assumed same as Apr 14 (77.8kg).",
+  "body_metrics": {
+    "weight_kg": 77.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 368,
+    "notes": "Image1 (17 Apr): 6h8m — overnight Apr16→17 blocks + ~1PM nap. Image2 (18 Apr): 4h30m — app attributes Apr17 evening naps (~5-10PM) to Apr18. Plus user-reported 10:15PM-2:15AM block (4hr). Total actual rest ~14hr, highly fragmented throughout the day."
+  },
+  "activity": {
+    "move_calories": 442.0,
+    "exercise_minutes": 5,
+    "stand_hours": 8,
+    "steps": 4395,
+    "distance_km": 2.95
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Burrito-3",
+      "calories": 375.0,
+      "protein_g": 39.0,
+      "carbs_g": 20.0,
+      "fat_g": 16.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Event food: small portion rice + vermicelli noodles, veggies (corn, broccoli, mushroom), 2pc dory fish, 1 drumstick chicken curry, 1 cup fruit juice",
+      "calories": 750.0,
+      "protein_g": 45.0,
+      "carbs_g": 95.0,
+      "fat_g": 17.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Mongolian curry chicken rice — all chicken, 25% rice",
+      "calories": 400.0,
+      "protein_g": 38.0,
+      "carbs_g": 26.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Burrito-3",
+      "calories": 375.0,
+      "protein_g": 39.0,
+      "carbs_g": 20.0,
+      "fat_g": 16.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    }
+  ]
+}

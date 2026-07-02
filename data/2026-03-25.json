@@ -1,0 +1,280 @@
+{
+  "date": "2026-03-25",
+  "notes": "Chest+Triceps day. Right shoulder started hurting during Pec Fly — stopped early. Cable crossover felt in shoulders, not chest. Skull crushers very difficult. Wants chest press guidance before attempting.",
+  "overall_rpe": 8.5,
+  "gym_minutes": 120,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 391,
+    "notes": "7:40 AM to 2:11 PM"
+  },
+  "activity": {
+    "move_calories": 868.0,
+    "exercise_minutes": 74,
+    "stand_hours": 10,
+    "steps": 13611,
+    "distance_km": 8.83
+  },
+  "workout": {
+    "duration_minutes": 120,
+    "notes": "Chest + Triceps",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.14,
+            "reps": 20
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.22,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.22,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 27.22,
+            "reps": 10
+          },
+          {
+            "set": 5,
+            "weight_kg": 27.22,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pec Fly",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": true,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.75,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.29,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.29,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.14,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 22.68,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 22.68,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 27.22,
+            "reps": 10
+          },
+          {
+            "set": 5,
+            "weight_kg": 31.75,
+            "reps": 10
+          },
+          {
+            "set": 6,
+            "weight_kg": 31.75,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 11.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 14.0,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 18.0,
+            "reps": 10
+          },
+          {
+            "set": 6,
+            "weight_kg": 21.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 9.07,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.14,
+            "reps": 6
+          },
+          {
+            "set": 3,
+            "weight_kg": 18.14,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Skull Crusher",
+        "muscle_group": "triceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 2.27,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 2.27,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 2.27,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.68,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 31.75,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 31.75,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 21.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "2 slices regular chicken pizza (Dominos), 7 boneless wings (Wingstop), 1 besan ladoo",
+      "calories": 1270.0,
+      "protein_g": 76.0,
+      "carbs_g": 115.0,
+      "fat_g": 54.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 skinless chicken drumsticks, 55g rolled oats with frozen veggies and 1 tbsp chia seeds, 1 whole boiled egg",
+      "calories": 650.0,
+      "protein_g": 73.0,
+      "carbs_g": 44.0,
+      "fat_g": 24.0,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    }
+  ]
+}

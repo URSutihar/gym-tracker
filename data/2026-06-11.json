@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-11",
+  "body_metrics": {
+    "weight_kg": 76.4,
+    "bmi": 24.4,
+    "body_fat_pct": 21.6,
+    "fat_mass_kg": 16.5,
+    "muscle_mass_kg": 56.7,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 54.2,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 14.7,
+    "bmr_kcal": 1664.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 432,
+    "notes": "7h12m; two blocks: ~2:30AM-9:30AM main (good Deep early, Core+REM cycling) + ~12-1:30PM afternoon; June avg 6h58m; 7-day avg ~7h05m; best consolidated sleep this week"
+  },
+  "activity": {
+    "move_calories": 583.0,
+    "exercise_minutes": 64,
+    "stand_hours": 13,
+    "steps": 8728,
+    "distance_km": 5.35
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Banana + Hainanese Chicken Rice (measured: 200g fragrant rice (cut down), 130g boneless skinless chicken breast, 50g braised egg, 120g bok choy, 30g cucumber, chilli paste, no soup)",
+      "calories": 692.0,
+      "protein_g": 54.7,
+      "carbs_g": 91.5,
+      "fat_g": 11.5,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk 375ml (30g P) + banana",
+      "calories": 290.0,
+      "protein_g": 31.3,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "260g BI skinless chicken drumstick (182g edible) + 11g tandoori paste, 10g psyllium husk, 4 boiled eggs, 2 mangoes (~190g edible est)",
+      "calories": 679.0,
+      "protein_g": 63.9,
+      "carbs_g": 41.6,
+      "fat_g": 30.5,
+      "fiber_g": 10.95,
+      "is_estimated": true
+    }
+  ]
+}

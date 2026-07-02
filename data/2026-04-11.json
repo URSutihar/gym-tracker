@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-11",
+  "notes": "Rest day. No more trembling/tripping. Slight stair feeling only. Armpit/rear shoulder DOMS from Apr 9 session. Fatigued — biryani again to save time.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 77.6
+  },
+  "sleep": {
+    "total_sleep_minutes": 369,
+    "notes": "6h9m total — brief early block ~11PM (~1.5h), then main block ~2PM-5:30PM. First sleep before midnight in several days."
+  },
+  "activity": {
+    "move_calories": 602.0,
+    "exercise_minutes": 105,
+    "stand_hours": 9,
+    "steps": 11678,
+    "distance_km": 7.31
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "New meal prep burrito",
+      "calories": 425.0,
+      "protein_g": 44.0,
+      "carbs_g": 22.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji protein milk 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken biryani with egg and raita",
+      "calories": 720.0,
+      "protein_g": 41.0,
+      "carbs_g": 71.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ]
+}

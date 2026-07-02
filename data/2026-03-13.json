@@ -1,0 +1,176 @@
+{
+  "date": "2026-03-13",
+  "overall_rpe": 5.5,
+  "gym_minutes": 30,
+  "body_metrics": {
+    "weight_kg": 77.6
+  },
+  "sleep": {
+    "total_sleep_minutes": 399
+  },
+  "activity": {
+    "move_calories": 497.0,
+    "exercise_minutes": 15,
+    "stand_hours": 9,
+    "steps": 10861,
+    "distance_km": 7.1
+  },
+  "workout": {
+    "duration_minutes": 30,
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Treadmill",
+        "muscle_group": "cardio",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 6.0,
+            "reps": 1.5
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 2.75
+          },
+          {
+            "set": 3,
+            "weight_kg": 6.0,
+            "reps": 0.75
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 4.5,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 9.1,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 13.6,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pec Fly",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.7,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.2,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 31.8,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.3,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.8,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 13.6,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.1,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 22.7,
+            "reps": 10
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "meal_1",
+      "description": "Instant ramen (entire pack) + egg",
+      "calories": 574.0,
+      "protein_g": 15.0,
+      "carbs_g": 75.0,
+      "fat_g": 23.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "meal_2",
+      "description": "Rice (~250g cooked) + chicken do pyaza curry (~150g)",
+      "calories": 700.0,
+      "protein_g": 38.0,
+      "carbs_g": 75.0,
+      "fat_g": 22.0,
+      "is_estimated": false
+    }
+  ]
+}

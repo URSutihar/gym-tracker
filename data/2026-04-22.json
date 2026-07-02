@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-22",
+  "notes": "Rest day. Excellent sleep — 10h1m from ~10PM to ~8AM. Only 2 meals. Kerala-style dinner.",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 601,
+    "notes": "10h1m. Onset ~10PM, woke ~8AM. Nearly consolidated: blocks ~10PM-12:30AM (Deep+Core), ~12:30AM-3AM (Core+REM+Deep), ~3:30AM-5:30AM (Core+REM), ~6AM-8AM (Core+REM). Multiple awakenings but returned to sleep each time. Best sleep quality logged this month."
+  },
+  "activity": {
+    "move_calories": 458.0,
+    "exercise_minutes": 16,
+    "stand_hours": 9,
+    "steps": 7988,
+    "distance_km": 5.07
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Hainanese chicken rice (extra chicken + 1 braised egg)",
+      "calories": 700.0,
+      "protein_g": 67.0,
+      "carbs_g": 56.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Pepper chicken (Kerala style) + 2 Kerala parata + 1 besan ladoo",
+      "calories": 945.0,
+      "protein_g": 57.0,
+      "carbs_g": 89.0,
+      "fat_g": 42.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ]
+}

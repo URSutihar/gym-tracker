@@ -27,17 +27,12 @@ def main():
     )
 
     print("\n--- Body Metrics ---")
-    m_weight = input("Morning weight? ")
-    pre_weight = input("Pre-workout weight? ")
-    post_weight = input("Post-workout weight? ")
-    
-    if any([m_weight, pre_weight, post_weight]):
-        m_weight = float(m_weight) if m_weight else None
-        pre_weight = float(pre_weight) if pre_weight else None
-        post_weight = float(post_weight) if post_weight else None
+    weight = input("Weight (kg)? ")
+    if weight:
         execute_query(
-            "INSERT INTO body_metrics (day_id, morning_weight, pre_workout_weight, post_workout_weight) VALUES (?, ?, ?, ?) ON CONFLICT(day_id) DO UPDATE SET morning_weight=excluded.morning_weight, pre_workout_weight=excluded.pre_workout_weight, post_workout_weight=excluded.post_workout_weight",
-            (day_id, m_weight, pre_weight, post_weight)
+            "INSERT INTO body_metrics (day_id, weight) VALUES (?, ?) "
+            "ON CONFLICT(day_id) DO UPDATE SET weight=excluded.weight",
+            (day_id, float(weight))
         )
 
     print("\n--- Sleep ---")
@@ -59,16 +54,6 @@ def main():
             (day_id, steps)
         )
 
-    print("\n--- Soreness ---")
-    body_part = input("Body part? ")
-    if body_part:
-        score = input("Soreness score (1-10)? ")
-        score = int(score) if score.isdigit() else None
-        execute_query(
-            "INSERT INTO soreness_logs (day_id, body_part, soreness_score) VALUES (?, ?, ?)",
-            (day_id, body_part, score)
-        )
-    
     print("\nDay logged successfully!")
 
 if __name__ == "__main__":

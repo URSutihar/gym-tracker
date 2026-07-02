@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-20",
+  "notes": "Cheat meal day. No gym (8th consecutive rest day). Sleep rebound after Apr19 deprivation. Watch TDEE estimate: 2,324 kcal.",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 751,
+    "notes": "12h31m — major rebound after 2h30m on Apr19. Two blocks: ~12AM-5AM (Deep+Core+REM, multiple awakenings ~2-3AM), gap, ~10AM-5PM (Deep+Core+REM, awakenings ~12-1PM). Highly fragmented but highest total logged."
+  },
+  "activity": {
+    "move_calories": 408.0,
+    "exercise_minutes": 28,
+    "stand_hours": 6,
+    "steps": 7584,
+    "distance_km": 4.78
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Spicy Korean chicken rice + kimchi + 1 fried egg + banana pudding + 1 banana",
+      "calories": 940.0,
+      "protein_g": 56.0,
+      "carbs_g": 113.0,
+      "fat_g": 25.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk (32g protein) + 1 banana - Meiji High Protein",
+      "calories": 270.0,
+      "protein_g": 33.0,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Korean BBQ hotplate chicken (chicken + rice + kimchi)",
+      "calories": 575.0,
+      "protein_g": 62.0,
+      "carbs_g": 52.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    }
+  ]
+}

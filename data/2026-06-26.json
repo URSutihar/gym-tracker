@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-26",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 143
+  },
+  "activity": {
+    "move_calories": 433.0,
+    "exercise_minutes": 5,
+    "stand_hours": 12,
+    "steps": 6969,
+    "distance_km": 4.23
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "200g chicken tikka masala + Biscoff cream biscuit pack (11 pc, ~132g)",
+      "calories": 1020.0,
+      "protein_g": 34.6,
+      "carbs_g": 94.0,
+      "fat_g": 55.7,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "300g Maggi (4 packs, 75g each: 298 cal, 7g P, 41g C, 9.8g F, 704mg sodium per pack)",
+      "calories": 1192.0,
+      "protein_g": 28.0,
+      "carbs_g": 164.0,
+      "fat_g": 39.2,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-12",
+  "notes": "No gym. Weight not measured — assumed same as Apr 11 (77.6kg).",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 77.6
+  },
+  "sleep": {
+    "total_sleep_minutes": 442,
+    "notes": "7h22m — solid overnight block ~11PM-4AM (REM+Deep visible) + afternoon nap ~1PM-3:30PM. Strongest overnight block in a week."
+  },
+  "activity": {
+    "move_calories": 336.0,
+    "exercise_minutes": 25,
+    "stand_hours": 6,
+    "steps": 4999,
+    "distance_km": 3.18
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "New meal prep burrito",
+      "calories": 425.0,
+      "protein_g": 44.0,
+      "carbs_g": 22.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji protein milk 350ml + McSpicy chicken burger + Coke Zero",
+      "calories": 670.0,
+      "protein_g": 58.0,
+      "carbs_g": 56.0,
+      "fat_g": 24.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Oats 50g, chicken drumlets 360g (skin on), kimchi, 3 asparagus",
+      "calories": 590.0,
+      "protein_g": 43.0,
+      "carbs_g": 39.0,
+      "fat_g": 29.0,
+      "fiber_g": 9.0,
+      "is_estimated": true
+    }
+  ]
+}

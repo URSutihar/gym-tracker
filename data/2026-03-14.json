@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-14",
+  "gym_minutes": 0,
+  "sleep": {
+    "total_sleep_minutes": 468
+  },
+  "activity": {
+    "move_calories": 750.0,
+    "exercise_minutes": 79,
+    "stand_hours": 9,
+    "steps": 15087,
+    "distance_km": 10.03
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "chicken malai mirch kathi roll + half munchi oreo cheese pancake",
+      "calories": 950.0,
+      "protein_g": 40.0,
+      "carbs_g": 110.0,
+      "fat_g": 40.0,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "tuna + eggs (half eaten)",
+      "calories": 180.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "supper",
+      "description": "airfried chicken (~620g raw) + cucumber + radish",
+      "calories": 1100.0,
+      "protein_g": 110.0,
+      "carbs_g": 10.0,
+      "fat_g": 70.0,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    }
+  ]
+}

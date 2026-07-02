@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-16",
+  "body_metrics": {
+    "weight_kg": 74.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 419,
+    "notes": "3h42m (~11AM-3PM, deep at start) + 3h17m (~7PM-10:30PM evening nap, deep+Core+REM); combined 6h59m; heavy leg DOMS"
+  },
+  "activity": {
+    "move_calories": 547.0,
+    "exercise_minutes": 23,
+    "stand_hours": 10,
+    "steps": 11873,
+    "distance_km": 7.44
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Korean BBQ Chicken Hotplate (BBQ chicken + rice + kimchi) + 4 stick yakitori + 150g banana pudding",
+      "calories": 1100.0,
+      "protein_g": 62.0,
+      "carbs_g": 120.0,
+      "fat_g": 40.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "2 bananas + Meiji High Protein Milk 350ml (32g protein)",
+      "calories": 360.0,
+      "protein_g": 34.2,
+      "carbs_g": 54.8,
+      "fat_g": 1.8,
+      "fiber_g": 7.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "218g skinless bone-in chicken drumstick + 6g olive oil, air fried with spices",
+      "calories": 250.0,
+      "protein_g": 32.0,
+      "carbs_g": 1.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    }
+  ]
+}

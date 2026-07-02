@@ -1,0 +1,234 @@
+{
+  "date": "2026-03-17",
+  "overall_rpe": 6,
+  "gym_minutes": 45,
+  "body_metrics": {
+    "weight_kg": 78.5
+  },
+  "sleep": {
+    "total_sleep_minutes": 384
+  },
+  "activity": {
+    "move_calories": 587.0,
+    "exercise_minutes": 59,
+    "stand_hours": 11,
+    "steps": 10769,
+    "distance_km": 7.25
+  },
+  "workout": {
+    "duration_minutes": 45,
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.1,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.1,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.7,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.2,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 31.8,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Press",
+        "muscle_group": "chest",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Rear Delt Fly",
+        "muscle_group": "shoulders",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.2,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.2,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 31.8,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Row",
+        "muscle_group": "back",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.2,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.3,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.8,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 31.8,
+            "reps": 10
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "curry katsudon rice bowl",
+      "calories": 850.0,
+      "protein_g": 40.0,
+      "carbs_g": 100.0,
+      "fat_g": 35.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "chocolate rice crispy slice",
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 30.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "4 airfried chicken drumsticks (skin removed, ~550g) + 6 airfried brussels sprouts + rice with pasta sauce and frozen veggies + 4 boiled eggs",
+      "calories": 900.0,
+      "protein_g": 110.0,
+      "carbs_g": 50.0,
+      "fat_g": 45.0,
+      "fiber_g": 10.0,
+      "is_estimated": true
+    }
+  ]
+}

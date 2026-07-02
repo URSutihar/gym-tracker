@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-13",
+  "body_metrics": {
+    "weight_kg": 75.8,
+    "bmi": 24.2,
+    "body_fat_pct": 21.5,
+    "fat_mass_kg": 16.3,
+    "muscle_mass_kg": 56.4,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 53.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.0,
+    "bmr_kcal": 1655.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 583,
+    "notes": "8h23m main sleep (~11PM-12PM, deep+REM at start then excellent cycling 7AM-12PM) + 1h20m evening nap (6:25-7:45PM); 7-day avg now 7h21m"
+  },
+  "activity": {
+    "move_calories": 426.0,
+    "exercise_minutes": 53,
+    "stand_hours": 8,
+    "steps": 8801,
+    "distance_km": 6.09
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "1 banana + Mixed rice (rice + 1 fried egg + 1 braised egg + tofu in gravy + 1 skin-on curry chicken drumstick no gravy) + 150g Banana Pudding",
+      "calories": 1050.0,
+      "protein_g": 48.0,
+      "carbs_g": 130.0,
+      "fat_g": 38.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk 350ml (32g protein) + 1 banana",
+      "calories": 270.0,
+      "protein_g": 33.2,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Burger King - Long Chicken Burger + american cheese slice + 6pc chilli cheese pops + small loaded fries (CHEAT DAY)",
+      "calories": 1320.0,
+      "protein_g": 42.0,
+      "carbs_g": 138.0,
+      "fat_g": 66.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    }
+  ]
+}

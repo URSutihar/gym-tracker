@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-23",
+  "notes": "training day (arms+back); run limited by side stitch; strong deficit",
+  "overall_rpe": 7,
+  "gym_minutes": 35,
+  "body_metrics": {
+    "weight_kg": 78.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 460
+  },
+  "activity": {
+    "move_calories": 500.0,
+    "exercise_minutes": 35,
+    "stand_hours": 10,
+    "steps": 10000,
+    "distance_km": 6.5
+  },
+  "workout": {
+    "duration_minutes": 35,
+    "notes": "arms+back; moderate intensity",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 9.07,
+            "reps": 20
+          },
+          {
+            "set": 2,
+            "weight_kg": 13.61,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 13.61,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 18.14,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.68,
+            "reps": 20
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.22,
+            "reps": 9
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.22,
+            "reps": 7
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Row",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.75,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 31.75,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 31.75,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 5
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "summary",
+      "description": "Daily Total",
+      "calories": 1600.0,
+      "protein_g": 110.0,
+      "carbs_g": 160.0,
+      "fat_g": 50.0,
+      "fiber_g": 10.0,
+      "is_estimated": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-30",
+  "notes": "Rest day after 2 field work days. Very low activity - recovery. Bedtime shifted to 10:48 PM (vs avg 3:32 AM).",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 75.4,
+    "bmi": 24.1,
+    "body_fat_pct": 21.2,
+    "fat_mass_kg": 16.0,
+    "muscle_mass_kg": 56.3,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 54.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1653.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.7
+  },
+  "sleep": {
+    "total_sleep_minutes": 590,
+    "notes": "9h50m; bedtime 10:48PM vs avg 3:32AM — 4.5hr earlier shift; ~8PM-8AM block with deep+REM architecture; recovery sleep after field work"
+  },
+  "activity": {
+    "move_calories": 187.0,
+    "exercise_minutes": 6,
+    "stand_hours": 7,
+    "steps": 2506,
+    "distance_km": 1.68
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Cajun Fusili with Grilled XL chicken + 6pc fried chicken wings",
+      "calories": 1440.0,
+      "protein_g": 110.0,
+      "carbs_g": 79.0,
+      "fat_g": 76.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk (32g) + Banana",
+      "calories": 285.0,
+      "protein_g": 33.4,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1x Burrito-v4",
+      "calories": 337.0,
+      "protein_g": 31.4,
+      "carbs_g": 23.3,
+      "fat_g": 12.7,
+      "fiber_g": 3.2,
+      "is_estimated": false
+    }
+  ]
+}

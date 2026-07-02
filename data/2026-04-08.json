@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-08",
+  "notes": "Rest day. DOMS day 2 (quads + abs). Internship applications. Good sleep reset achieved. Weight up to 79kg - likely DOMS water retention + food volume rebound.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 79.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 498,
+    "notes": "8hr 18min. Main block ~11PM to ~8AM. Small 4PM nap also captured. Good recovery after two consecutive 4h nights. 7-day average now 6h44m per Apple Health."
+  },
+  "activity": {
+    "move_calories": 672.0,
+    "exercise_minutes": 58,
+    "stand_hours": 14,
+    "steps": 13812,
+    "distance_km": 8.53
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken rice stall: rice, tofu in tomato gravy, chicken, braised egg (1)",
+      "calories": 620.0,
+      "protein_g": 49.0,
+      "carbs_g": 61.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk 350ml (30g protein)",
+      "calories": 180.0,
+      "protein_g": 30.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "5 chicken drumlets skin-on + oats 60g + psyllium husk + kimchi + paneer tikka with bell pepper (1 of 2 skewers, ~25g protein)",
+      "calories": 910.0,
+      "protein_g": 69.0,
+      "carbs_g": 58.0,
+      "fat_g": 44.0,
+      "fiber_g": 17.0,
+      "is_estimated": true
+    }
+  ]
+}

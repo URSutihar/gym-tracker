@@ -1,0 +1,139 @@
+{
+  "date": "2026-04-28",
+  "body_metrics": {
+    "weight_kg": 76.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 505,
+    "notes": "Onset ~1AM (anchor drift: 10PM→midnight→1AM). Split sleep: main 1AM-~5AM (fragmented, many awakenings), nap ~1PM (~2h). Total 8h25m. Deep in early cycles, big REM+Core block in nap."
+  },
+  "activity": {
+    "move_calories": 509.0,
+    "exercise_minutes": 41,
+    "stand_hours": 10,
+    "steps": 9032,
+    "distance_km": 5.89
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - rice (~200g cooked)",
+      "calories": 260.0,
+      "protein_g": 5.0,
+      "carbs_g": 57.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - extra chicken (300g bone-in skin-on poached)",
+      "calories": 419.0,
+      "protein_g": 42.9,
+      "carbs_g": 0.0,
+      "fat_g": 27.3,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - 1 egg (steamed)",
+      "calories": 78.0,
+      "protein_g": 6.3,
+      "carbs_g": 0.6,
+      "fat_g": 5.3,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - mixed greens ~150g",
+      "calories": 25.0,
+      "protein_g": 2.5,
+      "carbs_g": 4.0,
+      "fat_g": 0.2,
+      "fiber_g": 3.8,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - sauces (ginger, chili, dark soy)",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Banana pudding (dessert)",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 40.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk choco (30g protein) - Meiji 350ml",
+      "calories": 185.0,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "1 Cavendish banana",
+      "calories": 107.0,
+      "protein_g": 1.3,
+      "carbs_g": 27.1,
+      "fat_g": 0.4,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "150g uncooked white rice (cooked ~375g)",
+      "calories": 487.0,
+      "protein_g": 10.1,
+      "carbs_g": 105.5,
+      "fat_g": 1.1,
+      "fiber_g": 1.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "500g chicken tikka masala",
+      "calories": 650.0,
+      "protein_g": 52.0,
+      "carbs_g": 35.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 Cavendish banana",
+      "calories": 107.0,
+      "protein_g": 1.3,
+      "carbs_g": 27.1,
+      "fat_g": 0.4,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "10g psyllium husk",
+      "calories": 35.0,
+      "protein_g": 0.3,
+      "carbs_g": 7.8,
+      "fat_g": 0.1,
+      "fiber_g": 7.0,
+      "is_estimated": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-05",
+  "body_metrics": {
+    "weight_kg": 76.9,
+    "bmi": 24.5,
+    "body_fat_pct": 21.6,
+    "fat_mass_kg": 16.6,
+    "muscle_mass_kg": 57.1,
+    "skeletal_muscle_mass_kg": 30.7,
+    "body_water_pct": 55.0,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1672.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 327,
+    "notes": "5h27m; single block ~2AM-9AM; 4 sleep cycles with deep in first 3; 7-day avg 7h01m"
+  },
+  "activity": {
+    "steps": 11523,
+    "distance_km": 6.76
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (fragrant rice ~270g, steamed boneless skinless chicken ~120g est, braised egg ~53g, cucumber, bok choy, soup) + banana",
+      "calories": 841.0,
+      "protein_g": 54.4,
+      "carbs_g": 116.6,
+      "fat_g": 17.1,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "3x 150g banana pudding (classic, choco fudge, speculoos)",
+      "calories": 910.0,
+      "protein_g": 13.5,
+      "carbs_g": 131.0,
+      "fat_g": 37.0,
+      "fiber_g": 2.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Meiji Choco Protein Milk 375ml (30P) + banana + 1 plain naan + palak paneer + 2pc tandoori chicken",
+      "calories": 1180.0,
+      "protein_g": 91.3,
+      "carbs_g": 100.0,
+      "fat_g": 47.4,
+      "fiber_g": 10.1,
+      "is_estimated": false
+    }
+  ]
+}

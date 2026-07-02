@@ -1,0 +1,321 @@
+{
+  "date": "2026-03-30",
+  "notes": "Gym — Back, Chest & Triceps. 2 hours. RPE 6.5.",
+  "overall_rpe": 6.5,
+  "gym_minutes": 120,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 496
+  },
+  "activity": {
+    "move_calories": 603.0,
+    "exercise_minutes": 58,
+    "stand_hours": 9,
+    "steps": 12357,
+    "distance_km": 8.43
+  },
+  "workout": {
+    "duration_minutes": 120,
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 11.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 16.0,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 18.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Skull Crusher",
+        "muscle_group": "triceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.0,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 10.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 23.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bench Press",
+        "muscle_group": "chest",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 5
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.0,
+            "reps": 5
+          },
+          {
+            "set": 4,
+            "weight_kg": 40.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bench Press",
+        "muscle_group": "chest",
+        "equipment": "smith_machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 5
+          },
+          {
+            "set": 3,
+            "weight_kg": 30.0,
+            "reps": 3
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice — rice, egg tofu in tomato gravy, black pepper chicken, 1 braised egg",
+      "calories": 680.0,
+      "protein_g": 39.0,
+      "carbs_g": 76.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "80g rolled oats, 10 chicken drumlets airfryed, 1 tbsp chia seeds, 4 whole boiled eggs",
+      "calories": 1090.0,
+      "protein_g": 97.0,
+      "carbs_g": 61.0,
+      "fat_g": 52.0,
+      "fiber_g": 12.0,
+      "is_estimated": true
+    }
+  ]
+}

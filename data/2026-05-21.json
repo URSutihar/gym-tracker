@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-21",
+  "notes": "Rest day. Some DOMS in shoulders/biceps from yesterday. Good recovery HR (73 bpm). Sleep improving with naps.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 75.6,
+    "bmi": 24.1,
+    "body_fat_pct": 21.4,
+    "fat_mass_kg": 16.2,
+    "muscle_mass_kg": 56.2,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 53.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.0,
+    "bmr_kcal": 1653.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 605,
+    "notes": "7h26m main sleep + 2h39m evening nap = 10h05m total; recovery sleep after reset attempt"
+  },
+  "activity": {
+    "move_calories": 554.0,
+    "exercise_minutes": 77,
+    "stand_hours": 9,
+    "steps": 9969,
+    "distance_km": 6.49
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set meal (rice, boneless steamed chicken, extra chicken, egg, greens)",
+      "calories": 785.0,
+      "protein_g": 52.0,
+      "carbs_g": 78.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk (32g) + Waffle Ice Cream (140ml)",
+      "calories": 369.0,
+      "protein_g": 35.7,
+      "carbs_g": 36.8,
+      "fat_g": 9.0,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "222g BI skinless chicken drumstick + 13g tandoori paste + 3 eggs + 10g psyllium husk + kimchi + 80g oats w/ maggi masala + 145g chicken wings airfryed",
+      "calories": 1189.0,
+      "protein_g": 109.5,
+      "carbs_g": 72.8,
+      "fat_g": 46.6,
+      "fiber_g": 12.5,
+      "is_estimated": true
+    }
+  ]
+}

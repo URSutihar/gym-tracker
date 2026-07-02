@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-14",
+  "body_metrics": {
+    "weight_kg": 75.2,
+    "bmi": 24.0,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.8,
+    "muscle_mass_kg": 56.3,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 54.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.7,
+    "bmr_kcal": 1653.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 324,
+    "notes": "5h24m daytime sleep ~9AM-3PM; good deep+REM cycling but short duration"
+  },
+  "activity": {
+    "move_calories": 186.0,
+    "exercise_minutes": 1,
+    "stand_hours": 7,
+    "steps": 3249,
+    "distance_km": 2.07
+  },
+  "meals": [
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk 350ml (32g protein) + 1 banana",
+      "calories": 270.0,
+      "protein_g": 33.2,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Cajun Fusilli Pasta with smoked duck + Vanilla Muffin",
+      "calories": 950.0,
+      "protein_g": 35.0,
+      "carbs_g": 115.0,
+      "fat_g": 38.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    }
+  ]
+}

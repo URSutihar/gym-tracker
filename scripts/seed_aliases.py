@@ -1,121 +1,175 @@
 """
-Seed exercise_aliases table with common name variations → canonical names.
-Safe to run multiple times (uses INSERT OR IGNORE).
-Add your own aliases to ALIASES below as you discover inconsistencies.
+Seed exercise_aliases with name variations → canonical MOVEMENT names.
+
+Canonical names are movement-level: no equipment suffix ("Bicep Curl", not
+"Bicep Curl (Machine)"). Equipment belongs in exercise_entries.equipment.
+Same movement done with different equipment or style logs under ONE name and
+shares one PR history (user decision, Jul 3).
+
+Safe to run multiple times (INSERT OR IGNORE). Add new variants here as they
+appear in logs, then run: python3 scripts/seed_aliases.py
 """
 import sys
 import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from db.db_utils import get_connection
 
-# (alias, canonical_name)
-# All aliases are stored lowercase for case-insensitive matching.
+# (alias, canonical movement name) — aliases matched lowercase.
 ALIASES = [
-    # Bicep Curl
-    ("bicep curl", "Bicep Curl (Machine)"),
-    ("bicep curls", "Bicep Curl (Machine)"),
-    ("curl machine", "Bicep Curl (Machine)"),
-    ("machine curl", "Bicep Curl (Machine)"),
-    ("curls", "Bicep Curl (Machine)"),
-    ("dumbbell curl", "Bicep Curl (Dumbbell)"),
-    ("db curl", "Bicep Curl (Dumbbell)"),
-    ("barbell curl", "Bicep Curl (Barbell)"),
-    ("bb curl", "Bicep Curl (Barbell)"),
-
-    # Tricep
-    ("tricep extension", "Tricep Extension (Machine)"),
-    ("tricep extensions", "Tricep Extension (Machine)"),
-    ("triceps extension", "Tricep Extension (Machine)"),
-    ("tricep pushdown", "Tricep Pushdown (Cable)"),
-    ("triceps pushdown", "Tricep Pushdown (Cable)"),
-    ("cable pushdown", "Tricep Pushdown (Cable)"),
-
-    # Chest / Pec
-    ("pec fly", "Pec Fly (Machine)"),
-    ("pec deck", "Pec Fly (Machine)"),
-    ("chest fly", "Pec Fly (Machine)"),
-    ("chest fly machine", "Pec Fly (Machine)"),
-    ("fly machine", "Pec Fly (Machine)"),
-    ("bench press", "Bench Press (Barbell)"),
-    ("barbell bench press", "Bench Press (Barbell)"),
-    ("bb bench press", "Bench Press (Barbell)"),
-    ("dumbbell bench press", "Bench Press (Dumbbell)"),
-    ("db bench press", "Bench Press (Dumbbell)"),
-
-    # Back
-    ("lat pulldown", "Lat Pulldown (Machine)"),
-    ("lat pull down", "Lat Pulldown (Machine)"),
-    ("pulldown", "Lat Pulldown (Machine)"),
-    ("seated row", "Seated Row (Machine)"),
-    ("cable row", "Seated Row (Machine)"),
-    ("row machine", "Seated Row (Machine)"),
-
-    # Legs
-    ("leg press", "Leg Press"),
-    ("squat", "Squat (Barbell)"),
-    ("barbell squat", "Squat (Barbell)"),
-    ("leg extension", "Leg Extension (Machine)"),
-    ("leg extensions", "Leg Extension (Machine)"),
-    ("leg curl", "Leg Curl (Machine)"),
-    ("leg curls", "Leg Curl (Machine)"),
-    ("hamstring curl", "Leg Curl (Machine)"),
-
-    # Shoulders
-    ("shoulder press", "Shoulder Press (Machine)"),
-    ("shoulder press machine", "Shoulder Press (Machine)"),
-    ("dumbbell shoulder press", "Shoulder Press (Dumbbell)"),
-    ("db shoulder press", "Shoulder Press (Dumbbell)"),
-    ("lateral raise", "Lateral Raise (Dumbbell)"),
-    ("lateral raises", "Lateral Raise (Dumbbell)"),
-    ("side raise", "Lateral Raise (Dumbbell)"),
-    ("rear delt", "Rear Delt Machine"),
-    ("rear delt fly", "Rear Delt Machine"),
-    ("reverse fly", "Rear Delt Machine"),
-    ("face pull", "Face Pull (Cable)"),
-
-    # Abs
-    ("ab crunch", "Abdominal Crunch (Machine)"),
-    ("abs crunch", "Abdominal Crunch (Machine)"),
-    ("abdominal crunch", "Abdominal Crunch (Machine)"),
-    ("crunch machine", "Abdominal Crunch (Machine)"),
-
-    # Tricep Pushdown variants (distinguish rope vs bar)
-    ("tricep rope pushdown", "Tricep Rope Pushdown (Cable)"),
-    ("rope pushdown", "Tricep Rope Pushdown (Cable)"),
-    ("v bar pushdown", "Tricep Bar Pushdown (Cable)"),
-    ("straight bar pushdown", "Tricep Bar Pushdown (Cable)"),
-    ("tricep bar pushdown", "Tricep Bar Pushdown (Cable)"),
-    ("cable pushdown", "Tricep Rope Pushdown (Cable)"),
-    ("a/v rope pulldown", "Tricep Rope Pushdown (Cable)"),
-    ("rope pulldown", "Tricep Rope Pushdown (Cable)"),
-
-    # Cable Crossover
-    ("cable crossover", "Cable Crossover"),
+    # --- Chest ---
+    ("bench press (barbell)", "Bench Press"),
+    ("bench press (smith machine)", "Bench Press"),
+    ("flat bench press", "Bench Press"),
+    ("bench", "Bench Press"),
+    ("incline bench press", "Incline Bench Press"),
+    ("incline press (smith machine)", "Incline Bench Press"),
+    ("incline press", "Incline Bench Press"),
+    ("chest press (modified setup)", "Chest Press"),
+    ("close grip flat chest press", "Chest Press"),
+    ("pec fly (machine)", "Pec Fly"),
+    ("pec deck", "Pec Fly"),
+    ("cable crossover (lower chest)", "Cable Crossover"),
+    ("cable crossover (middle chest)", "Cable Crossover"),
     ("cable fly", "Cable Crossover"),
-    ("cable flyes", "Cable Crossover"),
-    ("cable cross", "Cable Crossover"),
 
-    # Overhead Tricep Extension
-    ("overhead tricep extension", "Overhead Tricep Extension (Cable)"),
-    ("overhead cable extension", "Overhead Tricep Extension (Cable)"),
-    ("overhead rope extension", "Overhead Tricep Extension (Cable)"),
-    ("cable overhead extension", "Overhead Tricep Extension (Cable)"),
+    # --- Back ---
+    ("lat pulldown (machine)", "Lat Pulldown"),
+    ("cable rope lat pulldown", "Lat Pulldown"),
+    ("close grip lat pulldown (machine)", "Lat Pulldown"),
+    ("seated row (machine)", "Seated Row"),
+    ("seated cable row (machine)", "Seated Row"),
+    ("seated cable row", "Seated Row"),
+    ("long pull 302", "Seated Row"),
+    ("long pull", "Seated Row"),
+    ("cable bent row", "Bent-Over Row"),
+    ("cable bent-over row (cable)", "Bent-Over Row"),
+    ("bent over row", "Bent-Over Row"),
+    ("chest supported row (dumbbell)", "Chest Supported Row"),
+    ("high incline shrug row (dumbbell)", "High Incline Shrug Row"),
+    ("straight arm pulldown (cable)", "Straight Arm Pulldown"),
+    ("barbell shrug", "Shrug"),
+    ("shrugs", "Shrug"),
+    ("back extension (machine)", "Back Extension"),
+    ("deadlift (barbell)", "Deadlift"),
+    ("deadlifts", "Deadlift"),
+    ("conventional deadlift", "Deadlift"),
+    ("romanian deadlift", "Romanian Deadlift"),
+    ("rdl", "Romanian Deadlift"),
 
-    # Skull Crusher
-    ("skull crusher", "Skull Crusher (Dumbbell)"),
-    ("skull crushers", "Skull Crusher (Dumbbell)"),
-    ("skullcrusher", "Skull Crusher (Dumbbell)"),
-    ("lying tricep extension", "Skull Crusher (Dumbbell)"),
+    # --- Shoulders ---
+    ("shoulder press (dumbbell)", "Shoulder Press"),
+    ("shoulder press (machine)", "Shoulder Press"),
+    ("overhead press (barbell)", "Shoulder Press"),
+    ("overhead press", "Shoulder Press"),
+    ("ohp", "Shoulder Press"),
+    ("dumbbell lateral raise", "Lateral Raise"),
+    ("lateral raise (dumbbell)", "Lateral Raise"),
+    ("lateral raises", "Lateral Raise"),
+    ("front raise (dumbbell)", "Front Raise"),
+    ("dumbbell front raise", "Front Raise"),
+    ("front raises", "Front Raise"),
+    ("overhead lu raise (dumbbell)", "Lu Raise"),
+    ("lu raises", "Lu Raise"),
+    ("rear delt machine", "Rear Delt Fly"),
+    ("reverse fly", "Rear Delt Fly"),
+    ("face pull (cable)", "Face Pull"),
+    ("face pulls", "Face Pull"),
+    ("upright row (barbell)", "Upright Row"),
+    ("upright row (cable)", "Upright Row"),
 
-    # Deadlift
-    ("deadlift", "Deadlift (Barbell)"),
-    ("deadlifts", "Deadlift (Barbell)"),
-    ("conventional deadlift", "Deadlift (Barbell)"),
-    ("romanian deadlift", "Romanian Deadlift (Barbell)"),
-    ("rdl", "Romanian Deadlift (Barbell)"),
+    # --- Biceps ---
+    ("bicep curl (machine)", "Bicep Curl"),
+    ("bicep curl (dumbbell)", "Bicep Curl"),
+    ("bicep curl (barbell)", "Bicep Curl"),
+    ("bicep curl (ez bar)", "Bicep Curl"),
+    ("bicep curl (fixed bar)", "Bicep Curl"),
+    ("ez bar bicep curl", "Bicep Curl"),
+    ("bicep curls", "Bicep Curl"),
+    ("curls", "Bicep Curl"),
+    ("db curl", "Bicep Curl"),
+    ("bb curl", "Bicep Curl"),
+    ("preacher curl (machine)", "Preacher Curl"),
+    ("preacher curl (cable)", "Preacher Curl"),
+    ("preacher curl (ez bar)", "Preacher Curl"),
+    ("preacher curls", "Preacher Curl"),
+    ("hammer curl (dumbbell)", "Hammer Curl"),
+    ("hammer curl (cable)", "Hammer Curl"),
+    ("hammer curl (cable crossover)", "Hammer Curl"),
+    ("hammer curl (machine)", "Hammer Curl"),
+    ("hammer curls", "Hammer Curl"),
+    ("preacher hammer curl (dumbbell)", "Preacher Hammer Curl"),
+    ("spider curl (dumbbell)", "Spider Curl"),
+    ("spider curl (ez bar)", "Spider Curl"),
+    ("spider curls", "Spider Curl"),
 
-    # Cardio
-    ("treadmill", "Treadmill"),
+    # --- Triceps ---
+    ("tricep extension (machine)", "Tricep Extension"),
+    ("overhead tricep extension (cable)", "Tricep Extension"),
+    ("overhead cable extension", "Tricep Extension"),
+    ("overhead rope extension", "Tricep Extension"),
+    ("cable overhead extension", "Tricep Extension"),
+    ("tricep extensions", "Tricep Extension"),
+    ("triceps extension", "Tricep Extension"),
+    ("triceps pushdown", "Tricep Pushdown"),
+    ("tricep rope pushdown (cable)", "Tricep Pushdown"),
+    ("tricep bar pushdown (cable)", "Tricep Pushdown"),
+    ("cable tricep push down", "Tricep Pushdown"),
+    ("cable pulldown (tricep)", "Tricep Pushdown"),
+    ("tricep pulldown (rod)", "Tricep Pushdown"),
+    ("skull crusher (dumbbell)", "Skull Crusher"),
+    ("skull crusher (ez bar)", "Skull Crusher"),
+    ("skull crusher (plate)", "Skull Crusher"),
+    ("skull crushers", "Skull Crusher"),
+    ("skullcrusher", "Skull Crusher"),
+    ("lying tricep extension", "Skull Crusher"),
+
+    # --- Legs ---
+    ("squat (barbell)", "Squat"),
+    ("squats", "Squat"),
+    ("kettlebell goblet squat (inner thigh focus)", "Goblet Squat"),
+    ("45-degree leg press", "Leg Press"),
+    ("horizontal leg press", "Leg Press"),
+    ("leg press machine", "Leg Press"),
+    ("leg extension (machine)", "Leg Extension"),
+    ("leg extension machine", "Leg Extension"),
+    ("seated leg extension", "Leg Extension"),
+    ("leg extensions", "Leg Extension"),
+    ("seated leg curl", "Leg Curl"),
+    ("seated leg curl (machine)", "Leg Curl"),
+    ("leg curls", "Leg Curl"),
+    ("inner thigh (adductor)", "Hip Adduction"),
+    ("adductor machine", "Hip Adduction"),
+    ("outer thigh (abductor)", "Hip Abduction"),
+    ("abductor machine", "Hip Abduction"),
+    ("calf raises", "Seated Calf Raise"),
+
+    # --- Core ---
+    ("abdominal crunch (machine)", "Abdominal Crunch"),
+    ("abdominal crunch machine", "Abdominal Crunch"),
+    ("cable abdominal crunch", "Abdominal Crunch"),
+    ("cable crunch", "Abdominal Crunch"),
+    ("cable crunches", "Abdominal Crunch"),
+    ("cable crunch crisscross", "Abdominal Crunch"),
+    ("criss cross cable crunches", "Abdominal Crunch"),
+    ("cable abdominal crunch criss cross", "Abdominal Crunch"),
+    ("cable rope core pulldown (kneeling)", "Abdominal Crunch"),
+    ("cable rope pulldown (standing)", "Abdominal Crunch"),
+    ("crunches", "Abdominal Crunch"),
+    ("reverse cable abdominal crunch", "Reverse Crunch"),
+    ("reverse cable crunch", "Reverse Crunch"),
+    ("reverse cable crunches", "Reverse Crunch"),
+    ("cable anti-rotation hold", "Pallof Press"),
+    ("cable anti-rotation pull (pallof variant)", "Pallof Press"),
+    ("pallof", "Pallof Press"),
+    ("leg raises", "Leg Raise"),
+
+    # --- Forearms ---
+    ("wrist curl (dumbbell)", "Wrist Curl"),
+    ("wrist curls", "Wrist Curl"),
+    ("wrist extension (dumbbell)", "Wrist Extension"),
+    ("wrist extensions", "Wrist Extension"),
+
+    # --- Cardio ---
     ("stationary bike", "Stationary Bike"),
     ("bike", "Stationary Bike"),
     ("rowing machine", "Rowing Machine"),
@@ -123,16 +177,17 @@ ALIASES = [
 ]
 
 
-def seed():
-    conn = get_connection()
-    with conn:
-        conn.executemany(
-            "INSERT OR IGNORE INTO exercise_aliases (alias, canonical_name) VALUES (?, ?)",
-            ALIASES
-        )
-    print(f"Seeded {len(ALIASES)} exercise aliases.")
-    conn.close()
+def seed(conn):
+    conn.executemany(
+        "INSERT OR IGNORE INTO exercise_aliases (alias, canonical_name) VALUES (?, ?)",
+        [(a.lower(), c) for a, c in ALIASES]
+    )
 
 
 if __name__ == '__main__':
-    seed()
+    conn = get_connection()
+    with conn:
+        seed(conn)
+    n = conn.execute("SELECT COUNT(*) FROM exercise_aliases").fetchone()[0]
+    print(f"Alias table now has {n} entries.")
+    conn.close()

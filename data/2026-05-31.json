@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-31",
+  "notes": "Rest day. No gym, no weight. Bedtime 10:48 PM again - 2nd night in a row at earlier schedule.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 447,
+    "notes": "7h27m; bedtime 10:48PM (2nd night); ~9PM-2AM main block + 9-10AM block; gap 2-9AM; deep sleep in first cycles"
+  },
+  "activity": {
+    "move_calories": 457.0,
+    "exercise_minutes": 13,
+    "stand_hours": 11,
+    "steps": 10538,
+    "distance_km": 6.9
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "2x Burrito-v4 + Banana",
+      "calories": 779.0,
+      "protein_g": 64.0,
+      "carbs_g": 73.6,
+      "fat_g": 25.8,
+      "fiber_g": 9.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Low Fat High Protein Vanilla Milk (375ml) + Banana",
+      "calories": 326.0,
+      "protein_g": 26.3,
+      "carbs_g": 51.8,
+      "fat_g": 2.7,
+      "fiber_g": 2.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Chicken Quesadilla 440g (wrap, cheese, iceberg lettuce, tomatoes, sour cream, habanero sauce, chicken, guacamole)",
+      "calories": 795.0,
+      "protein_g": 45.8,
+      "carbs_g": 60.0,
+      "fat_g": 42.4,
+      "fiber_g": 6.2,
+      "is_estimated": true
+    }
+  ]
+}

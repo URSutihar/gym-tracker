@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-02",
+  "notes": "Push day (Chest+Triceps). First gym in 7 days. Bench press felt in shoulders not chest - form issue. 90min RPE 6.",
+  "overall_rpe": 6,
+  "gym_minutes": 90,
+  "body_metrics": {
+    "weight_kg": 75.7,
+    "bmi": 24.2,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.6,
+    "skeletal_muscle_mass_kg": 30.6,
+    "body_water_pct": 55.6,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1662.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 349,
+    "notes": "5h49m; bedtime 3:12AM; single block 3:12AM-8:56AM; 7-day avg 7h54m"
+  },
+  "activity": {
+    "move_calories": 719.0,
+    "exercise_minutes": 65,
+    "stand_hours": 17,
+    "steps": 15506,
+    "distance_km": 10.13
+  },
+  "workout": {
+    "duration_minutes": 90,
+    "notes": "Push (Chest+Triceps). Bench press and inclined press all felt in shoulders/triceps, not chest even with corrected form. Skull crusher improvised with plates.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 7
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 23.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Skull Crusher",
+        "muscle_group": "triceps",
+        "equipment": "other",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 15.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 20.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 23.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bench Press",
+        "muscle_group": "chest",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 4
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 4
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Incline Bench Press",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (rice, 120g steamed chicken, bok choy, 54g braised egg, cucumber, soup) + 150g banana pudding",
+      "calories": 965.0,
+      "protein_g": 42.6,
+      "carbs_g": 136.9,
+      "fat_g": 26.3,
+      "fiber_g": 2.6,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Rokeby Protein Milk Banana Cinnamon (425ml: 253cal, 30P, 833mg Ca)",
+      "calories": 253.0,
+      "protein_g": 30.0,
+      "carbs_g": 18.7,
+      "fat_g": 6.4,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Korean BBQ Chicken Hotplate (BBQ chicken, onions, cabbage, rice, kimchi)",
+      "calories": 645.0,
+      "protein_g": 42.0,
+      "carbs_g": 74.0,
+      "fat_g": 18.5,
+      "fiber_g": 3.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "supper",
+      "description": "282g BI skin-on chicken drumstick (197g edible after bone) + 14g tandoori paste",
+      "calories": 330.0,
+      "protein_g": 34.0,
+      "carbs_g": 2.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.2,
+      "is_estimated": true
+    }
+  ]
+}

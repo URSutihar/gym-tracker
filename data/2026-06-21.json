@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-21",
+  "body_metrics": {
+    "weight_kg": 75.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 621
+  },
+  "activity": {
+    "move_calories": 520.0,
+    "exercise_minutes": 95,
+    "stand_hours": 10,
+    "steps": 10816,
+    "distance_km": 6.46
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Kung Pao chicken rice bowl + 1 fried egg",
+      "calories": 790.0,
+      "protein_g": 41.0,
+      "carbs_g": 75.5,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 30g protein (375ml)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "300g BI Skinless drumstick + 18g tandoori, 4 boiled eggs, 10g psyllium",
+      "calories": 635.0,
+      "protein_g": 67.8,
+      "carbs_g": 15.1,
+      "fat_g": 36.0,
+      "fiber_g": 7.95,
+      "is_estimated": true
+    }
+  ]
+}

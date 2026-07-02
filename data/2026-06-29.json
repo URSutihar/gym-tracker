@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-29",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 543
+  },
+  "activity": {
+    "move_calories": 375.0,
+    "exercise_minutes": 16,
+    "stand_hours": 9,
+    "steps": 8168,
+    "distance_km": 5.11
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "KP chicken rice bowl + 1 fried egg",
+      "calories": 670.0,
+      "protein_g": 34.0,
+      "carbs_g": 62.5,
+      "fat_g": 27.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 32g (375ml)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "160g cookie dough + ice cream, 2pc KFC Nashville fried chicken (~250g) + 3 pickles + 1/2 Nashville sauce",
+      "calories": 1090.0,
+      "protein_g": 53.3,
+      "carbs_g": 82.0,
+      "fat_g": 63.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    }
+  ]
+}

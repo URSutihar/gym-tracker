@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-07",
+  "body_metrics": {
+    "weight_kg": 75.6,
+    "bmi": 24.1,
+    "body_fat_pct": 21.0,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.4,
+    "skeletal_muscle_mass_kg": 30.3,
+    "body_water_pct": 55.3,
+    "bone_mineral_kg": 3.2,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1660.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 389,
+    "notes": "6h29m (5h39m Watch + 50min); two blocks: ~7AM-noon + ~4-6PM; bedtime 5:49PM per Watch; avg bedtime 12:51AM; 7-day avg declining"
+  },
+  "activity": {
+    "steps": 20658,
+    "distance_km": 11.74
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Kimchi Fried Rice (rice, chicken, kimchi, egg, soy sauce) + Biscoff waffle",
+      "calories": 990.0,
+      "protein_g": 37.0,
+      "carbs_g": 123.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Choco Protein Milk 375ml (185cal, 30P) + banana",
+      "calories": 290.0,
+      "protein_g": 31.3,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "10g psyllium husk + 206g BI skin-on chicken drumstick (144g edible after bone) + 10g tandoori paste airfryed",
+      "calories": 259.0,
+      "protein_g": 25.4,
+      "carbs_g": 9.9,
+      "fat_g": 14.9,
+      "fiber_g": 8.1,
+      "is_estimated": false
+    }
+  ]
+}

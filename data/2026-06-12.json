@@ -1,0 +1,276 @@
+{
+  "date": "2026-06-12",
+  "body_metrics": {
+    "weight_kg": 76.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 516,
+    "notes": "8h36m (7h36m Watch + 1hr); single consolidated block ~midnight-10AM; excellent architecture: Deep at 3AM, consistent Core+REM cycling; 7-day avg 6h34m; best night this week"
+  },
+  "activity": {
+    "move_calories": 727.0,
+    "exercise_minutes": 116,
+    "stand_hours": 10,
+    "steps": 15726,
+    "distance_km": 10.19
+  },
+  "workout": {
+    "duration_minutes": 75,
+    "notes": "Back + Biceps day. RPE 6.5. Cable rope lat pulldown tricep taking over at heavy sets. Close grip pulldown taken over by shoulders instead of back. Preacher curl fatigues at 8 reps regardless of weight.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 32.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Spider Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Supported Row",
+        "muscle_group": "back",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 18.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Deadlift",
+        "muscle_group": "back",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (300g fragrant rice, 125g boneless chicken breast with some skin, 25g cucumber, chilli paste, no egg, no bok choy, no soup) + banana",
+      "calories": 741.0,
+      "protein_g": 43.8,
+      "carbs_g": 117.1,
+      "fat_g": 10.3,
+      "fiber_g": 3.7,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Regular Protein Milk 375ml (32g P) + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Stuffd Chicken Burrito (wrap, double chicken, lettuce, habanero, roasted sesame, cheese, butter corn, cilantro rice) + 455g mangoes (2, whole weight, ~296g edible) + 10g psyllium + 283g BI skinless drumstick (198g edible) + 10g tandoori paste",
+      "calories": 1205.0,
+      "protein_g": 103.3,
+      "carbs_g": 122.6,
+      "fat_g": 34.9,
+      "fiber_g": 14.65,
+      "is_estimated": true
+    }
+  ]
+}

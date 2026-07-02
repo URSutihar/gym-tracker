@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-25",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 502
+  },
+  "activity": {
+    "move_calories": 536.0,
+    "exercise_minutes": 87,
+    "stand_hours": 8,
+    "steps": 11643,
+    "distance_km": 7.43
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Hainanese standard: 270g rice, 120g skin-on breast, 25g cucumber, 15g chilli paste, banana",
+      "calories": 726.0,
+      "protein_g": 44.1,
+      "carbs_g": 108.0,
+      "fat_g": 12.1,
+      "fiber_g": 3.7,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 30g + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "Murgh Do Pyaaza 463g, 3 medium garlic naan, 10g psyllium",
+      "calories": 1390.0,
+      "protein_g": 77.3,
+      "carbs_g": 168.2,
+      "fat_g": 51.5,
+      "fiber_g": 15.35,
+      "is_estimated": true
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-05-26",
+  "notes": "Back+Biceps day! First gym in 6 days. Learned deadlift form via video call. RPE 6.",
+  "overall_rpe": 6,
+  "gym_minutes": 105,
+  "body_metrics": {
+    "weight_kg": 74.4,
+    "bmi": 23.7,
+    "body_fat_pct": 20.7,
+    "fat_mass_kg": 15.4,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 54.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.6,
+    "bmr_kcal": 1644.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 526,
+    "notes": "7h58m main + 48m nap = 8h46m; good architecture with deep+REM blocks"
+  },
+  "activity": {
+    "move_calories": 583.0,
+    "exercise_minutes": 56,
+    "stand_hours": 10,
+    "steps": 9848,
+    "distance_km": 6.65
+  },
+  "workout": {
+    "duration_minutes": 105,
+    "notes": "Back+Biceps. Learned deadlift form via video call. Cable lat pulldown felt more in triceps than back.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Spider Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 39.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 39.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 30.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 23.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Supported Row",
+        "muscle_group": "back",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 12.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Deadlift",
+        "muscle_group": "back",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 10
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (MEASURED: rice 300g, steamed chicken+extra 135g, braised egg 52g, cucumber 28g) + 1 banana",
+      "calories": 768.0,
+      "protein_g": 41.3,
+      "carbs_g": 117.2,
+      "fat_g": 14.8,
+      "fiber_g": 3.9,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji High Protein Milk (30g choco) + Banana",
+      "calories": 290.0,
+      "protein_g": 31.2,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "210g BI SL drumstick + 13g tandoori, 4 eggs, kimchi, 10g psyllium, 70g oats + chicken bullion cube + 50g frozen veggies + paprika, 90g wings airfryed",
+      "calories": 1198.0,
+      "protein_g": 96.2,
+      "carbs_g": 69.4,
+      "fat_g": 59.1,
+      "fiber_g": 20.2,
+      "is_estimated": true
+    }
+  ]
+}

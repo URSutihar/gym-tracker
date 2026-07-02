@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-15",
+  "notes": "Push day ABORTED - shoulder broken tendon pain. Watch now tracking Traditional Weight Training.",
+  "body_metrics": {
+    "weight_kg": 76.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 387,
+    "notes": "6h27m Watch. Brief evening block + main ~2AM-9AM."
+  },
+  "activity": {
+    "move_calories": 961.0,
+    "exercise_minutes": 154,
+    "stand_hours": 13,
+    "steps": 15203,
+    "distance_km": 10.06
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Shoulders activated too much in chest exercises. Right shoulder broken tendon pain forced abort.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 14
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 23.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pec Fly",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Press",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 30.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": true,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice (300g rice, 120g steamed skin-on chicken breast, 20g cucumber, chilli paste)",
+      "calories": 659.0,
+      "protein_g": 43.4,
+      "carbs_g": 90.0,
+      "fat_g": 11.8,
+      "fiber_g": 0.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (30g) + Banana",
+      "calories": 290.0,
+      "protein_g": 31.3,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "280g BI skinless drumstick + 20g lemongrass airfryer paste, 4 boiled eggs, 10g psyllium husk, banana",
+      "calories": 727.0,
+      "protein_g": 66.5,
+      "carbs_g": 42.6,
+      "fat_g": 32.6,
+      "fiber_g": 11.05,
+      "is_estimated": false
+    }
+  ]
+}

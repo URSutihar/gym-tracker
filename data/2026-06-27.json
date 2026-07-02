@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-27",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 447
+  },
+  "activity": {
+    "move_calories": 450.0,
+    "exercise_minutes": 7,
+    "stand_hours": 12,
+    "steps": 10414,
+    "distance_km": 6.35
+  },
+  "meals": [
+    {
+      "meal_type": "Dinner",
+      "description": "OMD social: 1/2 cookie dough + ice cream, 1 bite each: mango smash cake, souffle, kebab wrap, 3-4 bites spud",
+      "calories": 730.0,
+      "protein_g": 15.0,
+      "carbs_g": 95.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    }
+  ]
+}

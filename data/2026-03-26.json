@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-26",
+  "notes": "Back + Biceps day. Forearm discomfort during barbell curls. No deadlift - needs form guidance. Weight stable at 78.1 kg.",
+  "overall_rpe": 6,
+  "gym_minutes": 90,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 307,
+    "notes": "5h 7min, approx 12:30 PM to 6:10 PM, fragmented"
+  },
+  "activity": {
+    "move_calories": 936.0,
+    "exercise_minutes": 98,
+    "stand_hours": 15,
+    "steps": 14994,
+    "distance_km": 9.95
+  },
+  "workout": {
+    "duration_minutes": 90,
+    "notes": "Back + Biceps",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Spider Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Straight Arm Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.68,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 22.68,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.22,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 27.22,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": true,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 15.0,
+            "reps": 20
+          },
+          {
+            "set": 3,
+            "weight_kg": 17.5,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.75,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 38.56,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 31.75,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 15
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Supported Row",
+        "muscle_group": "back",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 13.61,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 13.61,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 10
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 10
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice: rice, tofu in tomato gravy, chicken drumstick skin-on curry, lettuce and mushroom, poached egg, 1 besan ladoo",
+      "calories": 885.0,
+      "protein_g": 46.0,
+      "carbs_g": 94.0,
+      "fat_g": 35.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Grimace shake 1/4 cup, skinless tandoori chicken drumstick airfryed, 70g oats with Maggi masala + frozen veggies + chia seeds, 4 whole softboil eggs, 4 spoons Greek yogurt vanilla",
+      "calories": 903.0,
+      "protein_g": 74.0,
+      "carbs_g": 74.0,
+      "fat_g": 31.0,
+      "fiber_g": 9.0,
+      "is_estimated": true
+    }
+  ]
+}

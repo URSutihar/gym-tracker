@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-02",
+  "notes": "Rest day. Back of shoulders sore both sides, stiff lower back. Daytime nap 1pm-5:15pm to reset sleep cycle. Planning to sleep by 1:30am tonight.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.2
+  },
+  "sleep": {
+    "total_sleep_minutes": 261,
+    "notes": "Daytime nap only. Trying to reset messed up sleep cycle."
+  },
+  "activity": {
+    "move_calories": 660.0,
+    "exercise_minutes": 52,
+    "stand_hours": 12,
+    "steps": 14521,
+    "distance_km": 9.36
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with extra chicken",
+      "calories": 590.0,
+      "protein_g": 45.0,
+      "carbs_g": 57.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Rokeby Protein Milk Smoothie Vanilla Wafer 425mL",
+      "calories": 253.0,
+      "protein_g": 30.0,
+      "carbs_g": 18.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Oats 50g + frozen veggies + 2 skinless chicken drumsticks + 3 whole eggs + cabbage kimchi + 4 spoonful yogurt + 1 spoonful chia seed",
+      "calories": 840.0,
+      "protein_g": 78.0,
+      "carbs_g": 57.0,
+      "fat_g": 31.0,
+      "fiber_g": 13.0,
+      "is_estimated": true
+    }
+  ]
+}

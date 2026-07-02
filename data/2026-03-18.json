@@ -1,0 +1,40 @@
+{
+  "date": "2026-03-18",
+  "notes": "rest day (exam fatigue)",
+  "body_metrics": {
+    "weight_kg": 78.5
+  },
+  "sleep": {
+    "total_sleep_minutes": 531,
+    "notes": "includes ~3h evening nap (6-9 PM)"
+  },
+  "activity": {
+    "move_calories": 813.0,
+    "exercise_minutes": 120,
+    "stand_hours": 10,
+    "steps": 15618,
+    "distance_km": 10.17
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "mixed rice: white rice + egg tofu + black pepper chicken",
+      "calories": 700.0,
+      "protein_g": 40.0,
+      "carbs_g": 80.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "LJS grilled cajun chicken rice plate + McD McCrispy 2pc + lychee coco pie",
+      "calories": 1510.0,
+      "protein_g": 67.0,
+      "carbs_g": 160.0,
+      "fat_g": 70.0,
+      "fiber_g": 6.0,
+      "is_estimated": false
+    }
+  ]
+}

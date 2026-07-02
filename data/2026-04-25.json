@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-25",
+  "notes": "Exam/presentation week. Very active day (15,702 steps). New weight low: 76.0kg. No dinner. 7-day sleep avg 7h27m.",
+  "body_metrics": {
+    "weight_kg": 76.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 362,
+    "notes": "6h2m. Onset ~10PM — excellent anchor (4th consecutive night near 10-11PM). Deep sleep in first block (~10PM-12AM). Blocks 2 & 3 Core+REM with stress-driven awakenings from ~2AM onwards. 7-day avg 7h27m per Apple Health."
+  },
+  "activity": {
+    "move_calories": 791.0,
+    "exercise_minutes": 88,
+    "stand_hours": 11,
+    "steps": 15702,
+    "distance_km": 9.76
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Rolled oats 60g + Maggi masala + garlic powder, 1 Cavendish banana, 290g bone-in skinless chicken drumstick airfryed (no oil), 10g psyllium husk",
+      "calories": 661.0,
+      "protein_g": 65.0,
+      "carbs_g": 72.0,
+      "fat_g": 11.0,
+      "fiber_g": 16.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk (32g protein) + 1 Cavendish banana - Meiji High Protein",
+      "calories": 270.0,
+      "protein_g": 33.0,
+      "carbs_g": 31.8,
+      "fat_g": 1.8,
+      "fiber_g": 4.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Almond croissant",
+      "calories": 400.0,
+      "protein_g": 9.0,
+      "carbs_g": 42.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    }
+  ]
+}

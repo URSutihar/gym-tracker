@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-04",
+  "notes": "Rest day. Easter Saturday. Sleep reset continuing well. First day on new meal prep plan. Ate 60% of dinner rice portion. Weight down to 77.9kg.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 77.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 570,
+    "notes": "Approx 9.5hrs. Slept ~1:30AM, woke ~11AM. Sleep cycle reset continuing."
+  },
+  "activity": {
+    "move_calories": 559.0,
+    "exercise_minutes": 35,
+    "stand_hours": 12,
+    "steps": 10414,
+    "distance_km": 7.06
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken burrito (wrap 45g, chicken breast 190g, cheese 37.5g, yogurt, onion)",
+      "calories": 600.0,
+      "protein_g": 60.0,
+      "carbs_g": 34.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Dinner box 60% rice (rice ~168g raw, frozen veggies 150g, chicken drumstick 170g edible, 4 eggs, asparagus, kimchi, olive oil, parmesan, Maggi masala) + psyllium husk in water + yogurt 60g + chia seeds 10g",
+      "calories": 1010.0,
+      "protein_g": 49.0,
+      "carbs_g": 96.0,
+      "fat_g": 39.0,
+      "fiber_g": 25.0,
+      "is_estimated": true
+    }
+  ]
+}

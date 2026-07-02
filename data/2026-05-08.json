@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-08",
+  "body_metrics": {
+    "weight_kg": 75.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 166,
+    "notes": "2h46m only; fragmented — day of big Jollibee/El Fajita dinner outing"
+  },
+  "activity": {
+    "move_calories": 804.0,
+    "exercise_minutes": 106,
+    "stand_hours": 14,
+    "steps": 17853,
+    "distance_km": 12.48
+  },
+  "meals": [
+    {
+      "meal_type": "snack",
+      "description": "Kaya toast with butter (2 slices)",
+      "calories": 300.0,
+      "protein_g": 7.0,
+      "carbs_g": 46.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    }
+  ]
+}

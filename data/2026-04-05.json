@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-05",
+  "notes": "Rest day. Easter Sunday - gym closes early. Third consecutive good sleep night. Full dinner box, skipped yogurt/chia/psyllium today. Weight down to 77.3kg.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 77.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 535,
+    "notes": "8hr 55min. Sleep ~11PM to ~10AM. Good structure: deep early, REM cycles mid-sleep."
+  },
+  "activity": {
+    "move_calories": 581.0,
+    "exercise_minutes": 80,
+    "stand_hours": 7,
+    "steps": 11700,
+    "distance_km": 7.79
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken burrito (wrap 45g, chicken breast 190g, cheese 37.5g, yogurt, onion)",
+      "calories": 600.0,
+      "protein_g": 60.0,
+      "carbs_g": 34.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Dinner box full portion (rice ~168g raw, frozen veggies 150g, chicken drumstick 170g edible, 4 eggs, asparagus, kimchi, olive oil, parmesan, Maggi masala) — no yogurt, chia, or psyllium today",
+      "calories": 1100.0,
+      "protein_g": 47.0,
+      "carbs_g": 145.0,
+      "fat_g": 32.0,
+      "fiber_g": 13.0,
+      "is_estimated": true
+    }
+  ]
+}

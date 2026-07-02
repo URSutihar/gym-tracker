@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-29",
+  "notes": "Sunday rest day. Weight stable.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 78.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 448,
+    "notes": "7hr 28min. Fragmented; long initial block starting around 7 PM, followed by early morning cycles after 5 AM."
+  },
+  "activity": {
+    "move_calories": 532.0,
+    "exercise_minutes": 53,
+    "stand_hours": 10,
+    "steps": 8483,
+    "distance_km": 5.9
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice bowl",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 75.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Non-Veg Meat Set 1: Naan, Steam Rice, Kheema/Chicken Tikka, Mix Veg, Raitha, Green Salad, Sweet & Papadam, Garlic Naan",
+      "calories": 1350.0,
+      "protein_g": 57.0,
+      "carbs_g": 165.0,
+      "fat_g": 42.0,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    }
+  ]
+}

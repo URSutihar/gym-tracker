@@ -1,0 +1,40 @@
+{
+  "date": "2026-03-24",
+  "notes": "low control day (exam day); high calorie-dense meals (burger + naan + butter chicken)",
+  "body_metrics": {
+    "weight_kg": 78.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 366,
+    "notes": "09:49-11:23, 17:34-22:05"
+  },
+  "activity": {
+    "move_calories": 653.0,
+    "exercise_minutes": 64,
+    "stand_hours": 10,
+    "steps": 11011,
+    "distance_km": 7.54
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Portobello mushroom burger (fried, with cheese & sauce) + French fries",
+      "calories": 950.0,
+      "protein_g": 18.0,
+      "carbs_g": 95.0,
+      "fat_g": 55.0,
+      "fiber_g": 6.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Plain naan + Garlic naan + Butter chicken masala + Besan laddoo (1)",
+      "calories": 1400.0,
+      "protein_g": 57.0,
+      "carbs_g": 155.0,
+      "fat_g": 55.0,
+      "fiber_g": 6.0,
+      "is_estimated": true
+    }
+  ]
+}

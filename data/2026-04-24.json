@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-24",
+  "notes": "Exam/presentation week. One meal only.",
+  "body_metrics": {
+    "weight_kg": 77.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 384,
+    "notes": "6h24m. Onset ~11PM — good anchor. Blocks: ~11PM-1AM (Deep+Core), ~1-3AM (Core+REM), ~3-5AM (Core+REM). Deep sleep in first block. Multiple awakenings but returned to sleep each time."
+  },
+  "activity": {
+    "move_calories": 401.0,
+    "exercise_minutes": 17,
+    "stand_hours": 10,
+    "steps": 6347,
+    "distance_km": 3.91
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Rolled oats 60g + Maggi masala seasoning, 420g bone-in skinless chicken drumstick airfryed with 5g olive oil",
+      "calories": 668.0,
+      "protein_g": 83.0,
+      "carbs_g": 40.0,
+      "fat_g": 18.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "1 banana",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk (32g protein) - Meiji High Protein 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "1 banana",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    }
+  ]
+}

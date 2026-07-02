@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-28",
+  "notes": "Field work day 1. Massive activity - 20.7k steps, 13.68km. No gym, no weight measured.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 74.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 368,
+    "notes": "6h08m; reset rebound after 0h yesterday; ~6PM-12AM block with good deep+REM; 7-day avg 7h50m per Watch"
+  },
+  "activity": {
+    "move_calories": 850.0,
+    "exercise_minutes": 34,
+    "stand_hours": 18,
+    "steps": 20764,
+    "distance_km": 13.68
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Starbucks Tall Hot Chocolate + whipped cream",
+      "calories": 320.0,
+      "protein_g": 13.0,
+      "carbs_g": 40.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice set (rice, chicken + extra, egg, beansprouts)",
+      "calories": 785.0,
+      "protein_g": 52.0,
+      "carbs_g": 78.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 garlic naan + 1 plain naan + chicken tikka masala + banana + Meiji choco milk (30g)",
+      "calories": 1300.0,
+      "protein_g": 76.2,
+      "carbs_g": 147.0,
+      "fat_g": 44.4,
+      "fiber_g": 10.6,
+      "is_estimated": true
+    }
+  ]
+}

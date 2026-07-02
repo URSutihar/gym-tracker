@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-10",
+  "body_metrics": {
+    "weight_kg": 76.5
+  },
+  "sleep": {
+    "total_sleep_minutes": 391,
+    "notes": "6h31m (5h59m Watch - 68min from yesterday + 100min watch-off); two blocks: ~6-7:30PM evening nap (Deep+REM) + ~2AM-8AM main; June avg 6h56m ≈ May 6h59m"
+  },
+  "activity": {
+    "move_calories": 689.0,
+    "exercise_minutes": 63,
+    "stand_hours": 13,
+    "steps": 13837,
+    "distance_km": 8.46
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Banana + KFC Nashville Chicken 2pc a la carte (2pc chicken, Nashville sauce, coleslaw) + 490g Stuffd Chicken Burrito (wrap, chicken, sour cream, lettuce, habanero, yuzu sesame, butter corn, couscous, cilantro rice, mashed potatoes, adobo black beans, guacamole, cheese)",
+      "calories": 1675.0,
+      "protein_g": 90.3,
+      "carbs_g": 167.0,
+      "fat_g": 73.4,
+      "fiber_g": 10.1,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Regular Protein Milk 375ml (32g P) + banana",
+      "calories": 285.0,
+      "protein_g": 33.5,
+      "carbs_g": 35.8,
+      "fat_g": 2.2,
+      "fiber_g": 4.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Grain Korean Bibim Salad (five-spice tofu, korean namul, yuzu soy-sesame dressing, beansprouts, broccoli, mushrooms, saag/spinach) - event dinner, from label",
+      "calories": 480.0,
+      "protein_g": 26.0,
+      "carbs_g": 22.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "is_estimated": false
+    }
+  ]
+}

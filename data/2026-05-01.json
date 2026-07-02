@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-01",
+  "body_metrics": {
+    "weight_kg": 76.4,
+    "bmi": 24.1,
+    "body_fat_pct": 21.8,
+    "fat_mass_kg": 16.6,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 28.6,
+    "body_water_pct": 53.2,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.8,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 10,
+    "body_age": 21,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 511,
+    "notes": "8h31m. Onset ~11PM — anchor restored after all-nighter. Clean architecture: deep in cycles 1-3, regular REM blocks throughout, almost zero awakenings. Apple sleep score: 100."
+  },
+  "activity": {
+    "move_calories": 542.0,
+    "exercise_minutes": 46,
+    "stand_hours": 10,
+    "steps": 10123,
+    "distance_km": 6.57
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - rice (~200g cooked)",
+      "calories": 260.0,
+      "protein_g": 5.0,
+      "carbs_g": 57.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - extra chicken (300g bone-in skin-on poached)",
+      "calories": 419.0,
+      "protein_g": 42.9,
+      "carbs_g": 0.0,
+      "fat_g": 27.3,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - mixed choys ~150g",
+      "calories": 25.0,
+      "protein_g": 2.5,
+      "carbs_g": 4.0,
+      "fat_g": 0.2,
+      "fiber_g": 3.8,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice - sauces (ginger, chili, dark soy)",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Milk choco (30g protein) - Meiji 350ml",
+      "calories": 185.0,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "1 Cavendish banana",
+      "calories": 107.0,
+      "protein_g": 1.3,
+      "carbs_g": 27.1,
+      "fat_g": 0.4,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "KFC McCrispy Chicken 2 piece",
+      "calories": 530.0,
+      "protein_g": 38.0,
+      "carbs_g": 36.0,
+      "fat_g": 24.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    }
+  ]
+}

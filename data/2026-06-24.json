@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-24",
+  "body_metrics": {
+    "weight_kg": 75.4,
+    "bmi": 24.1,
+    "body_fat_pct": 21.1,
+    "fat_mass_kg": 15.9,
+    "muscle_mass_kg": 56.4,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 54.9,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.3,
+    "bmr_kcal": 1655.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 408
+  },
+  "activity": {
+    "move_calories": 542.0,
+    "exercise_minutes": 42,
+    "stand_hours": 11,
+    "steps": 12707,
+    "distance_km": 8.01
+  },
+  "meals": [
+    {
+      "meal_type": "Lunch",
+      "description": "Stuff'd Chicken Burrito + cheese + iceberg lettuce + tomato salsa + habanero + adobo black beans + butter corn",
+      "calories": 850.0,
+      "protein_g": 45.0,
+      "carbs_g": 90.0,
+      "fat_g": 30.0,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Snacks",
+      "description": "Meiji Regular milk 32g protein (375ml)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "Dinner",
+      "description": "Boneless chicken biryani + 2 roasted chicken legs (170g)",
+      "calories": 1020.0,
+      "protein_g": 68.4,
+      "carbs_g": 77.6,
+      "fat_g": 44.7,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ]
+}

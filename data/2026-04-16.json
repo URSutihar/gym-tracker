@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-16",
+  "notes": "Rest day. Low activity. No gym (Legs day skipped). Only 2 meals eaten. Weight not measured — assumed same as Apr 14 (77.8kg).",
+  "body_metrics": {
+    "weight_kg": 77.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 544,
+    "notes": "9h4m shown in chart spanning 5PM Apr15-2PM Apr16. Includes: Apr15 nap 6:30-9:30PM (~3hr, confirms yesterday's untracked portion), overnight 11PM-3:30AM (~4.5hr with multiple REM/Deep cycles), brief afternoon nap ~2-3PM (~1hr). Best total sleep this week."
+  },
+  "activity": {
+    "move_calories": 330.0,
+    "exercise_minutes": 5,
+    "stand_hours": 12,
+    "steps": 4877,
+    "distance_km": 3.21
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Rolled oats 70g with spices, skinless chicken drumstick 286g bone-in (airfryed, 4g olive oil), 1 banana",
+      "calories": 657.0,
+      "protein_g": 63.0,
+      "carbs_g": 66.0,
+      "fat_g": 15.0,
+      "fiber_g": 8.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Burrito-3",
+      "calories": 375.0,
+      "protein_g": 39.0,
+      "carbs_g": 20.0,
+      "fat_g": 16.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Milk (30g protein)",
+      "calories": 220.0,
+      "protein_g": 30.0,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 banana",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    }
+  ]
+}

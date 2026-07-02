@@ -1,8 +1,7 @@
 __pycache__/
 *.pyc
 *.db
-data/backups/
-data/20*.json
+data/apple_exports/
 .DS_Store
 .env
 .claude/

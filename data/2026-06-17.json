@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-17",
+  "notes": "Workshop Day 2 of 3. No gym. Low activity day (557 move cal).",
+  "body_metrics": {
+    "weight_kg": 76.1,
+    "bmi": 24.3,
+    "body_fat_pct": 21.6,
+    "fat_mass_kg": 16.4,
+    "muscle_mass_kg": 56.6,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 53.9,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.9,
+    "bmr_kcal": 1660.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 345,
+    "notes": "6h50m Watch - 65min from Jun 16 nap = 5h45m actual. Main block ~2AM-8AM."
+  },
+  "activity": {
+    "move_calories": 557.0,
+    "exercise_minutes": 22,
+    "stand_hours": 13,
+    "steps": 12187,
+    "distance_km": 7.69
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese Chicken Rice STANDARD (270g rice, 120g skin-on boneless breast, 25g cucumber, chilli) + banana",
+      "calories": 726.0,
+      "protein_g": 44.1,
+      "carbs_g": 108.8,
+      "fat_g": 12.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (30g) + Banana",
+      "calories": 290.0,
+      "protein_g": 31.3,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Roast Duck Drumstick Rice (duck leg ~150g, rice ~200g, sauce, greens) + 10g psyllium",
+      "calories": 703.0,
+      "protein_g": 31.9,
+      "carbs_g": 70.4,
+      "fat_g": 33.7,
+      "fiber_g": 8.95,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "supper",
+      "description": "2pc frozen roasted chicken legs (176g total, 88g each) - per 100g: 188.67cal, 19.65P, 11.60F, 1.53C",
+      "calories": 332.0,
+      "protein_g": 34.6,
+      "carbs_g": 2.7,
+      "fat_g": 20.4,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    }
+  ]
+}

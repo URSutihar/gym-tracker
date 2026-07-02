@@ -102,6 +102,23 @@ def upsert_day(conn, data):
         return cur.lastrowid
 
 
+BODY_METRIC_COLS = [
+    # (json_key, db_column)
+    ("bmi", "bmi"),
+    ("body_fat_pct", "body_fat_pct"),
+    ("fat_mass_kg", "fat_mass_kg"),
+    ("muscle_mass_kg", "muscle_mass_kg"),
+    ("skeletal_muscle_mass_kg", "skeletal_muscle_mass_kg"),
+    ("body_water_pct", "body_water_pct"),
+    ("bone_mineral_kg", "bone_mineral_kg"),
+    ("protein_mass_kg", "protein_mass_kg"),
+    ("bmr_kcal", "bmr_kcal"),
+    ("visceral_fat", "visceral_fat"),
+    ("body_age", "body_age"),
+    ("waist_hip_ratio", "waist_hip_ratio"),
+]
+
+
 def upsert_body_metrics(conn, day_id, bm):
     if not bm:
         return
@@ -110,10 +127,34 @@ def upsert_body_metrics(conn, day_id, bm):
     if weight is None and bm.get('weight_lbs') is not None:
         weight = lbs_to_kg(bm['weight_lbs'])
         print("  Warning: weight_lbs found, converting to kg")
+    cols = ["day_id", "weight"] + [db for _, db in BODY_METRIC_COLS]
+    vals = [day_id, weight] + [bm.get(k) for k, _ in BODY_METRIC_COLS]
+    updates = ", ".join(f"{c}=excluded.{c}" for c in cols if c != "day_id")
     conn.execute(
-        "INSERT INTO body_metrics (day_id, weight) VALUES (?, ?) "
-        "ON CONFLICT(day_id) DO UPDATE SET weight=excluded.weight",
-        (day_id, weight)
+        f"INSERT INTO body_metrics ({', '.join(cols)}) "
+        f"VALUES ({', '.join('?' * len(cols))}) "
+        f"ON CONFLICT(day_id) DO UPDATE SET {updates}",
+        vals
+    )
+
+
+MICRO_COLS = [
+    "calcium_mg", "iron_mg", "zinc_mg", "b12_ug", "potassium_mg",
+    "sodium_mg", "vitamin_c_mg", "vitamin_d_ug", "omega3_g", "magnesium_mg",
+]
+
+
+def upsert_micros(conn, day_id, micros):
+    if not micros:
+        return
+    cols = ["day_id"] + MICRO_COLS
+    vals = [day_id] + [micros.get(c) for c in MICRO_COLS]
+    updates = ", ".join(f"{c}=excluded.{c}" for c in MICRO_COLS)
+    conn.execute(
+        f"INSERT INTO micros ({', '.join(cols)}) "
+        f"VALUES ({', '.join('?' * len(cols))}) "
+        f"ON CONFLICT(day_id) DO UPDATE SET {updates}",
+        vals
     )
 
 
@@ -321,6 +362,7 @@ def import_day(conn, data):
     upsert_activity(conn, day_id, data.get('activity'))
     upsert_workout(conn, day_id, data.get('workout'), aliases)
     upsert_meals(conn, day_id, data.get('meals'))
+    upsert_micros(conn, day_id, data.get('micros'))
     populate_daily_summary(conn, day_id)
     return day_id
 

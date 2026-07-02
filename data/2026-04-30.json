@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-30",
+  "notes": "Double exam day. Zero sleep recorded. Weight slightly up to 76.6kg due to extreme cortisol and inflammatory response from lack of rest. High mental load, very low caloric intake.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 76.6
+  },
+  "sleep": {
+    "total_sleep_minutes": 0,
+    "notes": "Pulling an all-nighter for double exams. Critical recovery deficit."
+  },
+  "activity": {
+    "move_calories": 557.0,
+    "exercise_minutes": 8,
+    "stand_hours": 10,
+    "steps": 9228,
+    "distance_km": 5.71
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "1 Large Aloo Paratha, 1 Mustard Paneer Tikka, Hazelnut Bubble Tea (25% sugar)",
+      "calories": 1150.0,
+      "protein_g": 32.0,
+      "carbs_g": 160.0,
+      "fat_g": 42.0,
+      "fiber_g": 7.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Skipped",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-22",
+  "notes": "very large calorie deficit; protein decent but slightly below optimal",
+  "body_metrics": {
+    "weight_kg": 77.7
+  },
+  "sleep": {
+    "total_sleep_minutes": 366
+  },
+  "activity": {
+    "move_calories": 500.0,
+    "exercise_minutes": 60,
+    "stand_hours": 10,
+    "steps": 10000,
+    "distance_km": 6.5
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Yogurt (~4 spoons), Besan laddu (1)",
+      "calories": 230.0,
+      "protein_g": 6.0,
+      "carbs_g": 20.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken drumsticks (5 pieces, 580g raw, skinless) + Rice + Radish salad",
+      "calories": 950.0,
+      "protein_g": 90.0,
+      "carbs_g": 85.0,
+      "fat_g": 35.0,
+      "fiber_g": 5.0,
+      "is_estimated": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "_readme": "Canonical macros for recurring foods. Consulted by the /log-day skill BEFORE estimating. When the user corrects a macro estimate, update the matching entry here (or add a new one) so the correction sticks. Prefer per-component entries over whole-meal composites. All macros are per stated serving.",
+  "foods": [
+    {
+      "name": "Cavendish banana",
+      "aliases": ["banana", "1 banana", "1 cavendish banana"],
+      "serving": "1 medium",
+      "calories": 107,
+      "protein_g": 1.3,
+      "carbs_g": 27.1,
+      "fat_g": 0.4,
+      "fiber_g": 3.0,
+      "confirmed": "2026-05-05",
+      "notes": "Settled value used consistently since late April."
+    },
+    {
+      "name": "Meiji High Protein Milk",
+      "aliases": [
+        "meiji protein milk 350ml",
+        "meiji high protein milk",
+        "meiji regular milk 30g",
+        "meiji regular milk 32g",
+        "milk choco (30g protein) - meiji 350ml"
+      ],
+      "serving": "350-375ml bottle (label: 30-32g protein)",
+      "calories": 180,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "confirmed": "2026-06-29",
+      "notes": "Logged under many spellings; all the same bottle. '+ banana' composite = 285 / 33.5 / 35.8 / 2.2 / 4.5."
+    },
+    {
+      "name": "Psyllium husk",
+      "aliases": ["10g psyllium husk", "10g psyllium", "psyllium"],
+      "serving": "10g",
+      "calories": 35,
+      "protein_g": 0.3,
+      "carbs_g": 7.8,
+      "fat_g": 0.1,
+      "fiber_g": 7.0,
+      "confirmed": "2026-05-04",
+      "notes": "Scale linearly for other quantities."
+    },
+    {
+      "name": "Hainanese Chicken Rice (standard)",
+      "aliases": ["hainanese chicken rice", "chicken rice standard"],
+      "serving": "270g rice + 120g skin-on boneless breast + 25g cucumber + chilli + soup",
+      "calories": 776,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "confirmed": "2026-06-18",
+      "notes": "History of corrections (Apr 27) before settling. Variants: 15g chilli paste only = 726 / 44.1 / 108 / 12.1 / 3.7; 310g cooked skin-on BI drumstick instead of breast = 966 / 43.9 / 108 / 33.3 / 3.7. Excludes banana."
+    },
+    {
+      "name": "Kung Pao chicken rice bowl + 1 fried egg",
+      "aliases": ["kp chicken rice bowl + fried egg", "kung pao bowl + egg"],
+      "serving": "1 bowl + 1 fried egg",
+      "calories": 670,
+      "protein_g": 34.0,
+      "carbs_g": 62.5,
+      "fat_g": 27.0,
+      "fiber_g": 2.5,
+      "confirmed": "2026-06-29",
+      "notes": "Portion varies by stall day (logged 670-790). Use 670 as base; '75% rice reduced' variant + banana = 685 / 34.3 / 78.5 / 25.4 / 5.1."
+    },
+    {
+      "name": "BI skinless chicken drumstick + 18g tandoori paste",
+      "aliases": ["bi skinless drumstick tandoori", "tandoori drumstick"],
+      "serving": "300g raw",
+      "calories": 250,
+      "protein_g": 60.5,
+      "carbs_g": 7.3,
+      "fat_g": 13.0,
+      "fiber_g": 0.95,
+      "confirmed": "2026-06-21",
+      "notes": "Derived from the settled '300g drumstick + tandoori + 4 boiled eggs + 10g psyllium = 635' composite minus 4 boiled eggs (~310 / 25 / 2 / 21 / 0) and psyllium. Scale by raw weight."
+    },
+    {
+      "name": "Boiled egg",
+      "aliases": ["boiled eggs", "hard boiled egg"],
+      "serving": "1 large",
+      "calories": 78,
+      "protein_g": 6.3,
+      "carbs_g": 0.6,
+      "fat_g": 5.3,
+      "fiber_g": 0,
+      "confirmed": "2026-06-21",
+      "notes": "Standard value consistent with logged composites."
+    },
+    {
+      "name": "Stuff'd Chicken Burrito (loaded)",
+      "aliases": ["burrito-3", "new meal prep burrito", "stuff'd burrito"],
+      "serving": "1 burrito: cheese, iceberg, tomato salsa, habanero, adobo black beans, butter corn",
+      "calories": 850,
+      "protein_g": 45.0,
+      "carbs_g": 90.0,
+      "fat_g": 30.0,
+      "fiber_g": 8.0,
+      "confirmed": "2026-06-24",
+      "notes": ""
+    }
+  ]
+}

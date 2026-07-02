@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-10",
+  "notes": "Rest day. Legs almost back to normal. Shoulder DOMS from Apr 9 session. Face puffiness almost gone. Weight dropping back as DOMS water retention resolves.",
+  "gym_minutes": 0,
+  "body_metrics": {
+    "weight_kg": 77.3
+  },
+  "sleep": {
+    "total_sleep_minutes": 497,
+    "notes": "8h17m but entirely daytime sleep (~6AM to ~2:30PM) — fully inverted circadian pattern"
+  },
+  "activity": {
+    "move_calories": 630.0,
+    "exercise_minutes": 69,
+    "stand_hours": 11,
+    "steps": 13040,
+    "distance_km": 8.33
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice — rice, egg tofu, Sichuan pepper chicken, 1 braised egg, green leaf veggies",
+      "calories": 690.0,
+      "protein_g": 50.0,
+      "carbs_g": 71.0,
+      "fat_g": 22.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji protein milk 350ml",
+      "calories": 180.0,
+      "protein_g": 32.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hyderabadi chicken dum biryani with 1 egg and raita",
+      "calories": 720.0,
+      "protein_g": 41.0,
+      "carbs_g": 71.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ]
+}

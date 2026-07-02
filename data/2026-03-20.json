@@ -1,0 +1,229 @@
+{
+  "date": "2026-03-20",
+  "notes": "best structured day so far; high protein achieved; good balance",
+  "overall_rpe": 7,
+  "gym_minutes": 60,
+  "body_metrics": {
+    "weight_kg": 78.6
+  },
+  "sleep": {
+    "total_sleep_minutes": 510,
+    "notes": "6.5h main + 2h nap (16:49-18:51)"
+  },
+  "activity": {
+    "move_calories": 440.0,
+    "exercise_minutes": 35,
+    "stand_hours": 10,
+    "steps": 8100,
+    "distance_km": 5.45
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 13.6,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.1,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 18.1,
+            "reps": 7
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 22.7,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.2,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.2,
+            "reps": 7
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Seated Row",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 38.6,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 38.6,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pec Fly",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.3,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.3,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Rear Delt Fly",
+        "muscle_group": "shoulders",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 5
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Back Extension",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 49.9,
+            "reps": 5
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.4,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Leg Curl",
+        "muscle_group": "legs",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.1,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 31.8,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.3,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 36.3,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.8,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.4,
+            "reps": 7
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "50g oats + frozen veg + 2 maggi masala + 2 chicken drumsticks skinless + 2 egg whites + yogurt + 8 brussels sprouts + mushrooms + olive oil",
+      "calories": 700.0,
+      "protein_g": 65.0,
+      "carbs_g": 51.0,
+      "fat_g": 21.0,
+      "fiber_g": 10.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "70g oats + frozen veg + 2 maggi masala + 2 chicken drumsticks 300g skinless + olive oil + 5 brussels sprouts + greek yogurt 120g + 4 egg whites",
+      "calories": 870.0,
+      "protein_g": 87.0,
+      "carbs_g": 64.0,
+      "fat_g": 27.0,
+      "fiber_g": 12.0,
+      "is_estimated": true
+    }
+  ]
+}

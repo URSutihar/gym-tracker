@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-13",
+  "notes": "Workshop Day 1 of 3 (next: Jun 17, Jun 20). Last mangoes day.",
+  "body_metrics": {
+    "weight_kg": 76.4
+  },
+  "sleep": {
+    "total_sleep_minutes": 211,
+    "notes": "3h31m Watch. Bedtime 4:28 AM (2hrs late). Minimal deep sleep."
+  },
+  "activity": {
+    "move_calories": 1049.0,
+    "exercise_minutes": 145,
+    "stand_hours": 16,
+    "steps": 22182,
+    "distance_km": 14.52
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "KFC 2pc Nashville Chicken, Nashville Sauce, Pickles",
+      "calories": 655.0,
+      "protein_g": 38.0,
+      "carbs_g": 23.0,
+      "fat_g": 42.0,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snack",
+      "description": "Meiji Protein Milk (30g) + Banana",
+      "calories": 290.0,
+      "protein_g": 31.3,
+      "carbs_g": 39.0,
+      "fat_g": 2.4,
+      "fiber_g": 4.1,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "360g BI skinless drumstick + 18g tandoori, 4 boiled eggs, 10g psyllium, 3 mangoes (~680g whole), banana",
+      "calories": 1065.0,
+      "protein_g": 82.2,
+      "carbs_g": 109.5,
+      "fat_g": 36.1,
+      "fiber_g": 18.05,
+      "is_estimated": false
+    }
+  ]
+}
