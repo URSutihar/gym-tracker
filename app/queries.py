@@ -1,11 +1,34 @@
 """Data loading for the dashboard. Every function returns a pandas DataFrame."""
 
+import glob
 import os
 import sqlite3
+import subprocess
+import sys
+
 import pandas as pd
 import streamlit as st
 
-DB_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "gym_log.db")
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(ROOT, "gym_log.db")
+
+
+def ensure_db():
+    """Build gym_log.db from the committed per-day JSON history if it doesn't exist.
+
+    The .db file is gitignored, so on a fresh clone (e.g. Streamlit Community
+    Cloud) the database is reconstructed from data/YYYY-MM-DD.json — the JSONs
+    are the canonical history.
+    """
+    if os.path.exists(DB_PATH):
+        return
+    subprocess.run([sys.executable, os.path.join(ROOT, "db", "init_db.py")],
+                   cwd=ROOT, check=True)
+    subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "seed_aliases.py")],
+                   cwd=ROOT, check=True)
+    for f in sorted(glob.glob(os.path.join(ROOT, "data", "20*.json"))):
+        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "import_json.py"), f],
+                       cwd=ROOT, check=True, capture_output=True)
 
 
 def _read(sql, params=()):

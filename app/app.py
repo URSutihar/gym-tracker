@@ -13,6 +13,7 @@ def fmt(v, suffix="", nd=0):
 
 
 def main():
+    queries.ensure_db()
     daily = queries.load_daily()
     if daily.empty:
         st.warning("No data. Import a day with `python3 scripts/import_json.py data/<date>.json`.")
