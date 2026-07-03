@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-03",
+  "notes": "No gym, no weight. Next gym Monday.",
+  "sleep": {
+    "total_sleep_minutes": 446,
+    "notes": "7h26m main; +42min nap will show in tomorrow's data"
+  },
+  "activity": {
+    "move_calories": 409.0,
+    "exercise_minutes": 46,
+    "stand_hours": 9,
+    "steps": 8381,
+    "distance_km": 5.25
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice — 300g fragrant rice, bone-in skin-on chicken drumstick + add-on wings (245g total chicken with 33g bone = 212g edible skin-on meat), 23g cucumber",
+      "calories": 859.0,
+      "protein_g": 60.4,
+      "carbs_g": 85.6,
+      "fat_g": 28.5,
+      "fiber_g": 0.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 300.0,
+          "unit": "g",
+          "calories": 390.0,
+          "protein_g": 7.2,
+          "carbs_g": 85.6,
+          "fat_g": 0.9,
+          "fiber_g": 0.7
+        },
+        {
+          "food_name": "Skin-on bone-in chicken (drumstick + wings, edible meat)",
+          "quantity": 212.0,
+          "unit": "g",
+          "calories": 466.0,
+          "protein_g": 53.0,
+          "carbs_g": 0.0,
+          "fat_g": 27.6,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cucumber",
+          "quantity": 23.0,
+          "unit": "g",
+          "calories": 3.0,
+          "protein_g": 0.2,
+          "carbs_g": 0.7,
+          "fat_g": 0.0,
+          "fiber_g": 0.2
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Meiji milk 32g protein (375ml)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Small plate egg curry set — ~200g white rice, 1 egg, gravy",
+      "calories": 458.0,
+      "protein_g": 13.7,
+      "carbs_g": 63.6,
+      "fat_g": 14.8,
+      "fiber_g": 1.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "White rice",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 260.0,
+          "protein_g": 5.4,
+          "carbs_g": 57.0,
+          "fat_g": 0.5,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Boiled egg (in curry)",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Egg curry gravy (~80g, onion-tomato base)",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 120.0,
+          "protein_g": 2.0,
+          "carbs_g": 6.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 420.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1200.0,
+    "sodium_mg": 1900.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 180.0
+  }
+}
