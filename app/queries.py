@@ -13,22 +13,38 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT, "gym_log.db")
 
 
-def ensure_db():
-    """Build gym_log.db from the committed per-day JSON history if it doesn't exist.
+def _json_files():
+    return sorted(glob.glob(os.path.join(ROOT, "data", "20*.json")))
 
-    The .db file is gitignored, so on a fresh clone (e.g. Streamlit Community
-    Cloud) the database is reconstructed from data/YYYY-MM-DD.json — the JSONs
-    are the canonical history.
-    """
+
+def _rebuild_db():
     if os.path.exists(DB_PATH):
-        return
+        os.remove(DB_PATH)
     subprocess.run([sys.executable, os.path.join(ROOT, "db", "init_db.py")],
                    cwd=ROOT, check=True)
     subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "seed_aliases.py")],
                    cwd=ROOT, check=True)
-    for f in sorted(glob.glob(os.path.join(ROOT, "data", "20*.json"))):
+    for f in _json_files():
         subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "import_json.py"), f],
                        cwd=ROOT, check=True, capture_output=True)
+
+
+def ensure_db(force=False):
+    """Build gym_log.db from the committed per-day JSON history.
+
+    The .db file is gitignored, so on a fresh clone (e.g. Streamlit Community
+    Cloud) the database is reconstructed from data/YYYY-MM-DD.json — the JSONs
+    are the canonical history. The container persists across redeploys, so a
+    plain "build once" check would never pick up JSON files added by later
+    pushes; rebuild whenever any JSON is newer than the db, or when forced
+    (e.g. the dashboard's "Refresh data" button).
+    """
+    if force or not os.path.exists(DB_PATH):
+        _rebuild_db()
+        return
+    db_mtime = os.path.getmtime(DB_PATH)
+    if any(os.path.getmtime(f) > db_mtime for f in _json_files()):
+        _rebuild_db()
 
 
 def _read(sql, params=()):

@@ -163,6 +163,7 @@ def main():
                     st.plotly_chart(fig, use_container_width=True)
 
     if st.button("Refresh data"):
+        queries.ensure_db(force=True)
         st.cache_data.clear()
         st.rerun()
 
