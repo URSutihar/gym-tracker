@@ -2,8 +2,8 @@
   "date": "2026-07-03",
   "notes": "No gym, no weight. Next gym Monday.",
   "sleep": {
-    "total_sleep_minutes": 446,
-    "notes": "7h26m main; +42min nap will show in tomorrow's data"
+    "total_sleep_minutes": 404,
+    "notes": "Screenshot showed 7h26m; -42min for a nap belonging to a different day (per user correction)"
   },
   "activity": {
     "move_calories": 409.0,

@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-04",
+  "notes": "No gym. Huge incidental activity day (19,847 steps, 123 flights).",
+  "body_metrics": {
+    "weight_kg": 74.8,
+    "bmi": 23.9,
+    "body_fat_pct": 20.9,
+    "fat_mass_kg": 15.6,
+    "muscle_mass_kg": 56.1,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 53.9,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.2,
+    "bmr_kcal": 1649.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 515,
+    "notes": "Screenshot showed 8h4m; +31min per user correction"
+  },
+  "activity": {
+    "move_calories": 916.0,
+    "exercise_minutes": 128,
+    "stand_hours": 7,
+    "steps": 19847,
+    "distance_km": 12.52
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Small plate chicken rice — ~200g rice, ~100g skin-on boneless chicken, chilli + garlic paste",
+      "calories": 487.0,
+      "protein_g": 34.9,
+      "carbs_g": 61.0,
+      "fat_g": 9.9,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 260.0,
+          "protein_g": 4.8,
+          "carbs_g": 57.0,
+          "fat_g": 0.6,
+          "fiber_g": 0.4
+        },
+        {
+          "food_name": "Skin-on boneless chicken (cooked)",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 197.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 7.8,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chilli + garlic paste",
+          "quantity": 15.0,
+          "unit": "g",
+          "calories": 30.0,
+          "protein_g": 0.1,
+          "carbs_g": 4.0,
+          "fat_g": 1.5,
+          "fiber_g": 0.1
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Meiji milk 30g protein (375ml) + Biscoff biscuit pack 110g",
+      "calories": 754.0,
+      "protein_g": 36.9,
+      "carbs_g": 81.1,
+      "fat_g": 31.1,
+      "fiber_g": 2.7,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji High Protein Milk",
+          "quantity": 1.0,
+          "unit": "bottle",
+          "calories": 180.0,
+          "protein_g": 32.2,
+          "carbs_g": 8.8,
+          "fat_g": 1.8,
+          "fiber_g": 1.4
+        },
+        {
+          "food_name": "Biscoff biscuits (label: 522 kcal/100g)",
+          "quantity": 110.0,
+          "unit": "g",
+          "calories": 574.0,
+          "protein_g": 4.7,
+          "carbs_g": 72.3,
+          "fat_g": 29.3,
+          "fiber_g": 1.3
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McCrispy Spicy 2pc (McDonald's SG label)",
+      "calories": 689.0,
+      "protein_g": 39.0,
+      "carbs_g": 42.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "is_estimated": false
+    }
+  ],
+  "micros": {
+    "calcium_mg": 460.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 2600.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 190.0
+  }
+}
