@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-07",
+  "notes": "Left eye very swollen — went to clinic at midnight (likely the suspected hike bug bite from Jul 5-6 flaring up). No lunch logged.",
+  "body_metrics": {
+    "weight_kg": 74.6,
+    "bmi": 23.8,
+    "body_fat_pct": 20.8,
+    "fat_mass_kg": 15.5,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 54.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.6,
+    "bmr_kcal": 1647.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 705,
+    "notes": "Two blocks: 6:55am-3:01pm (8h6m) + 6:08pm-9:47pm (3h39m), disrupted by midnight clinic visit"
+  },
+  "activity": {
+    "move_calories": 592.0,
+    "exercise_minutes": 90,
+    "stand_hours": 8,
+    "steps": 13137,
+    "distance_km": 8.29
+  },
+  "meals": [
+    {
+      "meal_type": "midnight_snack",
+      "description": "1 pack (12pc) Oreo, eaten to take medicine at midnight",
+      "calories": 504.0,
+      "protein_g": 4.8,
+      "carbs_g": 72.8,
+      "fat_g": 21.6,
+      "fiber_g": 2.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Meiji milk 30g protein (375ml)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "250g chicken tikka masala, 1 plain naan, 1 garlic naan",
+      "calories": 1010.0,
+      "protein_g": 50.5,
+      "carbs_g": 102.0,
+      "fat_g": 43.3,
+      "fiber_g": 5.05,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken tikka masala",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 450.0,
+          "protein_g": 35.0,
+          "carbs_g": 10.0,
+          "fat_g": 30.0,
+          "fiber_g": 1.25
+        },
+        {
+          "food_name": "Plain naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 260.0,
+          "protein_g": 7.5,
+          "carbs_g": 45.0,
+          "fat_g": 5.3,
+          "fiber_g": 1.8
+        },
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 300.0,
+          "protein_g": 8.0,
+          "carbs_g": 47.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 4.0,
+    "zinc_mg": 6.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 900.0,
+    "sodium_mg": 1900.0,
+    "vitamin_c_mg": 3.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 140.0
+  }
+}

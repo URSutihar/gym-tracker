@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-06",
+  "notes": "Day after hike. Suspected bug bite near left eye from the hike (context for Jul 7's swelling).",
+  "sleep": {
+    "total_sleep_minutes": 401,
+    "notes": "4:45am to 11:26am"
+  },
+  "activity": {
+    "move_calories": 478.0,
+    "exercise_minutes": 36,
+    "stand_hours": 11,
+    "steps": 11638,
+    "distance_km": 7.33
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice — 270g rice, 120g skin-on chicken thigh (instead of usual breast), 25g cucumber, chilli paste",
+      "calories": 665.0,
+      "protein_g": 37.8,
+      "carbs_g": 81.8,
+      "fat_g": 20.3,
+      "fiber_g": 0.9,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 270.0,
+          "unit": "g",
+          "calories": 351.0,
+          "protein_g": 6.5,
+          "carbs_g": 77.0,
+          "fat_g": 0.8,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Skin-on chicken thigh (cooked)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 280.0,
+          "protein_g": 31.0,
+          "carbs_g": 0.0,
+          "fat_g": 18.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cucumber",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 4.0,
+          "protein_g": 0.2,
+          "carbs_g": 0.8,
+          "fat_g": 0.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Chilli paste",
+          "quantity": 15.0,
+          "unit": "g",
+          "calories": 30.0,
+          "protein_g": 0.1,
+          "carbs_g": 4.0,
+          "fat_g": 1.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Meiji milk 32g protein (375ml)",
+      "calories": 180.0,
+      "protein_g": 32.2,
+      "carbs_g": 8.8,
+      "fat_g": 1.8,
+      "fiber_g": 1.4,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Stuff'd chicken burrito (regular wrap, chicken, cilantro rice, iceberg lettuce, tomato salsa, habanero, add-on cheese, add-on guacamole, no nacho add-ons) + 515g mango (incl. peel/seed, ~360g edible flesh)",
+      "calories": 1066.0,
+      "protein_g": 61.2,
+      "carbs_g": 143.1,
+      "fat_g": 30.9,
+      "fiber_g": 11.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Regular wrap (tortilla)",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 210.0,
+          "protein_g": 6.0,
+          "carbs_g": 34.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Grilled chicken filling",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 230.0,
+          "protein_g": 40.0,
+          "carbs_g": 0.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cilantro rice",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 220.0,
+          "protein_g": 4.0,
+          "carbs_g": 45.0,
+          "fat_g": 3.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Iceberg lettuce + tomato salsa + habanero",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 30.0,
+          "protein_g": 0.7,
+          "carbs_g": 6.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Add-on cheese",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 110.0,
+          "protein_g": 7.0,
+          "carbs_g": 1.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Add-on guacamole",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 0.6,
+          "carbs_g": 3.0,
+          "fat_g": 4.5,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Mango (edible flesh, ~70% of 515g incl. peel/seed)",
+          "quantity": 360.0,
+          "unit": "g",
+          "calories": 216.0,
+          "protein_g": 2.9,
+          "carbs_g": 54.1,
+          "fat_g": 1.4,
+          "fiber_g": 5.8
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 520.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 2000.0,
+    "vitamin_c_mg": 55.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 260.0
+  }
+}
