@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-09",
+  "notes": "Eye healing — confirmed acid-burn from bug injection on eyelid, flaking now. Massive incidental activity day.",
+  "sleep": {
+    "total_sleep_minutes": 454,
+    "notes": "Split blocks visible in chart (~9PM-2AM + midday)"
+  },
+  "activity": {
+    "move_calories": 1029.0,
+    "exercise_minutes": 98,
+    "stand_hours": 14,
+    "steps": 25718,
+    "distance_km": 16.34
+  },
+  "meals": [
+    {
+      "meal_type": "midnight_snack",
+      "description": "Biscoff biscuit pack 156g (label: 484 kcal/100g, 19g fat, 4.9g P, 72.6g C, 1.3g fibre)",
+      "calories": 755.0,
+      "protein_g": 7.6,
+      "carbs_g": 113.3,
+      "fat_g": 29.6,
+      "fiber_g": 2.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template, with soup)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Wingstop 6pc boneless wings + cheese sauce",
+      "calories": 500.0,
+      "protein_g": 33.0,
+      "carbs_g": 25.0,
+      "fat_g": 28.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Boneless wings 6pc",
+          "quantity": 6.0,
+          "unit": "pc",
+          "calories": 400.0,
+          "protein_g": 30.0,
+          "carbs_g": 22.0,
+          "fat_g": 20.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Cheese dipping sauce",
+          "quantity": 40.0,
+          "unit": "g",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Subway 6\" Egg Mayo on Parmesan Oregano + cheese slice + onions + capsicum + cheese sauce, + 1 raspberry cookie",
+      "calories": 750.0,
+      "protein_g": 26.5,
+      "carbs_g": 72.5,
+      "fat_g": 42.5,
+      "fiber_g": 4.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "6\" Egg Mayo sub (parmesan oregano)",
+          "quantity": 1.0,
+          "unit": "sub",
+          "calories": 430.0,
+          "protein_g": 20.0,
+          "carbs_g": 43.0,
+          "fat_g": 22.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Cheese slice + cheese sauce",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 120.0,
+          "protein_g": 4.5,
+          "carbs_g": 2.5,
+          "fat_g": 10.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Onions + capsicum",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 10.0,
+          "protein_g": 0.3,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Raspberry cookie",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 200.0,
+          "protein_g": 1.7,
+          "carbs_g": 27.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 600.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 3200.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
