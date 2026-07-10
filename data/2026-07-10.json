@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-10",
+  "notes": "Very short night sleep (~2h24m block, 5AM-8AM only). Big incidental activity again (19,900 steps).",
+  "sleep": {
+    "total_sleep_minutes": 144,
+    "notes": "Single ~5AM-8AM block only, no earlier nighttime sleep"
+  },
+  "activity": {
+    "move_calories": 794.0,
+    "exercise_minutes": 52,
+    "stand_hours": 15,
+    "steps": 19900,
+    "distance_km": 12.6
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template, with soup)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 pack (12pc) Oreo",
+      "calories": 504.0,
+      "protein_g": 4.8,
+      "carbs_g": 72.8,
+      "fat_g": 21.6,
+      "fiber_g": 2.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Korean BBQ chicken hotplate (chicken + onions + cabbage) + rice + kimchi, cheese tart, cream puff",
+      "calories": 1300.0,
+      "protein_g": 57.3,
+      "carbs_g": 117.0,
+      "fat_g": 56.7,
+      "fiber_g": 3.9,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Korean BBQ chicken hotplate (chicken ~350g + onions + cabbage)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 600.0,
+          "protein_g": 45.0,
+          "carbs_g": 15.0,
+          "fat_g": 30.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "White rice (~200g)",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 260.0,
+          "protein_g": 4.8,
+          "carbs_g": 57.0,
+          "fat_g": 0.6,
+          "fiber_g": 0.4
+        },
+        {
+          "food_name": "Kimchi (~30g)",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 10.0,
+          "protein_g": 0.5,
+          "carbs_g": 2.0,
+          "fat_g": 0.1,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Cheese tart",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 25.0,
+          "fat_g": 15.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cream puff",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 180.0,
+          "protein_g": 3.0,
+          "carbs_g": 18.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 550.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2400.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
