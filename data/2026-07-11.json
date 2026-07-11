@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-11",
+  "notes": "2 meals only (lunch + dinner). Strong sleep night (8h1m). Third 19k+ step day this week.",
+  "sleep": {
+    "total_sleep_minutes": 481,
+    "notes": "~2AM-11AM main block with multiple deep+REM cycles"
+  },
+  "activity": {
+    "move_calories": 690.0,
+    "exercise_minutes": 29,
+    "stand_hours": 12,
+    "steps": 19746,
+    "distance_km": 12.6
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken hor fun (from Hainanese chicken rice stall — flat rice noodles, steamed chicken, soup)",
+      "calories": 500.0,
+      "protein_g": 35.0,
+      "carbs_g": 65.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Flat rice noodles (hor fun)",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 4.5,
+          "carbs_g": 55.0,
+          "fat_g": 0.5,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Steamed skin-on chicken",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 200.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Clear soup + garnish",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 50.0,
+          "protein_g": 0.5,
+          "carbs_g": 10.0,
+          "fat_g": 0.5,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Guzman Y Gomez Spicy Grilled Chicken Enchilada (official label)",
+      "calories": 1110.0,
+      "protein_g": 56.0,
+      "carbs_g": 127.0,
+      "fat_g": 46.0,
+      "fiber_g": 12.0,
+      "is_estimated": false
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 3600.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 180.0
+  }
+}
