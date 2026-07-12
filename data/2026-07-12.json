@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-12",
+  "notes": "Zero sleep. Apple Watch died and missed ~5km of walking — activity numbers below are adjusted upward (steps +~6500, distance +5km, move cal +~250, ex min +~55).",
+  "sleep": {
+    "total_sleep_minutes": 0,
+    "notes": "No sleep at all"
+  },
+  "activity": {
+    "move_calories": 655.0,
+    "exercise_minutes": 62,
+    "stand_hours": 9,
+    "steps": 16631,
+    "distance_km": 11.33
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Curry chicken hor fun — left ~30% of the noodles; ate all tofu puffs, egg, and chicken",
+      "calories": 900.0,
+      "protein_g": 48.0,
+      "carbs_g": 72.0,
+      "fat_g": 41.0,
+      "fiber_g": 2.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Flat rice noodles in curry (~70% of portion)",
+          "quantity": 245.0,
+          "unit": "g",
+          "calories": 350.0,
+          "protein_g": 6.0,
+          "carbs_g": 60.0,
+          "fat_g": 8.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Curry gravy + chicken",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 380.0,
+          "protein_g": 30.0,
+          "carbs_g": 8.0,
+          "fat_g": 22.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Tofu puffs (~3pc)",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 90.0,
+          "protein_g": 6.0,
+          "carbs_g": 3.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Egg (in curry)",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 80.0,
+          "protein_g": 6.0,
+          "carbs_g": 1.0,
+          "fat_g": 5.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 garlic naan, 1/2 kadai chicken, 3 paani puri",
+      "calories": 740.0,
+      "protein_g": 40.0,
+      "carbs_g": 70.0,
+      "fat_g": 33.0,
+      "fiber_g": 4.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 300.0,
+          "protein_g": 8.0,
+          "carbs_g": 47.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Kadai chicken (~1/2 portion, ~200g)",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 350.0,
+          "protein_g": 30.0,
+          "carbs_g": 8.0,
+          "fat_g": 22.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Paani puri",
+          "quantity": 3.0,
+          "unit": "pc",
+          "calories": 90.0,
+          "protein_g": 2.0,
+          "carbs_g": 15.0,
+          "fat_g": 3.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 2600.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 190.0
+  }
+}
