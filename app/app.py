@@ -45,8 +45,9 @@ def main():
     c[5].metric("Sleep (7d avg)", fmt(last7["total_sleep_minutes"].mean() / 60
                                       if last7["total_sleep_minutes"].notna().any() else None, " h", 1))
 
-    tab_energy, tab_nutrition, tab_training, tab_sleep, tab_body = st.tabs(
-        ["⚖️ Energy & Goal", "🍽️ Nutrition", "🏋️ Training", "😴 Sleep & Recovery", "🧬 Body Comp"])
+    tab_energy, tab_nutrition, tab_training, tab_sleep, tab_activity, tab_body = st.tabs(
+        ["⚖️ Energy & Goal", "🍽️ Nutrition", "🏋️ Training", "😴 Sleep & Recovery",
+         "🚶 Activity", "🧬 Body Comp"])
 
     # ── Energy & Goal ───────────────────────────────────────────────────────
     with tab_energy:
@@ -136,6 +137,25 @@ def main():
     # ── Sleep & Recovery ────────────────────────────────────────────────────
     with tab_sleep:
         st.plotly_chart(charts.sleep_chart(df, days=90), use_container_width=True)
+
+    # ── Activity ────────────────────────────────────────────────────────────
+    with tab_activity:
+        steps_series = df["steps"].dropna()
+        dist_series = df["distance_km"].dropna()
+        if steps_series.empty:
+            st.info("No activity data logged yet.")
+        else:
+            latest_date = steps_series.index[-1]
+            latest_steps = steps_series.iloc[-1]
+            latest_dist = df.loc[latest_date, "distance_km"] if latest_date in df.index else None
+            a = st.columns(4)
+            a[0].metric(f"Steps ({latest_date.strftime('%b %d')})", fmt(latest_steps, "", 0))
+            a[1].metric(f"Distance ({latest_date.strftime('%b %d')})", fmt(latest_dist, " km", 2))
+            a[2].metric("Steps (7d avg)", fmt(last7["steps"].mean(), "", 0))
+            a[3].metric("Distance (7d avg)", fmt(last7["distance_km"].mean(), " km", 2))
+            fig = charts.steps_chart(df, days=60)
+            if fig:
+                st.plotly_chart(fig, use_container_width=True)
 
     # ── Body Comp ───────────────────────────────────────────────────────────
     with tab_body:

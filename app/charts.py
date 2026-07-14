@@ -159,6 +159,30 @@ def sleep_chart(df, days=60):
     return _base_layout(fig, f"Sleep (last {days}d) — red under 6h", "hours")
 
 
+# ── Activity ────────────────────────────────────────────────────────────────
+
+def steps_chart(df, days=60):
+    """Daily steps as bars with a 7-day rolling average; distance shown on hover."""
+    recent = df.iloc[-days:]
+    steps = recent["steps"].dropna()
+    if steps.empty:
+        return None
+    dist = recent["distance_km"].reindex(steps.index)
+    hover_dist = [f"{d:.2f} km" if pd.notna(d) else "—" for d in dist]
+    fig = go.Figure()
+    fig.add_trace(go.Bar(
+        x=steps.index, y=steps, name="Daily steps",
+        marker_color=BLUE, opacity=0.7,
+        customdata=hover_dist,
+        hovertemplate="%{y:,.0f} steps<br>%{customdata}<extra></extra>",
+    ))
+    avg7 = recent["steps"].rolling(7, min_periods=3).mean().dropna()
+    fig.add_trace(go.Scatter(x=avg7.index, y=avg7, mode="lines", name="7d avg",
+                             line=dict(color="white", width=2)))
+    fig.add_hline(y=10000, line_dash="dash", line_color=GREEN, annotation_text="10k target")
+    return _base_layout(fig, f"Steps (last {days}d)", "steps")
+
+
 # ── Micronutrients ──────────────────────────────────────────────────────────
 
 # label: (column, target, unit, is_upper_limit)
