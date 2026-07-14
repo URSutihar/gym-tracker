@@ -10,7 +10,7 @@ import pandas as pd
 import streamlit as st
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_PATH = os.path.join(ROOT, "gym_log.db")
+DB_PATH = os.environ.get("GYM_LOG_DB_PATH", os.path.join(ROOT, "gym_log.db"))
 
 
 def _json_files():
@@ -18,15 +18,30 @@ def _json_files():
 
 
 def _rebuild_db():
-    if os.path.exists(DB_PATH):
-        os.remove(DB_PATH)
-    subprocess.run([sys.executable, os.path.join(ROOT, "db", "init_db.py")],
-                   cwd=ROOT, check=True)
-    subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "seed_aliases.py")],
-                   cwd=ROOT, check=True)
-    for f in _json_files():
-        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "import_json.py"), f],
-                       cwd=ROOT, check=True, capture_output=True)
+    """Rebuild gym_log.db atomically: build to a sibling temp path, then swap.
+
+    If any import fails partway, the partial DB is discarded and DB_PATH is left
+    untouched (or removed if it didn't exist). Without this, a partial rebuild
+    would leave the real DB with only the imports that succeeded, plus a fresh
+    mtime — permanently defeating the "is any JSON newer than the db?" check.
+    """
+    tmp_path = DB_PATH + ".rebuild.tmp"
+    if os.path.exists(tmp_path):
+        os.remove(tmp_path)
+    env = {**os.environ, "GYM_LOG_DB_PATH": tmp_path}
+    try:
+        subprocess.run([sys.executable, os.path.join(ROOT, "db", "init_db.py")],
+                       cwd=ROOT, check=True, env=env)
+        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "seed_aliases.py")],
+                       cwd=ROOT, check=True, env=env)
+        for f in _json_files():
+            subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "import_json.py"), f],
+                           cwd=ROOT, check=True, capture_output=True, env=env)
+    except Exception:
+        if os.path.exists(tmp_path):
+            os.remove(tmp_path)
+        raise
+    os.replace(tmp_path, DB_PATH)
 
 
 def ensure_db(force=False):

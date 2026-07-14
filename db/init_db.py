@@ -1,7 +1,10 @@
 import sqlite3
 import os
 
-DB_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'gym_log.db')
+DB_PATH = os.environ.get(
+    'GYM_LOG_DB_PATH',
+    os.path.join(os.path.dirname(os.path.dirname(__file__)), 'gym_log.db'),
+)
 SCHEMA_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'schema.sql')
 
 def initialize_database():
