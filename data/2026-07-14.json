@@ -1,9 +1,24 @@
 {
   "date": "2026-07-14",
-  "notes": "No gym. No weight scan today (recovering hydration). Sleep chart ambiguous — estimating ~4h for Jul 14 night after excluding the 1h15m Jul-13-evening nap that Apple counted into today.",
+  "notes": "No gym. Weight scan Jul 14 12:05 = 73.6 kg (same as yesterday) but body water +0.6% and skeletal muscle +0.6 kg vs Jul 13 — confirms yesterday's low reading was dehydration-inflated. HR back to 78, visceral 9, WHR 1.1 — all normalizing.",
+  "body_metrics": {
+    "weight_kg": 73.6,
+    "bmi": 23.5,
+    "body_fat_pct": 20.5,
+    "fat_mass_kg": 15.1,
+    "muscle_mass_kg": 55.3,
+    "skeletal_muscle_mass_kg": 28.3,
+    "body_water_pct": 53.5,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.4,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.1
+  },
   "sleep": {
-    "total_sleep_minutes": 240,
-    "notes": "Estimated ~4h from chart (main morning block + short nap), after user-flagged subtraction of 1h15m evening nap belonging to Jul 13"
+    "total_sleep_minutes": 434,
+    "notes": "Screenshot total 8h29m minus 1h15m evening nap belonging to Jul 13 = 7h14m for Jul 14 night"
   },
   "activity": {
     "move_calories": 549.0,
@@ -77,12 +92,12 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Chicken Dum Biryani — 500g rice, 150g boneless chicken, 50g egg (~1), raita, biryani gravy",
-      "calories": 1250.0,
-      "protein_g": 60.5,
-      "carbs_g": 138.6,
-      "fat_g": 46.3,
-      "fiber_g": 3.5,
+      "description": "Chicken Dum Biryani — 500g rice, 150g boneless chicken, 50g egg (~1), raita, biryani gravy + 10g psyllium husk",
+      "calories": 1285.0,
+      "protein_g": 60.8,
+      "carbs_g": 146.4,
+      "fat_g": 46.4,
+      "fiber_g": 10.5,
       "is_estimated": true,
       "foods": [
         {
@@ -134,6 +149,16 @@
           "carbs_g": 4.0,
           "fat_g": 6.0,
           "fiber_g": 0.3
+        },
+        {
+          "food_name": "Psyllium husk",
+          "quantity": 10.0,
+          "unit": "g",
+          "calories": 35.0,
+          "protein_g": 0.3,
+          "carbs_g": 7.8,
+          "fat_g": 0.1,
+          "fiber_g": 7.0
         }
       ]
     }
