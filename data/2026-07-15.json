@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-15",
+  "notes": "Weight rebound to 74.7 kg (+1.1) — body water +0.9 kg confirms yesterday's low was dehydration. Skeletal muscle also rebounded +0.7. Real weight now closer to true (rehydrated) baseline.",
+  "body_metrics": {
+    "weight_kg": 74.7,
+    "bmi": 23.8,
+    "body_fat_pct": 20.9,
+    "fat_mass_kg": 15.6,
+    "muscle_mass_kg": 56.0,
+    "skeletal_muscle_mass_kg": 29.0,
+    "body_water_pct": 53.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 15.2,
+    "bmr_kcal": 1647.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 493,
+    "notes": "Screenshot 7h14m - 1h9m (belongs elsewhere) + 2h8m (earlier block not shown) = 8h13m"
+  },
+  "activity": {
+    "move_calories": 516.0,
+    "exercise_minutes": 67,
+    "stand_hours": 10,
+    "steps": 10346,
+    "distance_km": 6.52
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese set — roasted chicken drumstick (no add-on meat), rice, soup, chilli",
+      "calories": 640.0,
+      "protein_g": 32.0,
+      "carbs_g": 81.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 270.0,
+          "unit": "g",
+          "calories": 351.0,
+          "protein_g": 6.5,
+          "carbs_g": 77.0,
+          "fat_g": 0.8,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Roasted chicken drumstick (skin-on)",
+          "quantity": 120.0,
+          "unit": "g cooked",
+          "calories": 240.0,
+          "protein_g": 25.0,
+          "carbs_g": 0.0,
+          "fat_g": 14.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken soup + chilli",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 49.0,
+          "protein_g": 0.5,
+          "carbs_g": 4.0,
+          "fat_g": 1.2,
+          "fiber_g": 0.4
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "240g raw BI skinless drumstick + 13g tandoori paste, 10g psyllium husk, instant noodle pack (105g, label: 470 cal), 2 boiled eggs",
+      "calories": 856.0,
+      "protein_g": 67.9,
+      "carbs_g": 76.8,
+      "fat_g": 41.7,
+      "fiber_g": 10.76,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "BI skinless drumstick + tandoori paste",
+          "quantity": 240.0,
+          "unit": "g raw",
+          "calories": 195.0,
+          "protein_g": 48.0,
+          "carbs_g": 5.0,
+          "fat_g": 10.4,
+          "fiber_g": 0.76
+        },
+        {
+          "food_name": "Instant noodle pack (label 470 kcal)",
+          "quantity": 105.0,
+          "unit": "g",
+          "calories": 470.0,
+          "protein_g": 7.0,
+          "carbs_g": 63.0,
+          "fat_g": 21.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 2.0,
+          "unit": "large",
+          "calories": 156.0,
+          "protein_g": 12.6,
+          "carbs_g": 1.2,
+          "fat_g": 10.2,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Psyllium husk",
+          "quantity": 10.0,
+          "unit": "g",
+          "calories": 35.0,
+          "protein_g": 0.3,
+          "carbs_g": 7.8,
+          "fat_g": 0.1,
+          "fiber_g": 7.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 400.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
