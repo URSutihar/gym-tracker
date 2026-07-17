@@ -1,0 +1,101 @@
+{
+  "date": "2026-07-16",
+  "notes": "Sleep reset attempt — pulled all-nighter to break circadian shift. Big McD dinner + midnight noodles.",
+  "sleep": {
+    "total_sleep_minutes": 0,
+    "notes": "Zero sleep (intentional reset — trying to fix inverted circadian)"
+  },
+  "activity": {
+    "move_calories": 625.0,
+    "exercise_minutes": 48,
+    "stand_hours": 15,
+    "steps": 12704,
+    "distance_km": 7.87
+  },
+  "meals": [
+    {
+      "meal_type": "midnight_snack",
+      "description": "Instant noodle pack (120g, label: 500 kcal, 17g fat, 76g C, 10g P, 5g fibre, 1270mg sodium)",
+      "calories": 500.0,
+      "protein_g": 10.0,
+      "carbs_g": 76.0,
+      "fat_g": 17.0,
+      "fiber_g": 5.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's SG: 2pc McCrispy Spicy, Pineapple Coconut Pie, medium fries, Potato Curry Chicken Burger, 4pc Sweet Potato Mochi Balls",
+      "calories": 1994.0,
+      "protein_g": 67.0,
+      "carbs_g": 200.0,
+      "fat_g": 102.0,
+      "fiber_g": 10.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "McCrispy Spicy 2pc (McD SG label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Pineapple Coconut Pie",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 230.0,
+          "protein_g": 2.0,
+          "carbs_g": 28.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Medium Fries",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 355.0,
+          "protein_g": 4.0,
+          "carbs_g": 45.0,
+          "fat_g": 17.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Potato Curry Chicken Burger (SG LTO)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 500.0,
+          "protein_g": 20.0,
+          "carbs_g": 55.0,
+          "fat_g": 22.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Sweet Potato Mochi Balls",
+          "quantity": 4.0,
+          "unit": "pc",
+          "calories": 220.0,
+          "protein_g": 2.0,
+          "carbs_g": 30.0,
+          "fat_g": 10.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 320.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 6.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 3800.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 180.0
+  }
+}
