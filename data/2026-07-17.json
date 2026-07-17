@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-17",
+  "notes": "Sleep reset succeeded — 11h11m recovery sleep after Jul 16's zero-sleep. Weight 73.6 kg with fat mass 14.8 kg (new low) and body fat 20.1% (new low). This is the strongest real body-comp reading yet.",
+  "body_metrics": {
+    "weight_kg": 73.6,
+    "bmi": 23.5,
+    "body_fat_pct": 20.1,
+    "fat_mass_kg": 14.8,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 29.5,
+    "body_water_pct": 55.3,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 671,
+    "notes": "11h11m rebound after intentional sleep reset — many deep+REM cycles across ~9PM-9AM"
+  },
+  "activity": {
+    "move_calories": 347.0,
+    "exercise_minutes": 14,
+    "stand_hours": 6,
+    "steps": 8469,
+    "distance_km": 5.3
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template, with soup)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Roasted duck rice with add-on meat",
+      "calories": 880.0,
+      "protein_g": 55.0,
+      "carbs_g": 80.0,
+      "fat_g": 37.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Roasted duck rice (base portion: rice + duck)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 700.0,
+          "protein_g": 40.0,
+          "carbs_g": 80.0,
+          "fat_g": 25.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Add-on duck meat (~80g)",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 180.0,
+          "protein_g": 15.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Golden Village large popcorn (mixed salted + sweet)",
+      "calories": 750.0,
+      "protein_g": 8.0,
+      "carbs_g": 90.0,
+      "fat_g": 40.0,
+      "fiber_g": 6.0,
+      "is_estimated": true
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2400.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
