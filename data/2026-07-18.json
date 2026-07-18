@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-18",
+  "notes": "Weight 74.6 kg (+1.0) — mix of real regain from Jul 17 popcorn + tonight's noodles/Oreo and water bounce. Body water +0.4 kg confirms partial artifact. Real weight likely 74.1-74.3.",
+  "body_metrics": {
+    "weight_kg": 74.6,
+    "bmi": 23.8,
+    "body_fat_pct": 20.6,
+    "fat_mass_kg": 15.4,
+    "muscle_mass_kg": 56.1,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 55.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1649.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 447,
+    "notes": "Bedtime 11:31 PM (near-normal cycle!) — clean sleep architecture 3AM-12PM, multiple deep+REM cycles"
+  },
+  "activity": {
+    "move_calories": 864.0,
+    "exercise_minutes": 120,
+    "stand_hours": 12,
+    "steps": 20494,
+    "distance_km": 12.68
+  },
+  "meals": [
+    {
+      "meal_type": "late_night_snack",
+      "description": "Samyang noodle bowl (105g pack, label: 410 kcal, 15g fat, 63g C, 9g P, 5g fibre, 1000mg sodium) + 1 pack (12pc) Oreo",
+      "calories": 914.0,
+      "protein_g": 13.8,
+      "carbs_g": 135.8,
+      "fat_g": 36.6,
+      "fiber_g": 7.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Samyang noodle pack (label)",
+          "quantity": 105.0,
+          "unit": "g",
+          "calories": 410.0,
+          "protein_g": 9.0,
+          "carbs_g": 63.0,
+          "fat_g": 15.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Oreo pack (12pc)",
+          "quantity": 1.0,
+          "unit": "pack",
+          "calories": 504.0,
+          "protein_g": 4.8,
+          "carbs_g": 72.8,
+          "fat_g": 21.6,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1/2 cream cheese waffle + Stuff'd chicken burrito (regular wrap, grilled chicken + add-on chicken, cilantro rice, adobo black beans, iceberg, tomato salsa, cheese, sour cream, spicy habanero)",
+      "calories": 1290.0,
+      "protein_g": 91.7,
+      "carbs_g": 130.0,
+      "fat_g": 45.0,
+      "fiber_g": 6.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "1/2 cream cheese waffle",
+          "quantity": 1.0,
+          "unit": "half",
+          "calories": 200.0,
+          "protein_g": 4.0,
+          "carbs_g": 25.0,
+          "fat_g": 10.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Regular wrap (tortilla)",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 210.0,
+          "protein_g": 6.0,
+          "carbs_g": 34.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Grilled chicken filling",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 230.0,
+          "protein_g": 40.0,
+          "carbs_g": 0.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Add-on chicken (~80g extra)",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 130.0,
+          "protein_g": 24.0,
+          "carbs_g": 0.0,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cilantro rice",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 220.0,
+          "protein_g": 4.0,
+          "carbs_g": 45.0,
+          "fat_g": 3.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Adobo black beans",
+          "quantity": 60.0,
+          "unit": "g",
+          "calories": 100.0,
+          "protein_g": 5.0,
+          "carbs_g": 18.0,
+          "fat_g": 1.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Cheese add-on",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 110.0,
+          "protein_g": 7.0,
+          "carbs_g": 1.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sour cream",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 60.0,
+          "protein_g": 1.0,
+          "carbs_g": 1.0,
+          "fat_g": 5.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Iceberg + tomato salsa + habanero",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 30.0,
+          "protein_g": 0.7,
+          "carbs_g": 6.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 420.0,
+    "iron_mg": 7.0,
+    "zinc_mg": 9.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 3200.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 220.0
+  }
+}
