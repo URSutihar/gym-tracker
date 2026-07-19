@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-19",
+  "notes": "Hike day — 20,267 steps / 12.79 km / 88 exercise min / 995 move kcal. Informal chest & tricep gym session (no proper log, not counted in AW exercise). Weight 74.2 kg (-0.4 vs Jul 18) with body water 54.4% and skeletal muscle 29.2 kg — small artifact swing, real trend still ~74.1-74.4.",
+  "body_metrics": {
+    "weight_kg": 74.2,
+    "bmi": 23.7,
+    "body_fat_pct": 20.5,
+    "fat_mass_kg": 15.2,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 29.2,
+    "body_water_pct": 54.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.9,
+    "bmr_kcal": 1644.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 301,
+    "notes": "5h 1min total — screenshot shows split: main overnight block ~10PM-3AM plus a midday nap block (~10AM-1PM after hike)"
+  },
+  "activity": {
+    "move_calories": 995.0,
+    "exercise_minutes": 88,
+    "stand_hours": 16,
+    "steps": 20267,
+    "distance_km": 12.79
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Curry Katsudon bowl (Japanese curry, breaded chicken cutlet, rice, egg)",
+      "calories": 900.0,
+      "protein_g": 40.0,
+      "carbs_g": 100.0,
+      "fat_g": 35.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Japanese white rice",
+          "quantity": 250.0,
+          "unit": "g cooked",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 72.0,
+          "fat_g": 0.8,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Chicken katsu (breaded, fried)",
+          "quantity": 150.0,
+          "unit": "g cooked",
+          "calories": 350.0,
+          "protein_g": 28.0,
+          "carbs_g": 15.0,
+          "fat_g": 20.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Japanese curry sauce",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 147.0,
+          "protein_g": 2.5,
+          "carbs_g": 12.0,
+          "fat_g": 10.0,
+          "fiber_g": 1.4
+        },
+        {
+          "food_name": "Egg (soft/half-boiled topping)",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Meiji banana (30g pack)",
+      "calories": 155.0,
+      "protein_g": 2.0,
+      "carbs_g": 20.0,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "3/4 plate BBQ chicken hotplate (university Korean stall — marinated chicken, rice, veg on sizzling plate)",
+      "calories": 595.0,
+      "protein_g": 35.0,
+      "carbs_g": 75.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Korean BBQ chicken (marinated, cooked)",
+          "quantity": 180.0,
+          "unit": "g cooked",
+          "calories": 350.0,
+          "protein_g": 30.0,
+          "carbs_g": 10.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Rice (3/4 portion)",
+          "quantity": 150.0,
+          "unit": "g cooked",
+          "calories": 195.0,
+          "protein_g": 4.0,
+          "carbs_g": 43.0,
+          "fat_g": 0.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Sizzling plate veg (onion, cabbage)",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 8.0,
+          "fat_g": 1.5,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "late_night_snack",
+      "description": "Popeyes SG — Chicken Shepherd's Pie + 1pc Fried Chicken + Hainanese fragrant rice",
+      "calories": 1060.0,
+      "protein_g": 50.0,
+      "carbs_g": 115.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Popeyes Chicken Shepherd's Pie (SG LTO)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 450.0,
+          "protein_g": 20.0,
+          "carbs_g": 45.0,
+          "fat_g": 20.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Popeyes Fried Chicken (1pc bone-in, avg cut)",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 350.0,
+          "protein_g": 25.0,
+          "carbs_g": 15.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Hainanese fragrant rice",
+          "quantity": 200.0,
+          "unit": "g cooked",
+          "calories": 260.0,
+          "protein_g": 5.0,
+          "carbs_g": 55.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 350.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1800.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 220.0
+  }
+}
