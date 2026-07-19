@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "notes": "Hike day — 20,267 steps / 12.79 km / 88 exercise min / 995 move kcal. Informal chest & tricep gym session (no proper log, not counted in AW exercise). Weight 74.2 kg (-0.4 vs Jul 18) with body water 54.4% and skeletal muscle 29.2 kg — small artifact swing, real trend still ~74.1-74.4.",
+  "notes": "Hike day — 20,267 steps / 12.79 km / 88 exercise min / 995 move kcal. Informal chest & tricep gym session (no proper log, not counted in AW exercise). Weight 74.2 kg (-0.4 vs Jul 18) with body water 54.4% and skeletal muscle 29.2 kg — small artifact swing, real trend still ~74.1-74.4. Meiji banana corrected to 180/30/9/2 using template values (Jul 20 correction).",
   "body_metrics": {
     "weight_kg": 74.2,
     "bmi": 23.7,
@@ -82,13 +82,13 @@
     },
     {
       "meal_type": "snacks",
-      "description": "Meiji banana (30g pack)",
-      "calories": 155.0,
-      "protein_g": 2.0,
-      "carbs_g": 20.0,
-      "fat_g": 7.5,
-      "fiber_g": 0.5,
-      "is_estimated": true
+      "description": "Meiji High Protein Milk 350ml — banana flavor (30g protein variant)",
+      "calories": 180.0,
+      "protein_g": 30.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
     },
     {
       "meal_type": "dinner",
@@ -176,15 +176,15 @@
     }
   ],
   "micros": {
-    "calcium_mg": 350.0,
+    "calcium_mg": 630.0,
     "iron_mg": 6.0,
-    "zinc_mg": 8.0,
-    "b12_ug": 3.0,
-    "potassium_mg": 1800.0,
-    "sodium_mg": 3400.0,
+    "zinc_mg": 8.5,
+    "b12_ug": 4.0,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 3450.0,
     "vitamin_c_mg": 10.0,
-    "vitamin_d_ug": 2.0,
+    "vitamin_d_ug": 2.5,
     "omega3_g": 0.3,
-    "magnesium_mg": 220.0
+    "magnesium_mg": 245.0
   }
 }

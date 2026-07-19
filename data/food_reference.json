@@ -14,22 +14,50 @@
       "notes": "Settled value used consistently since late April."
     },
     {
-      "name": "Meiji High Protein Milk",
+      "name": "Meiji High Protein Milk — 30g flavored (banana/chocolate/matcha)",
       "aliases": [
-        "meiji protein milk 350ml",
-        "meiji high protein milk",
-        "meiji regular milk 30g",
-        "meiji regular milk 32g",
-        "milk choco (30g protein) - meiji 350ml"
+        "meji 30g",
+        "meji (30g)",
+        "meji milk 30g",
+        "meiji 30g flavored",
+        "meiji high protein banana",
+        "meiji high protein chocolate",
+        "meiji high protein matcha",
+        "meiji high protein green tea",
+        "milk choco (30g protein) - meiji 350ml",
+        "meji banana",
+        "meji chocolate",
+        "meji matcha"
       ],
-      "serving": "350-375ml bottle (label: 30-32g protein)",
+      "serving": "350ml bottle (label: 30g protein, flavored)",
       "calories": 180,
-      "protein_g": 32.2,
-      "carbs_g": 8.8,
+      "protein_g": 30.0,
+      "carbs_g": 9.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "confirmed": "2026-07-20",
+      "notes": "Flavored variants (Banana/Chocolate/Matcha) — labels: banana 176 kcal/9g C, chocolate 179/9.8g C, matcha ~165/lower C. User rounds all to 180 kcal. Whey-based, no added sucrose. Source: CP-Meiji SG label + FatSecret SG."
+    },
+    {
+      "name": "Meiji High Protein Milk — 32g plain (unflavored)",
+      "aliases": [
+        "meji 32g",
+        "meji (32g)",
+        "meji milk 32g",
+        "meiji 32g plain",
+        "meiji high protein plain",
+        "meiji regular milk 32g",
+        "meji plain",
+        "meji unflavored"
+      ],
+      "serving": "350ml bottle (label: 32g protein, plain)",
+      "calories": 180,
+      "protein_g": 32.0,
+      "carbs_g": 10.0,
       "fat_g": 1.8,
-      "fiber_g": 1.4,
-      "confirmed": "2026-06-29",
-      "notes": "Logged under many spellings; all the same bottle. '+ banana' composite = 285 / 33.5 / 35.8 / 2.2 / 4.5."
+      "fiber_g": 0.0,
+      "confirmed": "2026-07-20",
+      "notes": "Plain unflavored variant. Source: MyNetDiary + CP-Meiji SG label."
     },
     {
       "name": "Psyllium husk",
