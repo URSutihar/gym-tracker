@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-20",
+  "notes": "Weight 74.0 kg (-0.2) — genuine new low, body water 54.9% (+0.5, well hydrated) so this is a real reading, not an artifact. Fat mass holding at 15.2 kg. Sleep is two blocks combined: 6h50m morning block (labeled 20 Jul) + 3h23m evening nap (Apple labeled 21 Jul but it's the evening nap on the 20th). Circadian still inverted (bedtime 8:26 PM).",
+  "body_metrics": {
+    "weight_kg": 74.0,
+    "bmi": 23.6,
+    "body_fat_pct": 20.5,
+    "fat_mass_kg": 15.2,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 54.9,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.5,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 613,
+    "notes": "Combined: 6h50m main sleep (8AM-2PM block) + 3h23m evening nap (8:26PM-11:49PM). Fragmented across the day — inverted circadian. Bedtime 8:26 PM."
+  },
+  "activity": {
+    "move_calories": 698.0,
+    "exercise_minutes": 70,
+    "stand_hours": 12,
+    "steps": 16239,
+    "distance_km": 10.36
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Big portion garlic naan, butter chicken (skipped most gravy — chicken-forward), aloo gobi — ate ~70% of the plate",
+      "calories": 970.0,
+      "protein_g": 43.0,
+      "carbs_g": 110.0,
+      "fat_g": 41.0,
+      "fiber_g": 8.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan (big portion, ~2 pieces)",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 500.0,
+          "protein_g": 13.0,
+          "carbs_g": 82.0,
+          "fat_g": 13.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Butter chicken (chicken pieces, most gravy skipped)",
+          "quantity": 160.0,
+          "unit": "g",
+          "calories": 300.0,
+          "protein_g": 26.0,
+          "carbs_g": 8.0,
+          "fat_g": 19.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Aloo gobi (~70% portion)",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 170.0,
+          "protein_g": 4.0,
+          "carbs_g": 20.0,
+          "fat_g": 9.0,
+          "fiber_g": 4.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Biscoff Pandan waffle + iJooz fresh orange juice (1 cup)",
+      "calories": 460.0,
+      "protein_g": 7.7,
+      "carbs_g": 71.0,
+      "fat_g": 16.4,
+      "fiber_g": 2.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Biscoff Pandan waffle",
+          "quantity": 1.0,
+          "unit": "waffle",
+          "calories": 350.0,
+          "protein_g": 6.0,
+          "carbs_g": 45.0,
+          "fat_g": 16.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "iJooz fresh orange juice",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 110.0,
+          "protein_g": 1.7,
+          "carbs_g": 26.0,
+          "fat_g": 0.4,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "late_night_dinner",
+      "description": "Steamed Hainanese chicken rice (non-template — steamed chicken, no add-on meat, rice, soup, chilli)",
+      "calories": 700.0,
+      "protein_g": 40.0,
+      "carbs_g": 100.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Steamed chicken (skin-on boneless, ~120g)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 210.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 260.0,
+          "unit": "g cooked",
+          "calories": 440.0,
+          "protein_g": 9.0,
+          "carbs_g": 96.0,
+          "fat_g": 7.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Soup + chilli",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 4.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 7.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 2600.0,
+    "vitamin_c_mg": 75.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 230.0
+  }
+}
