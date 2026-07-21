@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-21",
+  "notes": "Weight 74.3 kg (+0.3) — body water up to 56% (41.5 kg, +1.1%), so this bump is mostly hydration/glycogen from high-carb McD + Indian, not fat. Fat mass actually down to 15.1 kg (new low). Real trend still ~74.2-74.4. Only 3h45m sleep — circadian still inverted. McD dinner from official SG labels.",
+  "body_metrics": {
+    "weight_kg": 74.3,
+    "bmi": 23.7,
+    "body_fat_pct": 20.3,
+    "fat_mass_kg": 15.1,
+    "muscle_mass_kg": 56.1,
+    "skeletal_muscle_mass_kg": 30.2,
+    "body_water_pct": 56.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.8,
+    "bmr_kcal": 1649.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 225,
+    "notes": "3h45m — short, fragmented. Circadian still inverted (bedtime ~8-9 PM evening nap pattern)."
+  },
+  "activity": {
+    "move_calories": 523.0,
+    "exercise_minutes": 52,
+    "stand_hours": 13,
+    "steps": 10445,
+    "distance_km": 6.55
+  },
+  "meals": [
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's SG — Chicken McCrispy Spicy 2pc + Medium Fries + Coke Zero (official SG labels)",
+      "calories": 1073.0,
+      "protein_g": 44.0,
+      "carbs_g": 88.0,
+      "fat_g": 61.0,
+      "fiber_g": 8.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy Spicy 2pc (McD SG label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Medium Fries (McD SG label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 384.0,
+          "protein_g": 5.0,
+          "carbs_g": 46.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Coke Zero",
+          "quantity": 1.0,
+          "unit": "cup",
+          "calories": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Pandan Biscoff waffle",
+      "calories": 350.0,
+      "protein_g": 6.0,
+      "carbs_g": 45.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "late_night_supper",
+      "description": "Remaining 30% of Jul 20 Indian dinner (naan + butter chicken + aloo gobi) + 280g bone-in skinless chicken drumstick + 10g tandoori paste + 4 boiled eggs",
+      "calories": 955.0,
+      "protein_g": 99.6,
+      "carbs_g": 55.4,
+      "fat_g": 50.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Remaining 30% Jul 20 Indian dinner (naan/butter chicken/aloo gobi)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 416.0,
+          "protein_g": 18.4,
+          "carbs_g": 47.0,
+          "fat_g": 17.6,
+          "fiber_g": 3.4
+        },
+        {
+          "food_name": "Bone-in skinless chicken drumstick + tandoori paste",
+          "quantity": 280.0,
+          "unit": "g raw (bone-in)",
+          "calories": 227.0,
+          "protein_g": 56.0,
+          "carbs_g": 6.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 4.0,
+          "unit": "large",
+          "calories": 312.0,
+          "protein_g": 25.2,
+          "carbs_g": 2.4,
+          "fat_g": 20.4,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 7.5,
+    "zinc_mg": 9.0,
+    "b12_ug": 4.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 3600.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 210.0
+  }
+}
