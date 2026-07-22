@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-22",
+  "notes": "Weight 73.9 kg (-0.4) — new low, fat mass 14.9 kg (new low) and body fat 20.1% (new low), body water 55.8% still well-hydrated. Genuine progress reading, not artifact. Low-intake day (~1333 kcal). No gym. Sleep only 3h8m, bedtime 6:31 PM — circadian severely inverted, 7d avg bedtime 4:24 AM.",
+  "body_metrics": {
+    "weight_kg": 73.9,
+    "bmi": 23.6,
+    "body_fat_pct": 20.1,
+    "fat_mass_kg": 14.9,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 55.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.0,
+    "bmr_kcal": 1644.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 188,
+    "notes": "3h8m — evening nap block 6:31 PM-~9:40 PM. Circadian fully inverted. 7d avg bedtime 4:24 AM."
+  },
+  "activity": {
+    "move_calories": 441.0,
+    "exercise_minutes": 42,
+    "stand_hours": 8,
+    "steps": 7603,
+    "distance_km": 4.67
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template, 1/2 soup)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "10g psyllium husk + 258g bone-in skinless chicken drumstick + 13g tandoori paste + 4 boiled eggs",
+      "calories": 557.0,
+      "protein_g": 77.1,
+      "carbs_g": 15.6,
+      "fat_g": 31.7,
+      "fiber_g": 7.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Psyllium husk",
+          "quantity": 10.0,
+          "unit": "g",
+          "calories": 35.0,
+          "protein_g": 0.3,
+          "carbs_g": 7.8,
+          "fat_g": 0.1,
+          "fiber_g": 7.0
+        },
+        {
+          "food_name": "Bone-in skinless chicken drumstick + tandoori paste",
+          "quantity": 258.0,
+          "unit": "g raw (bone-in)",
+          "calories": 210.0,
+          "protein_g": 51.6,
+          "carbs_g": 5.4,
+          "fat_g": 11.2,
+          "fiber_g": 0.8
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 4.0,
+          "unit": "large",
+          "calories": 312.0,
+          "protein_g": 25.2,
+          "carbs_g": 2.4,
+          "fat_g": 20.4,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 320.0,
+    "iron_mg": 7.0,
+    "zinc_mg": 8.5,
+    "b12_ug": 4.5,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2000.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
