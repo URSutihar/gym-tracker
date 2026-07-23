@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-23",
+  "notes": "Weight 73.7 kg (-0.2) — 4th straight new low, fat mass 14.8 kg (new low), body fat 20.1%. Body water 55.8% steady. Sleep recovered to 9h16m (12h24m image minus the 3h8m Jul 22 evening block). Scale HR read 134 bpm ('Over') — measured right after movement, not resting, so ignore. Circadian still shifted but got a real recovery block.",
+  "body_metrics": {
+    "weight_kg": 73.7,
+    "bmi": 23.5,
+    "body_fat_pct": 20.1,
+    "fat_mass_kg": 14.8,
+    "muscle_mass_kg": 55.8,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 55.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.0,
+    "bmr_kcal": 1642.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 556,
+    "notes": "9h16m (image 12h24m minus 3h8m belonging to Jul 22 evening nap). Real recovery block after 2 sub-4h nights."
+  },
+  "activity": {
+    "move_calories": 415.0,
+    "exercise_minutes": 13,
+    "stand_hours": 11,
+    "steps": 8762,
+    "distance_km": 5.72
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Small sweet popcorn + 1 curry puff",
+      "calories": 380.0,
+      "protein_g": 5.0,
+      "carbs_g": 55.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Small sweet popcorn",
+          "quantity": 1.0,
+          "unit": "small",
+          "calories": 250.0,
+          "protein_g": 2.0,
+          "carbs_g": 40.0,
+          "fat_g": 9.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Curry puff",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 130.0,
+          "protein_g": 3.0,
+          "carbs_g": 15.0,
+          "fat_g": 7.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "250g chicken tikka masala + 1 plain naan + 1 garlic naan",
+      "calories": 965.0,
+      "protein_g": 47.0,
+      "carbs_g": 105.0,
+      "fat_g": 40.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken tikka masala",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 425.0,
+          "protein_g": 32.0,
+          "carbs_g": 14.0,
+          "fat_g": 27.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Plain naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 260.0,
+          "protein_g": 8.0,
+          "carbs_g": 45.0,
+          "fat_g": 5.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 280.0,
+          "protein_g": 7.0,
+          "carbs_g": 46.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 7.5,
+    "b12_ug": 3.0,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 2800.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 210.0
+  }
+}
