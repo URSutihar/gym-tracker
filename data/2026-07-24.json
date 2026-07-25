@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-24",
+  "notes": "FEVER START. Weight 73.7 kg (no change), fat mass 14.8 kg holding. Body water 55.6%. Low intake (~1170 kcal) — fever suppressing appetite. Scale HR 117 bpm ('Over') — likely fever-elevated, watch this. Sleep 6h54m (image 5h14m + 1h40m earlier block). Bedtime 2:04 AM — clock pulling back toward normal (7d avg bedtime now 4:43 AM, was 4:24). Cut is deep this week but body is now fighting illness — do NOT force deficit while febrile.",
+  "body_metrics": {
+    "weight_kg": 73.7,
+    "bmi": 23.5,
+    "body_fat_pct": 20.1,
+    "fat_mass_kg": 14.8,
+    "muscle_mass_kg": 55.8,
+    "skeletal_muscle_mass_kg": 29.8,
+    "body_water_pct": 55.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.2,
+    "bmr_kcal": 1642.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 414,
+    "notes": "6h54m (image 5h14m + 1h40m earlier block). Bedtime 2:04 AM — 2h39m earlier than typical, clock re-anchoring toward night."
+  },
+  "activity": {
+    "move_calories": 458.0,
+    "exercise_minutes": 14,
+    "stand_hours": 9,
+    "steps": 9862,
+    "distance_km": 6.53
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice bowl (200g rice) + 1 fried egg",
+      "calories": 750.0,
+      "protein_g": 41.0,
+      "carbs_g": 65.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Kung Pao chicken (with sauce, peanuts)",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 400.0,
+          "protein_g": 30.0,
+          "carbs_g": 20.0,
+          "fat_g": 22.0,
+          "fiber_g": 2.5
+        },
+        {
+          "food_name": "White rice",
+          "quantity": 200.0,
+          "unit": "g cooked",
+          "calories": 260.0,
+          "protein_g": 5.0,
+          "carbs_g": 44.5,
+          "fat_g": 0.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Fried egg",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 90.0,
+          "protein_g": 6.0,
+          "carbs_g": 0.5,
+          "fat_g": 6.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 slices small margherita pizza + couple bites fried chicken thigh in gravy (fever — low appetite)",
+      "calories": 420.0,
+      "protein_g": 22.0,
+      "carbs_g": 40.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Small margherita pizza slice",
+          "quantity": 2.0,
+          "unit": "slice",
+          "calories": 300.0,
+          "protein_g": 12.0,
+          "carbs_g": 36.0,
+          "fat_g": 11.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Fried chicken thigh in gravy (couple bites)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 120.0,
+          "protein_g": 10.0,
+          "carbs_g": 4.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 4.5,
+    "zinc_mg": 6.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1200.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0
+  }
+}
