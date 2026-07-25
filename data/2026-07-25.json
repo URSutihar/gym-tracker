@@ -30,21 +30,21 @@
   "meals": [
     {
       "meal_type": "snacks",
-      "description": "Isotonic drink 500ml + small chicken manchow soup + 1 pandan biscoff waffle",
-      "calories": 570.0,
-      "protein_g": 12.0,
-      "carbs_g": 87.0,
-      "fat_g": 19.0,
-      "fiber_g": 3.0,
+      "description": "Isotonic drink (whole 500ml bottle) + small chicken manchow soup + 1 pandan biscoff waffle + 3-4 spoons acai",
+      "calories": 600.0,
+      "protein_g": 13.0,
+      "carbs_g": 89.0,
+      "fat_g": 22.0,
+      "fiber_g": 5.0,
       "is_estimated": true,
       "foods": [
         {
-          "food_name": "Isotonic drink (label)",
+          "food_name": "Isotonic drink (whole bottle, label: 50 kcal/250ml x 2 servings)",
           "quantity": 500.0,
           "unit": "ml",
-          "calories": 120.0,
+          "calories": 100.0,
           "protein_g": 0.0,
-          "carbs_g": 30.0,
+          "carbs_g": 25.0,
           "fat_g": 0.0,
           "fiber_g": 0.0
         },
@@ -67,41 +67,51 @@
           "carbs_g": 45.0,
           "fat_g": 16.0,
           "fiber_g": 2.0
+        },
+        {
+          "food_name": "Acai (3-4 spoons)",
+          "quantity": 60.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 7.0,
+          "fat_g": 3.0,
+          "fiber_g": 2.0
         }
       ]
     },
     {
       "meal_type": "dinner",
-      "description": "McDonald's SG Chicken McCrispy Spicy 2pc (planned — 'will probably eat')",
-      "calories": 689.0,
-      "protein_g": 39.0,
-      "carbs_g": 42.0,
-      "fat_g": 41.0,
-      "fiber_g": 3.0,
+      "description": "McDonald's SG Chicken McCrispy Spicy — 1 piece only",
+      "calories": 345.0,
+      "protein_g": 19.5,
+      "carbs_g": 21.0,
+      "fat_g": 20.5,
+      "fiber_g": 1.5,
       "is_estimated": true,
       "foods": [
         {
-          "food_name": "Chicken McCrispy Spicy 2pc (McD SG label)",
+          "food_name": "Chicken McCrispy Spicy 1pc (half of McD SG 2pc label)",
           "quantity": 1.0,
-          "unit": "serving",
-          "calories": 689.0,
-          "protein_g": 39.0,
-          "carbs_g": 42.0,
-          "fat_g": 41.0,
-          "fiber_g": 3.0
+          "unit": "piece",
+          "calories": 345.0,
+          "protein_g": 19.5,
+          "carbs_g": 21.0,
+          "fat_g": 20.5,
+          "fiber_g": 1.5
         }
       ]
     }
   ],
   "micros": {
-    "calcium_mg": 260.0,
+    "calcium_mg": 250.0,
     "iron_mg": 4.0,
-    "zinc_mg": 5.5,
-    "b12_ug": 1.5,
-    "potassium_mg": 1400.0,
-    "sodium_mg": 2100.0,
-    "vitamin_c_mg": 5.0,
-    "vitamin_d_ug": 1.0,
+    "zinc_mg": 4.5,
+    "b12_ug": 1.0,
+    "potassium_mg": 1350.0,
+    "sodium_mg": 1400.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 0.8,
     "omega3_g": 0.1,
     "magnesium_mg": 150.0
   }
