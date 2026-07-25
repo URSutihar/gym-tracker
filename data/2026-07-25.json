@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-25",
+  "notes": "FEVER DAY 2 — high fever, all-day headache, dark orange urine (dehydration marker). Weight 72.5 kg (-1.2) is NOT real fat loss: body water dropped to 39.7 kg / 54.8% (-0.8%), skeletal muscle -1.0 kg, muscle mass -0.8 kg — classic dehydration BIA artifact from fever + poor fluid intake. True weight still ~73.5-73.8. Fat mass 14.5 reading is unreliable today. Scale HR 101 bpm ('Over') = fever-elevated. Slept 13h30m (body fighting infection). DO NOT treat this weight as progress; rehydrate.",
+  "body_metrics": {
+    "weight_kg": 72.5,
+    "bmi": 23.1,
+    "body_fat_pct": 20.0,
+    "fat_mass_kg": 14.5,
+    "muscle_mass_kg": 55.0,
+    "skeletal_muscle_mass_kg": 28.8,
+    "body_water_pct": 54.8,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.7,
+    "bmr_kcal": 1623.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.7
+  },
+  "sleep": {
+    "total_sleep_minutes": 810,
+    "notes": "13h30m (image 12h43m - 1h40m + 2h27m). Heavy recovery sleep, fragmented with many wake spikes (fever). Bedtime 8:32 PM."
+  },
+  "activity": {
+    "move_calories": 318.0,
+    "exercise_minutes": 52,
+    "stand_hours": 7,
+    "steps": 6477,
+    "distance_km": 4.15
+  },
+  "meals": [
+    {
+      "meal_type": "snacks",
+      "description": "Isotonic drink 500ml + small chicken manchow soup + 1 pandan biscoff waffle",
+      "calories": 570.0,
+      "protein_g": 12.0,
+      "carbs_g": 87.0,
+      "fat_g": 19.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Isotonic drink (label)",
+          "quantity": 500.0,
+          "unit": "ml",
+          "calories": 120.0,
+          "protein_g": 0.0,
+          "carbs_g": 30.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken manchow soup (small)",
+          "quantity": 1.0,
+          "unit": "small bowl",
+          "calories": 100.0,
+          "protein_g": 6.0,
+          "carbs_g": 12.0,
+          "fat_g": 3.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Pandan Biscoff waffle",
+          "quantity": 1.0,
+          "unit": "waffle",
+          "calories": 350.0,
+          "protein_g": 6.0,
+          "carbs_g": 45.0,
+          "fat_g": 16.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's SG Chicken McCrispy Spicy 2pc (planned — 'will probably eat')",
+      "calories": 689.0,
+      "protein_g": 39.0,
+      "carbs_g": 42.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy Spicy 2pc (McD SG label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 260.0,
+    "iron_mg": 4.0,
+    "zinc_mg": 5.5,
+    "b12_ug": 1.5,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 2100.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.1,
+    "magnesium_mg": 150.0
+  }
+}
