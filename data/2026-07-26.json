@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-26",
+  "notes": "FEVER DAY 3 — high during day, easing by evening. Blocked nose + heavy cough now dominant (moving from systemic fever to upper-respiratory phase). Weight 72.9 kg (+0.4) = rehydration rebound after yesterday's dehydration artifact; body water mass back up to 39.8 kg. Drank plain water throughout the day plus isotonic — hydration correction working. Intake recovered to ~2,290 kcal (good — appetite returning). Scale HR 94 bpm, down from 101.",
+  "body_metrics": {
+    "weight_kg": 72.9,
+    "bmi": 23.3,
+    "body_fat_pct": 20.2,
+    "fat_mass_kg": 14.7,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 28.8,
+    "body_water_pct": 54.6,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.7,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 442,
+    "notes": "7h22m (image 9h49m minus 2h27m belonging to Jul 25). Fragmented with many wake spikes — cough/blocked nose disrupting. Evening block ~7-10 PM plus main 5-11 AM."
+  },
+  "activity": {
+    "move_calories": 639.0,
+    "exercise_minutes": 49,
+    "stand_hours": 10,
+    "steps": 15912,
+    "distance_km": 10.06
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Roasted chicken hor fun (with soup) + isotonic drink (whole 500ml bottle, same as yesterday)",
+      "calories": 800.0,
+      "protein_g": 35.0,
+      "carbs_g": 110.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Roasted chicken hor fun (with soup)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 700.0,
+          "protein_g": 35.0,
+          "carbs_g": 85.0,
+          "fat_g": 22.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Isotonic drink (whole bottle, label: 50 kcal/250ml x 2)",
+          "quantity": 500.0,
+          "unit": "ml",
+          "calories": 100.0,
+          "protein_g": 0.0,
+          "carbs_g": 25.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Domino's SG — regular 9in chicken pepperoni pizza + mushroom soup + garlic bread + 2 icing dips",
+      "calories": 1490.0,
+      "protein_g": 57.0,
+      "carbs_g": 174.0,
+      "fat_g": 59.0,
+      "fiber_g": 8.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Domino's regular 9in chicken pepperoni pizza (6 slices)",
+          "quantity": 1.0,
+          "unit": "pizza",
+          "calories": 1020.0,
+          "protein_g": 45.0,
+          "carbs_g": 110.0,
+          "fat_g": 42.0,
+          "fiber_g": 6.0
+        },
+        {
+          "food_name": "Garlic bread",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 250.0,
+          "protein_g": 6.0,
+          "carbs_g": 32.0,
+          "fat_g": 11.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Mushroom soup",
+          "quantity": 1.0,
+          "unit": "cup",
+          "calories": 120.0,
+          "protein_g": 3.0,
+          "carbs_g": 14.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Icing dip",
+          "quantity": 2.0,
+          "unit": "dip",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 18.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 7.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 3200.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 190.0
+  }
+}
