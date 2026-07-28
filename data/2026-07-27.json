@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-27",
+  "notes": "FEVER DAY 4 — fever down, runny nose nearly resolved, cough persists. Urine back to pale yellow (rehydration confirmed). Weight 72.7 kg (-0.2), body water up to 55.0% (+0.4) and 40.0 kg mass — hydration fully restored. Fat mass 14.5 kg. Scale HR still 106 bpm ('Over') — elevated, infection not fully cleared. Took 1 ORS sachet. Face feels bloated — likely sodium load (ramen + samosa + ORS) plus illness-related fluid retention.",
+  "body_metrics": {
+    "weight_kg": 72.7,
+    "bmi": 23.2,
+    "body_fat_pct": 20.0,
+    "fat_mass_kg": 14.5,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 29.0,
+    "body_water_pct": 55.0,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.5,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 313,
+    "notes": "5h13m — heavily fragmented (8+ wake spikes) from cough. Daytime block 10 AM-4 PM. 7d avg 7h49m."
+  },
+  "activity": {
+    "move_calories": 585.0,
+    "exercise_minutes": 106,
+    "stand_hours": 8,
+    "steps": 13012,
+    "distance_km": 8.24
+  },
+  "meals": [
+    {
+      "meal_type": "snacks",
+      "description": "1 sachet Oral Rehydration Salts in 240ml water (label: NaCl 640mg, Na citrate 720mg, KCl 370mg, glucose 3350mg)",
+      "calories": 13.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.4,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Large bowl chicken kimchi ramen (with soup and egg) + 6 Punjabi mini samosas",
+      "calories": 1390.0,
+      "protein_g": 54.0,
+      "carbs_g": 155.0,
+      "fat_g": 58.0,
+      "fiber_g": 9.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken kimchi ramen, large bowl (with soup + egg)",
+          "quantity": 1.0,
+          "unit": "large bowl",
+          "calories": 850.0,
+          "protein_g": 45.0,
+          "carbs_g": 95.0,
+          "fat_g": 30.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Punjabi mini samosa",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 540.0,
+          "protein_g": 9.0,
+          "carbs_g": 60.0,
+          "fat_g": 28.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 6.5,
+    "b12_ug": 2.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 180.0
+  }
+}
