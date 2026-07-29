@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-29",
+  "notes": "RECOVERED — only slight cough left. Weight 71.9 kg (-0.8 vs Jul 27) — all-time low. Body fat 19.7% now reads 'Standard' (green) and Xiaomi body-type box moved from 'Overweight' to 'FIT' for the first time. Fat mass 14.2 kg (new low). Caveat: body water mass fell 40.0 -> 39.3 kg (-0.7), so part of the -0.8 is water, not fat. Scale HR 98 bpm, finally back to 'Standard' (was 'Over' for 5 days). Bedtime 10:47 PM — circadian clock genuinely re-anchored to night after weeks inverted. No gym logged (activity shows 82 exercise min).",
+  "body_metrics": {
+    "weight_kg": 71.9,
+    "bmi": 22.9,
+    "body_fat_pct": 19.7,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 54.7,
+    "skeletal_muscle_mass_kg": 28.4,
+    "body_water_pct": 54.7,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.8,
+    "bmr_kcal": 1616.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 432,
+    "notes": "7h12m (image 8h36m - 2h27m + 1h3m). Bedtime 10:47 PM — first normal night bedtime in weeks. 7d avg bedtime 5:59 AM."
+  },
+  "activity": {
+    "move_calories": 552.0,
+    "exercise_minutes": 82,
+    "stand_hours": 6,
+    "steps": 11437,
+    "distance_km": 7.46
+  },
+  "meals": [
+    {
+      "meal_type": "snacks",
+      "description": "iSlurp apple juice (1 glass) + Cooltopia lychee water + remaining 1/2 pack Biscoff cream biscuits",
+      "calories": 480.0,
+      "protein_g": 3.0,
+      "carbs_g": 80.0,
+      "fat_g": 14.5,
+      "fiber_g": 1.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "iSlurp apple juice",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 110.0,
+          "protein_g": 0.3,
+          "carbs_g": 27.0,
+          "fat_g": 0.3,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Cooltopia lychee water",
+          "quantity": 1.0,
+          "unit": "bottle",
+          "calories": 90.0,
+          "protein_g": 0.2,
+          "carbs_g": 17.0,
+          "fat_g": 0.2,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Biscoff cream biscuits (1/2 pack)",
+          "quantity": 1.0,
+          "unit": "half pack",
+          "calories": 280.0,
+          "protein_g": 2.5,
+          "carbs_g": 36.0,
+          "fat_g": 14.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Al Faheem Peri-Peri chicken set — 210g bone-in chicken (few bones), 250g flavoured rice, tahini sauce",
+      "calories": 850.0,
+      "protein_g": 50.0,
+      "carbs_g": 78.0,
+      "fat_g": 37.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Peri-Peri grilled chicken, bone-in",
+          "quantity": 210.0,
+          "unit": "g bone-in",
+          "calories": 350.0,
+          "protein_g": 40.0,
+          "carbs_g": 2.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Flavoured rice",
+          "quantity": 250.0,
+          "unit": "g cooked",
+          "calories": 400.0,
+          "protein_g": 7.0,
+          "carbs_g": 73.0,
+          "fat_g": 8.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Tahini sauce",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 6.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2300.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 180.0
+  }
+}
