@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-28",
+  "notes": "RECOVERY — fever over, runny nose resolved, cough almost gone. No weight scan today. Planning gym return tomorrow (Jul 29). Sleep 7h27m but clock badly inverted: bedtime 9:35 AM, sleeping midday-evening. 7d avg bedtime 5:40 AM. High-protein day (~120g).",
+  "sleep": {
+    "total_sleep_minutes": 447,
+    "notes": "7h27m (image 4h57m + 2h30m earlier block). Bedtime 9:35 AM — daytime sleep block 12 PM-7 PM. Still fragmented, several wake spikes from residual cough."
+  },
+  "activity": {
+    "move_calories": 510.0,
+    "exercise_minutes": 42,
+    "stand_hours": 10,
+    "steps": 10126,
+    "distance_km": 6.33
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template set)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1/2 pack Biscoff cream biscuits",
+      "calories": 280.0,
+      "protein_g": 2.5,
+      "carbs_g": 36.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "4 boiled eggs + 278g chicken drumlets airfried with 6g olive oil",
+      "calories": 766.0,
+      "protein_g": 70.2,
+      "carbs_g": 2.4,
+      "fat_g": 50.4,
+      "fiber_g": 0.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Boiled egg",
+          "quantity": 4.0,
+          "unit": "large",
+          "calories": 312.0,
+          "protein_g": 25.2,
+          "carbs_g": 2.4,
+          "fat_g": 20.4,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken drumlets, skin-on (airfried)",
+          "quantity": 278.0,
+          "unit": "g raw bone-in",
+          "calories": 400.0,
+          "protein_g": 45.0,
+          "carbs_g": 0.0,
+          "fat_g": 24.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Olive oil",
+          "quantity": 6.0,
+          "unit": "g",
+          "calories": 54.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 350.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 8.5,
+    "b12_ug": 4.0,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 2100.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 190.0
+  }
+}
