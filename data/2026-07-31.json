@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-31",
+  "notes": "No weight scan. Bedtime 10:18 PM — second normal-night bedtime this week (Jul 29 was 10:47 PM), and this time with 8h13m of sleep. Clock genuinely re-anchoring. Activity was the lowest in weeks (5,638 steps, 290 move kcal, 15 exercise min, 16 idle hours) — a rest day. Dinner repeats the Jul 29 Al Faheem quarter chicken set plus buffalo wings.",
+  "sleep": {
+    "total_sleep_minutes": 493,
+    "notes": "8h13m (image 9h53m minus 1h40m earlier block). Bedtime 10:18 PM, main block ~5 AM-1 PM. Good deep+REM cycling, few wake spikes — best sleep architecture in weeks."
+  },
+  "activity": {
+    "move_calories": 290.0,
+    "exercise_minutes": 15,
+    "stand_hours": 5,
+    "steps": 5638,
+    "distance_km": 3.55
+  },
+  "meals": [
+    {
+      "meal_type": "snacks",
+      "description": "Banana pudding (145g)",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 38.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Al Faheem quarter chicken set (same as Jul 29: 210g cooked bone-in chicken, 250g flavoured rice, tahini sauce) + buffalo wings (3pc midjoint + 3pc drumlets)",
+      "calories": 1430.0,
+      "protein_g": 97.0,
+      "carbs_g": 90.0,
+      "fat_g": 75.0,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Peri-Peri grilled chicken, bone-in (cooked weight)",
+          "quantity": 210.0,
+          "unit": "g cooked bone-in",
+          "calories": 380.0,
+          "protein_g": 47.0,
+          "carbs_g": 2.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Flavoured rice",
+          "quantity": 250.0,
+          "unit": "g cooked",
+          "calories": 400.0,
+          "protein_g": 7.0,
+          "carbs_g": 73.0,
+          "fat_g": 8.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Tahini sauce",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Buffalo wings (3pc midjoint + 3pc drumlets)",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 550.0,
+          "protein_g": 40.0,
+          "carbs_g": 12.0,
+          "fat_g": 38.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 280.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 3000.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.3,
+    "magnesium_mg": 170.0
+  }
+}
