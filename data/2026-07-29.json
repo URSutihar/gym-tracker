@@ -72,20 +72,20 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Al Faheem Peri-Peri chicken set — 210g bone-in chicken (few bones), 250g flavoured rice, tahini sauce",
-      "calories": 850.0,
-      "protein_g": 50.0,
+      "description": "Al Faheem Peri-Peri chicken set — 210g cooked bone-in chicken (few bones), 250g flavoured rice, tahini sauce",
+      "calories": 880.0,
+      "protein_g": 57.0,
       "carbs_g": 78.0,
       "fat_g": 37.0,
       "fiber_g": 3.0,
       "is_estimated": true,
       "foods": [
         {
-          "food_name": "Peri-Peri grilled chicken, bone-in",
+          "food_name": "Peri-Peri grilled chicken, bone-in (cooked weight)",
           "quantity": 210.0,
-          "unit": "g bone-in",
-          "calories": 350.0,
-          "protein_g": 40.0,
+          "unit": "g cooked bone-in",
+          "calories": 380.0,
+          "protein_g": 47.0,
           "carbs_g": 2.0,
           "fat_g": 20.0,
           "fiber_g": 0.0

@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-30",
+  "notes": "Weight 72.3 kg (+0.4) but body water crashed to 53.5% / 38.6 kg (-1.2%, -0.7 kg) — second straight day of water loss (40.0 -> 39.3 -> 38.6 over 2 days = -1.4 kg water). Dehydration returning after only just recovering from the fever-week dehydration. Body type box slipped back to 'Overweight' and W/H ratio 1.1 flagged 'Over' — both artifacts of the water swing, not real regain. Sleep only 3h20m (4:16 PM - 7:36 PM) — last night's normal 10:47 PM bedtime did NOT hold. Lays pack from label (546 kcal/100g, 80g net).",
+  "body_metrics": {
+    "weight_kg": 72.3,
+    "bmi": 23.1,
+    "body_fat_pct": 20.0,
+    "fat_mass_kg": 14.5,
+    "muscle_mass_kg": 54.8,
+    "skeletal_muscle_mass_kg": 27.7,
+    "body_water_pct": 53.5,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 15.5,
+    "bmr_kcal": 1618.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 200,
+    "notes": "3h20m (4:16 PM - 7:36 PM) — daytime block only. Circadian re-anchoring from Jul 29 did not hold."
+  },
+  "activity": {
+    "move_calories": 572.0,
+    "exercise_minutes": 56,
+    "stand_hours": 13,
+    "steps": 11245,
+    "distance_km": 7.19
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Lays 1 pack (80g net, label: 546 kcal/100g)",
+      "calories": 437.0,
+      "protein_g": 5.5,
+      "carbs_g": 43.9,
+      "fat_g": 26.6,
+      "fiber_g": 2.5,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Moroccan infused chicken set — 380g cooked chicken leg, 200g mandhi rice, mashed potatoes, garlic mayo",
+      "calories": 1283.0,
+      "protein_g": 83.5,
+      "carbs_g": 73.0,
+      "fat_g": 71.0,
+      "fiber_g": 4.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Moroccan chicken leg (cooked, bone-in)",
+          "quantity": 380.0,
+          "unit": "g cooked",
+          "calories": 613.0,
+          "protein_g": 75.0,
+          "carbs_g": 0.0,
+          "fat_g": 33.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mandhi rice",
+          "quantity": 200.0,
+          "unit": "g cooked",
+          "calories": 360.0,
+          "protein_g": 6.0,
+          "carbs_g": 55.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Mashed potatoes",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 110.0,
+          "protein_g": 2.0,
+          "carbs_g": 17.0,
+          "fat_g": 4.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Garlic mayo",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 200.0,
+          "protein_g": 0.5,
+          "carbs_g": 1.0,
+          "fat_g": 22.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 320.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 3100.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
