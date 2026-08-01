@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-01",
+  "notes": "Deliberate sleep reset in progress — only 2h27m logged (10 PM-1 AM block), staying up to force the clock back to nights. No weight scan (will take Aug 2). Big movement day: 18,891 steps / 11.89 km / 17 stand hours / only 5 idle hours — most active day since Jul 19. Apple 7d sleep avg down to 5h47m.",
+  "sleep": {
+    "total_sleep_minutes": 147,
+    "notes": "2h27m — intentional short night as part of sleep reset. Single block ~10 PM-1 AM, no stage detail (Apple logged as 'Asleep' only)."
+  },
+  "activity": {
+    "move_calories": 734.0,
+    "exercise_minutes": 30,
+    "stand_hours": 17,
+    "steps": 18891,
+    "distance_km": 11.89
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Banana pudding (335g)",
+      "calories": 578.0,
+      "protein_g": 9.2,
+      "carbs_g": 87.8,
+      "fat_g": 20.8,
+      "fiber_g": 2.3,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "snacks",
+      "description": "IKEA — chicken garlic hotdog with spicy sauce + chicken meatballs",
+      "calories": 580.0,
+      "protein_g": 35.0,
+      "carbs_g": 45.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "IKEA chicken garlic hotdog with spicy sauce",
+          "quantity": 1.0,
+          "unit": "hotdog",
+          "calories": 280.0,
+          "protein_g": 13.0,
+          "carbs_g": 32.0,
+          "fat_g": 11.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "IKEA chicken meatballs",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 300.0,
+          "protein_g": 22.0,
+          "carbs_g": 13.0,
+          "fat_g": 17.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Steamed chicken hor fun",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 85.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "is_estimated": true
+    }
+  ],
+  "micros": {
+    "calcium_mg": 400.0,
+    "iron_mg": 5.5,
+    "zinc_mg": 6.5,
+    "b12_ug": 2.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 2900.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 190.0
+  }
+}
