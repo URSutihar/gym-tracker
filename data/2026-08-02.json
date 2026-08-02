@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-02",
+  "notes": "ALL-TIME LOW 71.4 kg (-0.9 vs Jul 30). Body fat 19.5% and fat mass 13.9 kg both new lows, and body water recovered to 54.1% (+0.6 from Jul 30's 53.5% dip) — so this is a genuine reading, not a dehydration artifact. Body type box reads FIT. Xiaomi 'muscle control' flipped to +0.2 kg (gain) for the first time. Scale HR 107 'Over' at 17:34 — likely post-activity, worth rechecking on a rested morning scan. Sleep 13h49m = big rebound after the Aug 1 reset night; bedtime back around midnight. Lunch used 200g rice (template default is 270g).",
+  "body_metrics": {
+    "weight_kg": 71.4,
+    "bmi": 22.8,
+    "body_fat_pct": 19.5,
+    "fat_mass_kg": 13.9,
+    "muscle_mass_kg": 54.5,
+    "skeletal_muscle_mass_kg": 27.6,
+    "body_water_pct": 54.1,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 15.3,
+    "bmr_kcal": 1612.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.1
+  },
+  "sleep": {
+    "total_sleep_minutes": 829,
+    "notes": "13h49m — heavy rebound sleep after the Aug 1 reset night. Main block ~12 AM-2 PM with strong deep+REM cycling. Sleep pressure from the reset paid off; clock now anchored to a midnight bedtime. 7d avg 7h13m."
+  },
+  "activity": {
+    "move_calories": 287.0,
+    "exercise_minutes": 35,
+    "stand_hours": 7,
+    "steps": 5621,
+    "distance_km": 3.76
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (template, reduced to 200g rice) with soup",
+      "calories": 685.0,
+      "protein_g": 45.4,
+      "carbs_g": 79.3,
+      "fat_g": 13.8,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 200.0,
+          "unit": "g cooked",
+          "calories": 260.0,
+          "protein_g": 4.8,
+          "carbs_g": 44.5,
+          "fat_g": 0.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Hainanese chicken (skin-on boneless breast)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 376.0,
+          "protein_g": 40.1,
+          "carbs_g": 30.8,
+          "fat_g": 12.1,
+          "fiber_g": 2.6
+        },
+        {
+          "food_name": "Soup + chilli + cucumber",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 49.0,
+          "protein_g": 0.5,
+          "carbs_g": 4.0,
+          "fat_g": 1.2,
+          "fiber_g": 0.4
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "233g bone-in skinless chicken drumstick + 17g tandoori paste, 4 boiled eggs, 10g psyllium husk, 2x70g Oreo cheesecake",
+      "calories": 1037.0,
+      "protein_g": 79.5,
+      "carbs_g": 62.2,
+      "fat_g": 61.5,
+      "fiber_g": 8.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Bone-in skinless chicken drumstick + tandoori paste",
+          "quantity": 233.0,
+          "unit": "g raw (bone-in)",
+          "calories": 200.0,
+          "protein_g": 47.0,
+          "carbs_g": 7.0,
+          "fat_g": 11.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 4.0,
+          "unit": "large",
+          "calories": 312.0,
+          "protein_g": 25.2,
+          "carbs_g": 2.4,
+          "fat_g": 20.4,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Psyllium husk",
+          "quantity": 10.0,
+          "unit": "g",
+          "calories": 35.0,
+          "protein_g": 0.3,
+          "carbs_g": 7.8,
+          "fat_g": 0.1,
+          "fiber_g": 7.0
+        },
+        {
+          "food_name": "Oreo cheesecake",
+          "quantity": 140.0,
+          "unit": "g",
+          "calories": 490.0,
+          "protein_g": 7.0,
+          "carbs_g": 45.0,
+          "fat_g": 30.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 8.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
