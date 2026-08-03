@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-03",
+  "notes": "Weight 72.0 kg (+0.6 vs Aug 2's 71.4 all-time low) — body water up to 54.3% / 39.0 kg (+0.4 kg) and SMM +0.5, so the bump is water/glycogen, not fat. Fat mass 14.2 kg. Body type box still FIT, body fat 19.7%. Scale HR back to 97 'Standard' (was 107 'Over' yesterday) — good. Sleep 7h17m but block ran 7 AM-4 PM: the midnight anchor from Aug 2 did not hold, clock drifted back to daytime. Low-protein junk day (popcorn lunch + Wingstop).",
+  "body_metrics": {
+    "weight_kg": 72.0,
+    "bmi": 23.0,
+    "body_fat_pct": 19.7,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 54.8,
+    "skeletal_muscle_mass_kg": 28.1,
+    "body_water_pct": 54.3,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 15.1,
+    "bmr_kcal": 1618.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 437,
+    "notes": "7h17m — good volume and clean deep+REM cycling, but block ran ~7 AM-4 PM (daytime). Circadian drift back after the Aug 1-2 reset. 7d avg 7h36m."
+  },
+  "activity": {
+    "move_calories": 335.0,
+    "exercise_minutes": 14,
+    "stand_hours": 8,
+    "steps": 7419,
+    "distance_km": 4.86
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Golden Village regular popcorn (mixed caramel + salted)",
+      "calories": 550.0,
+      "protein_g": 6.0,
+      "carbs_g": 68.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Wingstop — 6pc boneless wings + small fries + ranch dip + cheese sauce",
+      "calories": 1200.0,
+      "protein_g": 42.0,
+      "carbs_g": 98.0,
+      "fat_g": 71.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Wingstop boneless wings",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 480.0,
+          "protein_g": 33.0,
+          "carbs_g": 36.0,
+          "fat_g": 23.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Wingstop small seasoned fries",
+          "quantity": 1.0,
+          "unit": "small",
+          "calories": 400.0,
+          "protein_g": 5.0,
+          "carbs_g": 52.0,
+          "fat_g": 19.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Ranch dip",
+          "quantity": 1.0,
+          "unit": "dip",
+          "calories": 200.0,
+          "protein_g": 1.0,
+          "carbs_g": 2.0,
+          "fat_g": 21.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cheese sauce",
+          "quantity": 1.0,
+          "unit": "dip",
+          "calories": 120.0,
+          "protein_g": 3.0,
+          "carbs_g": 8.0,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 280.0,
+    "iron_mg": 4.0,
+    "zinc_mg": 5.0,
+    "b12_ug": 1.5,
+    "potassium_mg": 1300.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0
+  }
+}
