@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-04",
+  "notes": "Weight 72.6 kg (+0.6), scanned 04:58 — reflects Aug 3's high-sodium Wingstop/popcorn day (3,400 mg sodium), not today's food. Body water 54.4% / 39.4 kg (+0.4 kg) confirms water retention from that sodium load. Fat mass 14.4 kg, body fat 19.9%, body type box still FIT. HR 94 Standard. Budget note: Maggi/Indomie will feature in dinner for the next week. Onion ring chips and Maggi logged from package labels.",
+  "body_metrics": {
+    "weight_kg": 72.6,
+    "bmi": 23.2,
+    "body_fat_pct": 19.9,
+    "fat_mass_kg": 14.4,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 28.4,
+    "body_water_pct": 54.4,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 15.0,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 9,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 361,
+    "notes": "6h1m — split: ~12-3 AM block plus an afternoon block from ~3 PM. Still fragmented across day and night. 7d avg 6h34m."
+  },
+  "activity": {
+    "move_calories": 603.0,
+    "exercise_minutes": 68,
+    "stand_hours": 15,
+    "steps": 13586,
+    "distance_km": 8.78
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template) with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Polar sugar roll, 3 slices (sugar coating removed)",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 35.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "10g psyllium husk, 238g bone-in skin-on chicken drumlets + 4g olive oil + salt/pepper/paprika/parsley, 2 boiled eggs, 2 packs Maggi + spring onions (ate only 60% of the Maggi)",
+      "calories": 1009.0,
+      "protein_g": 55.8,
+      "carbs_g": 68.3,
+      "fat_g": 53.8,
+      "fiber_g": 8.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Psyllium husk",
+          "quantity": 10.0,
+          "unit": "g",
+          "calories": 35.0,
+          "protein_g": 0.3,
+          "carbs_g": 7.8,
+          "fat_g": 0.1,
+          "fiber_g": 7.0
+        },
+        {
+          "food_name": "Bone-in skin-on chicken drumlets (airfried, spiced)",
+          "quantity": 238.0,
+          "unit": "g raw bone-in",
+          "calories": 360.0,
+          "protein_g": 34.0,
+          "carbs_g": 0.0,
+          "fat_g": 24.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Olive oil",
+          "quantity": 4.0,
+          "unit": "g",
+          "calories": 36.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 2.0,
+          "unit": "large",
+          "calories": 156.0,
+          "protein_g": 12.6,
+          "carbs_g": 1.2,
+          "fat_g": 10.2,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Maggi noodles (label 343 kcal/79g pack) - 60% of 2 packs",
+          "quantity": 1.2,
+          "unit": "pack",
+          "calories": 412.0,
+          "protein_g": 8.9,
+          "carbs_g": 59.3,
+          "fat_g": 15.5,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Spring onions",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 10.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "late_night_snack",
+      "description": "1 Cookies & Cream cheesecake (70g), 1 Snickers, 1 pack onion ring chips (15g label)",
+      "calories": 552.0,
+      "protein_g": 9.3,
+      "carbs_g": 65.7,
+      "fat_g": 28.5,
+      "fiber_g": 3.8,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (label 236.6 kcal/70g)",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.8,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "Snickers bar",
+          "quantity": 1.0,
+          "unit": "bar",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Onion ring chips (label 65 kcal/15g pack)",
+          "quantity": 15.0,
+          "unit": "g",
+          "calories": 65.0,
+          "protein_g": 1.1,
+          "carbs_g": 11.2,
+          "fat_g": 1.7,
+          "fiber_g": 0.3
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
