@@ -82,10 +82,10 @@
     },
     {
       "meal_type": "snacks",
-      "description": "Polar sugar roll, 3 slices — eaten WITHOUT the sugar coating (~90g sponge+cream, minus ~7g coating sugar / ~30 kcal)",
-      "calories": 230.0,
+      "description": "Polar 'Sugar Roll w/o sugar' (sugar-free product — sweetener substituted), 3 slices ~90g. ESTIMATE: flour/fat unchanged, sucrose swapped for polyol/sweetener; get label photo to confirm.",
+      "calories": 250.0,
       "protein_g": 4.0,
-      "carbs_g": 28.0,
+      "carbs_g": 33.0,
       "fat_g": 10.0,
       "fiber_g": 1.0,
       "is_estimated": true
