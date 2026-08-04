@@ -29,6 +29,48 @@
   },
   "meals": [
     {
+      "meal_type": "late_night_snack",
+      "description": "1 Cookies & Cream cheesecake (70g), 1 Snickers, 1 pack onion ring chips (15g label)",
+      "calories": 552.0,
+      "protein_g": 9.3,
+      "carbs_g": 65.7,
+      "fat_g": 28.5,
+      "fiber_g": 3.8,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (label 236.6 kcal/70g)",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.8,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "Snickers bar",
+          "quantity": 1.0,
+          "unit": "bar",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Onion ring chips (label 65 kcal/15g pack)",
+          "quantity": 15.0,
+          "unit": "g",
+          "calories": 65.0,
+          "protein_g": 1.1,
+          "carbs_g": 11.2,
+          "fat_g": 1.7,
+          "fiber_g": 0.3
+        }
+      ]
+    },
+    {
       "meal_type": "lunch",
       "description": "Hainanese chicken rice (standard template) with soup",
       "calories": 776.0,
@@ -40,10 +82,10 @@
     },
     {
       "meal_type": "snacks",
-      "description": "Polar sugar roll, 3 slices (sugar coating removed)",
-      "calories": 250.0,
+      "description": "Polar sugar roll, 3 slices — eaten WITHOUT the sugar coating (~90g sponge+cream, minus ~7g coating sugar / ~30 kcal)",
+      "calories": 230.0,
       "protein_g": 4.0,
-      "carbs_g": 35.0,
+      "carbs_g": 28.0,
       "fat_g": 10.0,
       "fiber_g": 1.0,
       "is_estimated": true
@@ -117,48 +159,6 @@
           "carbs_g": 0.0,
           "fat_g": 0.0,
           "fiber_g": 0.5
-        }
-      ]
-    },
-    {
-      "meal_type": "late_night_snack",
-      "description": "1 Cookies & Cream cheesecake (70g), 1 Snickers, 1 pack onion ring chips (15g label)",
-      "calories": 552.0,
-      "protein_g": 9.3,
-      "carbs_g": 65.7,
-      "fat_g": 28.5,
-      "fiber_g": 3.8,
-      "is_estimated": false,
-      "foods": [
-        {
-          "food_name": "Cookies & Cream cheesecake (label 236.6 kcal/70g)",
-          "quantity": 70.0,
-          "unit": "g",
-          "calories": 237.0,
-          "protein_g": 4.2,
-          "carbs_g": 21.5,
-          "fat_g": 14.8,
-          "fiber_g": 3.5
-        },
-        {
-          "food_name": "Snickers bar",
-          "quantity": 1.0,
-          "unit": "bar",
-          "calories": 250.0,
-          "protein_g": 4.0,
-          "carbs_g": 33.0,
-          "fat_g": 12.0,
-          "fiber_g": 0.0
-        },
-        {
-          "food_name": "Onion ring chips (label 65 kcal/15g pack)",
-          "quantity": 15.0,
-          "unit": "g",
-          "calories": 65.0,
-          "protein_g": 1.1,
-          "carbs_g": 11.2,
-          "fat_g": 1.7,
-          "fiber_g": 0.3
         }
       ]
     }

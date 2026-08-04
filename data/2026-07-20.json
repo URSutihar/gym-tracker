@@ -29,6 +29,48 @@
   },
   "meals": [
     {
+      "meal_type": "late_night_dinner",
+      "description": "Steamed Hainanese chicken rice (non-template — steamed chicken, no add-on meat, rice, soup, chilli)",
+      "calories": 700.0,
+      "protein_g": 40.0,
+      "carbs_g": 100.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Steamed chicken (skin-on boneless, ~120g)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 210.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Fragrant rice",
+          "quantity": 260.0,
+          "unit": "g cooked",
+          "calories": 440.0,
+          "protein_g": 9.0,
+          "carbs_g": 96.0,
+          "fat_g": 7.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Soup + chilli",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 4.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
       "meal_type": "lunch",
       "description": "Big portion garlic naan, butter chicken (skipped most gravy — chicken-forward), aloo gobi — ate ~70% of the plate",
       "calories": 970.0,
@@ -98,48 +140,6 @@
           "protein_g": 1.7,
           "carbs_g": 26.0,
           "fat_g": 0.4,
-          "fiber_g": 0.5
-        }
-      ]
-    },
-    {
-      "meal_type": "late_night_dinner",
-      "description": "Steamed Hainanese chicken rice (non-template — steamed chicken, no add-on meat, rice, soup, chilli)",
-      "calories": 700.0,
-      "protein_g": 40.0,
-      "carbs_g": 100.0,
-      "fat_g": 18.0,
-      "fiber_g": 2.0,
-      "is_estimated": true,
-      "foods": [
-        {
-          "food_name": "Steamed chicken (skin-on boneless, ~120g)",
-          "quantity": 120.0,
-          "unit": "g",
-          "calories": 210.0,
-          "protein_g": 30.0,
-          "carbs_g": 0.0,
-          "fat_g": 10.0,
-          "fiber_g": 0.0
-        },
-        {
-          "food_name": "Fragrant rice",
-          "quantity": 260.0,
-          "unit": "g cooked",
-          "calories": 440.0,
-          "protein_g": 9.0,
-          "carbs_g": 96.0,
-          "fat_g": 7.0,
-          "fiber_g": 1.5
-        },
-        {
-          "food_name": "Soup + chilli",
-          "quantity": 1.0,
-          "unit": "serving",
-          "calories": 50.0,
-          "protein_g": 1.0,
-          "carbs_g": 4.0,
-          "fat_g": 1.0,
           "fiber_g": 0.5
         }
       ]

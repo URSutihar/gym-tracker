@@ -29,6 +29,48 @@
   },
   "meals": [
     {
+      "meal_type": "late_night_supper",
+      "description": "Remaining 30% of Jul 20 Indian dinner (naan + butter chicken + aloo gobi) + 280g bone-in skinless chicken drumstick + 10g tandoori paste + 4 boiled eggs",
+      "calories": 955.0,
+      "protein_g": 99.6,
+      "carbs_g": 55.4,
+      "fat_g": 50.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Remaining 30% Jul 20 Indian dinner (naan/butter chicken/aloo gobi)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 416.0,
+          "protein_g": 18.4,
+          "carbs_g": 47.0,
+          "fat_g": 17.6,
+          "fiber_g": 3.4
+        },
+        {
+          "food_name": "Bone-in skinless chicken drumstick + tandoori paste",
+          "quantity": 280.0,
+          "unit": "g raw (bone-in)",
+          "calories": 227.0,
+          "protein_g": 56.0,
+          "carbs_g": 6.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 4.0,
+          "unit": "large",
+          "calories": 312.0,
+          "protein_g": 25.2,
+          "carbs_g": 2.4,
+          "fat_g": 20.4,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
       "meal_type": "dinner",
       "description": "McDonald's SG — Chicken McCrispy Spicy 2pc + Medium Fries + Coke Zero (official SG labels)",
       "calories": 1073.0,
@@ -79,48 +121,6 @@
       "fat_g": 16.0,
       "fiber_g": 2.0,
       "is_estimated": true
-    },
-    {
-      "meal_type": "late_night_supper",
-      "description": "Remaining 30% of Jul 20 Indian dinner (naan + butter chicken + aloo gobi) + 280g bone-in skinless chicken drumstick + 10g tandoori paste + 4 boiled eggs",
-      "calories": 955.0,
-      "protein_g": 99.6,
-      "carbs_g": 55.4,
-      "fat_g": 50.0,
-      "fiber_g": 4.0,
-      "is_estimated": true,
-      "foods": [
-        {
-          "food_name": "Remaining 30% Jul 20 Indian dinner (naan/butter chicken/aloo gobi)",
-          "quantity": 1.0,
-          "unit": "portion",
-          "calories": 416.0,
-          "protein_g": 18.4,
-          "carbs_g": 47.0,
-          "fat_g": 17.6,
-          "fiber_g": 3.4
-        },
-        {
-          "food_name": "Bone-in skinless chicken drumstick + tandoori paste",
-          "quantity": 280.0,
-          "unit": "g raw (bone-in)",
-          "calories": 227.0,
-          "protein_g": 56.0,
-          "carbs_g": 6.0,
-          "fat_g": 12.0,
-          "fiber_g": 0.6
-        },
-        {
-          "food_name": "Boiled egg",
-          "quantity": 4.0,
-          "unit": "large",
-          "calories": 312.0,
-          "protein_g": 25.2,
-          "carbs_g": 2.4,
-          "fat_g": 20.4,
-          "fiber_g": 0.0
-        }
-      ]
     }
   ],
   "micros": {
