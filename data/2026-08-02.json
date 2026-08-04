@@ -72,12 +72,12 @@
     },
     {
       "meal_type": "dinner",
-      "description": "233g bone-in skinless chicken drumstick + 17g tandoori paste, 4 boiled eggs, 10g psyllium husk, 2x70g Oreo cheesecake",
-      "calories": 1037.0,
-      "protein_g": 79.5,
-      "carbs_g": 62.2,
-      "fat_g": 61.5,
-      "fiber_g": 8.5,
+      "description": "233g bone-in skinless chicken drumstick + 17g tandoori paste, 4 boiled eggs, 10g psyllium husk, 2x70g Cookies & Cream cheesecake (from label)",
+      "calories": 1020.0,
+      "protein_g": 80.9,
+      "carbs_g": 60.2,
+      "fat_g": 61.2,
+      "fiber_g": 15.0,
       "is_estimated": true,
       "foods": [
         {
@@ -111,14 +111,14 @@
           "fiber_g": 7.0
         },
         {
-          "food_name": "Oreo cheesecake",
+          "food_name": "Cookies & Cream cheesecake (label: 236.6 kcal per 70g serving)",
           "quantity": 140.0,
           "unit": "g",
-          "calories": 490.0,
-          "protein_g": 7.0,
-          "carbs_g": 45.0,
-          "fat_g": 30.0,
-          "fiber_g": 0.5
+          "calories": 473.0,
+          "protein_g": 8.4,
+          "carbs_g": 43.0,
+          "fat_g": 29.7,
+          "fiber_g": 7.0
         }
       ]
     }
