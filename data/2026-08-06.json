@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-06",
+  "notes": "Weight 72.0 kg (-0.3), scanned 16:42 — reflects Aug 5's OMAD day (4,150 mg sodium). Despite that sodium load, body water rose to 54.9% / 39.5 kg and weight fell: no retention bounce. Body fat 19.6% and fat mass 14.1 kg are both new lows. HR 99 Standard, W/H 0.9, visceral fat 8, body type FIT. Very low activity day (4 exercise min, 5,686 steps, 17 idle hours). Sleep 5h19m, entirely a 10 AM-4 PM daytime block. Stuff'd burrito from receipt: NO cheese, NO sour cream, NO add-on chicken this time; added couscous, mashed potatoes, guacamole.",
+  "body_metrics": {
+    "weight_kg": 72.0,
+    "bmi": 23.0,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.1,
+    "muscle_mass_kg": 54.9,
+    "skeletal_muscle_mass_kg": 28.5,
+    "body_water_pct": 54.9,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.8,
+    "bmr_kcal": 1621.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 319,
+    "notes": "5h19m — single daytime block ~10 AM-4 PM, fragmented with 4 wake spikes. No night sleep at all. 7d avg 7h58m."
+  },
+  "activity": {
+    "move_calories": 281.0,
+    "exercise_minutes": 4,
+    "stand_hours": 7,
+    "steps": 5686,
+    "distance_km": 3.44
+  },
+  "meals": [
+    {
+      "meal_type": "late_night_snack",
+      "description": "2 packs Indomie (label 415 kcal/185g prepared) + 2 boiled eggs",
+      "calories": 986.0,
+      "protein_g": 25.8,
+      "carbs_g": 114.8,
+      "fat_g": 45.0,
+      "fiber_g": 2.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Indomie (label 415 kcal per 185g prepared serving)",
+          "quantity": 2.0,
+          "unit": "pack",
+          "calories": 830.0,
+          "protein_g": 13.2,
+          "carbs_g": 113.6,
+          "fat_g": 34.8,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 2.0,
+          "unit": "large",
+          "calories": 156.0,
+          "protein_g": 12.6,
+          "carbs_g": 1.2,
+          "fat_g": 10.2,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Munchi oreo-cheese pancake + Stuff'd chicken burrito 550g (receipt: regular wrap, chicken, cilantro rice, adobo black beans, couscous, mashed potatoes, guacamole, iceberg, tomato salsa; NO cheese, NO sour cream, NO sauce, no add-on chicken)",
+      "calories": 1350.0,
+      "protein_g": 57.0,
+      "carbs_g": 162.0,
+      "fat_g": 51.0,
+      "fiber_g": 11.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Munchi oreo-cheese pancake",
+          "quantity": 1.0,
+          "unit": "pancake",
+          "calories": 450.0,
+          "protein_g": 8.0,
+          "carbs_g": 50.0,
+          "fat_g": 24.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Regular wrap (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "wrap",
+          "calories": 250.0,
+          "protein_g": 7.5,
+          "carbs_g": 44.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Grilled chicken (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 224.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cilantro rice (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 78.0,
+          "protein_g": 1.5,
+          "carbs_g": 15.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Adobo black beans (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 73.0,
+          "protein_g": 4.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.5,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Couscous",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 90.0,
+          "protein_g": 3.0,
+          "carbs_g": 18.0,
+          "fat_g": 0.5,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Mashed potatoes",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 90.0,
+          "protein_g": 1.5,
+          "carbs_g": 14.0,
+          "fat_g": 3.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Guacamole (add-on)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 70.0,
+          "protein_g": 1.0,
+          "carbs_g": 4.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Iceberg lettuce + tomato salsa",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 25.0,
+          "protein_g": 0.5,
+          "carbs_g": 5.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 6.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1800.0,
+    "sodium_mg": 3500.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 200.0
+  }
+}
