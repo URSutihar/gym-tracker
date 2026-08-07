@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-07",
+  "notes": "Weight 72.0 kg (flat), scanned 18:28 — reflects Aug 6's intake. Body fat 19.4% and fat mass 14.0 kg both new lows; body water up to 55.4% / 39.9 kg (+0.5), the best hydration reading of the log. Muscle mass 55.0 (+0.1), SMM 28.8 (+0.3). Weight flat but composition improved: fat down, muscle and water up. Scale HR 118 'Over' at 18:28 — post-activity reading, not resting. Body type FIT, visceral fat 8, W/H 0.9. Sleep 6h1m, still a daytime 8 AM-5 PM block. Apple: August avg 7h16m vs July 7h17m — no change month over month. OMAD day.",
+  "body_metrics": {
+    "weight_kg": 72.0,
+    "bmi": 23.0,
+    "body_fat_pct": 19.4,
+    "fat_mass_kg": 14.0,
+    "muscle_mass_kg": 55.0,
+    "skeletal_muscle_mass_kg": 28.8,
+    "body_water_pct": 55.4,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1623.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 361,
+    "notes": "6h1m — daytime block ~8 AM-5 PM, fragmented early with 8 wake spikes then a long consolidated stretch from ~2 PM. Still no night sleep."
+  },
+  "activity": {
+    "move_calories": 406.0,
+    "exercise_minutes": 29,
+    "stand_hours": 9,
+    "steps": 8318,
+    "distance_km": 5.28
+  },
+  "meals": [
+    {
+      "meal_type": "dinner",
+      "description": "OMAD — 250g chicken tikka masala, 1 plain naan, 1 garlic naan, 6pc buffalo wings (3 midjoint + 3 drumstick), 2x70g Cookies & Cream cheesecake",
+      "calories": 1988.0,
+      "protein_g": 95.4,
+      "carbs_g": 160.0,
+      "fat_g": 107.7,
+      "fiber_g": 13.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken tikka masala",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 425.0,
+          "protein_g": 32.0,
+          "carbs_g": 14.0,
+          "fat_g": 27.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Plain naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 260.0,
+          "protein_g": 8.0,
+          "carbs_g": 45.0,
+          "fat_g": 5.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 280.0,
+          "protein_g": 7.0,
+          "carbs_g": 46.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Buffalo wings (3pc midjoint + 3pc drumstick)",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 550.0,
+          "protein_g": 40.0,
+          "carbs_g": 12.0,
+          "fat_g": 38.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Cookies & Cream cheesecake (label 236.6 kcal/70g)",
+          "quantity": 140.0,
+          "unit": "g",
+          "calories": 473.0,
+          "protein_g": 8.4,
+          "carbs_g": 43.0,
+          "fat_g": 29.7,
+          "fiber_g": 7.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 480.0,
+    "iron_mg": 6.5,
+    "zinc_mg": 8.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1600.0,
+    "sodium_mg": 2800.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
