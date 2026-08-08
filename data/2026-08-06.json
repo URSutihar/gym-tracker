@@ -29,6 +29,16 @@
   },
   "meals": [
     {
+      "meal_type": "snacks",
+      "description": "iJooz fresh orange juice (1 glass)",
+      "calories": 110.0,
+      "protein_g": 1.7,
+      "carbs_g": 26.0,
+      "fat_g": 0.4,
+      "fiber_g": 0.5,
+      "is_estimated": true
+    },
+    {
       "meal_type": "dinner",
       "description": "Munchi oreo-cheese pancake + Stuff'd chicken burrito 550g (receipt: regular wrap, chicken, cilantro rice, adobo black beans, couscous, mashed potatoes, guacamole, iceberg, tomato salsa; NO cheese, NO sour cream, NO sauce, no add-on chicken)",
       "calories": 1350.0,
@@ -168,9 +178,9 @@
     "iron_mg": 6.5,
     "zinc_mg": 6.0,
     "b12_ug": 2.0,
-    "potassium_mg": 1800.0,
+    "potassium_mg": 2000.0,
     "sodium_mg": 3500.0,
-    "vitamin_c_mg": 12.0,
+    "vitamin_c_mg": 72.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.2,
     "magnesium_mg": 200.0
