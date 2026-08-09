@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-09",
+  "notes": "ALL-TIME LOW 71.3 kg (-0.7 vs Aug 7). Body fat 19.2% and fat mass 13.7 kg both new lows; body water 55.5% (+0.1) so hydration is steady — this is a genuine reading, not an artifact. Muscle mass 54.6 (-0.4) and SMM 28.7 (-0.1) dipped slightly. Xiaomi 'muscle control' at +0.1 kg (gain). Scale HR 107 'Over' at 21:10 — evening reading, not resting; note this scan was NOT at day start (21:10), unlike the usual morning scans. Sleep only 4h (4:50-8:50 PM) — deliberate tradeoff, user was building startup page (apinae.dev) and reports a productive day. OMAD biryani weights taken from the Jul 14 log of the same restaurant meal.",
+  "body_metrics": {
+    "weight_kg": 71.3,
+    "bmi": 22.8,
+    "body_fat_pct": 19.2,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 54.6,
+    "skeletal_muscle_mass_kg": 28.7,
+    "body_water_pct": 55.5,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1614.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 240,
+    "notes": "4h00m (4:50 PM - 8:50 PM). Single evening block, no night sleep. Short by choice — productive startup work session."
+  },
+  "activity": {
+    "move_calories": 423.0,
+    "exercise_minutes": 12,
+    "stand_hours": 5,
+    "steps": 7018,
+    "distance_km": 4.31
+  },
+  "meals": [
+    {
+      "meal_type": "dinner",
+      "description": "OMAD — Chicken Dum Biryani (same restaurant portion as Jul 14: 500g rice, 150g boneless chicken, ~50g egg) + raita + biryani gravy",
+      "calories": 1253.0,
+      "protein_g": 60.8,
+      "carbs_g": 138.6,
+      "fat_g": 46.3,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Biryani rice (with masala + ghee)",
+          "quantity": 500.0,
+          "unit": "g",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Boneless chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg (in biryani)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 2.5,
+          "carbs_g": 4.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Biryani gravy (small)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 80.0,
+          "protein_g": 2.0,
+          "carbs_g": 4.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.3
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 5.5,
+    "b12_ug": 2.0,
+    "potassium_mg": 1200.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0
+  }
+}
