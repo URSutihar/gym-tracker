@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-11",
+  "notes": "No weight scan, no gym. Sleep 5h52m — main block ~9 PM-3 AM, which is nocturnal, but Apple logs bedtime as 6:29 PM (evening block start). 7d avg bedtime improved again to 4:47 AM (was 6:34 AM yesterday, 7:58 AM three days ago) — clock is rotating back toward night for the third straight day. Solid activity: 11,703 steps, 13 stand hours, only 9 idle hours (best idle count in weeks).",
+  "sleep": {
+    "total_sleep_minutes": 352,
+    "notes": "5h52m (image 4h41m + 1h11m). Main block ~9 PM-3 AM with good REM/deep cycling, 5 wake spikes. Bedtime logged 6:29 PM. 7d avg bedtime 4:47 AM."
+  },
+  "activity": {
+    "move_calories": 548.0,
+    "exercise_minutes": 19,
+    "stand_hours": 13,
+    "steps": 11703,
+    "distance_km": 7.09
+  },
+  "meals": [
+    {
+      "meal_type": "early_morning_snack",
+      "description": "2x70g Cookies & Cream cheesecake (12am-6am window)",
+      "calories": 473.0,
+      "protein_g": 8.4,
+      "carbs_g": 43.0,
+      "fat_g": 29.7,
+      "fiber_g": 7.0,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "9-inch chicken tikka kathi roll (paratha wrap, chicken tikka, onions, sauce)",
+      "calories": 600.0,
+      "protein_g": 33.0,
+      "carbs_g": 58.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Paratha wrap (9in)",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 330.0,
+          "protein_g": 7.0,
+          "carbs_g": 45.0,
+          "fat_g": 13.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Chicken tikka filling",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 220.0,
+          "protein_g": 25.0,
+          "carbs_g": 5.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Onions, chutney, sauce",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 8.0,
+          "fat_g": 2.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 420.0,
+    "iron_mg": 5.5,
+    "zinc_mg": 6.5,
+    "b12_ug": 2.5,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2600.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 190.0
+  }
+}
