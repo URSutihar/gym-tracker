@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-12",
+  "notes": "Weight 72.2 kg (-0.1 vs Aug 10), scanned 11:57. Body water up to 55.1% / 39.8 kg (+0.6%), body fat 19.6% (-0.2), fat mass 14.2 (-0.1), SMM 28.7 (+0.3), visceral fat down to 8. HR 93 Standard. Body type FIT. Sleep 8h27m — best volume in a week, main block ~12 AM-8 AM (properly nocturnal) with strong REM/deep cycling. Apple notes August avg 6h44m vs July 7h17m. 50 exercise minutes, all rings closed.",
+  "body_metrics": {
+    "weight_kg": 72.2,
+    "bmi": 23.0,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 55.0,
+    "skeletal_muscle_mass_kg": 28.7,
+    "body_water_pct": 55.1,
+    "bone_mineral_kg": 3.0,
+    "protein_mass_kg": 14.5,
+    "bmr_kcal": 1623.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 507,
+    "notes": "8h27m (image 9h38m minus 1h11m first block). Main block ~12 AM-8 AM — properly nocturnal, good REM/deep cycling, only 3 wake spikes. Plus an early-evening block and a midday block."
+  },
+  "activity": {
+    "move_calories": 446.0,
+    "exercise_minutes": 50,
+    "stand_hours": 10,
+    "steps": 9604,
+    "distance_km": 6.12
+  },
+  "meals": [
+    {
+      "meal_type": "morning_snack",
+      "description": "1 Snickers bar",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's SG — Chicken McCrispy Spicy 2pc + Large Fries + Coke Zero + 1 Apple Pie",
+      "calories": 1428.0,
+      "protein_g": 47.4,
+      "carbs_g": 131.0,
+      "fat_g": 79.0,
+      "fiber_g": 10.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy Spicy 2pc (McD SG label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Large Fries (McD SG, scaled from medium 384 kcal label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 489.0,
+          "protein_g": 6.4,
+          "carbs_g": 59.0,
+          "fat_g": 25.0,
+          "fiber_g": 6.0
+        },
+        {
+          "food_name": "Coke Zero",
+          "quantity": 1.0,
+          "unit": "cup",
+          "calories": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Apple Pie",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 250.0,
+          "protein_g": 2.0,
+          "carbs_g": 30.0,
+          "fat_g": 13.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 350.0,
+    "iron_mg": 5.5,
+    "zinc_mg": 6.5,
+    "b12_ug": 2.0,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 3600.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 180.0
+  }
+}
