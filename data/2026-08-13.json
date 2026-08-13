@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-13",
+  "notes": "No weight scan, no gym. Sleep 5h38m (2h58m + 2h44m minus 4 min overlap) — both blocks daytime/evening (~1-7 PM and ~5-8 PM), bedtime 5:58 PM. Regression from Aug 12's nocturnal 12 AM-8 AM block; 7d avg bedtime back to 4:24 AM. Highest-calorie day of August (2,997) and highest fat (136 g) — big dinner. Sodium ~4,100 mg.",
+  "sleep": {
+    "total_sleep_minutes": 338,
+    "notes": "5h38m combined (image 2h58m + image 2h44m - 4 min overlap). Both blocks daytime/evening: ~1-7 PM and ~5-8 PM. Bedtime 5:58 PM. 7d avg bedtime 4:24 AM."
+  },
+  "activity": {
+    "move_calories": 509.0,
+    "exercise_minutes": 44,
+    "stand_hours": 11,
+    "steps": 7379,
+    "distance_km": 4.49
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 packs Indomie, 2 boiled eggs, 2 garlic sausages (60g each), 280g bone-in skin-on chicken drumstick + 5g olive oil + seasoning powders, 1 pack Biscoff cream biscuits (110g)",
+      "calories": 2221.0,
+      "protein_g": 84.8,
+      "carbs_g": 188.8,
+      "fat_g": 122.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Indomie (label 415 kcal per 185g prepared serving)",
+          "quantity": 2.0,
+          "unit": "pack",
+          "calories": 830.0,
+          "protein_g": 13.2,
+          "carbs_g": 113.6,
+          "fat_g": 34.8,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 2.0,
+          "unit": "large",
+          "calories": 156.0,
+          "protein_g": 12.6,
+          "carbs_g": 1.2,
+          "fat_g": 10.2,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Garlic sausage (60g each)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 300.0,
+          "protein_g": 15.0,
+          "carbs_g": 6.0,
+          "fat_g": 24.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Bone-in skin-on chicken drumstick (seasoned)",
+          "quantity": 280.0,
+          "unit": "g raw bone-in",
+          "calories": 340.0,
+          "protein_g": 40.0,
+          "carbs_g": 0.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Olive oil",
+          "quantity": 5.0,
+          "unit": "g",
+          "calories": 45.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 5.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Biscoff cream biscuits (1 pack, 110g)",
+          "quantity": 110.0,
+          "unit": "g",
+          "calories": 550.0,
+          "protein_g": 4.0,
+          "carbs_g": 68.0,
+          "fat_g": 28.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 400.0,
+    "iron_mg": 7.0,
+    "zinc_mg": 8.5,
+    "b12_ug": 3.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 4100.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 2.5,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0
+  }
+}
