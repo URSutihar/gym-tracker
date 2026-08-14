@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-14",
+  "notes": "No weight scan. Sleep 3h05m (image 5h49m minus 2h44m) — split between an early-evening block (~5-9 PM) and a short 3-6 AM block; bedtime 3:44 AM, 7d avg 4:24 AM. Strongest activity day of August: 15,816 steps, 9.97 km, 668 move kcal, 14 stand hours, only 7 idle hours. Low intake (1,455) and low protein (51 g) — popcorn as lunch again. Chicken tikka masala fat reduced ~9 g from the usual 250g estimate because oil was drained before eating.",
+  "sleep": {
+    "total_sleep_minutes": 185,
+    "notes": "3h05m (image 5h49m minus 2h44m). Two blocks: ~5-9 PM evening and ~3-6 AM. Bedtime 3:44 AM (41 min earlier than average). 7d avg bedtime 4:24 AM."
+  },
+  "activity": {
+    "move_calories": 668.0,
+    "exercise_minutes": 36,
+    "stand_hours": 14,
+    "steps": 15816,
+    "distance_km": 9.97
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Golden Village regular caramel popcorn",
+      "calories": 550.0,
+      "protein_g": 5.0,
+      "carbs_g": 80.0,
+      "fat_g": 23.0,
+      "fiber_g": 4.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 garlic naan + 250g chicken tikka masala (oil drained off before eating)",
+      "calories": 905.0,
+      "protein_g": 46.0,
+      "carbs_g": 106.0,
+      "fat_g": 34.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 560.0,
+          "protein_g": 14.0,
+          "carbs_g": 92.0,
+          "fat_g": 16.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Chicken tikka masala (oil drained, fat reduced from usual 27g)",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 345.0,
+          "protein_g": 32.0,
+          "carbs_g": 14.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 4.5,
+    "zinc_mg": 5.0,
+    "b12_ug": 1.5,
+    "potassium_mg": 1300.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 170.0
+  }
+}
