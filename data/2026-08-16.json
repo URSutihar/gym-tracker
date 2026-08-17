@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-16",
+  "notes": "Weight 72.4 kg (flat), scanned 13:26. Body water up to 55.5% / 40.2 kg (+0.3), muscle mass 55.1 (+0.1), SMM 29.1 (+0.2), fat mass 14.2 (-0.1), body fat 19.6% (-0.1). Composition improving on a flat scale again. HR 87 Standard (lowest in weeks), visceral 8, body type FIT. Sleep 7h17m but main block shifted back to daytime (6:47 AM-12:05 PM) after Aug 15's nocturnal block. 79 exercise minutes and 14,626 steps — strong activity. Low intake (1,264) — ate only 60% of the upsized spaghetti but all of the meat.",
+  "body_metrics": {
+    "weight_kg": 72.4,
+    "bmi": 23.1,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 55.5,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.3,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 437,
+    "notes": "7h17m total. Main block 6:47 AM-12:05 PM (4h59m net, 4 wakes) — daytime. Evening block 5:57-8:23 PM (2h18m net, 4 wakes)."
+  },
+  "activity": {
+    "move_calories": 665.0,
+    "exercise_minutes": 79,
+    "stand_hours": 11,
+    "steps": 14626,
+    "distance_km": 9.23
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Tomato sauce spaghetti (upsized, spicy) with smoked duck, chicken thigh, sous vide egg, button mushroom — ate 60% of the spaghetti, all of the meat",
+      "calories": 849.0,
+      "protein_g": 61.2,
+      "carbs_g": 66.2,
+      "fat_g": 35.5,
+      "fiber_g": 4.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Spaghetti + tomato sauce, upsized (60% eaten)",
+          "quantity": 0.6,
+          "unit": "portion",
+          "calories": 336.0,
+          "protein_g": 11.4,
+          "carbs_g": 63.6,
+          "fat_g": 3.0,
+          "fiber_g": 4.2
+        },
+        {
+          "food_name": "Smoked duck",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 200.0,
+          "protein_g": 18.0,
+          "carbs_g": 0.0,
+          "fat_g": 14.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken thigh",
+          "quantity": 120.0,
+          "unit": "g cooked",
+          "calories": 220.0,
+          "protein_g": 24.0,
+          "carbs_g": 0.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sous vide egg",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Button mushroom",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 15.0,
+          "protein_g": 1.5,
+          "carbs_g": 2.0,
+          "fat_g": 0.2,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 pack Indomie",
+      "calories": 415.0,
+      "protein_g": 6.6,
+      "carbs_g": 56.8,
+      "fat_g": 17.4,
+      "fiber_g": 1.0,
+      "is_estimated": false
+    }
+  ],
+  "micros": {
+    "calcium_mg": 250.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 7.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 1800.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 170.0
+  }
+}
