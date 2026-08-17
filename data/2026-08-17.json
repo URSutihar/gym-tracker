@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-17",
+  "notes": "Weight 72.1 kg (-0.3), scanned 12:02. Cleanest composition split in weeks: fat mass 13.9 (-0.3) took the ENTIRE drop, muscle mass held at 55.1, SMM up to 29.2 (+0.1). Body fat 19.3% (-0.3), muscle 76.4% (+0.3), body water 56.0% (+0.5) / 40.3 kg. Protein mass 14.1 (-0.2). Reflects Aug 16 (per scan-timing rule): 1,264 kcal intake, 14,626 steps, 79 exercise minutes — biggest deficit day of the month. Caveat: a true 0.3 kg fat drop needs a ~2,300 kcal deficit; actual was ~1,400, so part is BIA noise from the +0.5% water shift. HR 84 bpm — lowest logged in weeks (87/92/93 on Aug 16/15/12). Visceral 8 still High; bone mineral 4.3% and SMM both still flagged Under. Sleep 7h30m with bedtime 11:55 PM — properly nocturnal main block, best bedtime in the series (7d avg 5:59 AM), but the long afternoon block returned. Activity dropped hard vs Aug 16: 6,292 steps, 343 move kcal (ring not closed), though 45 exercise minutes closed that ring. Vitamin C ~83 mg and potassium ~2,280 mg — both the best in a month, driven by the iJooz juice plus black beans and guacamole.",
+  "body_metrics": {
+    "weight_kg": 72.1,
+    "bmi": 23.0,
+    "body_fat_pct": 19.3,
+    "fat_mass_kg": 13.9,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 29.2,
+    "body_water_pct": 56.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 450,
+    "notes": "7h30m net (image 9h48m minus 2h18m already counted as Aug 16's 5:57-8:23 PM evening block). Nocturnal main block ~11:55 PM-5:50 AM plus an afternoon/evening block ~1:00-6:50 PM. Bedtime 11:55 PM vs 7d average 5:59 AM — Apple flagged it as a big miss from typical, in the good direction."
+  },
+  "activity": {
+    "move_calories": 343.0,
+    "exercise_minutes": 45,
+    "stand_hours": 8,
+    "steps": 6292,
+    "distance_km": 4.04
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Cheesecake, 100g (from label: 1312 kJ = 313.6 kcal, 4.7g protein, 12.4g carbs, 27.6g fat, 125mg sodium per 100g) — portion weight assumed 100g",
+      "calories": 314.0,
+      "protein_g": 4.7,
+      "carbs_g": 12.4,
+      "fat_g": 27.6,
+      "fiber_g": 0.5,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Stuff'd chicken burrito 450g (receipt: regular wrap, iceberg lettuce, yuzu sesame, adobo black beans, cilantro rice, add-on cheese, add-on guacamole; no nacho add-ons) + 1 glass iJooz orange juice",
+      "calories": 937.0,
+      "protein_g": 50.5,
+      "carbs_g": 106.5,
+      "fat_g": 33.4,
+      "fiber_g": 8.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Regular wrap (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "wrap",
+          "calories": 250.0,
+          "protein_g": 7.5,
+          "carbs_g": 44.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Grilled chicken base (Stuff'd label, included in Chicken Burrito line)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 224.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cilantro rice (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 78.0,
+          "protein_g": 1.5,
+          "carbs_g": 15.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Adobo black beans (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 73.0,
+          "protein_g": 4.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.5,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Cheese add-on (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 67.0,
+          "protein_g": 4.0,
+          "carbs_g": 0.5,
+          "fat_g": 5.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Guacamole add-on (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 70.0,
+          "protein_g": 1.0,
+          "carbs_g": 4.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Yuzu sesame sauce",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 55.0,
+          "protein_g": 0.5,
+          "carbs_g": 3.0,
+          "fat_g": 4.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Iceberg lettuce",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 10.0,
+          "protein_g": 0.3,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "iJooz fresh orange juice",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 110.0,
+          "protein_g": 1.7,
+          "carbs_g": 26.0,
+          "fat_g": 0.4,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 430.0,
+    "iron_mg": 7.5,
+    "zinc_mg": 7.0,
+    "b12_ug": 1.5,
+    "potassium_mg": 2280.0,
+    "sodium_mg": 2700.0,
+    "vitamin_c_mg": 83.0,
+    "vitamin_d_ug": 0.8,
+    "omega3_g": 0.2,
+    "magnesium_mg": 215.0
+  }
+}
