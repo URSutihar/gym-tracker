@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-18",
+  "notes": "Weight 72.2 kg (+0.1), scanned 10:15. Fat mass 14.0 (+0.1), body water 55.8% (-0.2), SMM 29.1 (-0.1), muscle mass flat at 55.1, protein mass 14.2 (+0.1). Every delta is inside BIA noise and the -0.2% water shift alone accounts for the apparent fat uptick. Reflects Aug 17 (per scan-timing rule): 2,027 kcal with a +490 deficit but only 6,292 steps — a modest day, so a flat reading is the expected result. HR 107 bpm flagged Over vs 84 yesterday: the activity chart shows a move/exercise spike at ~9:55 AM, immediately before the 10:15 scan, so this is post-exertion, not a resting value. Sleep HR the same night ranged 47-67 bpm, which is the real resting picture. Visceral 8 High, bone mineral 4.3% and SMM still Under. Sleep 7h22m, but the nocturnal block collapsed to ~11 PM-2:42 AM and the bulk moved back to a midday block ~11:50 AM-5 PM — Aug 17's 11:55 PM bedtime did not hold, same one-night pattern as the previous six reset attempts. Activity strong: 97 exercise minutes (highest of the month), 588 move kcal (ring closed), 11,969 steps, but stand only 6/10 with 17 idle hours. Fiber 19.4 g and vitamin C ~300 mg — both far above the 30-day averages, almost entirely from the 270g Thai pink guava.",
+  "body_metrics": {
+    "weight_kg": 72.2,
+    "bmi": 23.0,
+    "body_fat_pct": 19.4,
+    "fat_mass_kg": 14.0,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 55.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.2,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 442,
+    "notes": "7h22m total, no overlap with Aug 17's chart (that one ended ~8 PM Aug 17; this one starts 11 PM Aug 17). Night block ~11:00 PM-2:42 AM with several wakes, then a long midday block ~11:50 AM-5:00 PM. Sleep heart rate 47-67 bpm (max 67)."
+  },
+  "activity": {
+    "move_calories": 588.0,
+    "exercise_minutes": 97,
+    "stand_hours": 6,
+    "steps": 11969,
+    "distance_km": 8.04
+  },
+  "meals": [
+    {
+      "meal_type": "late_night_snack",
+      "description": "2 garlic chicken sausages (~60g each)",
+      "calories": 280.0,
+      "protein_g": 17.0,
+      "carbs_g": 5.0,
+      "fat_g": 21.5,
+      "fiber_g": 0.0,
+      "is_estimated": true
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "BBQ Chicken Hot Plate, full plate (university Korean stall) — marinated chicken, rice, sizzling veg, kimchi",
+      "calories": 785.0,
+      "protein_g": 46.3,
+      "carbs_g": 80.0,
+      "fat_g": 19.2,
+      "fiber_g": 3.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Korean BBQ chicken (marinated, cooked)",
+          "quantity": 240.0,
+          "unit": "g cooked",
+          "calories": 465.0,
+          "protein_g": 40.0,
+          "carbs_g": 13.0,
+          "fat_g": 17.0,
+          "fiber_g": 0.7
+        },
+        {
+          "food_name": "Rice (full portion)",
+          "quantity": 200.0,
+          "unit": "g cooked",
+          "calories": 260.0,
+          "protein_g": 4.8,
+          "carbs_g": 57.0,
+          "fat_g": 0.6,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Sizzling plate veg (onion, cabbage)",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 8.0,
+          "fat_g": 1.5,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Kimchi",
+          "quantity": 30.0,
+          "unit": "g",
+          "calories": 10.0,
+          "protein_g": 0.5,
+          "carbs_g": 2.0,
+          "fat_g": 0.1,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Thai pink guava, 270g (after dinner)",
+      "calories": 165.0,
+      "protein_g": 5.5,
+      "carbs_g": 35.0,
+      "fat_g": 2.0,
+      "fiber_g": 12.5,
+      "is_estimated": true
+    }
+  ],
+  "micros": {
+    "calcium_mg": 190.0,
+    "iron_mg": 7.5,
+    "zinc_mg": 8.5,
+    "b12_ug": 1.6,
+    "potassium_mg": 2825.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 300.0,
+    "vitamin_d_ug": 0.7,
+    "omega3_g": 0.2,
+    "magnesium_mg": 190.0
+  }
+}
