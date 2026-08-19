@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-19",
+  "notes": "Weight 72.8 kg (+0.6), scanned 10:05. Body water 56.6% (+0.8) / 41.1 kg, SMM 29.9 (+0.8) — flipped from Under to Standard for the first time, muscle mass 55.4 (+0.3), fat-free weight 58.6 (+0.4), BMR 1636 (+9). Protein percentage 18.8 (-0.9) and protein mass 13.7 (-0.4) moved the opposite way. This is a water artifact, not overnight muscle gain: body water and SMM rose by the identical 0.8 and the protein reading fell to pay for it, which is what BIA does when hydration jumps. Reflects Aug 18 (per scan-timing rule), which was a +532 deficit with 11,969 steps and 97 exercise minutes — a real 0.6 kg fat gain would need a ~4,600 kcal surplus, so none of this is tissue. Driver is Aug 18's ~3,400 mg sodium plus 232 g carbs refilling glycogen after the heaviest training day of the month; each gram of glycogen binds ~3 g water. HR back to 83 bpm Standard. Visceral 8 High, bone mineral 4.3% still Under. Sleep only 3h18m, ALL of it a single daytime block ~2:37-6:00 PM — no nocturnal sleep at all. Average bedtime has drifted 5:59 AM (Aug 17) to 6:53 AM (Aug 19), moving later day over day: free-running, not random. Move ring closed (502/500) and stand closed (11/10) but exercise only 16/30 after yesterday's 97 minutes. Intake 2,813 kcal — a surplus day. Best micronutrient day in the log: calcium ~1,230 mg (first time over RDA, from the 500 ml fortified milk alone contributing 1,000 mg), potassium ~3,510 mg (over RDA), vitamin C ~245 mg, vitamin D 4.1 ug (best logged). Screenshots taken 11:54 PM so the day is essentially complete.",
+  "body_metrics": {
+    "weight_kg": 72.8,
+    "bmi": 23.2,
+    "body_fat_pct": 19.5,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 56.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.7,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 198,
+    "notes": "3h18m, entirely one daytime block ~2:37-6:00 PM (bedtime 2:37 PM). Zero nocturnal sleep. Two clean REM/deep cycles then fragmented core with wakes. Average bedtime 6:53 AM, up from 5:59 AM on Aug 17 — drifting later each day."
+  },
+  "activity": {
+    "move_calories": 502.0,
+    "exercise_minutes": 16,
+    "stand_hours": 11,
+    "steps": 10771,
+    "distance_km": 6.76
+  },
+  "meals": [
+    {
+      "meal_type": "late_night_dinner",
+      "description": "Woke very hungry overnight — Thai chilli chicken rice (470g net) + 1x70g Cookies & Cream cheesecake",
+      "calories": 942.0,
+      "protein_g": 45.2,
+      "carbs_g": 104.5,
+      "fat_g": 36.9,
+      "fiber_g": 5.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai chilli chicken rice (470g net: ~250g rice + ~200g chilli-basil chicken + sauce)",
+          "quantity": 470.0,
+          "unit": "g",
+          "calories": 705.0,
+          "protein_g": 41.0,
+          "carbs_g": 83.0,
+          "fat_g": 22.0,
+          "fiber_g": 2.2
+        },
+        {
+          "food_name": "Cookies & Cream cheesecake (label 236.6 kcal/70g)",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2pc Chicken McCrispy Spicy + 230g Thai pink guava + 500ml high-calcium low-fat milk (from label)",
+      "calories": 1095.0,
+      "protein_g": 62.7,
+      "carbs_g": 102.0,
+      "fat_g": 50.3,
+      "fiber_g": 13.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy Spicy 2pc (McD SG label)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 230.0,
+          "unit": "g",
+          "calories": 140.0,
+          "protein_g": 4.7,
+          "carbs_g": 30.0,
+          "fat_g": 1.7,
+          "fiber_g": 10.6
+        },
+        {
+          "food_name": "High-calcium low-fat milk with DHA + vitamin D3 (label: 133 kcal / 9.5g protein / 500mg calcium / 1.8ug D3 per 250ml glass)",
+          "quantity": 500.0,
+          "unit": "ml",
+          "calories": 266.0,
+          "protein_g": 19.0,
+          "carbs_g": 30.0,
+          "fat_g": 7.6,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 1230.0,
+    "iron_mg": 8.3,
+    "zinc_mg": 9.5,
+    "b12_ug": 3.4,
+    "potassium_mg": 3510.0,
+    "sodium_mg": 4500.0,
+    "vitamin_c_mg": 245.0,
+    "vitamin_d_ug": 4.1,
+    "omega3_g": 0.3,
+    "magnesium_mg": 260.0
+  }
+}
