@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "notes": "Weight 71.9 kg (-0.9), scanned 10:37 — the Aug 19 water bolus unwound exactly as expected. Fat mass 13.8 (-0.4), body fat 19.2% (-0.3), BMI 22.9 (-0.3), muscle mass 55.0 (-0.4), SMM 29.5 (-0.4, back to Under), protein percentage 19.2 (+0.4), body water 56.5% (-0.1), fat-free weight 58.1 (-0.5). The SMM 'Standard' flag from Aug 19 reverted, confirming it was hydration, not tissue. Two genuine firsts: VISCERAL FAT dropped to 7 (from 8, first time below 8 in the log) and waist-hip ratio to 0.8 (from 0.9) — both are slow-moving structural markers that do not swing on water, so these are real. Reflects Aug 19: 2,813 kcal (a -291 surplus) but ~4,500 mg sodium, and shedding that sodium load is what produced the -0.9. HR 98 bpm at the 10:37 scan with an activity spike at ~10-11 AM on the chart — post-exertion again, not resting. Sleep 7h57m (image 7h23m plus 34 min) with the main block back to ~1:40-6:15 AM, nocturnal, plus an afternoon block ~3:00-6:10 PM. Bedtime jumped from 2:37 PM to ~1:40 AM — a ~13 hour swing, which is the free-running drift wrapping around the clock rather than a successful reset. 74 exercise minutes, move ring closed (564/500), 28 stairs. Second straight day over the calcium RDA (~1,330 mg) and FIRST day ever over the omega-3 RDA (~3.7 g) — but that is ALA from chia, not EPA/DHA, which remains near zero. Fiber 25.5 g is a log best.",
+  "notes": "Weight 71.9 kg (-0.9), scanned 10:37 — the Aug 19 water bolus unwound exactly as expected. Fat mass 13.8 (-0.4), body fat 19.2% (-0.3), BMI 22.9 (-0.3), muscle mass 55.0 (-0.4), SMM 29.5 (-0.4, back to Under), protein percentage 19.2 (+0.4), body water 56.5% (-0.1), fat-free weight 58.1 (-0.5). The SMM 'Standard' flag from Aug 19 reverted, confirming it was hydration, not tissue. Two genuine firsts: VISCERAL FAT dropped to 7 (from 8, first time below 8 in the log) and waist-hip ratio to 0.8 (from 0.9) — both are slow-moving structural markers that do not swing on water, so these are real. Reflects Aug 19: 2,813 kcal (a -291 surplus) but ~4,500 mg sodium, and shedding that sodium load is what produced the -0.9. HR 98 bpm at the 10:37 scan with an activity spike at ~10-11 AM on the chart — post-exertion again, not resting. Sleep 7h57m (image 7h23m plus 34 min) with the main block back to ~1:40-6:15 AM, nocturnal, plus an afternoon block ~3:00-6:10 PM. Bedtime jumped from 2:37 PM to ~1:40 AM — a ~13 hour swing, which is the free-running drift wrapping around the clock rather than a successful reset. 74 exercise minutes, move ring closed (564/500), 28 stairs. Second straight day over the calcium RDA (~1,330 mg) and FIRST day ever over the omega-3 RDA (~3.7 g) — but that is ALA from chia, not EPA/DHA, which remains near zero. Fiber 26.8 g is a log best. Pumpkin seeds corrected to 25 g of hulled kernels (photo confirms pepitas, not in-shell; the printed panel's 19.4 g fat / 53.7 g carb per 100 g does not match pumpkin kernels, so USDA values are used). That alone pushed magnesium to ~437 mg — over RDA for the first time in the log — plus iron 10.2 mg and zinc 9.8 mg.",
   "body_metrics": {
     "weight_kg": 71.9,
     "bmi": 22.9,
@@ -104,12 +104,12 @@
     },
     {
       "meal_type": "supper",
-      "description": "500ml high-calcium milk + 185g Thai pink guava + 20g chia seeds in water + 5g raw pumpkin seeds (in-shell, from label)",
-      "calories": 498.0,
-      "protein_g": 27.0,
+      "description": "500ml high-calcium milk + 185g Thai pink guava + 20g chia seeds in water + 25g raw hulled pumpkin seeds (pepitas)",
+      "calories": 616.0,
+      "protein_g": 33.6,
       "carbs_g": 68.7,
-      "fat_g": 16.2,
-      "fiber_g": 18.4,
+      "fat_g": 27.5,
+      "fiber_g": 19.7,
       "is_estimated": true,
       "foods": [
         {
@@ -143,28 +143,28 @@
           "fiber_g": 9.6
         },
         {
-          "food_name": "Pumpkin seeds, raw in-shell (label: 446 kcal / 18.5g protein / 19.4g fat / 53.7g carb per 100g)",
-          "quantity": 5.0,
+          "food_name": "Pumpkin seeds, raw hulled kernels/pepitas (Akshar 200g; printed panel unreliable, USDA values used)",
+          "quantity": 25.0,
           "unit": "g",
-          "calories": 22.0,
-          "protein_g": 0.9,
+          "calories": 140.0,
+          "protein_g": 7.5,
           "carbs_g": 2.7,
-          "fat_g": 1.0,
-          "fiber_g": 0.2
+          "fat_g": 12.3,
+          "fiber_g": 1.5
         }
       ]
     }
   ],
   "micros": {
-    "calcium_mg": 1330.0,
-    "iron_mg": 8.2,
-    "zinc_mg": 7.9,
+    "calcium_mg": 1338.0,
+    "iron_mg": 10.2,
+    "zinc_mg": 9.8,
     "b12_ug": 3.5,
-    "potassium_mg": 3300.0,
+    "potassium_mg": 3456.0,
     "sodium_mg": 3100.0,
     "vitamin_c_mg": 200.0,
     "vitamin_d_ug": 3.9,
     "omega3_g": 3.7,
-    "magnesium_mg": 310.0
+    "magnesium_mg": 437.0
   }
 }

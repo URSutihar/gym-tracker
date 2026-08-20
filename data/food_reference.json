@@ -3,7 +3,11 @@
   "foods": [
     {
       "name": "Cavendish banana",
-      "aliases": ["banana", "1 banana", "1 cavendish banana"],
+      "aliases": [
+        "banana",
+        "1 banana",
+        "1 cavendish banana"
+      ],
       "serving": "1 medium",
       "calories": 107,
       "protein_g": 1.3,
@@ -61,7 +65,11 @@
     },
     {
       "name": "Psyllium husk",
-      "aliases": ["10g psyllium husk", "10g psyllium", "psyllium"],
+      "aliases": [
+        "10g psyllium husk",
+        "10g psyllium",
+        "psyllium"
+      ],
       "serving": "10g",
       "calories": 35,
       "protein_g": 0.3,
@@ -73,7 +81,10 @@
     },
     {
       "name": "Hainanese Chicken Rice (standard)",
-      "aliases": ["hainanese chicken rice", "chicken rice standard"],
+      "aliases": [
+        "hainanese chicken rice",
+        "chicken rice standard"
+      ],
       "serving": "270g rice + 120g skin-on boneless breast + 25g cucumber + chilli + soup",
       "calories": 776,
       "protein_g": 47.1,
@@ -85,7 +96,10 @@
     },
     {
       "name": "Kung Pao chicken rice bowl + 1 fried egg",
-      "aliases": ["kp chicken rice bowl + fried egg", "kung pao bowl + egg"],
+      "aliases": [
+        "kp chicken rice bowl + fried egg",
+        "kung pao bowl + egg"
+      ],
       "serving": "1 bowl + 1 fried egg",
       "calories": 670,
       "protein_g": 34.0,
@@ -97,7 +111,10 @@
     },
     {
       "name": "BI skinless chicken drumstick + 18g tandoori paste",
-      "aliases": ["bi skinless drumstick tandoori", "tandoori drumstick"],
+      "aliases": [
+        "bi skinless drumstick tandoori",
+        "tandoori drumstick"
+      ],
       "serving": "300g raw",
       "calories": 250,
       "protein_g": 60.5,
@@ -109,7 +126,10 @@
     },
     {
       "name": "Boiled egg",
-      "aliases": ["boiled eggs", "hard boiled egg"],
+      "aliases": [
+        "boiled eggs",
+        "hard boiled egg"
+      ],
       "serving": "1 large",
       "calories": 78,
       "protein_g": 6.3,
@@ -121,7 +141,11 @@
     },
     {
       "name": "Stuff'd Chicken Burrito (loaded)",
-      "aliases": ["burrito-3", "new meal prep burrito", "stuff'd burrito"],
+      "aliases": [
+        "burrito-3",
+        "new meal prep burrito",
+        "stuff'd burrito"
+      ],
       "serving": "1 burrito: cheese, iceberg, tomato salsa, habanero, adobo black beans, butter corn",
       "calories": 850,
       "protein_g": 45.0,
@@ -130,6 +154,23 @@
       "fiber_g": 8.0,
       "confirmed": "2026-06-24",
       "notes": ""
+    },
+    {
+      "name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+      "aliases": [
+        "pumpkin seeds",
+        "pepitas",
+        "akshar pumpkin seed",
+        "pumpkin seed raw"
+      ],
+      "serving": "per 25g (small handful)",
+      "calories": 140,
+      "protein_g": 7.5,
+      "carbs_g": 2.7,
+      "fat_g": 12.3,
+      "fiber_g": 1.5,
+      "confirmed": "2026-08-20",
+      "notes": "Akshar 200g pack. IGNORE the printed panel (19.4g fat / 53.7g carb / 18.5g protein per 100g) - those are not pumpkin kernel values; photo confirms hulled green pepitas. USDA hulled kernel basis used: 559 kcal / 49g fat / 30g protein / 11g carb / 6g fiber per 100g. Per 25g also gives Mg 138mg, Zn 1.95mg, Fe 2.2mg, K 202mg. Useful dose 25-30g; 5g is negligible. Raw is fine - do not roast (degrades vitamin E, oxidises PUFA); soak overnight if reducing phytates."
     }
   ]
 }
