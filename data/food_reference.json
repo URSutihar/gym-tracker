@@ -171,6 +171,202 @@
       "fiber_g": 1.5,
       "confirmed": "2026-08-20",
       "notes": "Akshar 200g pack. IGNORE the printed panel (19.4g fat / 53.7g carb / 18.5g protein per 100g) - those are not pumpkin kernel values; photo confirms hulled green pepitas. USDA hulled kernel basis used: 559 kcal / 49g fat / 30g protein / 11g carb / 6g fiber per 100g. Per 25g also gives Mg 138mg, Zn 1.95mg, Fe 2.2mg, K 202mg. Useful dose 25-30g; 5g is negligible. Raw is fine - do not roast (degrades vitamin E, oxidises PUFA); soak overnight if reducing phytates."
+    },
+    {
+      "name": "Cookies & Cream cheesecake (70g slice)",
+      "aliases": [
+        "cookies and cream cheesecake",
+        "oreo cheesecake",
+        "cheesecake 70g",
+        "c&c cheesecake"
+      ],
+      "serving": "70g slice",
+      "calories": 237,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "confirmed": "2026-08-02",
+      "notes": "From pack label: 236.6 kcal per 70g serving. Usually eaten 1-2 slices. NOT the same product as the plain cheesecake label (313.6 kcal/100g, 27.6g fat, 12.4g carb) logged 2026-08-17."
+    },
+    {
+      "name": "Banana pudding",
+      "aliases": [
+        "banana pudding",
+        "banana pudding 150g"
+      ],
+      "serving": "150g",
+      "calories": 205,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 6.5,
+      "fiber_g": 0.8,
+      "confirmed": "2026-08-20",
+      "notes": "Estimated; no label seen yet."
+    },
+    {
+      "name": "Thai pink guava",
+      "aliases": [
+        "thai pink guava",
+        "pink guava",
+        "guava"
+      ],
+      "serving": "per 100g edible",
+      "calories": 61,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.75,
+      "fiber_g": 4.6,
+      "confirmed": "2026-08-18",
+      "notes": "Scale linearly by weight. Per 100g also ~100mg vitamin C, ~415mg potassium, ~22mg magnesium, lycopene (pink flesh). Single best micronutrient item in the rotation."
+    },
+    {
+      "name": "Chia seeds (soaked)",
+      "aliases": [
+        "chia",
+        "chia seeds",
+        "chia seeds in water"
+      ],
+      "serving": "20g dry",
+      "calories": 97,
+      "protein_g": 3.3,
+      "carbs_g": 12.0,
+      "fat_g": 6.2,
+      "fiber_g": 9.6,
+      "confirmed": "2026-08-20",
+      "notes": "User's pack states 48g fibre/100g (higher than USDA 34g) - label used. Per 20g also ~3.5g ALA omega-3, 126mg calcium, 67mg magnesium, 1.5mg iron. ALA only: converts to EPA ~5%, DHA <1% - NOT a fish-oil substitute."
+    },
+    {
+      "name": "Omega-3 egg (boiled)",
+      "aliases": [
+        "omega egg",
+        "omega-3 egg",
+        "boiled omega egg",
+        "selenium egg"
+      ],
+      "serving": "1 egg, 55-60g",
+      "calories": 74,
+      "protein_g": 6.9,
+      "carbs_g": 0.3,
+      "fat_g": 5.1,
+      "fiber_g": 0.5,
+      "confirmed": "2026-08-20",
+      "notes": "From pack label per serving: 25.5ug selenium, 0.1g DHA+EPA, 0.2g total omega-3, 214mg cholesterol, 78.1mg sodium. 3 eggs = ~300mg EPA+DHA, which meets the 250-500mg daily target WITHOUT fish. Distinct from the plain Boiled egg template."
+    },
+    {
+      "name": "Myprotein Essential Whey",
+      "aliases": [
+        "essential whey",
+        "myprotein essential",
+        "protein powder",
+        "whey"
+      ],
+      "serving": "25g scoop",
+      "calories": 106,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "confirmed": "2026-08-21",
+      "notes": "Per 100g: 425 kcal, 65g protein, 16g fat (9.4g sat), 3.4g carb. Budget concentrate line - 65% protein by weight vs ~80% for Impact Whey. 6.6 kcal per gram of protein; Impact Whey is ~4.9. Fine, but less protein per calorie."
+    },
+    {
+      "name": "Meiji multi-vitamin milk",
+      "aliases": [
+        "meiji multivitamin milk",
+        "multivitamin milk",
+        "meji multi vitamin"
+      ],
+      "serving": "200ml glass",
+      "calories": 92,
+      "protein_g": 7.6,
+      "carbs_g": 9.2,
+      "fat_g": 2.8,
+      "fiber_g": 0.4,
+      "confirmed": "2026-08-21",
+      "notes": "Lactose-hydrolysed. Per 200ml: Ca 400mg, vit E 5.2mg, zinc 4.0mg, iron 3.0mg, vit A 236ug, folate 94.8ug, selenium 22.8ug, vit K 21.4ug, vit D3 2.4ug, B12 1.4ug, niacin 4.6mg, B6 1.4mg, B1/B2 0.8mg, biotin 56.6ug, phosphorus 228.4mg, sodium 100mg. Far better micro profile than the previous high-calcium milk, which supplied only calcium and D3."
+    },
+    {
+      "name": "Indomie (1 pack, prepared)",
+      "aliases": [
+        "indomie",
+        "indomie pack",
+        "indomie mi goreng"
+      ],
+      "serving": "1 pack, 185g prepared",
+      "calories": 415,
+      "protein_g": 6.6,
+      "carbs_g": 56.8,
+      "fat_g": 17.4,
+      "fiber_g": 1.0,
+      "confirmed": "2026-08-05",
+      "notes": "Label figure. Nearly all sodium is in the seasoning sachet (~950mg); the noodle block alone is ~250mg. Half-sachet halves the sodium at no calorie cost."
+    },
+    {
+      "name": "Chicken McCrispy 2pc (spicy or original)",
+      "aliases": [
+        "mccrispy",
+        "chicken mccrispy",
+        "mccrispy 2pc",
+        "chicken mccrispy spicy 2pc"
+      ],
+      "serving": "2 pieces",
+      "calories": 689,
+      "protein_g": 39.0,
+      "carbs_g": 42.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "confirmed": "2026-08-05",
+      "notes": "McDonald's SG label. Spicy and original are identical on the label. Verified 2026-08-05 via fatsecret.com.sg after the McD SG site returned placeholder zeros."
+    },
+    {
+      "name": "Korean BBQ chicken hotplate (full plate)",
+      "aliases": [
+        "bbq chicken hotplate",
+        "korean bbq hotplate",
+        "chicken hot plate",
+        "bbq chicken hot plate"
+      ],
+      "serving": "full plate: ~240g chicken + 200g rice + veg + kimchi",
+      "calories": 785,
+      "protein_g": 46.3,
+      "carbs_g": 80.0,
+      "fat_g": 19.2,
+      "fiber_g": 3.3,
+      "confirmed": "2026-08-18",
+      "notes": "University Korean stall. 3/4 plate variant = 595 / 35 / 75 / 15 / 2.5 (logged 2026-07-19). Sodium-heavy from marinade plus kimchi."
+    },
+    {
+      "name": "iJooz fresh orange juice",
+      "aliases": [
+        "ijooz",
+        "ijooz orange juice",
+        "orange juice ijooz"
+      ],
+      "serving": "1 glass, 250ml",
+      "calories": 110,
+      "protein_g": 1.7,
+      "carbs_g": 26.0,
+      "fat_g": 0.4,
+      "fiber_g": 0.5,
+      "confirmed": "2026-08-06",
+      "notes": "~70mg vitamin C per glass. On both Jul 20 and Aug 6 it single-handedly lifted the day from ~12mg to ~72-75mg vitamin C."
+    },
+    {
+      "name": "Palak paneer rice set",
+      "aliases": [
+        "palak paneer rice set",
+        "palak paneer",
+        "palak paneer set"
+      ],
+      "serving": "550g total: ~250g palak paneer + ~300g rice",
+      "calories": 740,
+      "protein_g": 23.8,
+      "carbs_g": 96.0,
+      "fat_g": 26.8,
+      "fiber_g": 4.8,
+      "confirmed": "2026-08-21",
+      "notes": "Estimated. Spinach gravy makes this the highest vitamin K meal in the rotation (~480ug from ~100g spinach). Lower sodium than the chicken rice and Korean stall options."
     }
   ]
 }

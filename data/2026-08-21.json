@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-21",
+  "notes": "Weight 72.3 kg (+0.4), scanned 10:30. Body water 55.9% (-0.6), fat mass 14.1 (+0.3), body fat 19.5% (+0.3), muscle mass 55.1 (+0.1), SMM 29.3 (-0.2), protein percentage 19.5 (+0.3). CORRECTION to yesterday's read: visceral fat went back 7 to 8 and waist-hip ratio 0.8 to 0.9 in a single day. I called those two 'structural, they do not swing on water' on Aug 20 — that was wrong. The Xiaomi derives both from the same impedance and weight inputs as everything else, so they move with hydration like the rest. Treat them as noisy too and only read their multi-week trend. Reflects Aug 20: 2,372 kcal (+115 deficit), 74 exercise minutes, 10,292 steps — the -0.6% water is the whole story for the +0.4 kg and +0.3 fat. HR 108 bpm Over at the 10:30 scan, third occurrence in four days, and the activity chart again shows a move spike at ~10-11 AM immediately before it. Scanning BEFORE the morning walk would give a cleaner resting HR and a more consistent hydration baseline. Sleep 7h03m (image 6h45m minus 34 min already counted in Aug 20's afternoon block, plus 52 min evening block). Nocturnal block ~3:30-8:30 AM plus a ~4:40-5:45 PM evening nap. User's own read is correct: 4-6 nocturnal hours are landing, and the 2-3 evening naps are what break the consolidation. Activity strong: 78 exercise minutes, 575 move kcal, 13/10 stand (best of the month, only 9 idle hours), 11,921 steps. FIBER 31.5 g — first day over the 30 g RDA in the log. Vitamin K ~486 ug from the palak (spinach) gravy, the first genuinely high-K day. Sodium ~2,450 mg, lowest in weeks. Calcium fell to ~700 mg because no milk was drunk today.",
+  "body_metrics": {
+    "weight_kg": 72.3,
+    "bmi": 23.1,
+    "body_fat_pct": 19.5,
+    "fat_mass_kg": 14.1,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 29.3,
+    "body_water_pct": 55.9,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 423,
+    "notes": "7h03m (image 6h45m minus 34 min belonging to Aug 20's afternoon block, plus 52 min). Nocturnal main block ~3:30-8:30 AM with 3 wakes and two deep cycles, plus an evening nap ~4:40-5:45 PM. Pattern per user: 4-6 nocturnal hours are now consistent, but 2-3 evening naps break it up."
+  },
+  "activity": {
+    "move_calories": 575.0,
+    "exercise_minutes": 78,
+    "stand_hours": 13,
+    "steps": 11921,
+    "distance_km": 7.74
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Palak paneer rice set, 550g total",
+      "calories": 740.0,
+      "protein_g": 23.8,
+      "carbs_g": 96.0,
+      "fat_g": 26.8,
+      "fiber_g": 4.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Palak paneer (~70g paneer + spinach gravy)",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 350.0,
+          "protein_g": 16.6,
+          "carbs_g": 11.0,
+          "fat_g": 26.0,
+          "fiber_g": 3.9
+        },
+        {
+          "food_name": "Rice",
+          "quantity": 300.0,
+          "unit": "g cooked",
+          "calories": 390.0,
+          "protein_g": 7.2,
+          "carbs_g": 85.0,
+          "fat_g": 0.8,
+          "fiber_g": 0.9
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "20g chia seeds + 25g raw hulled pumpkin seeds + 3 boiled omega-3 eggs + 227g Thai pink guava + 25g Myprotein Essential Whey",
+      "calories": 705.0,
+      "protein_g": 52.1,
+      "carbs_g": 46.0,
+      "fat_g": 39.5,
+      "fiber_g": 23.1,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chia seeds (soaked in water)",
+          "quantity": 20.0,
+          "unit": "g",
+          "calories": 97.0,
+          "protein_g": 3.3,
+          "carbs_g": 12.0,
+          "fat_g": 6.2,
+          "fiber_g": 9.6
+        },
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 140.0,
+          "protein_g": 7.5,
+          "carbs_g": 2.7,
+          "fat_g": 12.3,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Boiled omega-3 egg (label: 74.3 kcal / 6.9g protein / 25.5ug selenium / 0.1g DHA+EPA per 55-60g egg)",
+          "quantity": 3.0,
+          "unit": "egg",
+          "calories": 223.0,
+          "protein_g": 20.7,
+          "carbs_g": 0.9,
+          "fat_g": 15.3,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 227.0,
+          "unit": "g",
+          "calories": 139.0,
+          "protein_g": 4.6,
+          "carbs_g": 29.5,
+          "fat_g": 1.7,
+          "fiber_g": 10.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey (label: 106 kcal / 16g protein / 4.0g fat / 0.9g carb per 25g)",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 700.0,
+    "iron_mg": 12.6,
+    "zinc_mg": 10.4,
+    "b12_ug": 3.4,
+    "potassium_mg": 2740.0,
+    "sodium_mg": 2450.0,
+    "vitamin_c_mg": 250.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 4.1,
+    "magnesium_mg": 403.0
+  }
+}
