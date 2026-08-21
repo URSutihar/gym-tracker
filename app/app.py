@@ -94,7 +94,7 @@ def main():
         if micros.empty:
             st.info("No micronutrient data logged yet — /log-day records estimates from Jul 3 onward.")
         else:
-            nutrient = st.selectbox("Nutrient", list(charts.MICRO_TARGETS))
+            nutrient = st.selectbox("Nutrient", list(charts.MICRO_VISIBLE))
             fig = charts.micro_chart(micros, nutrient)
             if fig:
                 st.plotly_chart(fig, use_container_width=True)

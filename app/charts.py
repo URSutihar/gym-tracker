@@ -194,10 +194,18 @@ MICRO_TARGETS = {
     "Potassium": ("potassium_mg", 3400, "mg", False),
     "Sodium": ("sodium_mg", 2300, "mg", True),
     "Vitamin C": ("vitamin_c_mg", 90, "mg", False),
-    "Vitamin D": ("vitamin_d_ug", 15, "µg", False),
+    "Vitamin D (food only)": ("vitamin_d_ug", 15, "µg", False),
     "Omega-3": ("omega3_g", 1.1, "g", False),
     "Magnesium": ("magnesium_mg", 400, "mg", False),
 }
+
+# Tracked in the DB but not surfaced in the UI. Dietary vitamin D alone is a
+# misleading number here: cutaneous synthesis from sun exposure is the dominant
+# source and is not captured by food logging, so the food-only figure reads as a
+# deficiency that is not real. Kept as a hidden counter.
+HIDDEN_MICROS = {"Vitamin D (food only)"}
+
+MICRO_VISIBLE = {k: v for k, v in MICRO_TARGETS.items() if k not in HIDDEN_MICROS}
 
 
 def micro_chart(micros_df, label, days=60):
