@@ -195,8 +195,16 @@ MICRO_TARGETS = {
     "Sodium": ("sodium_mg", 2300, "mg", True),
     "Vitamin C": ("vitamin_c_mg", 90, "mg", False),
     "Vitamin D (food only)": ("vitamin_d_ug", 15, "µg", False),
-    "Omega-3": ("omega3_g", 1.1, "g", False),
+    "Omega-3 (total, mostly ALA)": ("omega3_g", 1.1, "g", False),
+    "EPA + DHA": ("epa_dha_mg", 250, "mg", False),
     "Magnesium": ("magnesium_mg", 400, "mg", False),
+    "Vitamin K": ("vitamin_k_ug", 120, "µg", False),
+    "Vitamin E": ("vitamin_e_mg", 15, "mg", False),
+    "Vitamin A": ("vitamin_a_ug", 900, "µg", False),
+    "Folate": ("folate_ug", 400, "µg", False),
+    "Selenium": ("selenium_ug", 55, "µg", False),
+    "Choline": ("choline_mg", 550, "mg", False),
+    "Iodine": ("iodine_ug", 150, "µg", False),
 }
 
 # Tracked in the DB but not surfaced in the UI. Dietary vitamin D alone is a

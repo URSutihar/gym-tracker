@@ -131,7 +131,9 @@ def export_day(conn, day_row):
         out["meals"] = meals
 
     micro_cols = ["calcium_mg", "iron_mg", "zinc_mg", "b12_ug", "potassium_mg",
-                  "sodium_mg", "vitamin_c_mg", "vitamin_d_ug", "omega3_g", "magnesium_mg"]
+                  "sodium_mg", "vitamin_c_mg", "vitamin_d_ug", "omega3_g", "magnesium_mg",
+                  "vitamin_k_ug", "vitamin_e_mg", "vitamin_a_ug", "folate_ug",
+                  "selenium_ug", "epa_dha_mg", "choline_mg", "iodine_ug"]
     micros = conn.execute(
         f"SELECT {', '.join(micro_cols)} FROM micros WHERE day_id=?", (day_id,)).fetchone()
     if micros:

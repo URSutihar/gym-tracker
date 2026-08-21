@@ -121,6 +121,14 @@
     "vitamin_c_mg": 300.0,
     "vitamin_d_ug": 0.7,
     "omega3_g": 0.2,
-    "magnesium_mg": 190.0
+    "magnesium_mg": 190.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 3.0,
+    "vitamin_a_ug": 145.0,
+    "folate_ug": 175.0,
+    "selenium_ug": 68.0,
+    "epa_dha_mg": 30.0,
+    "choline_mg": 135.0,
+    "iodine_ug": 25.0
   }
 }

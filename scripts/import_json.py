@@ -141,6 +141,8 @@ def upsert_body_metrics(conn, day_id, bm):
 MICRO_COLS = [
     "calcium_mg", "iron_mg", "zinc_mg", "b12_ug", "potassium_mg",
     "sodium_mg", "vitamin_c_mg", "vitamin_d_ug", "omega3_g", "magnesium_mg",
+    "vitamin_k_ug", "vitamin_e_mg", "vitamin_a_ug", "folate_ug",
+    "selenium_ug", "epa_dha_mg", "choline_mg", "iodine_ug",
 ]
 
 

@@ -128,7 +128,9 @@ def load_micros():
     """One row per day with estimated micronutrient intake (may be empty)."""
     df = _read("""
         SELECT d.date, m.calcium_mg, m.iron_mg, m.zinc_mg, m.b12_ug, m.potassium_mg,
-               m.sodium_mg, m.vitamin_c_mg, m.vitamin_d_ug, m.omega3_g, m.magnesium_mg
+               m.sodium_mg, m.vitamin_c_mg, m.vitamin_d_ug, m.omega3_g, m.magnesium_mg,
+               m.vitamin_k_ug, m.vitamin_e_mg, m.vitamin_a_ug, m.folate_ug,
+               m.selenium_ug, m.epa_dha_mg, m.choline_mg, m.iodine_ug
         FROM micros m JOIN days d ON m.day_id = d.id ORDER BY d.date
     """)
     if not df.empty:

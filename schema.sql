@@ -56,7 +56,15 @@ CREATE TABLE IF NOT EXISTS micros (
     vitamin_c_mg REAL,
     vitamin_d_ug REAL,
     omega3_g REAL,
-    magnesium_mg REAL
+    magnesium_mg REAL,
+    vitamin_k_ug REAL,
+    vitamin_e_mg REAL,
+    vitamin_a_ug REAL,
+    folate_ug REAL,
+    selenium_ug REAL,
+    epa_dha_mg REAL,
+    choline_mg REAL,
+    iodine_ug REAL
 );
 
 CREATE TABLE IF NOT EXISTS workouts (
