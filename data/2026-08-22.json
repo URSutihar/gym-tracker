@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "notes": "Weight 72.5 kg (+0.2), scanned 11:23. Body water 56.3% (+0.4), SMM 29.6 (+0.3, flipped to Standard again), muscle mass 55.2 (+0.1), protein percentage 19.0 (-0.5), fat mass 14.2 (+0.1). Identical signature to Aug 19: water up, SMM up by a similar amount, protein down to pay for it — hydration artifact, not tissue. W/H back to 0.8 after 0.9 yesterday, confirming it is noisy. Bone mineral 4.3% is WITHIN the normal 3-5% band for BIA scales (3.1/72.5 = 4.28%); the scale's Under flag is against Xiaomi's own reference, not a clinical threshold, and is no longer treated as a concern. FLAG: user reports 2 days of marked thirst and heavy near-clear urination. Timeline fits the diet change rather than anything alarming — chia started Aug 20 (binds ~10-12x its weight in water), fiber went 10 g/day baseline to 26.8/31.5/25.7 over three days, protein rose to 139 g plus 2 whey scoops (urea excretion drives osmotic diuresis), and carbs dropped sharply from 305 to 254 to 120 g, releasing glycogen-bound water. Clear urine indicates good-to-over hydration, not dehydration. Recommend adding fasting glucose and HbA1c to the vitamin D blood draw already planned. Intake fell to 1,732 kcal, the lowest since Aug 16 and a ~780 deficit; protein still 139 g. Carbs 120 g is the lowest in the log by a wide margin. Sleep only 4h19m (3:09-7:31 PM, 2 wakes totalling 3 min) — entirely daytime, no nocturnal block at all, a regression from Aug 21's ~3:30-8:30 AM block. Activity strong: 13,320 steps, 33 stairs, 547 move kcal, 11/10 stand.",
+  "notes": "Weight 72.5 kg (+0.2), scanned 11:23. Body water 56.3% (+0.4), SMM 29.6 (+0.3, flipped to Standard again), muscle mass 55.2 (+0.1), protein percentage 19.0 (-0.5), fat mass 14.2 (+0.1). Identical signature to Aug 19: water up, SMM up by a similar amount, protein down to pay for it — hydration artifact, not tissue. W/H back to 0.8 after 0.9 yesterday, confirming it is noisy. Bone mineral 4.3% is WITHIN the normal 3-5% band for BIA scales (3.1/72.5 = 4.28%); the scale's Under flag is against Xiaomi's own reference, not a clinical threshold, and is no longer treated as a concern. FLAG: user reports 2 days of marked thirst and heavy near-clear urination. Timeline fits the diet change rather than anything alarming — chia on Aug 20-21 (none today) binds ~10-12x its weight in water, fiber went from a ~10 g/day baseline to 26.8/31.5 before falling back to 16.1 today, protein rose to 136 g plus 2 whey scoops (urea excretion drives osmotic diuresis), and carbs dropped sharply from 305 to 254 to 108 g, releasing glycogen-bound water. Clear urine indicates good-to-over hydration, not dehydration. Recommend adding fasting glucose and HbA1c to the vitamin D blood draw already planned. Intake fell to 1,635 kcal, the lowest since Aug 16 and a ~880 deficit; protein still 136 g. Carbs 108 g and fiber 16.1 g are both the lowest in weeks — no chia today, so total omega-3 collapsed from 3.7 g to 0.2 g and EPA+DHA stayed at 40 mg with no eggs either. Sleep only 4h19m (3:09-7:31 PM, 2 wakes totalling 3 min) — entirely daytime, no nocturnal block at all, a regression from Aug 21's ~3:30-8:30 AM block. Activity strong: 13,320 steps, 33 stairs, 547 move kcal, 11/10 stand.",
   "body_metrics": {
     "weight_kg": 72.5,
     "bmi": 23.1,
@@ -136,12 +136,12 @@
     },
     {
       "meal_type": "dinner",
-      "description": "6pc cheesy chicken wings (bone-in, fried, cheese-powder coated) + 20g chia seeds",
-      "calories": 627.0,
-      "protein_g": 41.3,
-      "carbs_g": 29.0,
-      "fat_g": 41.2,
-      "fiber_g": 10.1,
+      "description": "6pc cheesy chicken wings (bone-in, fried, cheese-powder coated)",
+      "calories": 530.0,
+      "protein_g": 38.0,
+      "carbs_g": 17.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.5,
       "is_estimated": true,
       "foods": [
         {
@@ -153,36 +153,26 @@
           "carbs_g": 17.0,
           "fat_g": 35.0,
           "fiber_g": 0.5
-        },
-        {
-          "food_name": "Chia seeds (soaked in water)",
-          "quantity": 20.0,
-          "unit": "g",
-          "calories": 97.0,
-          "protein_g": 3.3,
-          "carbs_g": 12.0,
-          "fat_g": 6.2,
-          "fiber_g": 9.6
         }
       ]
     }
   ],
   "micros": {
-    "calcium_mg": 960.0,
-    "iron_mg": 12.2,
-    "zinc_mg": 13.4,
+    "calcium_mg": 834.0,
+    "iron_mg": 10.7,
+    "zinc_mg": 12.5,
     "b12_ug": 3.2,
-    "potassium_mg": 2490.0,
+    "potassium_mg": 2410.0,
     "sodium_mg": 3225.0,
     "vitamin_c_mg": 270.0,
     "vitamin_d_ug": 3.6,
-    "omega3_g": 3.7,
-    "magnesium_mg": 370.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 303.0,
     "vitamin_k_ug": 35.0,
-    "vitamin_e_mg": 11.0,
+    "vitamin_e_mg": 10.9,
     "vitamin_a_ug": 415.0,
-    "folate_ug": 300.0,
-    "selenium_ug": 112.0,
+    "folate_ug": 290.0,
+    "selenium_ug": 101.0,
     "epa_dha_mg": 40.0,
     "choline_mg": 255.0,
     "iodine_ug": 115.0
