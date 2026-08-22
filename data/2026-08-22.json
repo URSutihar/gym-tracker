@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-22",
+  "notes": "Weight 72.5 kg (+0.2), scanned 11:23. Body water 56.3% (+0.4), SMM 29.6 (+0.3, flipped to Standard again), muscle mass 55.2 (+0.1), protein percentage 19.0 (-0.5), fat mass 14.2 (+0.1). Identical signature to Aug 19: water up, SMM up by a similar amount, protein down to pay for it — hydration artifact, not tissue. W/H back to 0.8 after 0.9 yesterday, confirming it is noisy. Bone mineral 4.3% is WITHIN the normal 3-5% band for BIA scales (3.1/72.5 = 4.28%); the scale's Under flag is against Xiaomi's own reference, not a clinical threshold, and is no longer treated as a concern. HR 109 bpm Over at 11:23 — fourth occurrence, again with a move spike immediately before the scan. FLAG: user reports 2 days of marked thirst and heavy near-clear urination. Timeline fits the diet change rather than anything alarming — chia started Aug 20 (binds ~10-12x its weight in water), fiber went 10 g/day baseline to 26.8/31.5/25.7 over three days, protein rose to 139 g plus 2 whey scoops (urea excretion drives osmotic diuresis), and carbs dropped sharply from 305 to 254 to 120 g, releasing glycogen-bound water. Clear urine indicates good-to-over hydration, not dehydration. Recommend adding fasting glucose and HbA1c to the vitamin D blood draw already planned. Intake fell to 1,732 kcal, the lowest since Aug 16 and a ~780 deficit; protein still 139 g. Carbs 120 g is the lowest in the log by a wide margin. Sleep only 4h19m (3:09-7:31 PM, 2 wakes totalling 3 min) — entirely daytime, no nocturnal block at all, a regression from Aug 21's ~3:30-8:30 AM block. Activity strong: 13,320 steps, 33 stairs, 547 move kcal, 11/10 stand.",
+  "body_metrics": {
+    "weight_kg": 72.5,
+    "bmi": 23.1,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 56.3,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.8,
+    "bmr_kcal": 1629.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 259,
+    "notes": "4h19m. Single daytime block 3:09-7:31 PM (4h22m gross, 2 wakes totalling 3 min — unusually unbroken). Zero nocturnal sleep. Regression from Aug 21's ~3:30-8:30 AM nocturnal block; bedtime moved from ~1:40 AM to 3:09 PM."
+  },
+  "activity": {
+    "move_calories": 547.0,
+    "exercise_minutes": 32,
+    "stand_hours": 11,
+    "steps": 13320,
+    "distance_km": 8.18
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 2 portions (50g) Myprotein Essential Whey",
+      "calories": 327.0,
+      "protein_g": 41.5,
+      "carbs_g": 13.3,
+      "fat_g": 11.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk (label per 200ml: 92 kcal, 400mg Ca, 5.2mg vit E, 4mg zinc, 3mg iron)",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey (label 106 kcal / 16g protein per 25g)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 212.0,
+          "protein_g": 32.0,
+          "carbs_g": 1.8,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Nando's 1/4 chicken (peri Laka Laka) + medium spiced rice (small portion) + 2 sachets peri-peri hot sauce",
+      "calories": 481.0,
+      "protein_g": 43.3,
+      "carbs_g": 41.0,
+      "fat_g": 14.5,
+      "fiber_g": 1.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Nando's 1/4 chicken, skin-on, with Laka Laka basting",
+          "quantity": 1.0,
+          "unit": "quarter",
+          "calories": 291.0,
+          "protein_g": 39.6,
+          "carbs_g": 2.0,
+          "fat_g": 12.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Nando's spiced rice (medium, served small)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 180.0,
+          "protein_g": 3.5,
+          "carbs_g": 37.0,
+          "fat_g": 2.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Peri-peri hot sauce sachet",
+          "quantity": 2.0,
+          "unit": "sachet",
+          "calories": 10.0,
+          "protein_g": 0.2,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.2
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "258g Thai pink guava + 25g raw hulled pumpkin seeds",
+      "calories": 297.0,
+      "protein_g": 12.7,
+      "carbs_g": 36.2,
+      "fat_g": 14.2,
+      "fiber_g": 13.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 258.0,
+          "unit": "g",
+          "calories": 157.0,
+          "protein_g": 5.2,
+          "carbs_g": 33.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.9
+        },
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 140.0,
+          "protein_g": 7.5,
+          "carbs_g": 2.7,
+          "fat_g": 12.3,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "6pc cheesy chicken wings (bone-in, fried, cheese-powder coated) + 20g chia seeds",
+      "calories": 627.0,
+      "protein_g": 41.3,
+      "carbs_g": 29.0,
+      "fat_g": 41.2,
+      "fiber_g": 10.1,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fried chicken wings, bone-in, cheese-powder coated",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 530.0,
+          "protein_g": 38.0,
+          "carbs_g": 17.0,
+          "fat_g": 35.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Chia seeds (soaked in water)",
+          "quantity": 20.0,
+          "unit": "g",
+          "calories": 97.0,
+          "protein_g": 3.3,
+          "carbs_g": 12.0,
+          "fat_g": 6.2,
+          "fiber_g": 9.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 960.0,
+    "iron_mg": 12.2,
+    "zinc_mg": 13.4,
+    "b12_ug": 3.2,
+    "potassium_mg": 2490.0,
+    "sodium_mg": 3225.0,
+    "vitamin_c_mg": 270.0,
+    "vitamin_d_ug": 3.6,
+    "omega3_g": 3.7,
+    "magnesium_mg": 370.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 11.0,
+    "vitamin_a_ug": 415.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 112.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 255.0,
+    "iodine_ug": 115.0
+  }
+}
