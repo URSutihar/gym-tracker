@@ -1,0 +1,305 @@
+{
+  "date": "2026-08-24",
+  "notes": "No weight scan today. Sleep 5h15m (image 6h29m minus 1h14m already counted as Aug 23's 6:43-7:59 PM evening block). Bed at 1:30 AM but consolidated sleep only registered from ~4:50 AM, then a long afternoon block ~12:10-4:25 PM. Average bedtime has drifted to 8:10 AM, up from 6:53 AM on Aug 19 — still moving later day over day. Biggest activity day of the month: 100 exercise minutes, 13,845 steps, 667 move kcal, 2,551 total kcal, all three rings closed. First chest and triceps session since 2026-06-15, a 70-day gap for this split. RPE 3 and every cable/machine load well below the June 15 tops (Pec Fly 36 vs 50, Cable Crossover 21 vs 27, Tricep Pushdown 25 vs 36) — a deliberate easy re-entry, with obvious headroom. Machine tricep extension 27 kg matched the March high. Intake 2,484 kcal, the highest since Aug 19, driven by the biryani. Protein 143 g. Fiber fell to 18.0 g (no chia) and total omega-3 to ~0.3 g; the biryani egg is an ordinary egg, not one of the omega-3 ones, so EPA+DHA was only ~35 mg. No home-seasoned food today, so no iodized-salt contribution.",
+  "overall_rpe": 3.0,
+  "gym_minutes": 60,
+  "sleep": {
+    "total_sleep_minutes": 315,
+    "notes": "5h15m (image 6h29m minus 1h14m belonging to Aug 23's evening block). Bedtime 1:30 AM per Apple, but tracked sleep starts ~4:50 AM and runs to ~6:20 AM, then a long afternoon block ~12:10-4:25 PM. Average bedtime 8:10 AM."
+  },
+  "activity": {
+    "move_calories": 667.0,
+    "exercise_minutes": 100,
+    "stand_hours": 11,
+    "steps": 13845,
+    "distance_km": 8.36
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Chest + triceps. First session of this split since 2026-06-15 (70 days). RPE 3 — easy re-entry, loads well under previous tops.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 18.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pec Fly",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 11.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 6
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "200g Thai pink guava + 20g raw hulled pumpkin seeds",
+      "calories": 234.0,
+      "protein_g": 10.0,
+      "carbs_g": 28.2,
+      "fat_g": 11.3,
+      "fiber_g": 10.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 122.0,
+          "protein_g": 4.0,
+          "carbs_g": 26.0,
+          "fat_g": 1.5,
+          "fiber_g": 9.2
+        },
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 20.0,
+          "unit": "g",
+          "calories": 112.0,
+          "protein_g": 6.0,
+          "carbs_g": 2.2,
+          "fat_g": 9.8,
+          "fiber_g": 1.2
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hyderabadi chicken dum biryani (same restaurant portion as Aug 9 / Jul 14: 500g rice, 150g boneless chicken, ~50g egg) + raita + biryani gravy",
+      "calories": 1253.0,
+      "protein_g": 60.8,
+      "carbs_g": 138.6,
+      "fat_g": 46.3,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Biryani rice (with masala + ghee)",
+          "quantity": 500.0,
+          "unit": "g",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Boneless chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg (in biryani)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 2.5,
+          "carbs_g": 4.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Biryani gravy (small)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 80.0,
+          "protein_g": 2.0,
+          "carbs_g": 4.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.3
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 875.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 13.1,
+    "b12_ug": 4.1,
+    "potassium_mg": 2900.0,
+    "sodium_mg": 2825.0,
+    "vitamin_c_mg": 215.0,
+    "vitamin_d_ug": 4.3,
+    "omega3_g": 0.3,
+    "magnesium_mg": 347.0,
+    "vitamin_k_ug": 57.0,
+    "vitamin_e_mg": 10.0,
+    "vitamin_a_ug": 487.0,
+    "folate_ug": 288.0,
+    "selenium_ug": 140.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 410.0,
+    "iodine_ug": 130.0
+  }
+}
