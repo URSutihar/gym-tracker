@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-25",
+  "notes": "No weight scan today. Sleep 9h28m — two Sleep-app views combined (25 Aug 6h49m + 26 Aug 2h39m), bedtime 5:49 PM per Apple. Activity: 522 move kcal (ring closed, 500 goal), 78 exercise min (well over 30 goal), 7 stand hrs, 10,185 steps, 6.95 km. Intake 1,730 kcal, protein 126 g, fiber 29.4 g — high-fiber day driven by chia + pumpkin + guava. EPA+DHA ~300 mg from 3 omega-3 eggs, meets the daily target without fish. All meals reference-based except guava/pumpkin, which are scaled quantities.",
+  "sleep": {
+    "total_sleep_minutes": 568,
+    "notes": "9h28m (two Sleep-app views: 25 Aug 6h49m + 26 Aug 2h39m). Bedtime 5:49 PM per Apple."
+  },
+  "activity": {
+    "move_calories": 522.0,
+    "exercise_minutes": 78,
+    "stand_hours": 7,
+    "steps": 10185,
+    "distance_km": 6.95
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "275g Thai pink guava + 25g raw hulled pumpkin seeds",
+      "calories": 307.8,
+      "protein_g": 13.0,
+      "carbs_g": 38.5,
+      "fat_g": 14.4,
+      "fiber_g": 14.2,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 275.0,
+          "unit": "g",
+          "calories": 167.8,
+          "protein_g": 5.5,
+          "carbs_g": 35.8,
+          "fat_g": 2.1,
+          "fiber_g": 12.7
+        },
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 140.0,
+          "protein_g": 7.5,
+          "carbs_g": 2.7,
+          "fat_g": 12.3,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 portion (25g) Myprotein Essential Whey + 20g chia seeds + 3 boiled omega-3 eggs",
+      "calories": 425.0,
+      "protein_g": 40.0,
+      "carbs_g": 13.8,
+      "fat_g": 25.5,
+      "fiber_g": 11.1,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chia seeds (soaked)",
+          "quantity": 20.0,
+          "unit": "g",
+          "calories": 97.0,
+          "protein_g": 3.3,
+          "carbs_g": 12.0,
+          "fat_g": 6.2,
+          "fiber_g": 9.6
+        },
+        {
+          "food_name": "Omega-3 egg (boiled)",
+          "quantity": 3.0,
+          "unit": "egg",
+          "calories": 222.0,
+          "protein_g": 20.7,
+          "carbs_g": 0.9,
+          "fat_g": 15.3,
+          "fiber_g": 1.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 825.0,
+    "iron_mg": 11.5,
+    "zinc_mg": 12.5,
+    "b12_ug": 4.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 1590.0,
+    "vitamin_c_mg": 280.0,
+    "vitamin_d_ug": 4.5,
+    "omega3_g": 4.2,
+    "magnesium_mg": 350.0,
+    "vitamin_k_ug": 40.0,
+    "vitamin_e_mg": 10.0,
+    "vitamin_a_ug": 570.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 125.0,
+    "epa_dha_mg": 300.0,
+    "choline_mg": 475.0,
+    "iodine_ug": 150.0
+  }
+}
