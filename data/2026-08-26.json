@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-26",
+  "notes": "Weight 72.6 kg (Xiaomi S400, 26 Aug 10:43, -0.3kg vs 1 day ago — that prior reading was not logged). BF 19.2%, muscle 55.6 kg, body water 57.4%, visceral 7, BMI 23.2. Sleep 8h25m split across three blocks: morning 07:00-09:30, afternoon 15:00-18:00, night 20:00-23:00 (blocks sum to ~8h30m). Activity: 512 move kcal (ring closed, 500 goal), 43 exercise min (over 30 goal), 10 stand hrs (all 12 target, 14 idle), 6,988 steps, 5.09 km, 6 stairs. Intake 1,798 kcal, protein 128 g. Mala hotpot lunch estimated from components (600g excluding soup: thick white noodles, chicken sausage/breast/thigh, carrot, mushroom) — is_estimated. No workout.",
+  "body_metrics": {
+    "weight_kg": 72.6,
+    "bmi": 23.2,
+    "body_fat_pct": 19.2,
+    "fat_mass_kg": 13.9,
+    "muscle_mass_kg": 55.6,
+    "body_water_pct": 57.4,
+    "bone_mineral_kg": 3.1,
+    "visceral_fat": 7,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 505,
+    "notes": "8h25m, three blocks: morning 07:00-09:30, afternoon 15:00-18:00, night 20:00-23:00 (blocks sum to ~8h30m)."
+  },
+  "activity": {
+    "move_calories": 512.0,
+    "exercise_minutes": 43,
+    "stand_hours": 10,
+    "steps": 6988,
+    "distance_km": 5.09
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Mala hotpot with soup: thick white noodles, chicken sausage + breast + thigh, carrot, mushroom (600g excluding soup)",
+      "calories": 1219.0,
+      "protein_g": 76.0,
+      "carbs_g": 58.0,
+      "fat_g": 64.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thick white noodles (fresh, cooked)",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 280.0,
+          "protein_g": 6.0,
+          "carbs_g": 55.0,
+          "fat_g": 1.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Chicken sausage",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 240.0,
+          "protein_g": 9.0,
+          "carbs_g": 3.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken breast (cooked)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 198.0,
+          "protein_g": 37.0,
+          "carbs_g": 0.0,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken thigh (skin-on, cooked)",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 276.0,
+          "protein_g": 24.0,
+          "carbs_g": 0.0,
+          "fat_g": 19.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Carrot + mushroom (cooked)",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 25.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 0.0,
+          "fiber_g": 2.5
+        },
+        {
+          "food_name": "Mala broth / chili oil (absorbed + consumed)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 200.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "230g Thai pink guava + 20g raw hulled pumpkin seeds",
+      "calories": 252.3,
+      "protein_g": 10.6,
+      "carbs_g": 32.1,
+      "fat_g": 11.6,
+      "fiber_g": 11.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 230.0,
+          "unit": "g",
+          "calories": 140.3,
+          "protein_g": 4.6,
+          "carbs_g": 29.9,
+          "fat_g": 1.7,
+          "fiber_g": 10.6
+        },
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 20.0,
+          "unit": "g",
+          "calories": 112.0,
+          "protein_g": 6.0,
+          "carbs_g": 2.2,
+          "fat_g": 9.8,
+          "fiber_g": 1.2
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 portion (25g) Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 620.0,
+    "iron_mg": 9.4,
+    "zinc_mg": 11.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 2000.0,
+    "vitamin_c_mg": 235.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 1.1,
+    "magnesium_mg": 250.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 10.0,
+    "vitamin_a_ug": 700.0,
+    "folate_ug": 170.0,
+    "selenium_ug": 60.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 95.0,
+    "iodine_ug": 0.0
+  }
+}
