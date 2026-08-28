@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-28",
+  "notes": "No weight scan. Sleep 2h38m (158 min), 05:21-08:02 with 3m wake — very short night, third-consecutive poor sleep block. Activity: 528 move kcal (ring closed, 500 goal), 30 exercise min (met 30 goal), 13 stand hrs, 8,724 steps, 5.56 km, 45 stairs. Intake 2,662 kcal, protein 179 g — high-calorie breakfast (Popeye's sandwich + sheperd's pie). Popeye's items and dinner guava estimated. Milk 420g assumed Meiji multi-vitamin scaled. No workout.",
+  "sleep": {
+    "total_sleep_minutes": 158,
+    "notes": "2h38m (05:21-08:02, 3m wake)."
+  },
+  "activity": {
+    "move_calories": 528.0,
+    "exercise_minutes": 30,
+    "stand_hours": 13,
+    "steps": 8724,
+    "distance_km": 5.56
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Popeye's turkey bacon & cheese deluxe chicken sandwich + chicken shepherd's pie + 420ml Meiji multi-vitamin milk + 2 portions (50g) Myprotein Essential Whey",
+      "calories": 1615.0,
+      "protein_g": 110.4,
+      "carbs_g": 111.4,
+      "fat_g": 77.9,
+      "fiber_g": 5.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Popeye's turkey bacon & cheese deluxe chicken sandwich",
+          "quantity": 1.0,
+          "unit": "sandwich",
+          "calories": 740.0,
+          "protein_g": 38.0,
+          "carbs_g": 46.0,
+          "fat_g": 42.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Popeye's chicken shepherd's pie",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 470.0,
+          "protein_g": 24.0,
+          "carbs_g": 43.0,
+          "fat_g": 22.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 420.0,
+          "unit": "ml",
+          "calories": 193.0,
+          "protein_g": 16.0,
+          "carbs_g": 19.3,
+          "fat_g": 5.9,
+          "fiber_g": 0.8
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 212.0,
+          "protein_g": 32.0,
+          "carbs_g": 1.8,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "270g Thai pink guava + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 270.7,
+      "protein_g": 21.4,
+      "carbs_g": 36.0,
+      "fat_g": 6.0,
+      "fiber_g": 12.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 270.0,
+          "unit": "g",
+          "calories": 164.7,
+          "protein_g": 5.4,
+          "carbs_g": 35.1,
+          "fat_g": 2.0,
+          "fiber_g": 12.4
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 1100.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 4.5,
+    "potassium_mg": 2600.0,
+    "sodium_mg": 3300.0,
+    "vitamin_c_mg": 300.0,
+    "vitamin_d_ug": 5.0,
+    "omega3_g": 0.5,
+    "magnesium_mg": 240.0,
+    "vitamin_k_ug": 75.0,
+    "vitamin_e_mg": 15.0,
+    "vitamin_a_ug": 620.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 98.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 440.0,
+    "iodine_ug": 0.0
+  }
+}
