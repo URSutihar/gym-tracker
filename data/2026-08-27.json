@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-27",
+  "notes": "No weight scan. Sleep 7h19m (439 min), 13:49-21:46 with 38m wakes. Activity: 276 move kcal (not closed, 500 goal), 16 exercise min (under 30 goal), 7 stand hrs, 4,715 steps, 2.95 km, 3 stairs. Intake 2,581 kcal, protein 143 g — a high-calorie day (cheesecake 2 slices + drumlets + oily basil chicken). Breakfast thai basil chicken rice 420g and tangy drumlets estimated. Dinner milk+whey assumed Meiji multi-vitamin 250ml + 25g whey (ambiguous which milk). No workout.",
+  "sleep": {
+    "total_sleep_minutes": 439,
+    "notes": "7h19m (13:49-21:46, 38m wakes)."
+  },
+  "activity": {
+    "move_calories": 276.0,
+    "exercise_minutes": 16,
+    "stand_hours": 7,
+    "steps": 4715,
+    "distance_km": 2.95
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Thai basil chicken and rice (net 420g) + 5 pc tangy drumlet + 2x70g cookies-and-cream cheesecake",
+      "calories": 1584.0,
+      "protein_g": 70.4,
+      "carbs_g": 133.0,
+      "fat_g": 79.8,
+      "fiber_g": 7.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai basil chicken and rice (krapow)",
+          "quantity": 420.0,
+          "unit": "g",
+          "calories": 660.0,
+          "protein_g": 32.0,
+          "carbs_g": 60.0,
+          "fat_g": 25.0,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Tangy drumlet",
+          "quantity": 5.0,
+          "unit": "pc",
+          "calories": 450.0,
+          "protein_g": 30.0,
+          "carbs_g": 30.0,
+          "fat_g": 25.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 2.0,
+          "unit": "slice",
+          "calories": 474.0,
+          "protein_g": 8.4,
+          "carbs_g": 43.0,
+          "fat_g": 29.8,
+          "fiber_g": 7.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 640.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 3.2,
+    "potassium_mg": 1800.0,
+    "sodium_mg": 2275.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 3.3,
+    "omega3_g": 0.5,
+    "magnesium_mg": 150.0,
+    "vitamin_k_ug": 30.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 335.0,
+    "folate_ug": 170.0,
+    "selenium_ug": 84.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 180.0,
+    "iodine_ug": 0.0
+  }
+}
