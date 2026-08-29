@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-29",
+  "notes": "No Xiaomi scale data recorded: supplied scale image path was unavailable, so weight and BIA fields are intentionally omitted. Sleep 7h28m. Last bedtime 9:39 PM, far earlier than the 7:46 AM average; sleep chart shows a fragmented evening block followed by a long morning block. Activity rings all closed: 518 move kcal, 36 exercise minutes, 14 stand hours, 10,248 steps, 6.42 km, 14 flights. Intake estimate 2,869 kcal, driven mostly by 400g bangers and mash plus fried rice. Restaurant/packaged foods only except the home-boiled egg; its iodized-salt contribution is included. Fiber 23.0g, mainly from guava and the cheesecake. No omega-3 eggs today, so EPA+DHA remains low.",
+  "sleep": {
+    "total_sleep_minutes": 448,
+    "notes": "7h28m. Last bedtime 9:39 PM; chart shows a fragmented evening block followed by a long morning block. Apple reports average bedtime 7:46 AM."
+  },
+  "activity": {
+    "move_calories": 518.0,
+    "exercise_minutes": 36,
+    "stand_hours": 14,
+    "steps": 10248,
+    "distance_km": 6.42
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Bangers and mash, 400g net + 1x70g Cookies & Cream cheesecake + 5 tangy drumlets",
+      "calories": 1427.0,
+      "protein_g": 56.2,
+      "carbs_g": 116.5,
+      "fat_g": 82.9,
+      "fiber_g": 7.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Bangers and mash (sausages, mashed potato, gravy, 400g net)",
+          "quantity": 400.0,
+          "unit": "g",
+          "calories": 740.0,
+          "protein_g": 22.0,
+          "carbs_g": 65.0,
+          "fat_g": 42.0,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "Tangy drumlet",
+          "quantity": 5.0,
+          "unit": "pc",
+          "calories": 450.0,
+          "protein_g": 30.0,
+          "carbs_g": 30.0,
+          "fat_g": 25.0,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Chicken kimchi fried rice (restaurant portion)",
+      "calories": 690.0,
+      "protein_g": 32.0,
+      "carbs_g": 86.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken kimchi fried rice (rice, chicken, kimchi, egg, oil, soy sauce)",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 690.0,
+          "protein_g": 32.0,
+          "carbs_g": 86.0,
+          "fat_g": 25.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Thai pink guava, 250g + 1 portion Myprotein Essential Whey",
+      "calories": 259.0,
+      "protein_g": 21.0,
+      "carbs_g": 33.4,
+      "fat_g": 5.9,
+      "fiber_g": 11.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 153.0,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 pack Indomie + 1 boiled egg",
+      "calories": 493.0,
+      "protein_g": 12.9,
+      "carbs_g": 57.4,
+      "fat_g": 22.5,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Indomie (1 pack, prepared)",
+          "quantity": 1.0,
+          "unit": "pack",
+          "calories": 415.0,
+          "protein_g": 6.6,
+          "carbs_g": 56.8,
+          "fat_g": 17.4,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.1,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 415.0,
+    "iron_mg": 10.4,
+    "zinc_mg": 11.8,
+    "b12_ug": 4.6,
+    "potassium_mg": 2520.0,
+    "sodium_mg": 4480.0,
+    "vitamin_c_mg": 275.0,
+    "vitamin_d_ug": 2.4,
+    "omega3_g": 0.3,
+    "magnesium_mg": 205.0,
+    "vitamin_k_ug": 38.0,
+    "vitamin_e_mg": 4.8,
+    "vitamin_a_ug": 345.0,
+    "folate_ug": 245.0,
+    "selenium_ug": 116.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 340.0,
+    "iodine_ug": 100.0
+  }
+}
