@@ -1,6 +1,21 @@
 {
   "date": "2026-08-29",
-  "notes": "No Xiaomi scale data recorded: supplied scale image path was unavailable, so weight and BIA fields are intentionally omitted. Sleep 7h28m. Last bedtime 9:39 PM, far earlier than the 7:46 AM average; sleep chart shows a fragmented evening block followed by a long morning block. Activity rings all closed: 518 move kcal, 36 exercise minutes, 14 stand hours, 10,248 steps, 6.42 km, 14 flights. Intake estimate 2,869 kcal, driven mostly by 400g bangers and mash plus fried rice. Restaurant/packaged foods only except the home-boiled egg; its iodized-salt contribution is included. Fiber 23.0g, mainly from guava and the cheesecake. No omega-3 eggs today, so EPA+DHA remains low.",
+  "notes": "Xiaomi scan at 1:30 PM: 73.1 kg. Compared with Aug 26's 72.6 kg, weight +0.5 kg, fat mass +0.1 kg, muscle mass +0.2 kg, SMM +0.3 kg and body water +0.2 percentage points. These small, mixed BIA changes are hydration/glycogen noise, not simultaneous tissue gain. Per scan-timing rule, this reflects Aug 28: 2,662 kcal, 8,724 steps and 30 exercise min. Sleep 7h28m. Last bedtime 9:39 PM, far earlier than the 7:46 AM average; sleep chart shows a fragmented evening block followed by a long morning block. Activity rings all closed: 518 move kcal, 36 exercise minutes, 14 stand hours, 10,248 steps, 6.42 km, 14 flights. Intake estimate 2,869 kcal, driven mostly by 400g bangers and mash plus fried rice. Restaurant/packaged foods only except the home-boiled egg; its iodized-salt contribution is included. Fiber 23.0g, mainly from guava and the cheesecake. No omega-3 eggs today, so EPA+DHA remains low.",
+  "body_metrics": {
+    "weight_kg": 73.1,
+    "bmi": 23.3,
+    "body_fat_pct": 19.3,
+    "fat_mass_kg": 14.1,
+    "muscle_mass_kg": 55.8,
+    "skeletal_muscle_mass_kg": 30.6,
+    "body_water_pct": 57.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.1,
+    "bmr_kcal": 1644.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
   "sleep": {
     "total_sleep_minutes": 448,
     "notes": "7h28m. Last bedtime 9:39 PM; chart shows a fragmented evening block followed by a long morning block. Apple reports average bedtime 7:46 AM."
