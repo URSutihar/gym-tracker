@@ -5,16 +5,39 @@ import os
 import sqlite3
 import subprocess
 import sys
+import tempfile
+from contextlib import contextmanager
+
+import fcntl
 
 import pandas as pd
 import streamlit as st
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.environ.get("GYM_LOG_DB_PATH", os.path.join(ROOT, "gym_log.db"))
+REBUILD_LOCK_PATH = os.path.join(tempfile.gettempdir(), "gym-tracker-db-rebuild.lock")
 
 
 def _json_files():
     return sorted(glob.glob(os.path.join(ROOT, "data", "20*.json")))
+
+
+def _needs_rebuild():
+    if not os.path.exists(DB_PATH):
+        return True
+    db_mtime = os.path.getmtime(DB_PATH)
+    return any(os.path.getmtime(f) > db_mtime for f in _json_files())
+
+
+@contextmanager
+def _rebuild_lock():
+    """Serialize rebuilds across concurrent Streamlit script runs."""
+    with open(REBUILD_LOCK_PATH, "a+") as lock_file:
+        fcntl.flock(lock_file, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(lock_file, fcntl.LOCK_UN)
 
 
 def _rebuild_db():
@@ -54,12 +77,13 @@ def ensure_db(force=False):
     pushes; rebuild whenever any JSON is newer than the db, or when forced
     (e.g. the dashboard's "Refresh data" button).
     """
-    if force or not os.path.exists(DB_PATH):
-        _rebuild_db()
+    if not force and not _needs_rebuild():
         return
-    db_mtime = os.path.getmtime(DB_PATH)
-    if any(os.path.getmtime(f) > db_mtime for f in _json_files()):
-        _rebuild_db()
+    with _rebuild_lock():
+        # Another Streamlit run may have completed the rebuild while this one
+        # waited for the lock. Rechecking prevents a second competing rebuild.
+        if force or _needs_rebuild():
+            _rebuild_db()
 
 
 def _read(sql, params=()):
