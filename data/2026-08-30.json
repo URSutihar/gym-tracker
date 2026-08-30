@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-30",
+  "notes": "No Xiaomi scan supplied; trend weight carried from Aug 29 at 72.50 kg. Sleep 8h04m, with an early 9:43 PM bedtime versus 5:49 AM recent average. Chart shows a fragmented early-night block, then a long late-morning block; duration is strong but sleep remains split. Activity: 428 move kcal (ring open), 60 exercise min (ring closed), 8 stand hours (ring open), 8,162 steps, 5.12 km, 2 flights. No gym workout supplied. Intake 2,102 kcal: two Indomie packs concentrated sodium in breakfast; estimated sodium ~3,350 mg. Fiber 16.7g, mostly from the 230g guava. No omega-3 eggs, chia or pepitas, so EPA+DHA and total omega-3 are low. Chicken rice was roasted today; estimated separately from the standard poached template. No iodized-salt credit: meals are packaged, restaurant or stall food.",
+  "sleep": {
+    "total_sleep_minutes": 484,
+    "notes": "8h04m total. Bedtime 9:43 PM versus 5:49 AM recent average. Fragmented early-night block, followed by a long late-morning block."
+  },
+  "activity": {
+    "move_calories": 428.0,
+    "exercise_minutes": 60,
+    "stand_hours": 8,
+    "steps": 8162,
+    "distance_km": 5.12
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "2 packs Indomie + 250ml Meiji multi-vitamin milk + 1 portion Myprotein Essential Whey",
+      "calories": 1051.0,
+      "protein_g": 38.7,
+      "carbs_g": 126.0,
+      "fat_g": 42.3,
+      "fiber_g": 2.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Indomie (1 pack, prepared)",
+          "quantity": 2.0,
+          "unit": "pack",
+          "calories": 830.0,
+          "protein_g": 13.2,
+          "carbs_g": 113.6,
+          "fat_g": 34.8,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Roasted Hainanese chicken rice with soup",
+      "calories": 805.0,
+      "protein_g": 45.0,
+      "carbs_g": 112.0,
+      "fat_g": 17.0,
+      "fiber_g": 3.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken rice, roasted chicken (rice, skin-on roasted chicken, cucumber, chilli, soup)",
+          "quantity": 1.0,
+          "unit": "stall portion",
+          "calories": 805.0,
+          "protein_g": 45.0,
+          "carbs_g": 112.0,
+          "fat_g": 17.0,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion Myprotein Essential Whey + 230g Thai pink guava",
+      "calories": 246.0,
+      "protein_g": 20.6,
+      "carbs_g": 30.8,
+      "fat_g": 5.7,
+      "fiber_g": 10.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 230.0,
+          "unit": "g",
+          "calories": 140.0,
+          "protein_g": 4.6,
+          "carbs_g": 29.9,
+          "fat_g": 1.7,
+          "fiber_g": 10.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 630.0,
+    "iron_mg": 11.5,
+    "zinc_mg": 12.0,
+    "b12_ug": 4.2,
+    "potassium_mg": 2110.0,
+    "sodium_mg": 3350.0,
+    "vitamin_c_mg": 245.0,
+    "vitamin_d_ug": 3.5,
+    "omega3_g": 0.3,
+    "magnesium_mg": 215.0,
+    "vitamin_k_ug": 54.0,
+    "vitamin_e_mg": 8.2,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 282.0,
+    "selenium_ug": 115.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 295.0,
+    "iodine_ug": 105.0
+  }
+}
