@@ -254,6 +254,22 @@
       "notes": "From pack label per serving: 25.5ug selenium, 0.1g DHA+EPA, 0.2g total omega-3, 214mg cholesterol, 78.1mg sodium. 3 eggs = ~300mg EPA+DHA, which meets the 250-500mg daily target WITHOUT fish. Distinct from the plain Boiled egg template."
     },
     {
+      "name": "Omega-3 egg — 50g label (61 kcal)",
+      "aliases": [
+        "new omega egg",
+        "omega egg 61 kcal",
+        "omega 3 egg 61 kcal"
+      ],
+      "serving": "1 whole egg, 50g without shell",
+      "calories": 61,
+      "protein_g": 6.4,
+      "carbs_g": 0.8,
+      "fat_g": 3.6,
+      "fiber_g": 0.3,
+      "confirmed": "2026-09-01",
+      "notes": "Exact pack label: 0.2g total omega-3 (0.2g ALA, 0.1g EPA+DHA), 3.3mg vitamin E, 71mg sodium and 159mg cholesterol per egg. Distinct product from the older 74 kcal omega-3 egg template."
+    },
+    {
       "name": "Myprotein Essential Whey",
       "aliases": [
         "essential whey",

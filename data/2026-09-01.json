@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-01",
+  "notes": "Xiaomi scan at 7:51 AM: 72.6 kg. Versus Aug 31: weight -0.4 kg, body water 56.7% to 55.6% (-1.1 points / -0.8 kg), muscle mass 55.6 to 55.1 kg (-0.5), SMM 30.1 to 29.3 kg (-0.8), while fat mass rose 14.3 to 14.4 kg (+0.1) and protein mass rose 13.5 to 14.1 kg (+0.6). This is BIA hydration reallocation, not fat gain/muscle loss; scan reflects Aug 31's +625 surplus, not Sep 1 food/activity. Sleep 7h15m, 12:00 AM bedtime versus 3:14 AM average. One consolidated overnight block to around 5:20 AM with several short wakes; no daytime block visible. Activity strong: 525 move kcal and 70 exercise minutes both closed, 8,843 steps, 5.67 km, 6 flights; stand 8/10 remains open. No gym workout supplied. Intake 2,882 kcal: 2 Indomie packs, chicken rice, and a loaded Stuff'd burrito created high sodium (~5,100 mg). Protein 162g. Fiber only 12.6g; no fruit or greens. New egg label used exactly: 61 kcal, 6.4g protein, 3.6g fat, 0.2g omega-3 and 0.1g EPA+DHA per 50g egg. Home-boiled eggs assumed lightly iodized-salted (+25ug iodine).",
+  "body_metrics": {
+    "weight_kg": 72.6,
+    "bmi": 23.2,
+    "body_fat_pct": 19.8,
+    "fat_mass_kg": 14.4,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 29.3,
+    "body_water_pct": 55.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 435,
+    "notes": "7h15m. Bedtime 12:00 AM versus 3:14 AM recent average. One mostly consolidated overnight block to around 5:20 AM with several short wake spikes; no daytime sleep block shown."
+  },
+  "activity": {
+    "move_calories": 525.0,
+    "exercise_minutes": 70,
+    "stand_hours": 8,
+    "steps": 8843,
+    "distance_km": 5.67
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "2 packs Indomie + 2x new 50g omega-3 eggs + 250ml Meiji multi-vitamin milk + 1 portion Myprotein Essential Whey",
+      "calories": 1173.0,
+      "protein_g": 51.5,
+      "carbs_g": 127.6,
+      "fat_g": 49.5,
+      "fiber_g": 3.1,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Indomie (1 pack, prepared)",
+          "quantity": 2.0,
+          "unit": "pack",
+          "calories": 830.0,
+          "protein_g": 13.2,
+          "carbs_g": 113.6,
+          "fat_g": 34.8,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Omega-3 egg — 50g label (61 kcal)",
+          "quantity": 2.0,
+          "unit": "egg",
+          "calories": 122.0,
+          "protein_g": 12.8,
+          "carbs_g": 1.6,
+          "fat_g": 7.2,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 portion Myprotein Essential Whey + Stuff'd chicken burrito (regular wrap, chicken, iceberg, tomato salsa, mayonnaise, add-on cheese, adobo black beans, cilantro rice; no nacho add-ons)",
+      "calories": 933.0,
+      "protein_g": 63.5,
+      "carbs_g": 78.4,
+      "fat_g": 38.5,
+      "fiber_g": 5.9,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Regular wrap (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "wrap",
+          "calories": 250.0,
+          "protein_g": 7.5,
+          "carbs_g": 44.0,
+          "fat_g": 6.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Grilled chicken base (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 224.0,
+          "protein_g": 30.0,
+          "carbs_g": 0.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cilantro rice (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 78.0,
+          "protein_g": 1.5,
+          "carbs_g": 15.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Adobo black beans (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 73.0,
+          "protein_g": 4.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.5,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Cheese add-on (Stuff'd label)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 67.0,
+          "protein_g": 4.0,
+          "carbs_g": 0.5,
+          "fat_g": 5.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mayonnaise (Stuff'd, estimated portion)",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 110.0,
+          "protein_g": 0.2,
+          "carbs_g": 1.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Iceberg lettuce + tomato salsa",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 25.0,
+          "protein_g": 0.3,
+          "carbs_g": 5.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 840.0,
+    "iron_mg": 13.2,
+    "zinc_mg": 12.8,
+    "b12_ug": 4.8,
+    "potassium_mg": 2500.0,
+    "sodium_mg": 5100.0,
+    "vitamin_c_mg": 32.0,
+    "vitamin_d_ug": 3.8,
+    "omega3_g": 0.5,
+    "magnesium_mg": 265.0,
+    "vitamin_k_ug": 72.0,
+    "vitamin_e_mg": 14.0,
+    "vitamin_a_ug": 620.0,
+    "folate_ug": 320.0,
+    "selenium_ug": 135.0,
+    "epa_dha_mg": 225.0,
+    "choline_mg": 560.0,
+    "iodine_ug": 145.0
+  }
+}
