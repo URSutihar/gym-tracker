@@ -1,6 +1,8 @@
 {
   "date": "2026-09-02",
-  "notes": "No weight scan supplied. Sleep 7h19m (439 min), Apple Watch bedtime 1:36 AM, 1h28m earlier than recent 3:03 AM average; several short wake spikes but a full overnight block. Activity excellent: 637 move kcal, 74 exercise min and 14 stand hours, all rings closed; 14,641 steps and 9.60 km. Intake 2,918 kcal, protein 174g. Restaurant/packaged meals make this a high-sodium day (~5,050mg), while no fruit or vegetables leaves fibre (11.6g), potassium and vitamin C low. Chili-oil dumplings and chicken sausage-cheese muffin are unlabelled estimates (combined uncertainty about +/-150 kcal). Two home-boiled eggs credited with lightly iodized seasoning (+25ug iodine). No gym workout supplied. Checked Aug 27 and Aug 28 logs: neither contains chili-oil dumplings.",
+  "notes": "No weight scan supplied. Sleep 7h19m (439 min), Apple Watch bedtime 1:36 AM, 1h28m earlier than recent 3:03 AM average; several short wake spikes but a full overnight block. Activity excellent: 637 move kcal, 74 exercise min and 14 stand hours, all rings closed; 14,641 steps and 9.60 km. 45-minute core gym session at RPE 4: 11 cable-core sets plus 1 machine crunch set (144 reps); top cable load 50kg. Intake 2,918 kcal, protein 174g. Restaurant/packaged meals make this a high-sodium day (~5,050mg), while no fruit or vegetables leaves fibre (11.6g), potassium and vitamin C low. Chili-oil dumplings and chicken sausage-cheese muffin are unlabelled estimates (combined uncertainty about +/-150 kcal). Two home-boiled eggs credited with lightly iodized seasoning (+25ug iodine). Checked Aug 27 and Aug 28 logs: neither contains chili-oil dumplings.",
+  "overall_rpe": 4.0,
+  "gym_minutes": 45,
   "sleep": {
     "total_sleep_minutes": 439,
     "notes": "7h19m. Bedtime 1:36 AM, 1h28m earlier than recent 3:03 AM average. Several short wakes visible, but no evening nap/daytime block shown."
@@ -11,6 +13,108 @@
     "stand_hours": 14,
     "steps": 14641,
     "distance_km": 9.6
+  },
+  "workout": {
+    "duration_minutes": 45,
+    "notes": "Core session. RPE 4. Two cable-crunch angles are stored under shared Abdominal Crunch movement history; 144 total core reps.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
   },
   "meals": [
     {
