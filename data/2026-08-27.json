@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "notes": "No weight scan. Sleep 7h19m (439 min), 13:49-21:46 with 38m wakes. Activity: 276 move kcal (not closed, 500 goal), 16 exercise min (under 30 goal), 7 stand hrs, 4,715 steps, 2.95 km, 3 stairs. Intake 2,581 kcal, protein 143 g — a high-calorie day (cheesecake 2 slices + drumlets + oily basil chicken). Breakfast thai basil chicken rice 420g and tangy drumlets estimated. Dinner milk+whey assumed Meiji multi-vitamin 250ml + 25g whey (ambiguous which milk). No workout.",
+  "notes": "No weight scan. Sleep 7h19m (439 min), 13:49-21:46 with 38m wakes. Activity: 276 move kcal (not closed, 500 goal), 16 exercise min (under 30 goal), 7 stand hrs, 4,715 steps, 2.95 km, 3 stairs. Intake 2,971 kcal, protein 158 g — high-calorie day (cheesecake 2 slices + drumlets + oily basil chicken + chili-oil dumplings). Breakfast thai basil chicken rice 420g, tangy drumlets and 6pc chili-oil dumplings estimated. Dinner milk+whey assumed Meiji multi-vitamin 250ml + 25g whey (ambiguous which milk). No workout.",
   "sleep": {
     "total_sleep_minutes": 439,
     "notes": "7h19m (13:49-21:46, 38m wakes)."
@@ -66,6 +66,28 @@
       "is_estimated": false
     },
     {
+      "meal_type": "snacks",
+      "description": "6pc chili-oil dumplings",
+      "calories": 390.0,
+      "protein_g": 15.0,
+      "carbs_g": 48.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chili-oil dumplings",
+          "quantity": 6.0,
+          "unit": "pc",
+          "calories": 390.0,
+          "protein_g": 15.0,
+          "carbs_g": 48.0,
+          "fat_g": 15.0,
+          "fiber_g": 2.5
+        }
+      ]
+    },
+    {
       "meal_type": "dinner",
       "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
       "calories": 221.0,
@@ -99,23 +121,23 @@
     }
   ],
   "micros": {
-    "calcium_mg": 640.0,
-    "iron_mg": 10.0,
-    "zinc_mg": 13.0,
+    "calcium_mg": 670.0,
+    "iron_mg": 11.5,
+    "zinc_mg": 14.0,
     "b12_ug": 3.2,
-    "potassium_mg": 1800.0,
-    "sodium_mg": 2275.0,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 3375.0,
     "vitamin_c_mg": 12.0,
     "vitamin_d_ug": 3.3,
     "omega3_g": 0.5,
-    "magnesium_mg": 150.0,
-    "vitamin_k_ug": 30.0,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 35.0,
     "vitamin_e_mg": 8.0,
     "vitamin_a_ug": 335.0,
-    "folate_ug": 170.0,
-    "selenium_ug": 84.0,
+    "folate_ug": 210.0,
+    "selenium_ug": 85.0,
     "epa_dha_mg": 0.0,
-    "choline_mg": 180.0,
+    "choline_mg": 220.0,
     "iodine_ug": 0.0
   }
 }
