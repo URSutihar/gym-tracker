@@ -104,7 +104,7 @@
     },
     {
       "meal_type": "dinner",
-      "description": "A&W 2pc Spicy Aroma Chicken combo: 1 thigh + 1 drumstick, regular curly fries, regular root beer",
+      "description": "A&W 2pc Spicy Aroma Chicken combo: 1 thigh + 1 drumstick, small curly fries, small root beer",
       "calories": 1013.0,
       "protein_g": 44.0,
       "carbs_g": 65.0,
@@ -123,7 +123,7 @@
           "fiber_g": 1.0
         },
         {
-          "food_name": "A&W regular curly fries",
+          "food_name": "A&W small curly fries",
           "quantity": 1.0,
           "unit": "serving",
           "calories": 266.0,
@@ -133,7 +133,7 @@
           "fiber_g": 2.5
         },
         {
-          "food_name": "A&W regular root beer",
+          "food_name": "A&W small root beer",
           "quantity": 300.0,
           "unit": "ml",
           "calories": 57.0,
