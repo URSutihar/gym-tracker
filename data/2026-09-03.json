@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-03",
+  "notes": "Xiaomi scan at 9:43 AM: 73.3 kg. Versus Sep 1: weight +0.7 kg, fat mass +0.3 kg (14.4 to 14.7), muscle mass +0.3 kg (55.1 to 55.4), SMM +0.4 kg (29.3 to 29.7), body water +0.1 percentage points / +0.4 kg (55.6% / 40.3 kg to 55.7% / 40.7 kg), and body fat +0.2 points. This is chiefly sodium/glycogen/water/BIA noise following Sep 2's ~5,050mg sodium, 278g carbohydrate, 2,918 kcal and core training; the logged Sep 2 surplus supports only ~0.07kg fat-equivalent, not 0.3kg fat gain. Sleep 5h46m: Apple bedtime 11:03 PM, but fragmented overnight sleep began around 1 AM with repeated wakes. Activity: 541 move kcal and 12 stand hrs closed; 26 exercise min narrowly missed 30, with 10,574 steps and 6.52 km. Intake 2,247 kcal, protein 137g. A&W Spicy Aroma Chicken combo is a component estimate (+/-200 kcal) because A&W Singapore publishes menu, not item nutrition. No home-seasoned food and no gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 73.3,
+    "bmi": 23.4,
+    "body_fat_pct": 20.0,
+    "fat_mass_kg": 14.7,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 55.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 346,
+    "notes": "5h46m. Apple bedtime 11:03 PM versus 2:48 AM recent average; tracked sleep was fragmented from around 1 AM to after 7 AM, with several wake spikes."
+  },
+  "activity": {
+    "move_calories": 541.0,
+    "exercise_minutes": 26,
+    "stand_hours": 12,
+    "steps": 10574,
+    "distance_km": 6.52
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey + 215g Thai pink guava",
+      "calories": 237.2,
+      "protein_g": 20.3,
+      "carbs_g": 28.9,
+      "fat_g": 5.6,
+      "fiber_g": 9.9,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 215.0,
+          "unit": "g",
+          "calories": 131.2,
+          "protein_g": 4.3,
+          "carbs_g": 28.0,
+          "fat_g": 1.6,
+          "fiber_g": 9.9
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "A&W 2pc Spicy Aroma Chicken combo: 1 thigh + 1 drumstick, regular curly fries, regular root beer",
+      "calories": 1013.0,
+      "protein_g": 44.0,
+      "carbs_g": 65.0,
+      "fat_g": 59.0,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "A&W Spicy Aroma Chicken (thigh + drumstick)",
+          "quantity": 2.0,
+          "unit": "pc",
+          "calories": 690.0,
+          "protein_g": 40.0,
+          "carbs_g": 20.0,
+          "fat_g": 45.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "A&W regular curly fries",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 266.0,
+          "protein_g": 4.0,
+          "carbs_g": 31.0,
+          "fat_g": 14.0,
+          "fiber_g": 2.5
+        },
+        {
+          "food_name": "A&W regular root beer",
+          "quantity": 300.0,
+          "unit": "ml",
+          "calories": 57.0,
+          "protein_g": 0.0,
+          "carbs_g": 14.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 690.0,
+    "iron_mg": 11.5,
+    "zinc_mg": 11.5,
+    "b12_ug": 4.0,
+    "potassium_mg": 2850.0,
+    "sodium_mg": 3700.0,
+    "vitamin_c_mg": 230.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 85.0,
+    "vitamin_e_mg": 13.0,
+    "vitamin_a_ug": 650.0,
+    "folate_ug": 245.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 500.0,
+    "iodine_ug": 100.0
+  }
+}
