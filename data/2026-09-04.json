@@ -1,0 +1,335 @@
+{
+  "date": "2026-09-04",
+  "notes": "Xiaomi scan at 9:16 AM: 73.2 kg. Versus Sep 3: weight -0.1 kg, fat mass -0.1 kg (14.7 to 14.6), muscle mass +0.1 kg (55.4 to 55.5), SMM -0.1 kg (29.7 to 29.6), body water unchanged at 55.7% but +0.1 kg (40.7 to 40.8), and body fat -0.1 points. These opposing one-day BIA changes are hydration/noise, not simultaneous fat loss and muscle gain; the scan reflects Sep 3's 2,247 kcal and estimated 33 kcal deficit. Sleep 9h10m, but bedtime drifted to 3:02 AM, 1h34 later than recent average; several wake spikes. Activity excellent: 660 move kcal, 83 exercise min, 10 stand hrs, 13,280 steps, 8.96 km and 8 flights; all rings closed. Gym: 30-minute shoulders, traps and forearms/biceps session at RPE 5, 13 logged movement sets. Intake 2,781 kcal, protein 166g. Chicken rice, chili-oil dumplings, turkey ham and palak paneer make sodium high (~4,200mg); no fruit leaves vitamin C modest. Two home-boiled eggs credited with lightly iodized seasoning (+25ug iodine). Turkey-ham muffin is an unlabelled estimate (+/-100 kcal).",
+  "overall_rpe": 5.0,
+  "gym_minutes": 30,
+  "body_metrics": {
+    "weight_kg": 73.2,
+    "bmi": 23.4,
+    "body_fat_pct": 19.9,
+    "fat_mass_kg": 14.6,
+    "muscle_mass_kg": 55.5,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 55.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.1,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 550,
+    "notes": "9h10m. Bedtime 3:02 AM, 1h34 later than recent 1:28 AM average. Long overnight sleep with several short wake spikes."
+  },
+  "activity": {
+    "move_calories": 660.0,
+    "exercise_minutes": 83,
+    "stand_hours": 10,
+    "steps": 13280,
+    "distance_km": 8.96
+  },
+  "workout": {
+    "duration_minutes": 30,
+    "notes": "Shoulders, traps, forearms and biceps. RPE 5. Dumbbell loads are per hand; bilateral dumbbell sets were performed with both hands. Lu raises logged separately per side.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "rear delts",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lu Raise",
+        "muscle_group": "shoulders",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shrug",
+        "muscle_group": "traps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Extension",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Hammer Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 12.5,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template) + 6pc chili-oil dumplings",
+      "calories": 1166.0,
+      "protein_g": 62.1,
+      "carbs_g": 159.8,
+      "fat_g": 29.1,
+      "fiber_g": 6.1,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        },
+        {
+          "food_name": "Chili-oil dumplings",
+          "quantity": 6.0,
+          "unit": "pc",
+          "calories": 390.0,
+          "protein_g": 15.0,
+          "carbs_g": 48.0,
+          "fat_g": 15.0,
+          "fiber_g": 2.5
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Turkey ham and cheese muffin (bun, 3 turkey-ham slices, 1 cheese slice) + 1 portion Myprotein Essential Whey + 20g raw hulled pumpkin seeds",
+      "calories": 498.0,
+      "protein_g": 42.0,
+      "carbs_g": 33.1,
+      "fat_g": 23.8,
+      "fiber_g": 2.2,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Turkey ham and cheese muffin",
+          "quantity": 1.0,
+          "unit": "muffin",
+          "calories": 280.0,
+          "protein_g": 20.0,
+          "carbs_g": 30.0,
+          "fat_g": 10.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 20.0,
+          "unit": "g",
+          "calories": 112.0,
+          "protein_g": 6.0,
+          "carbs_g": 2.2,
+          "fat_g": 9.8,
+          "fiber_g": 1.2
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 home-boiled eggs, lightly seasoned with iodized salt + palak paneer rice set",
+      "calories": 896.0,
+      "protein_g": 36.4,
+      "carbs_g": 97.2,
+      "fat_g": 37.4,
+      "fiber_g": 4.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Boiled egg",
+          "quantity": 2.0,
+          "unit": "egg",
+          "calories": 156.0,
+          "protein_g": 12.6,
+          "carbs_g": 1.2,
+          "fat_g": 10.6,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Palak paneer rice set",
+          "quantity": 1.0,
+          "unit": "set",
+          "calories": 740.0,
+          "protein_g": 23.8,
+          "carbs_g": 96.0,
+          "fat_g": 26.8,
+          "fiber_g": 4.8
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 1200.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 14.0,
+    "b12_ug": 5.2,
+    "potassium_mg": 2800.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 80.0,
+    "vitamin_d_ug": 4.5,
+    "omega3_g": 0.5,
+    "magnesium_mg": 350.0,
+    "vitamin_k_ug": 520.0,
+    "vitamin_e_mg": 12.0,
+    "vitamin_a_ug": 1100.0,
+    "folate_ug": 450.0,
+    "selenium_ug": 140.0,
+    "epa_dha_mg": 30.0,
+    "choline_mg": 540.0,
+    "iodine_ug": 130.0
+  }
+}
