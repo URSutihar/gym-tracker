@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-06",
+  "notes": "Xiaomi scan at 11:04 AM: 73.1 kg. Versus Sep 5: weight -0.7 kg, fat mass -0.4 kg (14.8 to 14.4), muscle mass -0.3 kg (55.9 to 55.6), SMM -0.2 kg (30.0 to 29.8), body-water mass -0.4 kg (41.3 to 40.9), and body fat -0.3 points. This is a hydration/glycogen/BIA reallocation after Sep 5's 1,914 kcal / +324 deficit, 20,038 steps and high activity; not 0.4kg fat loss or 0.3kg muscle loss in one day. Sleep 7h38m, substantially better duration; around 2:51 AM bedtime with a mostly consolidated 2:30-10:00 AM block and a few short wakes. Activity very high: 782 move kcal, 82 exercise min, 14 stand hrs, 17,144 steps, 11.33 km and 12 flights — all rings closed. Intake 2,033 kcal, protein 151g. Tacos and lunch are unlabelled restaurant estimates (combined uncertainty about +/-180 kcal); Wingstop meal matches prior 6pc boneless-wings plus cheese-sauce entry. No fruit/vegetables creates low fibre, potassium and vitamin C; restaurant/fast-food meals create high sodium. Two home-boiled eggs credited with lightly iodized seasoning (+25ug iodine). No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 73.1,
+    "bmi": 23.3,
+    "body_fat_pct": 19.7,
+    "fat_mass_kg": 14.4,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 29.8,
+    "body_water_pct": 56.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.0,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 458,
+    "notes": "7h38m. Around 2:51 AM bedtime. Mostly consolidated overnight block around 2:30-10:00 AM with several short wake spikes."
+  },
+  "activity": {
+    "move_calories": 782.0,
+    "exercise_minutes": 82,
+    "stand_hours": 14,
+    "steps": 17144,
+    "distance_km": 11.33
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "1 garlic naan + quarter tandoori chicken leg + mini cup chana masala",
+      "calories": 590.0,
+      "protein_g": 38.0,
+      "carbs_g": 68.0,
+      "fat_g": 18.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 300.0,
+          "protein_g": 8.0,
+          "carbs_g": 47.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Tandoori chicken leg quarter",
+          "quantity": 1.0,
+          "unit": "quarter leg",
+          "calories": 170.0,
+          "protein_g": 25.0,
+          "carbs_g": 1.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chana masala (mini cup)",
+          "quantity": 1.0,
+          "unit": "mini cup",
+          "calories": 120.0,
+          "protein_g": 5.0,
+          "carbs_g": 20.0,
+          "fat_g": 3.0,
+          "fiber_g": 4.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "2 chicken tacos with taco gravy + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 666.0,
+      "protein_g": 51.0,
+      "carbs_g": 55.9,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken taco with gravy (oily, substantial filling)",
+          "quantity": 2.0,
+          "unit": "taco",
+          "calories": 560.0,
+          "protein_g": 35.0,
+          "carbs_g": 55.0,
+          "fat_g": 24.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "10g raw hulled pumpkin seeds + Wingstop 6pc boneless wings with cheese sauce",
+      "calories": 556.0,
+      "protein_g": 36.0,
+      "carbs_g": 26.1,
+      "fat_g": 32.9,
+      "fiber_g": 1.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Pumpkin seeds, raw hulled kernels (pepitas)",
+          "quantity": 10.0,
+          "unit": "g",
+          "calories": 56.0,
+          "protein_g": 3.0,
+          "carbs_g": 1.1,
+          "fat_g": 4.9,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Wingstop boneless wings",
+          "quantity": 6.0,
+          "unit": "pc",
+          "calories": 400.0,
+          "protein_g": 30.0,
+          "carbs_g": 22.0,
+          "fat_g": 20.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Wingstop cheese dipping sauce",
+          "quantity": 40.0,
+          "unit": "g",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 560.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 1950.0,
+    "sodium_mg": 4000.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 210.0,
+    "selenium_ug": 130.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 520.0,
+    "iodine_ug": 110.0
+  }
+}
