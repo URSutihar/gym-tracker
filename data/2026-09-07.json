@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-07",
+  "notes": "Xiaomi scan at 3:55 PM: 72.7 kg. Versus Sep 6: weight -0.4 kg, fat mass -0.2 kg (14.4 to 14.2), muscle mass -0.2 kg (55.6 to 55.4), SMM -0.1 kg (29.8 to 29.7), body-water mass +0.1 kg (40.9 to 41.0) / water percentage +0.3 points, and body-fat percentage -0.2 points. This is BIA hydration/glycogen noise, not simultaneous fat and muscle tissue loss, following Sep 6's 2,033 kcal / logged 223 kcal deficit, 4,000 mg sodium, 162 g carbs and high 17,144-step activity. Sleep only 4h44m, broadly late-morning to afternoon and fragmented. Activity very high: 711 move kcal, 63 exercise min, 13 stand hrs, 16,323 steps, 10.51 km and 6 flights; all rings closed. Intake estimate 1,802 kcal and protein 105g. Biryani is the established restaurant portion without raita/gravy; two 18g modak use the supplied label. Guava weight not given; logged as 250g standard fruit estimate. Two home-boiled omega-3 eggs credited with lightly iodized seasoning (+25ug iodine). No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 72.7,
+    "bmi": 23.2,
+    "body_fat_pct": 19.5,
+    "fat_mass_kg": 14.2,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 56.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.8,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 284,
+    "notes": "4h44m. Apple reports 11:23 PM bedtime, but tracked sleep is a short late-morning/afternoon block around 9:50 AM-2:40 PM with stage changes. Earlier than the 12:59 AM recent average, but low duration and non-nocturnal timing."
+  },
+  "activity": {
+    "move_calories": 711.0,
+    "exercise_minutes": 63,
+    "stand_hours": 13,
+    "steps": 16323,
+    "distance_km": 10.51
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "2 home-boiled omega-3/6/9 eggs + 250g Thai pink guava (weight estimated; not supplied)",
+      "calories": 300.5,
+      "protein_g": 18.8,
+      "carbs_g": 33.1,
+      "fat_g": 12.1,
+      "fiber_g": 12.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Omega-3 egg (boiled)",
+          "quantity": 2.0,
+          "unit": "egg",
+          "calories": 148.0,
+          "protein_g": 13.8,
+          "carbs_g": 0.6,
+          "fat_g": 10.2,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hyderabadi chicken dum biryani with egg, no raita/gravy + 2x18g modak + 1 raw mooli",
+      "calories": 1279.5,
+      "protein_g": 60.6,
+      "carbs_g": 153.4,
+      "fat_g": 42.8,
+      "fiber_g": 5.1,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Biryani rice (with masala + ghee)",
+          "quantity": 500.0,
+          "unit": "g",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Boneless chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg (in biryani)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Modak (label; 18g each)",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 141.1,
+          "protein_g": 3.6,
+          "carbs_g": 19.4,
+          "fat_g": 5.4,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Raw radish (mooli)",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 15.4,
+          "protein_g": 0.7,
+          "carbs_g": 3.4,
+          "fat_g": 0.1,
+          "fiber_g": 1.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 12.5,
+    "zinc_mg": 15.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 2050.0,
+    "sodium_mg": 2300.0,
+    "vitamin_c_mg": 280.0,
+    "vitamin_d_ug": 4.0,
+    "omega3_g": 0.7,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 500.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 235.0,
+    "choline_mg": 700.0,
+    "iodine_ug": 150.0
+  }
+}
