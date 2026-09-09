@@ -1,6 +1,8 @@
 {
   "date": "2026-09-08",
-  "notes": "Xiaomi scan at 10:19 AM: 73.2 kg. Versus Sep 7: weight +0.5 kg, body-fat percentage +0.4 points (19.5 to 19.9), fat mass +0.4 kg (14.2 to 14.6), muscle mass +0.1 kg (55.4 to 55.5), SMM -0.3 kg (29.7 to 29.4), body-water mass -0.5 kg (41.0 to 40.5) / water percentage -0.9 points. This is a low-water BIA shift, not 0.4kg fat gain overnight: Sep 7 was a logged 431 kcal deficit, 16,323-step high-activity day, with restaurant biryani and only 4h44m sleep. Sleep improved to 6h14m, with an early long block then a fragmented early-morning block; Apple bedtime 12:35 AM. Activity exceptional: 1,325 move kcal, 171 exercise min, 13 stand hrs, 15,951 steps, 10.36 km and 19 flights; all rings closed. Intake 2,186 kcal, protein 139g and fibre 26.5g. Four home-boiled eggs credited with lightly iodized seasoning (+25ug iodine): 2 older omega-3/6/9 eggs and 2 newer 61-kcal omega eggs. No exercise-level gym workout was supplied, so gym work is represented only by Apple Watch activity.",
+  "notes": "Xiaomi scan at 10:19 AM: 73.2 kg. Versus Sep 7: weight +0.5 kg, body-fat percentage +0.4 points (19.5 to 19.9), fat mass +0.4 kg (14.2 to 14.6), muscle mass +0.1 kg (55.4 to 55.5), SMM -0.3 kg (29.7 to 29.4), body-water mass -0.5 kg (41.0 to 40.5) / water percentage -0.9 points. This is a low-water BIA shift, not 0.4kg fat gain overnight: Sep 7 was a logged 431 kcal deficit, 16,323-step high-activity day, with restaurant biryani and only 4h44m sleep. Sleep improved to 6h14m, with an early long block then a fragmented early-morning block; Apple bedtime 12:35 AM. Activity exceptional: 1,325 move kcal, 171 exercise min, 13 stand hrs, 15,951 steps, 10.36 km and 19 flights; all rings closed. Intake 2,186 kcal, protein 139g and fibre 26.5g. Four home-boiled eggs credited with lightly iodized seasoning (+25ug iodine): 2 older omega-3/6/9 eggs and 2 newer 61-kcal omega eggs. Back and biceps gym session: 60 min, RPE 7, 16 working sets / 192 reps. Cable bent-over row reached a new recorded 41kg x12 top set.",
+  "overall_rpe": 7.0,
+  "gym_minutes": 60,
   "body_metrics": {
     "weight_kg": 73.2,
     "bmi": 23.4,
@@ -26,6 +28,155 @@
     "stand_hours": 13,
     "steps": 15951,
     "distance_km": 10.36
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Back and biceps. Dumbbell chest-supported rows were per hand. 16 working sets / 192 reps; RPE 7.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Chest Supported Row",
+        "muscle_group": "back",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 12.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Close Grip Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 15.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
   },
   "meals": [
     {
