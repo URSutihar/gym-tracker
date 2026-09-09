@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-08",
+  "notes": "Xiaomi scan at 10:19 AM: 73.2 kg. Versus Sep 7: weight +0.5 kg, body-fat percentage +0.4 points (19.5 to 19.9), fat mass +0.4 kg (14.2 to 14.6), muscle mass +0.1 kg (55.4 to 55.5), SMM -0.3 kg (29.7 to 29.4), body-water mass -0.5 kg (41.0 to 40.5) / water percentage -0.9 points. This is a low-water BIA shift, not 0.4kg fat gain overnight: Sep 7 was a logged 431 kcal deficit, 16,323-step high-activity day, with restaurant biryani and only 4h44m sleep. Sleep improved to 6h14m, with an early long block then a fragmented early-morning block; Apple bedtime 12:35 AM. Activity exceptional: 1,325 move kcal, 171 exercise min, 13 stand hrs, 15,951 steps, 10.36 km and 19 flights; all rings closed. Intake 2,186 kcal, protein 139g and fibre 26.5g. Four home-boiled eggs credited with lightly iodized seasoning (+25ug iodine): 2 older omega-3/6/9 eggs and 2 newer 61-kcal omega eggs. No exercise-level gym workout was supplied, so gym work is represented only by Apple Watch activity.",
+  "body_metrics": {
+    "weight_kg": 73.2,
+    "bmi": 23.4,
+    "body_fat_pct": 19.9,
+    "fat_mass_kg": 14.6,
+    "muscle_mass_kg": 55.5,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 55.5,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.3,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 374,
+    "notes": "6h14m. Apple bedtime 12:35 AM, 17 minutes earlier than recent average. Long early block around 11 PM-2:50 AM, then fragmented early-morning sleep around 5:40-9:00 AM."
+  },
+  "activity": {
+    "move_calories": 1325.0,
+    "exercise_minutes": 171,
+    "stand_hours": 13,
+    "steps": 15951,
+    "distance_km": 10.36
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "4 modak + 250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 503.4,
+      "protein_g": 32.7,
+      "carbs_g": 51.2,
+      "fat_g": 18.3,
+      "fiber_g": 1.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Modak",
+          "quantity": 4.0,
+          "unit": "piece",
+          "calories": 282.4,
+          "protein_g": 7.2,
+          "carbs_g": 38.8,
+          "fat_g": 10.8,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey + 2 modak + 180ml Amul Cool rose milk",
+      "calories": 411.2,
+      "protein_g": 25.2,
+      "carbs_g": 42.8,
+      "fat_g": 15.1,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Modak",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 141.2,
+          "protein_g": 3.6,
+          "carbs_g": 19.4,
+          "fat_g": 5.4,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Amul Cool rose milk",
+          "quantity": 180.0,
+          "unit": "ml",
+          "calories": 164.0,
+          "protein_g": 5.6,
+          "carbs_g": 22.5,
+          "fat_g": 5.7,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "2 older omega-3/6/9 boiled eggs + 2 newer 61-kcal omega eggs + 210g Thai pink guava + 20g chia seeds",
+      "calories": 495.1,
+      "protein_g": 34.1,
+      "carbs_g": 41.5,
+      "fat_g": 25.2,
+      "fiber_g": 20.9,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Omega-3 egg (boiled)",
+          "quantity": 2.0,
+          "unit": "egg",
+          "calories": 148.0,
+          "protein_g": 13.8,
+          "carbs_g": 0.6,
+          "fat_g": 10.2,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Omega-3 egg — 50g label (61 kcal)",
+          "quantity": 2.0,
+          "unit": "egg",
+          "calories": 122.0,
+          "protein_g": 12.8,
+          "carbs_g": 1.6,
+          "fat_g": 7.2,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 210.0,
+          "unit": "g",
+          "calories": 128.1,
+          "protein_g": 4.2,
+          "carbs_g": 27.3,
+          "fat_g": 1.6,
+          "fiber_g": 9.7
+        },
+        {
+          "food_name": "Chia seeds (soaked)",
+          "quantity": 20.0,
+          "unit": "g dry",
+          "calories": 97.0,
+          "protein_g": 3.3,
+          "carbs_g": 12.0,
+          "fat_g": 6.2,
+          "fiber_g": 9.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 1050.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 16.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 2780.0,
+    "vitamin_c_mg": 210.0,
+    "vitamin_d_ug": 5.0,
+    "omega3_g": 1.2,
+    "magnesium_mg": 250.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 13.5,
+    "vitamin_a_ug": 600.0,
+    "folate_ug": 310.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 400.0,
+    "choline_mg": 750.0,
+    "iodine_ug": 130.0
+  }
+}
