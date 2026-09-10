@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-09",
+  "notes": "Xiaomi scan at 9:25 AM: 72.7 kg. Versus Sep 8: weight -0.5 kg, body-fat percentage -0.2 points (19.9 to 19.7), fat mass -0.3 kg (14.6 to 14.3), muscle mass -0.2 kg (55.5 to 55.3), SMM -0.3 kg (29.4 to 29.1), and body-water mass -0.2 kg (40.5 to 40.3). This is BIA/hydration noise after Sep 8's near-maintenance 2,186 kcal intake, 1,325 move kcal, 171 exercise min and back/biceps session; not simultaneous fat and muscle loss. Sleep improved to 7h25m but had many short wake spikes; Apple bedtime 12:44 AM, 53 min later than 11:51 PM average. Activity strong: 691 move kcal, 65 exercise min, 15 stand hrs, 16,557 steps, 10.77 km and 18 flights; all rings closed. Intake 2,394 kcal, protein 151g. Two restaurant rice meals make sodium estimate high; guava supplies most vitamin C and fibre. No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 72.7,
+    "bmi": 23.2,
+    "body_fat_pct": 19.7,
+    "fat_mass_kg": 14.3,
+    "muscle_mass_kg": 55.3,
+    "skeletal_muscle_mass_kg": 29.1,
+    "body_water_pct": 55.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.4,
+    "bmr_kcal": 1631.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 445,
+    "notes": "7h25m. Apple bedtime 12:44 AM, 53 minutes later than recent 11:51 PM average. Duration improved, but with repeated short wake spikes across the overnight block."
+  },
+  "activity": {
+    "move_calories": 691.0,
+    "exercise_minutes": 65,
+    "stand_hours": 15,
+    "steps": 16557,
+    "distance_km": 10.77
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "250g Thai pink guava + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 258.5,
+      "protein_g": 21.0,
+      "carbs_g": 33.4,
+      "fat_g": 5.9,
+      "fiber_g": 11.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hyderabadi chicken dum biryani with egg, no raita/gravy + 1 raw mooli",
+      "calories": 1138.4,
+      "protein_g": 57.0,
+      "carbs_g": 134.0,
+      "fat_g": 37.4,
+      "fiber_g": 4.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Biryani rice (with masala + ghee)",
+          "quantity": 500.0,
+          "unit": "g",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Boneless chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg (in biryani)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Raw radish (mooli)",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 15.4,
+          "protein_g": 0.7,
+          "carbs_g": 3.4,
+          "fat_g": 0.1,
+          "fiber_g": 1.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 900.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 17.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 2750.0,
+    "sodium_mg": 4400.0,
+    "vitamin_c_mg": 260.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 250.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 600.0,
+    "folate_ug": 330.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 600.0,
+    "iodine_ug": 120.0
+  }
+}
