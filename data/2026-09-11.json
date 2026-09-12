@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-11",
+  "notes": "Xiaomi scan at 10:28 AM: 72.9 kg. Versus Sep 10: weight -0.8 kg, body-fat percentage -0.5 points (20.1 to 19.6), fat mass -0.5 kg (14.8 to 14.3), muscle mass -0.3 kg (55.8 to 55.5), skeletal muscle mass +0.3 kg (29.8 to 30.1), and body-water mass +0.4 kg (41.0 to 41.4). This is BIA hydration/glycogen variation after Sep 10's restaurant-food sodium estimate, 247g carbs, 14,399 steps and 7h41m sleep; it is not overnight fat or muscle change. Sleep 6h15m, 12 minutes later than the 1:02 AM average bedtime, with several wake spikes. Activity solid: 600 move kcal, 53 exercise min, 11 stand hrs, 12,541 steps, 8.27 km and 22 flights; all rings closed. Intake 2,086 kcal and protein 125g. No gym workout supplied. McChicken uses McDonald's Singapore published nutrition; micronutrients outside its label are estimates.",
+  "body_metrics": {
+    "weight_kg": 72.9,
+    "bmi": 23.3,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.3,
+    "muscle_mass_kg": 55.5,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 56.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.4,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 375,
+    "notes": "6h15m. Bedtime 1:14 AM, 12 minutes later than the recent 1:02 AM average; multiple wake spikes across the roughly 3 AM to 9 AM block."
+  },
+  "activity": {
+    "move_calories": 600.0,
+    "exercise_minutes": 53,
+    "stand_hours": 11,
+    "steps": 12541,
+    "distance_km": 8.27
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey + 330g Thai pink guava + 1 McChicken",
+      "calories": 698.3,
+      "protein_g": 37.6,
+      "carbs_g": 85.8,
+      "fat_g": 24.5,
+      "fiber_g": 17.2,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 330.0,
+          "unit": "g",
+          "calories": 201.3,
+          "protein_g": 6.6,
+          "carbs_g": 42.9,
+          "fat_g": 2.5,
+          "fiber_g": 15.2
+        },
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey + 1 McChicken",
+      "calories": 612.0,
+      "protein_g": 40.5,
+      "carbs_g": 54.4,
+      "fat_g": 25.5,
+      "fiber_g": 2.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 12.5,
+    "zinc_mg": 14.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 2800.0,
+    "sodium_mg": 3600.0,
+    "vitamin_c_mg": 340.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.1,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 340.0,
+    "selenium_ug": 125.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 300.0,
+    "iodine_ug": 90.0
+  }
+}
