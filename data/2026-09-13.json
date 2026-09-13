@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-13",
+  "notes": "Xiaomi scan at 12:55 PM: 72.5 kg. Versus Sep 12: weight -0.5 kg, body-fat percentage -0.4 points (19.9 to 19.5), fat mass -0.4 kg (14.5 to 14.1), muscle mass -0.1 kg (55.4 to 55.3), skeletal muscle mass +0.4 kg (29.4 to 29.8), and body-water mass +0.5 kg (40.5 to 41.0). This is BIA hydration/glycogen variation, not 0.4kg fat loss: the Sep 13 scan reflects Sep 12's logged 2,021 kcal / 137 kcal deficit, ~4,100mg sodium, 212g carbs, 12,579 steps and 7h38m sleep. Sleep excellent at 9h07m, above the displayed seven-day 7h23m average, but split into an overnight block and a later morning block with several wake spikes. Activity good: 501 move kcal, 34 exercise min, 11 stand hrs, 11,379 steps, 7.75 km and 9 flights; all rings closed. Intake estimate 1,738 kcal and protein 119g. Ayam panggang set is an unweighed restaurant estimate (+/-180 kcal). Four current omega eggs were unseasoned, so no iodized-salt iodine credit. No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 72.5,
+    "bmi": 23.1,
+    "body_fat_pct": 19.5,
+    "fat_mass_kg": 14.1,
+    "muscle_mass_kg": 55.3,
+    "skeletal_muscle_mass_kg": 29.8,
+    "body_water_pct": 56.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.7,
+    "bmr_kcal": 1631.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 547,
+    "notes": "9h07m, above the displayed seven-day 7h23m average. Split overnight and late-morning blocks, with several brief wake spikes."
+  },
+  "activity": {
+    "move_calories": 501.0,
+    "exercise_minutes": 34,
+    "stand_hours": 11,
+    "steps": 11379,
+    "distance_km": 7.75
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Indonesian BBQ Ayam Panggang Set: rice, grilled chicken leg, curry, fried egg and cabbage",
+      "calories": 820.0,
+      "protein_g": 45.0,
+      "carbs_g": 89.0,
+      "fat_g": 32.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Indonesian steamed rice",
+          "quantity": 250.0,
+          "unit": "g cooked",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 72.0,
+          "fat_g": 0.8,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Ayam panggang grilled chicken leg",
+          "quantity": 1.0,
+          "unit": "leg",
+          "calories": 250.0,
+          "protein_g": 30.0,
+          "carbs_g": 3.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Indonesian curry gravy",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 100.0,
+          "protein_g": 2.0,
+          "carbs_g": 8.0,
+          "fat_g": 7.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Fried egg",
+          "quantity": 1.0,
+          "unit": "egg",
+          "calories": 95.0,
+          "protein_g": 6.0,
+          "carbs_g": 0.5,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cabbage",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 5.5,
+          "fat_g": 4.2,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 standard Snickers bar",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Snickers bar",
+          "quantity": 1.0,
+          "unit": "bar",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "1 portion (25g) Myprotein Essential Whey + 4 unseasoned current omega eggs + 20g chia seeds",
+      "calories": 447.0,
+      "protein_g": 44.9,
+      "carbs_g": 16.1,
+      "fat_g": 24.6,
+      "fiber_g": 10.8,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Omega-3 egg — 50g label (61 kcal), boiled and unseasoned",
+          "quantity": 4.0,
+          "unit": "egg",
+          "calories": 244.0,
+          "protein_g": 25.6,
+          "carbs_g": 3.2,
+          "fat_g": 14.4,
+          "fiber_g": 1.2
+        },
+        {
+          "food_name": "Chia seeds (soaked in water)",
+          "quantity": 20.0,
+          "unit": "g dry",
+          "calories": 97.0,
+          "protein_g": 3.3,
+          "carbs_g": 12.0,
+          "fat_g": 6.2,
+          "fiber_g": 9.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 750.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 35.0,
+    "vitamin_d_ug": 4.0,
+    "omega3_g": 4.3,
+    "magnesium_mg": 190.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 600.0,
+    "folate_ug": 250.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 430.0,
+    "choline_mg": 750.0,
+    "iodine_ug": 120.0
+  }
+}
