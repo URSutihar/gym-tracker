@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-12",
+  "notes": "Xiaomi scan at 11:06 AM: 73.0 kg. Versus Sep 11: weight +0.1 kg, body-fat percentage +0.3 points (19.6 to 19.9), fat mass +0.2 kg (14.3 to 14.5), muscle mass -0.1 kg (55.5 to 55.4), skeletal muscle mass -0.7 kg (30.1 to 29.4), and body-water mass -0.9 kg (41.4 to 40.5). This is BIA hydration/glycogen variation, not simultaneous fat gain and muscle loss: Sep 11 had 2,086 kcal / logged 54 kcal deficit, 3,600mg estimated sodium, 12,541 steps and only 6h15m sleep. Sleep recovered to 7h38m, with multiple short wake spikes; seven-day average shown as 6h40m. Activity solid: 565 move kcal, 59 exercise min, 10 stand hrs, 12,579 steps, 7.96 km and 3 flights; all rings closed. Intake estimate 2,021 kcal and protein 115g. Double McChicken is one burger with two patties; estimate based on the Singapore regular McChicken label plus one additional patty. Lunch and Cajun fusili are unweighed restaurant estimates (combined uncertainty roughly +/-260 kcal). No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 73.0,
+    "bmi": 23.3,
+    "body_fat_pct": 19.9,
+    "fat_mass_kg": 14.5,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 55.5,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.3,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 458,
+    "notes": "7h38m, above the displayed seven-day 6h40m average. Roughly midnight to 9 AM, with several brief wake spikes."
+  },
+  "activity": {
+    "move_calories": 565.0,
+    "exercise_minutes": 59,
+    "stand_hours": 10,
+    "steps": 12579,
+    "distance_km": 7.96
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "1 garlic naan + quarter tandoori chicken leg + mini cup sambhar",
+      "calories": 550.0,
+      "protein_g": 37.0,
+      "carbs_g": 61.0,
+      "fat_g": 17.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 300.0,
+          "protein_g": 8.0,
+          "carbs_g": 47.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Tandoori chicken leg quarter",
+          "quantity": 1.0,
+          "unit": "quarter leg",
+          "calories": 170.0,
+          "protein_g": 25.0,
+          "carbs_g": 1.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sambhar (mini cup)",
+          "quantity": 1.0,
+          "unit": "mini cup",
+          "calories": 80.0,
+          "protein_g": 4.0,
+          "carbs_g": 13.0,
+          "fat_g": 2.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Double McChicken: one bun with two chicken patties",
+      "calories": 600.0,
+      "protein_g": 27.0,
+      "carbs_g": 59.0,
+      "fat_g": 29.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Double McChicken (one burger, two patties)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 600.0,
+          "protein_g": 27.0,
+          "carbs_g": 59.0,
+          "fat_g": 29.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Cajun fusili with smoked duck (unweighed restaurant estimate)",
+      "calories": 650.0,
+      "protein_g": 25.0,
+      "carbs_g": 80.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cajun fusili pasta with sauce and mushrooms",
+          "quantity": 1.0,
+          "unit": "portion",
+          "calories": 450.0,
+          "protein_g": 7.0,
+          "carbs_g": 80.0,
+          "fat_g": 14.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Smoked duck",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 200.0,
+          "protein_g": 18.0,
+          "carbs_g": 0.0,
+          "fat_g": 14.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 14.0,
+    "zinc_mg": 14.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 2300.0,
+    "sodium_mg": 4100.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 230.0,
+    "selenium_ug": 135.0,
+    "epa_dha_mg": 30.0,
+    "choline_mg": 380.0,
+    "iodine_ug": 80.0
+  }
+}
