@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-15",
+  "notes": "Xiaomi scan at 8:21 AM: 73.4 kg. Versus Sep 14: weight +0.1 kg, body fat +0.1 points (19.9% to 20.0%), fat mass +0.1 kg (14.6 to 14.7), muscle mass unchanged at 55.6 kg, skeletal muscle -0.3 kg (30.2 to 29.9), and body-water mass -0.3 kg (41.4 to 41.1) / water percentage -0.5 points. BIA is sensitive to hydration, glycogen, sodium and timing; this single scan cannot distinguish fat tissue from fluid variation. Sep 14 had high estimated sodium (~5,000 mg), near-maintenance logged intake, 814 move kcal and 19,093 steps. Sleep fell to 4h59m. Sep 15 activity: 748 move kcal, 41 exercise min, 18 stand hrs, 15,567 steps, 9.90 km and 53 flights; all rings closed. Intake estimate 2,342 kcal and protein 149g. Chicken dum biryani is unweighed and largest calorie uncertainty. No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 73.4,
+    "bmi": 23.4,
+    "body_fat_pct": 20.0,
+    "fat_mass_kg": 14.7,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 56.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 299,
+    "notes": "4h59m. Bedtime was 2:47 AM, 44 minutes later than average (2:03 AM); several brief awakenings near the end of sleep."
+  },
+  "activity": {
+    "move_calories": 748.0,
+    "exercise_minutes": 41,
+    "stand_hours": 18,
+    "steps": 15567,
+    "distance_km": 9.9
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup: standard breast set",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese chicken rice set with soup",
+          "quantity": 1.0,
+          "unit": "standard breast set",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey + 190g Thai pink guava",
+      "calories": 221.9,
+      "protein_g": 19.8,
+      "carbs_g": 25.6,
+      "fat_g": 5.4,
+      "fiber_g": 8.7,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 190.0,
+          "unit": "g",
+          "calories": 115.9,
+          "protein_g": 3.8,
+          "carbs_g": 24.7,
+          "fat_g": 1.4,
+          "fiber_g": 8.7
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken dum biryani, no raita or gravy: 500g biryani rice, 150g chicken, 1 boiled egg",
+      "calories": 1123.0,
+      "protein_g": 56.3,
+      "carbs_g": 130.6,
+      "fat_g": 37.3,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken dum biryani rice",
+          "quantity": 500.0,
+          "unit": "g",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 1.0,
+          "unit": "egg",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 17.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 2600.0,
+    "sodium_mg": 4300.0,
+    "vitamin_c_mg": 190.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 230.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 560.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 145.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 570.0,
+    "iodine_ug": 115.0
+  }
+}
