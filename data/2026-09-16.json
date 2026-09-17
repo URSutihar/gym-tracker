@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-16",
+  "notes": "Xiaomi scan at 10:15 AM: weight unchanged at 73.4 kg versus Sep 15. Body fat was -0.1 points (20.0% to 19.9%), fat mass -0.1 kg (14.7 to 14.6), muscle mass +0.1 kg (55.6 to 55.7), skeletal muscle +0.3 kg (29.9 to 30.2), and body-water mass +0.3 kg (41.1 to 41.4) / water percentage +0.4 points. This is BIA hydration/glycogen/timing variation, not measured tissue change. Prior-day context: Sep 15 logged 2,342 kcal, a 212 kcal surplus versus empirical 21-day TDEE, ~4,300 mg sodium, 748 move kcal, 15,567 steps and only 4h59m sleep. Sep 16 activity: 496 move kcal, 13 exercise min, 12 stand hrs, 11,027 steps, 7.02 km and 8 flights; stand ring closed, move/exercise rings not closed. Samyang egg roll noodles and mango cream-cheese Biscoff mochi were estimated from photo; combined uncertainty about +/-300 kcal. No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 73.4,
+    "bmi": 23.4,
+    "body_fat_pct": 19.9,
+    "fat_mass_kg": 14.6,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 30.2,
+    "body_water_pct": 56.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.6,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 450,
+    "notes": "7h30m total. Main overnight block was roughly 2-8 AM with several brief awakenings; graph also shows a substantial afternoon sleep block around 2 PM. Seven-day average shown: 6h55m."
+  },
+  "activity": {
+    "move_calories": 496.0,
+    "exercise_minutes": 13,
+    "stand_hours": 12,
+    "steps": 11027,
+    "distance_km": 7.02
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup: roasted skin-on chicken drumstick, rice and chilli",
+      "calories": 640.0,
+      "protein_g": 32.0,
+      "carbs_g": 81.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fragrant chicken rice",
+          "quantity": 270.0,
+          "unit": "g",
+          "calories": 351.0,
+          "protein_g": 6.5,
+          "carbs_g": 77.0,
+          "fat_g": 0.8,
+          "fiber_g": 0.6
+        },
+        {
+          "food_name": "Roasted chicken drumstick (skin-on)",
+          "quantity": 120.0,
+          "unit": "g cooked",
+          "calories": 240.0,
+          "protein_g": 25.0,
+          "carbs_g": 0.0,
+          "fat_g": 14.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken soup and chilli",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 49.0,
+          "protein_g": 0.5,
+          "carbs_g": 4.0,
+          "fat_g": 1.2,
+          "fiber_g": 0.4
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Samyang egg roll noodles, pictured serving",
+      "calories": 570.0,
+      "protein_g": 15.0,
+      "carbs_g": 75.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Samyang egg roll noodles",
+          "quantity": 1.0,
+          "unit": "pictured serving",
+          "calories": 570.0,
+          "protein_g": 15.0,
+          "carbs_g": 75.0,
+          "fat_g": 24.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mango cream-cheese mochi with mango pieces and Biscoff coating, pictured piece",
+      "calories": 350.0,
+      "protein_g": 5.0,
+      "carbs_g": 55.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mango cream-cheese Biscoff mochi",
+          "quantity": 1.0,
+          "unit": "pictured piece",
+          "calories": 350.0,
+          "protein_g": 5.0,
+          "carbs_g": 55.0,
+          "fat_g": 12.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "McDonald's Singapore McChicken",
+      "calories": 391.0,
+      "protein_g": 15.0,
+      "carbs_g": 42.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "McChicken",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 730.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 14.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 4800.0,
+    "vitamin_c_mg": 35.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 170.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 550.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 420.0,
+    "iodine_ug": 105.0
+  }
+}
