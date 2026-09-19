@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-18",
+  "notes": "No Xiaomi scan supplied; carried trend weight only. Activity: 714 move kcal, 61 exercise min, 14 stand hrs, 16,161 steps, 10.50 km and 12 flights; all rings closed. Apple total calories shown (2,615 kcal) is not used as TDEE. Bento contents and portions were estimated from description: flavoured rice, potato cubes, half sausage, fried fish, fried chicken and beans in gravy; uncertainty about +/-200 kcal. No gym workout supplied.",
+  "sleep": {
+    "total_sleep_minutes": 441,
+    "notes": "7h21m. Bedtime 1:43 AM, 22 minutes earlier than average (2:05 AM); two brief awakenings visible, otherwise repeated normal stage cycles."
+  },
+  "activity": {
+    "move_calories": 714.0,
+    "exercise_minutes": 61,
+    "stand_hours": 14,
+    "steps": 16161,
+    "distance_km": 10.5
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup: standard breast set",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese chicken rice set with soup",
+          "quantity": 1.0,
+          "unit": "standard breast set",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey + 180g Thai pink guava",
+      "calories": 215.8,
+      "protein_g": 19.6,
+      "carbs_g": 24.3,
+      "fat_g": 5.4,
+      "fiber_g": 8.3,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 180.0,
+          "unit": "g",
+          "calories": 109.8,
+          "protein_g": 3.6,
+          "carbs_g": 23.4,
+          "fat_g": 1.4,
+          "fiber_g": 8.3
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Bento: flavoured rice, potato cubes, half sausage, fried fish, fried chicken, beans in gravy",
+      "calories": 1000.0,
+      "protein_g": 46.0,
+      "carbs_g": 118.0,
+      "fat_g": 38.0,
+      "fiber_g": 7.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Flavoured bento rice",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 350.0,
+          "protein_g": 7.0,
+          "carbs_g": 70.0,
+          "fat_g": 7.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Potato cubes",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 100.0,
+          "protein_g": 2.0,
+          "carbs_g": 20.0,
+          "fat_g": 1.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Sausage",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 70.0,
+          "protein_g": 3.0,
+          "carbs_g": 1.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Fried fish",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 190.0,
+          "protein_g": 13.0,
+          "carbs_g": 9.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Fried chicken",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 210.0,
+          "protein_g": 18.0,
+          "carbs_g": 6.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Beans in gravy",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 80.0,
+          "protein_g": 3.0,
+          "carbs_g": 12.0,
+          "fat_g": 2.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 16.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 2500.0,
+    "sodium_mg": 3900.0,
+    "vitamin_c_mg": 180.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 220.0,
+    "vitamin_k_ug": 65.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 550.0,
+    "folate_ug": 310.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 120.0,
+    "choline_mg": 510.0,
+    "iodine_ug": 120.0
+  }
+}
