@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-19",
+  "notes": "Xiaomi scan at 10:37 AM: 73.3 kg. Versus Sep 17: weight -0.2 kg, body fat -0.2 points (20.0% to 19.8%), fat mass -0.2 kg (14.7 to 14.5), muscle mass unchanged at 55.7 kg, skeletal muscle +0.3 kg (29.7 to 30.0), and body-water mass +0.3 kg (40.9 to 41.2) / water percentage +0.4 points. The water increase is enough to explain the leaner BIA readout; this is not measured fat loss or muscle gain. Prior-day context: Sep 18 logged 2,213 kcal, a 163 kcal surplus versus empirical 21-day TDEE, about 3,900 mg sodium, 714 move kcal, 16,161 steps and 7h21m sleep. Activity: 781 move kcal, 78 exercise min, 11 stand hrs, 18,443 steps, 12.12 km and 32 flights; all rings closed. Claypot rice and chicken lollipops were unweighed restaurant estimates, combined uncertainty about +/-250 kcal. No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 73.3,
+    "bmi": 23.4,
+    "body_fat_pct": 19.8,
+    "fat_mass_kg": 14.5,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 30.0,
+    "body_water_pct": 56.2,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.8,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 585,
+    "notes": "9h45m total. Main sleep was roughly 1-8 AM with several brief wake spikes; graph also shows a long late-afternoon sleep block. The displayed 5:51 PM bedtime likely reflects that nap rather than the overnight bedtime."
+  },
+  "activity": {
+    "move_calories": 781.0,
+    "exercise_minutes": 78,
+    "stand_hours": 11,
+    "steps": 18443,
+    "distance_km": 12.12
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Sotti Sorru claypot rice with raita and 1 papad",
+      "calories": 900.0,
+      "protein_g": 45.0,
+      "carbs_g": 105.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken claypot flavoured rice",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 790.0,
+          "protein_g": 42.0,
+          "carbs_g": 98.0,
+          "fat_g": 25.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 1.0,
+          "unit": "small serving",
+          "calories": 60.0,
+          "protein_g": 2.0,
+          "carbs_g": 5.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Papad",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey + 190g Thai pink guava",
+      "calories": 221.9,
+      "protein_g": 19.8,
+      "carbs_g": 25.6,
+      "fat_g": 5.4,
+      "fiber_g": 8.7,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 190.0,
+          "unit": "g",
+          "calories": 115.9,
+          "protein_g": 3.8,
+          "carbs_g": 24.7,
+          "fat_g": 1.4,
+          "fiber_g": 8.7
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "6 dry chicken lollipops",
+      "calories": 480.0,
+      "protein_g": 42.0,
+      "carbs_g": 18.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Dry chicken lollipop",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 480.0,
+          "protein_g": 42.0,
+          "carbs_g": 18.0,
+          "fat_g": 25.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "3 boiled omega-3 eggs",
+      "calories": 183.0,
+      "protein_g": 19.2,
+      "carbs_g": 2.4,
+      "fat_g": 10.8,
+      "fiber_g": 0.9,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Omega-3 egg — 50g label",
+          "quantity": 3.0,
+          "unit": "egg",
+          "calories": 183.0,
+          "protein_g": 19.2,
+          "carbs_g": 2.4,
+          "fat_g": 10.8,
+          "fiber_g": 0.9
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Cookies and Cream cheesecake, 70g slice",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake",
+          "quantity": 1.0,
+          "unit": "70g slice",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 750.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 18.0,
+    "b12_ug": 7.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 190.0,
+    "vitamin_d_ug": 4.0,
+    "omega3_g": 0.9,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 15.0,
+    "vitamin_a_ug": 500.0,
+    "folate_ug": 270.0,
+    "selenium_ug": 180.0,
+    "epa_dha_mg": 330.0,
+    "choline_mg": 760.0,
+    "iodine_ug": 150.0
+  }
+}
