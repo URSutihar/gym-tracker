@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-21",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 702 move kcal, 79 exercise min, 12 stand hrs, 14,909 steps, 10.08 km and 8 flights; all rings closed. Sleep: 7h44m, bedtime 1:19 AM, 22 minutes earlier than recent average; several brief wake periods. Chest and triceps gym session: 60 min, RPE 5, 13 working sets / 132 reps / 3,436 kg logged volume. Low-to-high cable crossover was felt in biceps rather than chest; retained as logged with form-feedback note. Roasted chicken rice with extra meat and Egg & Cheese McSpicy are estimated; uncertainty about +/-150 kcal.",
+  "overall_rpe": 5.0,
+  "gym_minutes": 60,
+  "sleep": {
+    "total_sleep_minutes": 464,
+    "notes": "7h44m. Apple bedtime 1:19 AM, 22 minutes earlier than recent average. Several brief wake periods; sleep ended around 8:30 AM."
+  },
+  "activity": {
+    "move_calories": 702.0,
+    "exercise_minutes": 79,
+    "stand_hours": 12,
+    "steps": 14909,
+    "distance_km": 10.08
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Chest and triceps. 13 working sets / 132 reps / 3,436 kg logged volume; RPE 5. Low-to-high cable crossover was felt in biceps rather than chest.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 21.0,
+            "reps": 10
+          },
+          {
+            "set": 5,
+            "weight_kg": 21.0,
+            "reps": 4
+          },
+          {
+            "set": 6,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 7,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 8,
+            "weight_kg": 27.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Roasted chicken rice with soup and extra chicken meat",
+      "calories": 840.0,
+      "protein_g": 54.0,
+      "carbs_g": 81.0,
+      "fat_g": 28.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken rice",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 640.0,
+          "protein_g": 32.0,
+          "carbs_g": 81.0,
+          "fat_g": 16.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Roasted chicken extra meat",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 200.0,
+          "protein_g": 22.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's Singapore Egg & Cheese McSpicy + medium fries",
+      "calories": 1076.0,
+      "protein_g": 39.0,
+      "carbs_g": 98.0,
+      "fat_g": 60.0,
+      "fiber_g": 9.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Egg & Cheese McSpicy",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 692.0,
+          "protein_g": 34.0,
+          "carbs_g": 52.0,
+          "fat_g": 40.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "McDonald's Singapore French Fries (Medium)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 384.0,
+          "protein_g": 5.0,
+          "carbs_g": 46.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 1800.0,
+    "sodium_mg": 4500.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 130.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 170.0,
+    "selenium_ug": 90.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 320.0,
+    "iodine_ug": 90.0
+  }
+}

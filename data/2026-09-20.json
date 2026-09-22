@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-20",
+  "notes": "Xiaomi scan at 12:43 PM: 72.6 kg. Versus Sep 19: weight -0.7 kg, body fat -0.4 points (19.8% to 19.4%), fat mass -0.4 kg (14.5 to 14.1), muscle mass -0.4 kg (55.7 to 55.3), skeletal muscle +0.1 kg (30.0 to 30.1), and body-water mass unchanged at 41.2 kg / water percentage +0.7 points. This is a BIA allocation/timing change, not 0.7 kg fat loss or 0.4 kg muscle loss in one day. Prior-day context: Sep 19 logged 2,243 kcal, a 207 kcal surplus versus empirical 21-day TDEE, about 4,200 mg sodium, 781 move kcal, 18,443 steps and a split 9h45m sleep record. Activity: 702 move kcal, 77 exercise min, 14 stand hrs, 15,140 steps, 10.05 km and 127 flights; all rings closed. Sleep was explicitly corrected to 3h51m: displayed 5h07m minus the 1h16m daytime block. Claypot rice and sevai are unweighed estimates, combined uncertainty about +/-200 kcal. No gym workout supplied.",
+  "body_metrics": {
+    "weight_kg": 72.6,
+    "bmi": 23.2,
+    "body_fat_pct": 19.4,
+    "fat_mass_kg": 14.1,
+    "muscle_mass_kg": 55.3,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 56.9,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.5,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 231,
+    "notes": "3h51m after subtracting the stated 1h16m daytime sleep block from Apple display of 5h07m. Overnight segment was fragmented, with several late wake spikes."
+  },
+  "activity": {
+    "move_calories": 702.0,
+    "exercise_minutes": 77,
+    "stand_hours": 14,
+    "steps": 15140,
+    "distance_km": 10.05
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Sotti Sorru claypot rice with raita, 1 papad and small cup sevai",
+      "calories": 1080.0,
+      "protein_g": 49.0,
+      "carbs_g": 139.0,
+      "fat_g": 31.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken claypot flavoured rice",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 790.0,
+          "protein_g": 42.0,
+          "carbs_g": 98.0,
+          "fat_g": 25.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 1.0,
+          "unit": "small serving",
+          "calories": 60.0,
+          "protein_g": 2.0,
+          "carbs_g": 5.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Papad",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Sevai",
+          "quantity": 1.0,
+          "unit": "small cup",
+          "calories": 180.0,
+          "protein_g": 4.0,
+          "carbs_g": 34.0,
+          "fat_g": 3.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "180g Thai pink guava + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 215.8,
+      "protein_g": 19.6,
+      "carbs_g": 24.3,
+      "fat_g": 5.4,
+      "fiber_g": 8.3,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 180.0,
+          "unit": "g",
+          "calories": 109.8,
+          "protein_g": 3.6,
+          "carbs_g": 23.4,
+          "fat_g": 1.4,
+          "fiber_g": 8.3
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's Singapore McChicken",
+      "calories": 391.0,
+      "protein_g": 15.0,
+      "carbs_g": 42.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "McChicken",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 760.0,
+    "iron_mg": 14.0,
+    "zinc_mg": 16.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2300.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 180.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 170.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 500.0,
+    "folate_ug": 250.0,
+    "selenium_ug": 130.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 410.0,
+    "iodine_ug": 115.0
+  }
+}
