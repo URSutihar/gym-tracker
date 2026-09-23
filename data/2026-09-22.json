@@ -1,0 +1,145 @@
+{
+  "date": "2026-09-22",
+  "notes": "No Xiaomi body-composition scan or gym workout supplied. Activity: 795 move kcal, 85 exercise min, 16 stand hrs, 15,175 steps, 10.10 km and 14 flights; all rings closed. Sleep: 6h16m, bedtime 3:08 AM, 1h24m later than recent average; fragmented early period followed by a longer core-sleep block. Chicken ham and cheese muffin was unlabelled and estimated. Mala Xiang Guo ingredients and weight were not supplied; logged as a 600g dry mixed bowl using Singapore HPB-derived per-100g proxy, with roughly +/-350 kcal uncertainty.",
+  "sleep": {
+    "total_sleep_minutes": 376,
+    "notes": "6h16m. Apple bedtime 3:08 AM, 1h24m later than recent average. Fragmented early period around 1-3 AM, then a longer core-sleep block from roughly 3:30-6:45 AM, with final shorter blocks after 7 AM."
+  },
+  "activity": {
+    "move_calories": 795.0,
+    "exercise_minutes": 85,
+    "stand_hours": 16,
+    "steps": 15175,
+    "distance_km": 10.1
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Chicken ham and cheese muffin + Starbucks Singapore lemon loaf slice",
+      "calories": 819.3,
+      "protein_g": 22.7,
+      "carbs_g": 88.4,
+      "fat_g": 41.1,
+      "fiber_g": 3.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken ham and cheese muffin",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 350.0,
+          "protein_g": 17.0,
+          "carbs_g": 31.0,
+          "fat_g": 17.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Starbucks Singapore Lemon Loaf",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 469.3,
+          "protein_g": 5.7,
+          "carbs_g": 57.4,
+          "fat_g": 24.1,
+          "fiber_g": 1.4
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mala Xiang Guo, dry mixed bowl (unweighed 600g proxy)",
+      "calories": 972.0,
+      "protein_g": 44.2,
+      "carbs_g": 58.6,
+      "fat_g": 64.5,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mala Xiang Guo, dry mixed bowl",
+          "quantity": 600.0,
+          "unit": "g",
+          "calories": 972.0,
+          "protein_g": 44.2,
+          "carbs_g": 58.6,
+          "fat_g": 64.5,
+          "fiber_g": 6.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 14.0,
+    "zinc_mg": 16.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 2400.0,
+    "sodium_mg": 5200.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 190.0,
+    "vitamin_k_ug": 60.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 250.0,
+    "selenium_ug": 130.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 360.0,
+    "iodine_ug": 110.0
+  }
+}
