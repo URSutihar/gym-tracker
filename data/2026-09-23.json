@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-23",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 751 move kcal, 87 exercise min, 13 stand hrs, 15,797 steps, 10.35 km and 28 flights; all rings closed. Sleep: 6h40m, below the displayed 7-day average of 7h05m; several brief wake periods across the night. Core gym session: 25 min, RPE 6, 9 working sets / 90 reps / 3,694 kg logged volume. Reverse cable crunch stopped after the 41kg set because gripping the cable hurt a finger. Banana bread, cream-cheese waffle and Indian bento portions were unlabelled estimates; combined uncertainty about +/-250 kcal.",
+  "overall_rpe": 6.0,
+  "gym_minutes": 25,
+  "sleep": {
+    "total_sleep_minutes": 400,
+    "notes": "6h40m, versus displayed 7-day average of 7h05m. Several brief wake periods; sleep ran roughly 3 AM to after 9 AM."
+  },
+  "activity": {
+    "move_calories": 751.0,
+    "exercise_minutes": 87,
+    "stand_hours": 13,
+    "steps": 15797,
+    "distance_km": 10.35
+  },
+  "workout": {
+    "duration_minutes": 25,
+    "notes": "Core session. 9 working sets / 90 reps / 3,694 kg logged volume; RPE 6. Reverse cable crunch stopped because finger pain with cable grip limited the 41kg set.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 55.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Criss-Cross Cable Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 55.0,
+            "reps": 4
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": true,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 54.0,
+            "reps": 8
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Banana bread slice + cream-cheese waffle",
+      "calories": 750.0,
+      "protein_g": 12.0,
+      "carbs_g": 95.0,
+      "fat_g": 36.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Banana bread",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 400.0,
+          "protein_g": 5.0,
+          "carbs_g": 55.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Cream cheese waffle",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 350.0,
+          "protein_g": 7.0,
+          "carbs_g": 40.0,
+          "fat_g": 18.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Indian bento: 2 chapati, rice, dal, chana masala and palak paneer",
+      "calories": 994.0,
+      "protein_g": 37.5,
+      "carbs_g": 138.0,
+      "fat_g": 33.5,
+      "fiber_g": 18.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chapati",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 240.0,
+          "protein_g": 8.0,
+          "carbs_g": 40.0,
+          "fat_g": 6.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Cooked white rice",
+          "quantity": 180.0,
+          "unit": "g",
+          "calories": 234.0,
+          "protein_g": 4.5,
+          "carbs_g": 51.0,
+          "fat_g": 0.5,
+          "fiber_g": 0.7
+        },
+        {
+          "food_name": "Dal",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 120.0,
+          "protein_g": 6.0,
+          "carbs_g": 17.0,
+          "fat_g": 3.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Chana masala",
+          "quantity": 100.0,
+          "unit": "g",
+          "calories": 140.0,
+          "protein_g": 7.0,
+          "carbs_g": 20.0,
+          "fat_g": 5.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Palak paneer",
+          "quantity": 120.0,
+          "unit": "g",
+          "calories": 260.0,
+          "protein_g": 12.0,
+          "carbs_g": 10.0,
+          "fat_g": 19.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 750.0,
+    "iron_mg": 17.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 4000.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 230.0,
+    "vitamin_k_ug": 500.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 600.0,
+    "folate_ug": 330.0,
+    "selenium_ug": 70.0,
+    "epa_dha_mg": 20.0,
+    "choline_mg": 220.0,
+    "iodine_ug": 90.0
+  }
+}
