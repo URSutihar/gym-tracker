@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-24",
+  "notes": "Xiaomi scan at 11:08 AM: 73.5 kg. The scale labels this +0.2 kg versus an unlogged scan two days earlier. Versus latest logged Sep 20 scan: weight +0.9 kg, body-fat percentage +0.6 points (19.4% to 20.0%), fat mass +0.6 kg (14.1 to 14.7), muscle mass +0.4 kg (55.3 to 55.7), skeletal muscle unchanged at 30.1 kg, and body-water mass +0.1 kg (41.2 to 41.3) / water percentage -0.7 points. This is short-term BIA allocation and glycogen/sodium variation, not 0.6kg fat gain: Sep 23 logged a 509 kcal surplus, which cannot create that amount of fat overnight. Activity: 688 move kcal, 64 exercise min, 13 stand hrs, 15,013 steps, 10.36 km and 10 flights; all rings closed. Sleep: 5h44m, bedtime 4:14 AM, 2h19m later than recent average of 1:55 AM; fragmented early sleep. Gym: 40 min, RPE 7.5, 12 working sets / 144 reps. Dumbbell loads are per hand; lateral raises, front raises and shrugs were bilateral. Mala chicken ban mian and Wingstop wings were restaurant estimates, combined uncertainty about +/-250 kcal.",
+  "overall_rpe": 7.5,
+  "gym_minutes": 40,
+  "body_metrics": {
+    "weight_kg": 73.5,
+    "bmi": 23.5,
+    "body_fat_pct": 20.0,
+    "fat_mass_kg": 14.7,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 56.2,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.7,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 344,
+    "notes": "5h44m. Apple bedtime 4:14 AM, 2h19m later than recent average of 1:55 AM. Fragmented early sleep with multiple stage transitions; later blocks continued through roughly 10 AM."
+  },
+  "activity": {
+    "move_calories": 688.0,
+    "exercise_minutes": 64,
+    "stand_hours": 13,
+    "steps": 15013,
+    "distance_km": 10.36
+  },
+  "workout": {
+    "duration_minutes": 40,
+    "notes": "Shoulders, rear delts, traps and forearms/biceps. 12 working sets / 144 reps; RPE 7.5. Dumbbell loads are per hand; lateral raises, front raises and shrugs were bilateral. Lu raises retained as cable movement-level history.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 5.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 5.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "rear delts",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 46.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lu Raise",
+        "muscle_group": "shoulders",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shrug",
+        "muscle_group": "traps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 12.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Hammer Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 12.5,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Mala chicken ban mian",
+      "calories": 650.0,
+      "protein_g": 30.0,
+      "carbs_g": 75.0,
+      "fat_g": 25.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mala chicken ban mian",
+          "quantity": 1.0,
+          "unit": "bowl",
+          "calories": 650.0,
+          "protein_g": 30.0,
+          "carbs_g": 75.0,
+          "fat_g": 25.0,
+          "fiber_g": 4.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Wingstop 8pc boneless wings with cheese sauce",
+      "calories": 633.0,
+      "protein_g": 43.0,
+      "carbs_g": 33.0,
+      "fat_g": 34.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Wingstop boneless wings",
+          "quantity": 8.0,
+          "unit": "piece",
+          "calories": 533.0,
+          "protein_g": 40.0,
+          "carbs_g": 30.0,
+          "fat_g": 26.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Wingstop cheese dipping sauce",
+          "quantity": 1.0,
+          "unit": "dip",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 600.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 3900.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 135.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 180.0,
+    "selenium_ug": 95.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 280.0,
+    "iodine_ug": 80.0
+  }
+}
