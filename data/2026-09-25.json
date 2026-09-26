@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-25",
+  "notes": "No Xiaomi body-composition scan or gym workout supplied. Activity: 770 move kcal, 55 exercise min, 14 stand hrs, 15,499 steps, 10.27 km and 7 flights; all rings closed. Sleep: 6h41m, slightly above displayed 7-day average of 6h22m, with several brief wake periods. Mini cream-puff size, mini egg-mayo sandwich size, carrot-cake slice, claypot-rice portion, fried Oreo and karaage were unlabelled estimates; combined uncertainty about +/-350 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 401,
+    "notes": "6h41m, slightly above displayed 7-day average of 6h22m. Several brief wake periods, with more consolidated core and REM blocks after roughly 3 AM."
+  },
+  "activity": {
+    "move_calories": 770.0,
+    "exercise_minutes": 55,
+    "stand_hours": 14,
+    "steps": 15499,
+    "distance_km": 10.27
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "12 mini cream puffs, 2 mini egg-mayo sandwiches and carrot cake",
+      "calories": 1260.0,
+      "protein_g": 25.0,
+      "carbs_g": 142.0,
+      "fat_g": 66.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mini cream puff",
+          "quantity": 12.0,
+          "unit": "piece",
+          "calories": 660.0,
+          "protein_g": 12.0,
+          "carbs_g": 72.0,
+          "fat_g": 36.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mini egg-mayo sandwich",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 220.0,
+          "protein_g": 8.0,
+          "carbs_g": 22.0,
+          "fat_g": 10.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Carrot cake",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 380.0,
+          "protein_g": 5.0,
+          "carbs_g": 48.0,
+          "fat_g": 20.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken Sotti Sorru claypot rice with 1 fried Oreo and 1 chicken karaage",
+      "calories": 1160.0,
+      "protein_g": 58.0,
+      "carbs_g": 128.0,
+      "fat_g": 41.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken Sotti Sorru claypot rice with raita and 1 papad",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 900.0,
+          "protein_g": 45.0,
+          "carbs_g": 105.0,
+          "fat_g": 28.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Fried Oreo",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 110.0,
+          "protein_g": 1.0,
+          "carbs_g": 15.0,
+          "fat_g": 5.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Chicken karaage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 150.0,
+          "protein_g": 12.0,
+          "carbs_g": 8.0,
+          "fat_g": 8.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 700.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 4700.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 150.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 200.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 320.0,
+    "iodine_ug": 100.0
+  }
+}
