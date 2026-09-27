@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-27",
+  "notes": "No Xiaomi body-composition scan or gym workout supplied. Activity: 611 move kcal, 44 exercise min, 12 stand hrs, 8,633 steps, 5.63 km and 98 flights; all rings closed. Sleep shown as 9h10m was corrected by user: minus 2h27m plus 1h23m = 8h06m. Displayed bedtime 7:09 PM, far earlier than the displayed 2:28 AM average. Kurkure pack size was assumed 75g for a Rs20 pack; Double McChicken nutrition used a non-Singapore product estimate. Combined food uncertainty about +/-180 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 486,
+    "notes": "Corrected by user from displayed 9h10m: subtract 2h27m and add 1h23m = 8h06m. The chart shows an early-evening block and a later overnight block. Displayed bedtime: 7:09 PM, versus 2:28 AM average."
+  },
+  "activity": {
+    "move_calories": 611.0,
+    "exercise_minutes": 44,
+    "stand_hours": 12,
+    "steps": 8633,
+    "distance_km": 5.63
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Kurkure Masala Munch, Rs20 pack (assumed 75g)",
+      "calories": 390.0,
+      "protein_g": 4.0,
+      "carbs_g": 39.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Kurkure Masala Munch",
+          "quantity": 75.0,
+          "unit": "g",
+          "calories": 390.0,
+          "protein_g": 4.0,
+          "carbs_g": 39.0,
+          "fat_g": 26.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's Double McChicken and medium fries",
+      "calories": 872.0,
+      "protein_g": 32.8,
+      "carbs_g": 83.1,
+      "fat_g": 44.1,
+      "fiber_g": 7.2,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "McDonald's Double McChicken",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 488.0,
+          "protein_g": 27.8,
+          "carbs_g": 37.1,
+          "fat_g": 24.1,
+          "fiber_g": 2.2
+        },
+        {
+          "food_name": "McDonald's French Fries (medium)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 384.0,
+          "protein_g": 5.0,
+          "carbs_g": 46.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 850.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 7.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 130.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 150.0,
+    "selenium_ug": 85.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 230.0,
+    "iodine_ug": 160.0
+  }
+}
