@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-26",
+  "notes": "No Xiaomi body-composition scan or gym workout supplied. Activity: 536 move kcal, 42 exercise min, 11 stand hrs, 12,709 steps, 8.19 km and 3 flights; all rings closed. Sleep: 9h58m total, split between overnight sleep and a large afternoon block; displayed bedtime 6:02 AM, 3h52m later than the displayed 2:10 AM average. Garlic-naan/tandoori-chicken portion, Apple Pie nutrition, and mala-hotpot ingredients/portion were unlabelled estimates; combined uncertainty about +/-550 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 598,
+    "notes": "9h58m total. Split sleep: overnight stages roughly 2 AM to 9 AM, plus a substantial afternoon sleep block around 4 PM. Displayed bedtime 6:02 AM, 3h52m later than the 2:10 AM average."
+  },
+  "activity": {
+    "move_calories": 536.0,
+    "exercise_minutes": 42,
+    "stand_hours": 11,
+    "steps": 12709,
+    "distance_km": 8.19
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "468g Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 321.0,
+      "protein_g": 33.8,
+      "carbs_g": 22.4,
+      "fat_g": 10.5,
+      "fiber_g": 0.9,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 468.0,
+          "unit": "g",
+          "calories": 215.0,
+          "protein_g": 17.8,
+          "carbs_g": 21.5,
+          "fat_g": 6.6,
+          "fiber_g": 0.9
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Garlic naan with tandoori chicken (estimated standard serving)",
+      "calories": 470.0,
+      "protein_g": 33.0,
+      "carbs_g": 48.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 300.0,
+          "protein_g": 8.0,
+          "carbs_g": 47.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Tandoori chicken",
+          "quantity": 1.0,
+          "unit": "leg quarter",
+          "calories": 170.0,
+          "protein_g": 25.0,
+          "carbs_g": 1.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "McDonald's McChicken, Apple Pie and medium fries",
+      "calories": 1025.0,
+      "protein_g": 22.0,
+      "carbs_g": 121.0,
+      "fat_g": 50.0,
+      "fiber_g": 8.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "McDonald's McChicken",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "McDonald's Apple Pie",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 250.0,
+          "protein_g": 2.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "McDonald's French Fries (medium)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 384.0,
+          "protein_g": 5.0,
+          "carbs_g": 46.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mala hotpot (unweighed generic serving; ingredients not supplied)",
+      "calories": 900.0,
+      "protein_g": 50.0,
+      "carbs_g": 55.0,
+      "fat_g": 45.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mala hotpot",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 900.0,
+          "protein_g": 50.0,
+          "carbs_g": 55.0,
+          "fat_g": 45.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 14.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 5000.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 550.0,
+    "folate_ug": 180.0,
+    "selenium_ug": 115.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 380.0,
+    "iodine_ug": 140.0
+  }
+}
