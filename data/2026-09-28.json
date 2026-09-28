@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-28",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 508 move kcal, 50 exercise min, 12 stand hrs, 10,284 steps, 6.82 km and 5 flights; all rings closed. Apple Watch was off for the separately logged 2-hour Muay Thai session, so its activity totals exclude it. Sleep corrected by user from 6h06m minus 1h23m = 4h43m; early-evening block plus fragmented morning block. Intake estimate 1,755 kcal; unweighed chicken biryani portion is main uncertainty (+/-200 kcal). Back+biceps gym: 45 min, RPE 7.5, 16 lifting sets / 181 reps. Barbell Bicep Curl loads include 20kg Olympic bar; EZ-bar Spider Curl loads include 10kg EZ bar.",
+  "overall_rpe": 7.5,
+  "gym_minutes": 45,
+  "sleep": {
+    "total_sleep_minutes": 283,
+    "notes": "Corrected by user from displayed 6h06m: minus 1h23m = 4h43m. Early-evening sleep block around 6-8 PM, then fragmented morning sleep from roughly 6 AM onward."
+  },
+  "activity": {
+    "move_calories": 508.0,
+    "exercise_minutes": 50,
+    "stand_hours": 12,
+    "steps": 10284,
+    "distance_km": 6.82
+  },
+  "workout": {
+    "duration_minutes": 45,
+    "notes": "Back and biceps gym: 16 lifting sets / 181 reps, RPE 7.5. Barbell Bicep Curl includes 20kg Olympic bar; EZ-bar Spider Curl includes 10kg EZ bar. Separate 120-minute Muay Thai session logged as cardio; Apple Watch was off.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 37.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.0,
+            "reps": 7
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Spider Curl",
+        "muscle_group": "biceps",
+        "equipment": "ez_bar",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Straight Arm Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "T-Bar Row",
+        "muscle_group": "back",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 15.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 15.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Close Grip Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "cardio",
+        "name": "Muay Thai",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 120.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "50g roasted makhana + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 281.0,
+      "protein_g": 22.0,
+      "carbs_g": 35.9,
+      "fat_g": 5.0,
+      "fiber_g": 7.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Roasted makhana",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 175.0,
+          "protein_g": 6.0,
+          "carbs_g": 35.0,
+          "fat_g": 1.0,
+          "fiber_g": 7.0
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hyderabadi chicken dum biryani with raita and biryani gravy (standard restaurant portion)",
+      "calories": 1253.0,
+      "protein_g": 60.8,
+      "carbs_g": 138.6,
+      "fat_g": 46.3,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Biryani rice (with masala + ghee)",
+          "quantity": 500.0,
+          "unit": "g",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Boneless chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg (in biryani)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 80.0,
+          "unit": "g",
+          "calories": 50.0,
+          "protein_g": 2.5,
+          "carbs_g": 4.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Biryani gravy (small)",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 80.0,
+          "protein_g": 2.0,
+          "carbs_g": 4.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.3
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 900.0,
+    "iron_mg": 9.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 3500.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 220.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 400.0,
+    "folate_ug": 280.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 440.0,
+    "iodine_ug": 130.0
+  }
+}
