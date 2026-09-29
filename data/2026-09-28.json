@@ -1,8 +1,23 @@
 {
   "date": "2026-09-28",
-  "notes": "No Xiaomi body-composition scan supplied. Activity: 508 move kcal, 50 exercise min, 12 stand hrs, 10,284 steps, 6.82 km and 5 flights; all rings closed. Apple Watch was off for the separately logged 2-hour Muay Thai session, so its activity totals exclude it. Sleep corrected by user from 6h06m minus 1h23m = 4h43m; early-evening block plus fragmented morning block. Intake estimate 1,755 kcal; unweighed chicken biryani portion is main uncertainty (+/-200 kcal). Back+biceps gym: 45 min, RPE 7.5, 16 lifting sets / 181 reps. Barbell Bicep Curl loads include 20kg Olympic bar; EZ-bar Spider Curl loads include 10kg EZ bar.",
+  "notes": "Xiaomi scan at 12:25 PM: 73.3 kg. Versus latest logged Sep 24 scan: weight -0.2 kg, body-fat percentage -0.1 points (20.0% to 19.9%), fat mass -0.1 kg (14.7 to 14.6), muscle mass -0.1 kg (55.7 to 55.6), skeletal muscle -0.2 kg (30.1 to 29.9), and body-water mass -0.3 kg (41.3 to 41.0) / water percentage -0.1 points. Small four-day BIA shifts, especially reduced water, cannot establish equivalent tissue change. Activity: 508 move kcal, 50 exercise min, 12 stand hrs, 10,284 steps, 6.82 km and 5 flights; all rings closed. Apple Watch was off for the separately logged 2-hour Muay Thai session, so its activity totals exclude it. Sleep corrected by user from 6h06m minus 1h23m = 4h43m; early-evening block plus fragmented morning block. Intake estimate 1,755 kcal; unweighed chicken biryani portion is main uncertainty (+/-200 kcal). Back+biceps gym: 45 min, RPE 7.5, 16 lifting sets / 181 reps. Barbell Bicep Curl loads include 20kg Olympic bar; EZ-bar Spider Curl loads include 10kg EZ bar.",
   "overall_rpe": 7.5,
   "gym_minutes": 45,
+  "body_metrics": {
+    "weight_kg": 73.3,
+    "bmi": 23.4,
+    "body_fat_pct": 19.9,
+    "fat_mass_kg": 14.6,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 56.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
   "sleep": {
     "total_sleep_minutes": 283,
     "notes": "Corrected by user from displayed 6h06m: minus 1h23m = 4h43m. Early-evening sleep block around 6-8 PM, then fragmented morning sleep from roughly 6 AM onward."
