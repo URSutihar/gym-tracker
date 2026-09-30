@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-29",
+  "notes": "Xiaomi scan at 8:30 AM: 73.8 kg. Versus Sep 28: weight +0.5 kg, body-fat percentage +0.3 points (19.9% to 20.2%), fat mass +0.3 kg (14.6 to 14.9), muscle mass +0.2 kg (55.6 to 55.8), skeletal muscle -0.1 kg (29.9 to 29.8), and body-water mass unchanged at 41.0 kg / water percentage -0.5 points. This cannot be 0.3kg fat gained overnight: Sep 28 logged a 342 kcal deficit before accounting for watch-off Muay Thai. BIA allocation, glycogen and food/gut mass explain the sharp scale shift. Activity: 724 move kcal, 34 exercise min, 15 stand hrs, 17,397 steps, 10.86 km and 20 flights; all rings closed. Sleep: 4h42m, fragmented, bedtime 2:02 AM, 40 min earlier than the displayed 2:41 AM average. No workout supplied. Stuff'd burrito, banana-bread slice and fried wing are unweighed estimates; combined uncertainty about +/-250 kcal.",
+  "body_metrics": {
+    "weight_kg": 73.8,
+    "bmi": 23.6,
+    "body_fat_pct": 20.2,
+    "fat_mass_kg": 14.9,
+    "muscle_mass_kg": 55.8,
+    "skeletal_muscle_mass_kg": 29.8,
+    "body_water_pct": 55.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.2,
+    "bmr_kcal": 1642.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 282,
+    "notes": "4h42m, fragmented with multiple brief awake periods. Bedtime 2:02 AM, 40 minutes earlier than the displayed 2:41 AM average."
+  },
+  "activity": {
+    "move_calories": 724.0,
+    "exercise_minutes": 34,
+    "stand_hours": 15,
+    "steps": 17397,
+    "distance_km": 10.86
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "250ml Meiji multi-vitamin milk + 1 portion (25g) Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Banana-bread slice, 1 fried bone-in chicken wing, and Stuff'd chicken burrito with regular wrap, lettuce, tomato salsa, sour cream, habanero, sweet Thai sauce, mashed potato, black beans, cilantro rice, butter corn and cheese",
+      "calories": 1440.0,
+      "protein_g": 62.0,
+      "carbs_g": 158.0,
+      "fat_g": 60.0,
+      "fiber_g": 11.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Banana bread",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 380.0,
+          "protein_g": 5.0,
+          "carbs_g": 48.0,
+          "fat_g": 20.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Fried bone-in chicken wing",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 160.0,
+          "protein_g": 12.0,
+          "carbs_g": 5.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Stuff'd chicken burrito (loaded custom build)",
+          "quantity": 1.0,
+          "unit": "burrito",
+          "calories": 900.0,
+          "protein_g": 45.0,
+          "carbs_g": 105.0,
+          "fat_g": 30.0,
+          "fiber_g": 9.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 750.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2400.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 310.0,
+    "selenium_ug": 130.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 400.0,
+    "iodine_ug": 120.0
+  }
+}
