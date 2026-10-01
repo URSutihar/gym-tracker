@@ -1,0 +1,265 @@
+{
+  "date": "2026-09-30",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 866 move kcal, 46 exercise min, 13 stand hrs, 12,779 steps, 8.58 km and 9 flights; all rings closed. Sleep: 6h47m total, fragmented overnight block plus substantial late-morning and afternoon blocks; bedtime 1:34 AM, 1h11m earlier than displayed average. Chest and triceps gym: 60 min, RPE 7, 17 lifting sets / 190 reps. Separate combat training logged: 90 min Muay Thai and 15 min wrestling; watch exercise minutes undercount reported training. Mala-hotpot ingredients/portion were not supplied, creating about +/-400 kcal uncertainty. No breakfast supplied.",
+  "overall_rpe": 7.0,
+  "gym_minutes": 60,
+  "sleep": {
+    "total_sleep_minutes": 407,
+    "notes": "6h47m total. Fragmented overnight sleep from roughly 1:30-6 AM, with substantial additional blocks around 8:30 AM and 3:30 PM. Bedtime 1:34 AM, 1h11m earlier than displayed 2:45 AM average."
+  },
+  "activity": {
+    "move_calories": 866.0,
+    "exercise_minutes": 46,
+    "stand_hours": 13,
+    "steps": 12779,
+    "distance_km": 8.58
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Chest and triceps gym: 17 lifting sets / 190 reps, RPE 7. Smith-machine loads are plates only. Separate combat training: 90 min Muay Thai and 15 min wrestling; activity screenshot records only 46 exercise minutes.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Incline Bench Press",
+        "muscle_group": "chest",
+        "equipment": "smith_machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 10
+          },
+          {
+            "set": 3,
+            "weight_kg": 16.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 27.0,
+            "reps": 6
+          },
+          {
+            "set": 5,
+            "weight_kg": 11.0,
+            "reps": 12
+          },
+          {
+            "set": 6,
+            "weight_kg": 9.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Skull Crusher",
+        "muscle_group": "triceps",
+        "equipment": "other",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 15.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "cardio",
+        "name": "Muay Thai",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 90.0,
+            "incline_pct": 0.0
+          }
+        ]
+      },
+      {
+        "type": "cardio",
+        "name": "Wrestling",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 15.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template)",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 portion (25g) Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mala hotpot (unweighed generic serving; ingredients not supplied)",
+      "calories": 900.0,
+      "protein_g": 50.0,
+      "carbs_g": 55.0,
+      "fat_g": 45.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mala hotpot",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 900.0,
+          "protein_g": 50.0,
+          "carbs_g": 55.0,
+          "fat_g": 45.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 600.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 4500.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 200.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 300.0,
+    "iodine_ug": 100.0
+  }
+}
