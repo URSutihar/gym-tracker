@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "notes": "No Xiaomi body-composition scan supplied. Activity: 866 move kcal, 46 exercise min, 13 stand hrs, 12,779 steps, 8.58 km and 9 flights; all rings closed. Sleep: 6h47m total, fragmented overnight block plus substantial late-morning and afternoon blocks; bedtime 1:34 AM, 1h11m earlier than displayed average. Chest and triceps gym: 60 min, RPE 7, 17 lifting sets / 190 reps. Separate combat training logged: 90 min Muay Thai and 15 min wrestling; watch exercise minutes undercount reported training. Mala-hotpot ingredients/portion were not supplied, creating about +/-400 kcal uncertainty. No breakfast supplied.",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 866 move kcal, 46 exercise min, 13 stand hrs, 12,779 steps, 8.58 km and 9 flights; all rings closed. Sleep: 6h47m total, fragmented overnight block plus substantial late-morning and afternoon blocks; bedtime 1:34 AM, 1h11m earlier than displayed average. Chest and triceps gym: 60 min, RPE 7, 17 lifting sets / 190 reps. Separate combat training logged: 90 min Muay Thai and 15 min wrestling; watch exercise minutes undercount reported training. Mala hotpot correction: 1 pack udon, 2 sausages, about 1/4 cabbage, a good amount of chicken thigh and dry mala seasoning. Chicken-thigh quantity and dry-mala oil remain estimated; dinner uncertainty about +/-250 kcal. No breakfast supplied.",
   "overall_rpe": 7.0,
   "gym_minutes": 60,
   "sleep": {
@@ -221,45 +221,85 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Mala hotpot (unweighed generic serving; ingredients not supplied)",
-      "calories": 900.0,
-      "protein_g": 50.0,
-      "carbs_g": 55.0,
-      "fat_g": 45.0,
-      "fiber_g": 4.0,
+      "description": "Dry mala hotpot: 1 pack udon, 2 sausages, about 1/4 cabbage, chicken thigh and dry mala seasoning",
+      "calories": 1230.0,
+      "protein_g": 76.0,
+      "carbs_g": 78.0,
+      "fat_g": 68.0,
+      "fiber_g": 8.0,
       "is_estimated": true,
       "foods": [
         {
-          "food_name": "Mala hotpot",
+          "food_name": "Udon noodles",
+          "quantity": 1.0,
+          "unit": "pack (200g assumed)",
+          "calories": 250.0,
+          "protein_g": 6.0,
+          "carbs_g": 50.0,
+          "fat_g": 1.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Sausage",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 260.0,
+          "protein_g": 12.0,
+          "carbs_g": 6.0,
+          "fat_g": 22.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cabbage",
+          "quantity": 200.0,
+          "unit": "g (about 1/4 head)",
+          "calories": 50.0,
+          "protein_g": 3.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Chicken thigh",
+          "quantity": 200.0,
+          "unit": "g cooked assumed",
+          "calories": 420.0,
+          "protein_g": 52.0,
+          "carbs_g": 0.0,
+          "fat_g": 22.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Dry mala seasoning and oil",
           "quantity": 1.0,
           "unit": "serving",
-          "calories": 900.0,
-          "protein_g": 50.0,
-          "carbs_g": 55.0,
-          "fat_g": 45.0,
-          "fiber_g": 4.0
+          "calories": 250.0,
+          "protein_g": 3.0,
+          "carbs_g": 10.0,
+          "fat_g": 23.0,
+          "fiber_g": 1.0
         }
       ]
     }
   ],
   "micros": {
     "calcium_mg": 600.0,
-    "iron_mg": 11.0,
-    "zinc_mg": 13.0,
-    "b12_ug": 4.0,
-    "potassium_mg": 2000.0,
-    "sodium_mg": 4500.0,
-    "vitamin_c_mg": 15.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 16.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2300.0,
+    "sodium_mg": 5200.0,
+    "vitamin_c_mg": 25.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.2,
-    "magnesium_mg": 180.0,
-    "vitamin_k_ug": 50.0,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 70.0,
     "vitamin_e_mg": 7.0,
     "vitamin_a_ug": 350.0,
-    "folate_ug": 200.0,
-    "selenium_ug": 100.0,
+    "folate_ug": 240.0,
+    "selenium_ug": 130.0,
     "epa_dha_mg": 25.0,
-    "choline_mg": 300.0,
+    "choline_mg": 420.0,
     "iodine_ug": 100.0
   }
 }
