@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-01",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 346 move kcal, 8 exercise min, 11 stand hrs, 6,720 steps, 4.47 km and 1 stair; Move and Exercise rings open, Stand ring closed. Sleep: 8h39m total; bedtime 1:22 AM, 1h30m earlier than typical. Core gym: 60 min, RPE 5.5, 9 working sets, 102 reps and 4,206 kg volume. Apple Watch recorded only 8 exercise minutes, below reported gym duration. Mixed rice, shakshuka and unweighed guava estimated; intake uncertainty about +/-350 kcal.",
+  "overall_rpe": 5.5,
+  "gym_minutes": 60,
+  "sleep": {
+    "total_sleep_minutes": 519,
+    "notes": "8h39m total. Bedtime 1:22 AM, 1h30m earlier than typical."
+  },
+  "activity": {
+    "move_calories": 346.0,
+    "exercise_minutes": 8,
+    "stand_hours": 11,
+    "steps": 6720,
+    "distance_km": 4.47
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Core session: 9 working sets / 102 reps / 4,206 kg volume, RPE 5.5. Apple Watch records only 8 exercise minutes.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 55.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 73.0,
+            "reps": 6
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Criss-Cross Cable Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 55.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vit milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vit milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice: rice, tofu, chicken and fried egg",
+      "calories": 845.0,
+      "protein_g": 51.0,
+      "carbs_g": 84.5,
+      "fat_g": 31.8,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mixed rice: rice, tofu, chicken, fried egg and sauce",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 845.0,
+          "protein_g": 51.0,
+          "carbs_g": 84.5,
+          "fat_g": 31.8,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Shakshuka with bread",
+      "calories": 650.0,
+      "protein_g": 25.0,
+      "carbs_g": 60.0,
+      "fat_g": 30.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Shakshuka with bread",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 650.0,
+          "protein_g": 25.0,
+          "carbs_g": 60.0,
+          "fat_g": 30.0,
+          "fiber_g": 6.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Thai pink guava; 250 g assumed because no weight supplied",
+      "calories": 152.5,
+      "protein_g": 5.0,
+      "carbs_g": 32.5,
+      "fat_g": 1.9,
+      "fiber_g": 11.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 800.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 3000.0,
+    "sodium_mg": 3200.0,
+    "vitamin_c_mg": 250.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 230.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 850.0,
+    "folate_ug": 400.0,
+    "selenium_ug": 110.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 550.0,
+    "iodine_ug": 130.0
+  }
+}
