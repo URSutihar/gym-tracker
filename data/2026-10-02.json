@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-02",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 330 move kcal, 10 exercise min, 10 stand hrs, 5,668 steps, 3.70 km and 9 stairs. Move and Exercise rings open; Stand ring closed. Sleep: 9h53m total across an overnight block and afternoon block; bedtime 6:32 AM, 3h42m later than displayed average. No workout supplied. Cajun spaghetti and Chinese claypot meal are estimated; combined intake uncertainty about +/-400 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 593,
+    "notes": "9h53m total. Main sleep block roughly midnight to 6 AM plus afternoon sleep; bedtime displayed as 6:32 AM, 3h42m later than average."
+  },
+  "activity": {
+    "move_calories": 330.0,
+    "exercise_minutes": 10,
+    "stand_hours": 10,
+    "steps": 5668,
+    "distance_km": 3.7
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Cajun spaghetti with grilled chicken",
+      "calories": 850.0,
+      "protein_g": 50.0,
+      "carbs_g": 95.0,
+      "fat_g": 30.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cajun spaghetti with grilled chicken",
+          "quantity": 1.0,
+          "unit": "restaurant serving",
+          "calories": 850.0,
+          "protein_g": 50.0,
+          "carbs_g": 95.0,
+          "fat_g": 30.0,
+          "fiber_g": 5.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Chinese claypot chicken and potatoes with rice",
+      "calories": 900.0,
+      "protein_g": 45.0,
+      "carbs_g": 110.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Claypot chicken and potatoes with rice",
+          "quantity": 1.0,
+          "unit": "restaurant serving",
+          "calories": 900.0,
+          "protein_g": 45.0,
+          "carbs_g": 110.0,
+          "fat_g": 32.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 730.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 5.5,
+    "potassium_mg": 2650.0,
+    "sodium_mg": 4850.0,
+    "vitamin_c_mg": 55.0,
+    "omega3_g": 0.25,
+    "magnesium_mg": 230.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 600.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 400.0,
+    "iodine_ug": 100.0
+  }
+}
