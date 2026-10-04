@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-04",
+  "notes": "Activity: 514 move kcal, 61 exercise min, 10 stand hrs, 10,018 steps, 6.61 km and 4 stairs; all rings closed. Sleep: 7h51m total, split between a long evening block and fragmented early-morning block; 7-day average shown as 7h17m. No workout details supplied. Dinner uses prior comparable CTM portion sizing: 250g butter chicken, one garlic naan and one plain naan. Guava portion assumed 250g. Dinner and guava create intake uncertainty about +/-250 kcal.",
+  "body_metrics": {
+    "weight_kg": 72.9,
+    "bmi": 23.3,
+    "body_fat_pct": 19.8,
+    "fat_mass_kg": 14.4,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 29.5,
+    "body_water_pct": 55.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.2,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 471,
+    "notes": "7h51m total. Long evening block, then fragmented early-morning block. Seven-day average displayed as 7h17m."
+  },
+  "activity": {
+    "move_calories": 514.0,
+    "exercise_minutes": 61,
+    "stand_hours": 10,
+    "steps": 10018,
+    "distance_km": 6.61
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Roasted makhana",
+      "calories": 175.0,
+      "protein_g": 6.0,
+      "carbs_g": 35.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Roasted makhana",
+          "quantity": 50.0,
+          "unit": "g",
+          "calories": 175.0,
+          "protein_g": 6.0,
+          "carbs_g": 35.0,
+          "fat_g": 1.0,
+          "fiber_g": 7.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Myprotein Essential Whey and Thai pink guava",
+      "calories": 258.5,
+      "protein_g": 21.0,
+      "carbs_g": 33.4,
+      "fat_g": 5.9,
+      "fiber_g": 11.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "250g butter chicken, one garlic naan and one plain naan",
+      "calories": 1050.0,
+      "protein_g": 45.0,
+      "carbs_g": 103.0,
+      "fat_g": 48.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Butter chicken",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 490.0,
+          "protein_g": 30.0,
+          "carbs_g": 12.0,
+          "fat_g": 35.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Plain naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 260.0,
+          "protein_g": 8.0,
+          "carbs_g": 45.0,
+          "fat_g": 5.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 300.0,
+          "protein_g": 7.0,
+          "carbs_g": 46.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 780.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 2150.0,
+    "sodium_mg": 3100.0,
+    "vitamin_c_mg": 250.0,
+    "omega3_g": 0.25,
+    "magnesium_mg": 230.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 700.0,
+    "folate_ug": 310.0,
+    "selenium_ug": 95.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 370.0,
+    "iodine_ug": 100.0
+  }
+}
