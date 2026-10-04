@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-03",
+  "notes": "Activity: 476 move kcal, 18 exercise min, 9 stand hrs, 12,593 steps, 8.18 km and 1 stair. All three rings open. Sleep: 5h49m, with a short evening block and fragmented morning block; bedtime 6:32 AM, 3h42m later than displayed average. No workout supplied. Wingstop meal and Chinese pancake are estimates; intake uncertainty about +/-350 kcal.",
+  "body_metrics": {
+    "weight_kg": 73.6,
+    "bmi": 23.5,
+    "body_fat_pct": 20.1,
+    "fat_mass_kg": 14.8,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 29.6,
+    "body_water_pct": 55.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 14.3,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 8,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 349,
+    "notes": "5h49m total. Short evening block plus fragmented morning sleep. Bedtime shown as 6:32 AM, 3h42m later than average."
+  },
+  "activity": {
+    "move_calories": 476.0,
+    "exercise_minutes": 18,
+    "stand_hours": 9,
+    "steps": 12593,
+    "distance_km": 8.18
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Wingstop boneless chicken wings with cheese dip",
+      "calories": 1050.0,
+      "protein_g": 55.0,
+      "carbs_g": 82.0,
+      "fat_g": 58.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Wingstop boneless chicken wings",
+          "quantity": 11.0,
+          "unit": "piece",
+          "calories": 920.0,
+          "protein_g": 52.0,
+          "carbs_g": 78.0,
+          "fat_g": 49.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Cheese dip",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 130.0,
+          "protein_g": 3.0,
+          "carbs_g": 4.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Thai pink guava; 250 g assumed because no weight supplied",
+      "calories": 152.5,
+      "protein_g": 5.0,
+      "carbs_g": 32.5,
+      "fat_g": 1.9,
+      "fiber_g": 11.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chinese pancake with one egg and scallions",
+      "calories": 500.0,
+      "protein_g": 15.0,
+      "carbs_g": 60.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chinese pancake with egg and scallions",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 500.0,
+          "protein_g": 15.0,
+          "carbs_g": 60.0,
+          "fat_g": 22.0,
+          "fiber_g": 3.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 900.0,
+    "iron_mg": 9.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 250.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 150.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 400.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 90.0,
+    "epa_dha_mg": 10.0,
+    "choline_mg": 450.0,
+    "iodine_ug": 100.0
+  }
+}
