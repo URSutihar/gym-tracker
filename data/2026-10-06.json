@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-06",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 591 move kcal, 36 exercise min, 15 stand hrs, 13,892 steps, 8.99 km and 7 stairs; all rings closed. Sleep: 4h55m, fragmented from about 3-9 AM; below displayed seven-day average of 7h09m. No workout supplied. Dinner has smaller rice and no gravy; duck-rice/chicken portions estimated. Burger King receipt confirms BBQ Chicken burger, small onion rings, Coke Zero and mini banana sundae with chocolate drizzle; only half sundae eaten. Total intake uncertainty about +/-250 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 295,
+    "notes": "4h55m, fragmented from roughly 3-9 AM. Seven-day average displayed as 7h09m."
+  },
+  "activity": {
+    "move_calories": 591.0,
+    "exercise_minutes": 36,
+    "stand_hours": 15,
+    "steps": 13892,
+    "distance_km": 8.99
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Myprotein Essential Whey",
+      "calories": 106.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.9,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Roasted duck rice with add-on chicken meat; smaller rice portion and no gravy",
+      "calories": 750.0,
+      "protein_g": 46.0,
+      "carbs_g": 60.0,
+      "fat_g": 32.0,
+      "fiber_g": 1.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Smaller roasted duck rice, no gravy",
+          "quantity": 1.0,
+          "unit": "plate",
+          "calories": 610.0,
+          "protein_g": 21.0,
+          "carbs_g": 60.0,
+          "fat_g": 28.5,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Add-on chicken meat",
+          "quantity": 80.0,
+          "unit": "g assumed",
+          "calories": 140.0,
+          "protein_g": 25.0,
+          "carbs_g": 0.0,
+          "fat_g": 3.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Burger King BBQ Chicken Value Your Way meal: BBQ Chicken burger, small onion rings, Coke Zero, half mini banana sundae with chocolate drizzle",
+      "calories": 655.0,
+      "protein_g": 20.5,
+      "carbs_g": 83.0,
+      "fat_g": 26.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Burger King BBQ Chicken burger",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 340.0,
+          "protein_g": 16.0,
+          "carbs_g": 42.0,
+          "fat_g": 12.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Burger King onion rings",
+          "quantity": 1.0,
+          "unit": "small",
+          "calories": 220.0,
+          "protein_g": 3.0,
+          "carbs_g": 27.0,
+          "fat_g": 11.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Mini banana sundae with chocolate drizzle",
+          "quantity": 0.5,
+          "unit": "portion",
+          "calories": 95.0,
+          "protein_g": 1.5,
+          "carbs_g": 14.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Coca-Cola Zero",
+          "quantity": 1.0,
+          "unit": "small",
+          "calories": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 8.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 10.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 230.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 400.0,
+    "iodine_ug": 100.0
+  }
+}
