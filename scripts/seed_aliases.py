@@ -116,6 +116,7 @@ ALIASES = [
     ("cable tricep push down", "Tricep Pushdown"),
     ("cable pulldown (tricep)", "Tricep Pushdown"),
     ("tricep pulldown (rod)", "Tricep Pushdown"),
+    ("cable rod pull up tricep", "Tricep Pushdown"),
     ("skull crusher (dumbbell)", "Skull Crusher"),
     ("skull crusher (ez bar)", "Skull Crusher"),
     ("skull crusher (plate)", "Skull Crusher"),

@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-08",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 488 move kcal, 37 exercise min, 12 stand hrs, 6,217 steps, 3.96 km and 3 flights; exercise and stand rings closed, move ring 12 kcal short. Sleep: 6h37m, fragmented overnight sleep; bedtime 9:24 PM, markedly earlier than displayed average 3:42 AM. Triceps gym: 35 min, RPE 5, 11 lifting sets / 132 reps. Cable tricep pulldown and cable rod version are normalized as Tricep Pushdown; overhead and machine work remain Tricep Extension. Mala ingredient quantities, especially pork belly, chicken thigh and seasoning oil, are estimated; dinner uncertainty about +/-300 kcal.",
+  "overall_rpe": 5.0,
+  "gym_minutes": 35,
+  "sleep": {
+    "total_sleep_minutes": 397,
+    "notes": "6h37m total. Fragmented overnight sleep. Bedtime 9:24 PM, much earlier than displayed average bedtime of 3:42 AM."
+  },
+  "activity": {
+    "move_calories": 488.0,
+    "exercise_minutes": 37,
+    "stand_hours": 12,
+    "steps": 6217,
+    "distance_km": 3.96
+  },
+  "workout": {
+    "duration_minutes": 35,
+    "notes": "Triceps: 11 lifting sets / 132 reps, RPE 5. Cable tricep pulldown and rod attachment variation are both normalized as Tricep Pushdown; overhead cable and machine work are Tricep Extension.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 25.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 5,
+            "weight_kg": 25.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 9.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 4,
+            "weight_kg": 27.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Dry mala hotpot: instant noodle, cabbage, 2 cheese tofu, sausage, chicken thigh, pork belly, mushroom and seasoning oil",
+      "calories": 1905.0,
+      "protein_g": 95.0,
+      "carbs_g": 96.0,
+      "fat_g": 127.0,
+      "fiber_g": 8.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Instant noodles",
+          "quantity": 1.0,
+          "unit": "pack",
+          "calories": 460.0,
+          "protein_g": 10.0,
+          "carbs_g": 63.0,
+          "fat_g": 16.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Cabbage",
+          "quantity": 200.0,
+          "unit": "g assumed",
+          "calories": 50.0,
+          "protein_g": 3.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Cheese tofu",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 160.0,
+          "protein_g": 10.0,
+          "carbs_g": 8.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sausage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 130.0,
+          "protein_g": 6.0,
+          "carbs_g": 3.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken thigh",
+          "quantity": 200.0,
+          "unit": "g cooked assumed",
+          "calories": 420.0,
+          "protein_g": 52.0,
+          "carbs_g": 0.0,
+          "fat_g": 22.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Pork belly",
+          "quantity": 80.0,
+          "unit": "g assumed",
+          "calories": 415.0,
+          "protein_g": 7.0,
+          "carbs_g": 0.0,
+          "fat_g": 43.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mushroom",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 20.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 0.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Dry mala seasoning and oil",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 7.0,
+          "fat_g": 25.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 760.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2400.0,
+    "sodium_mg": 4700.0,
+    "vitamin_c_mg": 60.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 190.0,
+    "vitamin_k_ug": 170.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 520.0,
+    "folate_ug": 240.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 390.0,
+    "iodine_ug": 105.0
+  }
+}
