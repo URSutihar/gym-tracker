@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-10",
+  "notes": "Xiaomi scan at 11:41 AM: 73.4 kg. Compared with Oct 9: weight +0.4 kg, body-fat percentage unchanged at 19.6%, fat mass +0.1 kg (14.3 to 14.4), muscle mass +0.3 kg (55.6 to 55.9), skeletal muscle +0.4 kg (30.1 to 30.5), and body-water percentage +0.4 points (56.7% to 57.1%). The concurrent water/lean-mass increase is BIA hydration and glycogen noise, not 0.3-0.4 kg tissue change overnight. Activity: 560 move kcal, 24 exercise min, 12 stand hrs, 14,018 steps, 9.30 km and 5 flights; move and stand rings closed, exercise ring short. Sleep: 7h42m, fragmented morning sleep plus a late-afternoon block; above displayed seven-day average 7h03m. No gym workout supplied. Restaurant portions estimated; chicken-laksa soup/noodle fraction and food-court noodle portion are main uncertainty, combined about +/-300 kcal.",
+  "body_metrics": {
+    "weight_kg": 73.4,
+    "bmi": 23.4,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.4,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 30.5,
+    "body_water_pct": 57.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.3,
+    "bmr_kcal": 1644.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 462,
+    "notes": "7h42m total. Fragmented morning sleep plus a later afternoon block. Seven-day average displayed as 7h03m."
+  },
+  "activity": {
+    "move_calories": 560.0,
+    "exercise_minutes": 24,
+    "stand_hours": 12,
+    "steps": 14018,
+    "distance_km": 9.3
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken laksa: half noodles and soup, all chicken, fish and other toppings; spicy chicken sandwich with brioche, caramelized onions, cheese and sauce",
+      "calories": 1240.0,
+      "protein_g": 72.0,
+      "carbs_g": 94.0,
+      "fat_g": 65.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken laksa: half noodles and soup, all toppings",
+          "quantity": 1.0,
+          "unit": "partial bowl",
+          "calories": 620.0,
+          "protein_g": 40.0,
+          "carbs_g": 46.0,
+          "fat_g": 32.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Spicy chicken sandwich: brioche, chicken, caramelized onions, cheese and sauce",
+          "quantity": 1.0,
+          "unit": "sandwich",
+          "calories": 620.0,
+          "protein_g": 32.0,
+          "carbs_g": 48.0,
+          "fat_g": 33.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Handmade chicken meatballs noodle, food-court portion",
+      "calories": 620.0,
+      "protein_g": 35.0,
+      "carbs_g": 75.0,
+      "fat_g": 20.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken meatballs",
+          "quantity": 1.0,
+          "unit": "food-court serving",
+          "calories": 280.0,
+          "protein_g": 30.0,
+          "carbs_g": 8.0,
+          "fat_g": 14.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Noodles, broth and garnish",
+          "quantity": 1.0,
+          "unit": "food-court serving",
+          "calories": 340.0,
+          "protein_g": 5.0,
+          "carbs_g": 67.0,
+          "fat_g": 6.0,
+          "fiber_g": 3.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 530.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 4.5,
+    "potassium_mg": 2400.0,
+    "sodium_mg": 4800.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 55.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 420.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 90.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 350.0,
+    "iodine_ug": 85.0
+  }
+}
