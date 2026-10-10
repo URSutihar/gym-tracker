@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-09",
+  "notes": "Xiaomi scan at 8:57 AM: 73.0 kg. Compared with Oct 5: weight +0.2 kg, body-fat percentage -0.1 points (19.7% to 19.6%), fat mass unchanged at 14.3 kg, muscle mass +0.2 kg (55.4 to 55.6), skeletal muscle +0.6 kg (29.5 to 30.1), and body-water percentage +0.9 points (55.8% to 56.7%). The larger water and lean-mass shift makes this normal BIA hydration/glycogen noise, not 0.6 kg tissue gain. Activity: 818 move kcal, 52 exercise min, 14 stand hrs, 13,811 steps, 9.21 km and 13 flights; all rings closed. Sleep: 10h50m across fragmented overnight sleep plus a late-afternoon block; displayed seven-day average 6h56m. No gym workout supplied. Restaurant meals estimated; steak-enchilada nutrition, sauces, and chicken-cheese-bake-rice portion create combined uncertainty about +/-350 kcal.",
+  "body_metrics": {
+    "weight_kg": 73.0,
+    "bmi": 23.3,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.3,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 56.7,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.5,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 650,
+    "notes": "10h50m total. Fragmented evening/overnight sleep with a later afternoon block. Seven-day average displayed as 6h56m."
+  },
+  "activity": {
+    "move_calories": 818.0,
+    "exercise_minutes": 52,
+    "stand_hours": 14,
+    "steps": 13811,
+    "distance_km": 9.21
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken cheese bake rice",
+      "calories": 850.0,
+      "protein_g": 45.0,
+      "carbs_g": 93.0,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken cheese bake rice",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 850.0,
+          "protein_g": 45.0,
+          "carbs_g": 93.0,
+          "fat_g": 32.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Guzman y Gomez spicy steak enchilada, regular fries, onions, cilantro, jalapeno and sauces",
+      "calories": 1650.0,
+      "protein_g": 62.0,
+      "carbs_g": 199.0,
+      "fat_g": 72.0,
+      "fiber_g": 18.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "GYG spicy steak enchilada",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 1170.0,
+          "protein_g": 55.0,
+          "carbs_g": 132.0,
+          "fat_g": 50.0,
+          "fiber_g": 11.0
+        },
+        {
+          "food_name": "GYG regular fries",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 370.0,
+          "protein_g": 5.0,
+          "carbs_g": 52.0,
+          "fat_g": 17.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Onion, cilantro, jalapeno and sauces",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 110.0,
+          "protein_g": 2.0,
+          "carbs_g": 15.0,
+          "fat_g": 5.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 620.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 6.0,
+    "potassium_mg": 2700.0,
+    "sodium_mg": 4400.0,
+    "vitamin_c_mg": 35.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 330.0,
+    "iodine_ug": 90.0
+  }
+}
