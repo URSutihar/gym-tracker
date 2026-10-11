@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "notes": "Xiaomi scan at 8:57 AM: 73.0 kg. Compared with Oct 5: weight +0.2 kg, body-fat percentage -0.1 points (19.7% to 19.6%), fat mass unchanged at 14.3 kg, muscle mass +0.2 kg (55.4 to 55.6), skeletal muscle +0.6 kg (29.5 to 30.1), and body-water percentage +0.9 points (55.8% to 56.7%). The larger water and lean-mass shift makes this normal BIA hydration/glycogen noise, not 0.6 kg tissue gain. Activity: 818 move kcal, 52 exercise min, 14 stand hrs, 13,811 steps, 9.21 km and 13 flights; all rings closed. Sleep: 10h50m across fragmented overnight sleep plus a late-afternoon block; displayed seven-day average 6h56m. No gym workout supplied. Restaurant meals estimated; steak-enchilada nutrition, sauces, and chicken-cheese-bake-rice portion create combined uncertainty about +/-350 kcal.",
+  "notes": "Xiaomi scan at 8:57 AM: 73.0 kg. Compared with Oct 5: weight +0.2 kg, body-fat percentage -0.1 points (19.7% to 19.6%), fat mass unchanged at 14.3 kg, muscle mass +0.2 kg (55.4 to 55.6), skeletal muscle +0.6 kg (29.5 to 30.1), and body-water percentage +0.9 points (55.8% to 56.7%). The larger water and lean-mass shift makes this normal BIA hydration/glycogen noise, not 0.6 kg tissue gain. Activity: 818 move kcal, 52 exercise min, 14 stand hrs, 13,811 steps, 9.21 km and 13 flights; all rings closed. Sleep: 10h50m across fragmented overnight sleep plus a late-afternoon block; displayed seven-day average 6h56m. No gym workout supplied. Added confirmed 200g sugarcane juice snack. Restaurant meals estimated; steak-enchilada nutrition, sauces, chicken-cheese-bake-rice portion and juice create combined uncertainty about +/-400 kcal.",
   "body_metrics": {
     "weight_kg": 73.0,
     "bmi": 23.3,
@@ -51,6 +51,28 @@
       ]
     },
     {
+      "meal_type": "snacks",
+      "description": "Fresh sugarcane juice, 200g",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 37.5,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Sugarcane juice",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 150.0,
+          "protein_g": 0.0,
+          "carbs_g": 37.5,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
       "meal_type": "dinner",
       "description": "Guzman y Gomez spicy steak enchilada, regular fries, onions, cilantro, jalapeno and sauces",
       "calories": 1650.0,
@@ -95,12 +117,12 @@
   ],
   "micros": {
     "calcium_mg": 620.0,
-    "iron_mg": 13.0,
+    "iron_mg": 13.2,
     "zinc_mg": 15.0,
     "b12_ug": 6.0,
-    "potassium_mg": 2700.0,
+    "potassium_mg": 2800.0,
     "sodium_mg": 4400.0,
-    "vitamin_c_mg": 35.0,
+    "vitamin_c_mg": 40.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.3,
     "magnesium_mg": 200.0,

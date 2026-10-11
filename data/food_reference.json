@@ -369,6 +369,22 @@
       "notes": "~70mg vitamin C per glass. On both Jul 20 and Aug 6 it single-handedly lifted the day from ~12mg to ~72-75mg vitamin C."
     },
     {
+      "name": "Sugarcane juice",
+      "aliases": [
+        "sugarcane juice",
+        "sugar cane juice",
+        "sugarcane"
+      ],
+      "serving": "200g",
+      "calories": 150,
+      "protein_g": 0.0,
+      "carbs_g": 37.5,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "confirmed": "2026-10-12",
+      "notes": "Estimated fresh juice, no added sugar. Amount confirmed for 2026-10-09."
+    },
+    {
       "name": "Palak paneer rice set",
       "aliases": [
         "palak paneer rice set",
