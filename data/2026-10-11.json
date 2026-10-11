@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-11",
+  "notes": "No new Xiaomi body-composition scan imported: supplied scale screenshot is timestamped Oct 10, 11:41 AM and duplicates Oct 10's scan. Activity: 509 move kcal, 54 Apple Watch exercise min, 11 stand hrs, 11,202 steps, 7.20 km and 5 flights; all rings closed. Sleep: 5h43m, fragmented late-morning sleep; below displayed seven-day average 6h45m. Separate 150-minute mixed combat/recreation session logged: Muay Thai, wrestling, catch, cricket, dodging and rolling; Apple Watch exercise minutes undercount reported activity. Chicken kimchi fried rice restaurant portion estimated; Cornetto calories user-supplied, other macros estimated. No correction made to Oct 9: sugarcane juice is not currently logged and user has not confirmed it was consumed.",
+  "sleep": {
+    "total_sleep_minutes": 343,
+    "notes": "5h43m total, fragmented late-morning sleep. Seven-day average displayed as 6h45m."
+  },
+  "activity": {
+    "move_calories": 509.0,
+    "exercise_minutes": 54,
+    "stand_hours": 11,
+    "steps": 11202,
+    "distance_km": 7.2
+  },
+  "workout": {
+    "duration_minutes": 150,
+    "notes": "Mixed 150-minute combat/recreation session: Muay Thai, wrestling, catch, cricket, dodging and rolling. Apple Watch recorded 54 exercise minutes, so watch totals undercount reported session duration.",
+    "exercises": [
+      {
+        "type": "cardio",
+        "name": "Mixed Combat Training",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 150.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk and Myprotein Essential Whey",
+      "calories": 221.0,
+      "protein_g": 25.5,
+      "carbs_g": 12.4,
+      "fat_g": 7.5,
+      "fiber_g": 0.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Myprotein Essential Whey",
+          "quantity": 25.0,
+          "unit": "g",
+          "calories": 106.0,
+          "protein_g": 16.0,
+          "carbs_g": 0.9,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "1 standard Snickers bar",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Snickers bar",
+          "quantity": 1.0,
+          "unit": "bar",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken kimchi fried rice and 2pc spicy Chicken McCrispy",
+      "calories": 1379.0,
+      "protein_g": 71.0,
+      "carbs_g": 128.0,
+      "fat_g": 66.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken kimchi fried rice (rice, chicken, kimchi, egg, oil, soy sauce)",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 690.0,
+          "protein_g": 32.0,
+          "carbs_g": 86.0,
+          "fat_g": 25.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Chicken McCrispy 2pc (spicy or original)",
+          "quantity": 1.0,
+          "unit": "2pc serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Cornetto Cookies & Cream, 102g",
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 24.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cornetto Cookies & Cream",
+          "quantity": 102.0,
+          "unit": "g",
+          "calories": 200.0,
+          "protein_g": 3.0,
+          "carbs_g": 24.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 4.5,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 4100.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 60.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 460.0,
+    "folate_ug": 230.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 380.0,
+    "iodine_ug": 100.0
+  }
+}
