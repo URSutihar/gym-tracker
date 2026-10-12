@@ -369,6 +369,21 @@
       "notes": "~70mg vitamin C per glass. On both Jul 20 and Aug 6 it single-handedly lifted the day from ~12mg to ~72-75mg vitamin C."
     },
     {
+      "name": "Cream puff",
+      "aliases": [
+        "cream puff",
+        "regular cream puff"
+      ],
+      "serving": "1 regular piece",
+      "calories": 180,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "confirmed": "2026-10-12",
+      "notes": "Regular cream puff estimate used in prior 2026-07-10 log; distinct from mini cream puffs."
+    },
+    {
       "name": "Sugarcane juice",
       "aliases": [
         "sugarcane juice",

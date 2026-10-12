@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "notes": "No Xiaomi body-composition scan supplied. Activity: 488 move kcal, 37 exercise min, 12 stand hrs, 6,217 steps, 3.96 km and 3 flights; exercise and stand rings closed, move ring 12 kcal short. Sleep: 6h37m, fragmented overnight sleep; bedtime 9:24 PM, markedly earlier than displayed average 3:42 AM. Triceps gym: 35 min, RPE 5, 11 lifting sets / 132 reps. Cable tricep pulldown and cable rod version are normalized as Tricep Pushdown; overhead and machine work remain Tricep Extension. Mala ingredient quantities, especially pork belly, chicken thigh and seasoning oil, are estimated; dinner uncertainty about +/-300 kcal.",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 488 move kcal, 37 exercise min, 12 stand hrs, 6,217 steps, 3.96 km and 3 flights; exercise and stand rings closed, move ring 12 kcal short. Sleep: 6h37m, fragmented overnight sleep; bedtime 9:24 PM, markedly earlier than displayed average 3:42 AM. Triceps gym: 35 min, RPE 5, 11 lifting sets / 132 reps. Cable tricep pulldown and cable rod version are normalized as Tricep Pushdown; overhead and machine work remain Tricep Extension. Added one regular cream puff to dinner. Mala ingredient quantities, especially pork belly, chicken thigh and seasoning oil, are estimated; dinner uncertainty about +/-350 kcal.",
   "overall_rpe": 5.0,
   "gym_minutes": 35,
   "sleep": {
@@ -137,11 +137,11 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Dry mala hotpot: instant noodle, cabbage, 2 cheese tofu, sausage, chicken thigh, pork belly, mushroom and seasoning oil",
-      "calories": 1905.0,
-      "protein_g": 95.0,
-      "carbs_g": 96.0,
-      "fat_g": 127.0,
+      "description": "Dry mala hotpot: instant noodle, cabbage, 2 cheese tofu, sausage, chicken thigh, pork belly, mushroom and seasoning oil; 1 cream puff",
+      "calories": 2085.0,
+      "protein_g": 98.0,
+      "carbs_g": 114.0,
+      "fat_g": 138.0,
       "fiber_g": 8.0,
       "is_estimated": true,
       "foods": [
@@ -224,16 +224,26 @@
           "carbs_g": 7.0,
           "fat_g": 25.0,
           "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cream puff",
+          "quantity": 1.0,
+          "unit": "regular piece",
+          "calories": 180.0,
+          "protein_g": 3.0,
+          "carbs_g": 18.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
         }
       ]
     }
   ],
   "micros": {
-    "calcium_mg": 760.0,
-    "iron_mg": 12.0,
+    "calcium_mg": 810.0,
+    "iron_mg": 12.5,
     "zinc_mg": 13.0,
     "b12_ug": 5.0,
-    "potassium_mg": 2400.0,
+    "potassium_mg": 2450.0,
     "sodium_mg": 4700.0,
     "vitamin_c_mg": 60.0,
     "vitamin_d_ug": 2.0,
