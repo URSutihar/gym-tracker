@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-13",
+  "notes": "No Xiaomi body-composition scan or workout supplied. Activity: 612 move kcal, 53 exercise min, 11 stand hrs, 10,677 steps, 6.91 km and 12 flights; all rings closed. Sleep: 5h47m, fragmented between roughly 3 AM and 10 AM; bedtime 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM. Intake contains a Chicken Sausage Muffin, a packaged Cookies & Cream cheesecake slice, one McChicken and one McChicken with cheese. The sausage-muffin macro estimate is the main uncertainty (about +/-80 kcal); no breakfast or lunch was reported.",
+  "sleep": {
+    "total_sleep_minutes": 347,
+    "notes": "5h47m total, fragmented from roughly 3 AM to 10 AM. Bedtime 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM."
+  },
+  "activity": {
+    "move_calories": 612.0,
+    "exercise_minutes": 53,
+    "stand_hours": 11,
+    "steps": 10677,
+    "distance_km": 6.91
+  },
+  "meals": [
+    {
+      "meal_type": "snacks",
+      "description": "Chicken Sausage Muffin",
+      "calories": 320.0,
+      "protein_g": 13.0,
+      "carbs_g": 32.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken Sausage Muffin",
+          "quantity": 1.0,
+          "unit": "muffin",
+          "calories": 320.0,
+          "protein_g": 13.0,
+          "carbs_g": 32.0,
+          "fat_g": 15.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "One Cookies & Cream cheesecake slice, one McChicken and one McChicken with cheese",
+      "calories": 1069.0,
+      "protein_g": 37.2,
+      "carbs_g": 106.5,
+      "fat_g": 54.9,
+      "fiber_g": 7.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "McChicken with cheese",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 441.0,
+          "protein_g": 18.0,
+          "carbs_g": 43.0,
+          "fat_g": 22.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 8.0,
+    "zinc_mg": 8.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1100.0,
+    "sodium_mg": 2700.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.15,
+    "magnesium_mg": 90.0,
+    "vitamin_k_ug": 25.0,
+    "vitamin_e_mg": 3.0,
+    "vitamin_a_ug": 250.0,
+    "folate_ug": 150.0,
+    "selenium_ug": 55.0,
+    "epa_dha_mg": 30.0,
+    "choline_mg": 160.0,
+    "iodine_ug": 50.0
+  }
+}
