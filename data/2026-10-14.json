@@ -1,6 +1,21 @@
 {
   "date": "2026-10-14",
-  "notes": "The supplied Xiaomi scale screenshot is timestamped Oct 15 at 11:15 AM, so it is not imported under Oct 14. Activity: 594 move kcal, 45 exercise min, 12 stand hrs, 11,086 steps, 7.07 km and 3 flights; all rings closed. Sleep: 7h39m, with multiple brief wake periods; bedtime was 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM. No formal workout supplied. Lunch Japanese curry chicken patty rice estimate assumes both patties were eaten and about 30% of the rice, curry and vegetables. Supper mixed-rice portions and shakshuka are unweighed; combined food uncertainty about +/-350 kcal.",
+  "notes": "Xiaomi scan at 10:22 AM: 73.4 kg. Versus Oct 12: weight +0.2 kg, body-fat percentage +0.1 points, fat mass +0.1 kg, muscle mass +0.1 kg, skeletal muscle -0.1 kg, and body-water percentage unchanged at 57.1%; these small mixed BIA changes are normal hydration/glycogen noise. Activity: 594 move kcal, 45 exercise min, 12 stand hrs, 11,086 steps, 7.07 km and 3 flights; all rings closed. Sleep: 7h39m, with multiple brief wake periods; bedtime was 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM. No formal workout supplied. Lunch Japanese curry chicken patty rice estimate assumes both patties were eaten and about 30% of the rice, curry and vegetables. Supper mixed-rice portions and shakshuka are unweighed; combined food uncertainty about +/-350 kcal.",
+  "body_metrics": {
+    "weight_kg": 73.4,
+    "bmi": 23.4,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.4,
+    "muscle_mass_kg": 55.9,
+    "skeletal_muscle_mass_kg": 30.4,
+    "body_water_pct": 57.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.3,
+    "bmr_kcal": 1644.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
   "sleep": {
     "total_sleep_minutes": 459,
     "notes": "7h39m total with several brief wake periods. Bedtime 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM."
