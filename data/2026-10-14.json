@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-14",
+  "notes": "The supplied Xiaomi scale screenshot is timestamped Oct 15 at 11:15 AM, so it is not imported under Oct 14. Activity: 594 move kcal, 45 exercise min, 12 stand hrs, 11,086 steps, 7.07 km and 3 flights; all rings closed. Sleep: 7h39m, with multiple brief wake periods; bedtime was 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM. No formal workout supplied. Lunch Japanese curry chicken patty rice estimate assumes both patties were eaten and about 30% of the rice, curry and vegetables. Supper mixed-rice portions and shakshuka are unweighed; combined food uncertainty about +/-350 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 459,
+    "notes": "7h39m total with several brief wake periods. Bedtime 2:02 AM, 1h13m earlier than the displayed usual 3:15 AM."
+  },
+  "activity": {
+    "move_calories": 594.0,
+    "exercise_minutes": 45,
+    "stand_hours": 12,
+    "steps": 11086,
+    "distance_km": 7.07
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Japanese curry chicken patty rice: two patties, with about 30% of rice, curry and vegetables eaten",
+      "calories": 550.0,
+      "protein_g": 26.0,
+      "carbs_g": 52.0,
+      "fat_g": 25.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Japanese chicken patties",
+          "quantity": 2.0,
+          "unit": "patty",
+          "calories": 400.0,
+          "protein_g": 24.0,
+          "carbs_g": 22.0,
+          "fat_g": 25.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Japanese curry rice, curry and vegetables (30% eaten)",
+          "quantity": 0.3,
+          "unit": "serving",
+          "calories": 150.0,
+          "protein_g": 2.0,
+          "carbs_g": 30.0,
+          "fat_g": 0.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Shakshuka with two eggs and bread",
+      "calories": 545.0,
+      "protein_g": 25.0,
+      "carbs_g": 58.0,
+      "fat_g": 23.0,
+      "fiber_g": 7.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Shakshuka with two eggs",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 335.0,
+          "protein_g": 17.0,
+          "carbs_g": 20.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Bread",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 210.0,
+          "protein_g": 8.0,
+          "carbs_g": 38.0,
+          "fat_g": 3.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Mixed rice: rice, three small chicken drumsticks, ladyfingers, fried egg and sauce; two Cookies & Cream cheesecake slices",
+      "calories": 1399.0,
+      "protein_g": 72.4,
+      "carbs_g": 109.0,
+      "fat_g": 76.8,
+      "fiber_g": 14.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "White rice",
+          "quantity": 200.0,
+          "unit": "g cooked",
+          "calories": 260.0,
+          "protein_g": 5.4,
+          "carbs_g": 56.0,
+          "fat_g": 0.6,
+          "fiber_g": 0.8
+        },
+        {
+          "food_name": "Small chicken drumsticks, skin-on",
+          "quantity": 3.0,
+          "unit": "piece",
+          "calories": 450.0,
+          "protein_g": 50.0,
+          "carbs_g": 0.0,
+          "fat_g": 27.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Ladyfingers (okra)",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 45.0,
+          "protein_g": 2.0,
+          "carbs_g": 10.0,
+          "fat_g": 0.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Fried egg",
+          "quantity": 1.0,
+          "unit": "egg",
+          "calories": 120.0,
+          "protein_g": 7.0,
+          "carbs_g": 1.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mixed-rice sauce",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 50.0,
+          "protein_g": 0.0,
+          "carbs_g": 9.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 2.0,
+          "unit": "slice",
+          "calories": 474.0,
+          "protein_g": 8.4,
+          "carbs_g": 43.0,
+          "fat_g": 29.8,
+          "fiber_g": 10.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 620.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 2600.0,
+    "sodium_mg": 3600.0,
+    "vitamin_c_mg": 55.0,
+    "vitamin_d_ug": 2.5,
+    "omega3_g": 0.35,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 105.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 650.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 75.0,
+    "choline_mg": 500.0,
+    "iodine_ug": 115.0
+  }
+}
