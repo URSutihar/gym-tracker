@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-17",
+  "notes": "No Xiaomi body-composition scan or formal workout supplied. Activity: 560 move kcal, 51 exercise min, 7 stand hrs, 15,906 steps, 10.24 km and no flights; Move and Exercise rings closed, Stand ring open. Sleep: 11h12m total across a fragmented overnight/morning block and a later afternoon block; the monthly displayed average is 7h08m. Meals are unweighed restaurant/fast-food estimates. The NY s'mores cookie and chilli-chicken oil/sauce are the largest uncertainty; combined food uncertainty about +/-300 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 672,
+    "notes": "11h12m total across a fragmented overnight/morning block and a later afternoon block. Monthly displayed average is 7h08m."
+  },
+  "activity": {
+    "move_calories": 560.0,
+    "exercise_minutes": 51,
+    "stand_hours": 7,
+    "steps": 15906,
+    "distance_km": 10.24
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "New York-style s'mores cookie",
+      "calories": 470.0,
+      "protein_g": 6.0,
+      "carbs_g": 60.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "NY-style s'mores cookie",
+          "quantity": 1.0,
+          "unit": "large cookie",
+          "calories": 470.0,
+          "protein_g": 6.0,
+          "carbs_g": 60.0,
+          "fat_g": 23.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "One cheese naan and chilli chicken, four pieces",
+      "calories": 830.0,
+      "protein_g": 45.0,
+      "carbs_g": 65.0,
+      "fat_g": 43.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cheese naan",
+          "quantity": 1.0,
+          "unit": "naan",
+          "calories": 350.0,
+          "protein_g": 10.0,
+          "carbs_g": 45.0,
+          "fat_g": 14.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Chilli chicken",
+          "quantity": 4.0,
+          "unit": "piece",
+          "calories": 480.0,
+          "protein_g": 35.0,
+          "carbs_g": 20.0,
+          "fat_g": 29.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McChicken and six spicy Chicken McNuggets",
+      "calories": 664.0,
+      "protein_g": 31.0,
+      "carbs_g": 57.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Spicy Chicken McNuggets",
+          "quantity": 6.0,
+          "unit": "piece",
+          "calories": 273.0,
+          "protein_g": 16.0,
+          "carbs_g": 15.0,
+          "fat_g": 16.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 520.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 3900.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 140.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 380.0,
+    "folate_ug": 180.0,
+    "selenium_ug": 80.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 270.0,
+    "iodine_ug": 70.0
+  }
+}
