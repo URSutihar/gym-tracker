@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-16",
+  "notes": "Xiaomi scan at 9:08 AM: 73.1 kg. Compared with the last logged scan on Oct 14: weight -0.3 kg, body-fat percentage unchanged at 19.6%, fat mass -0.1 kg, muscle mass -0.2 kg, skeletal muscle -0.3 kg, and body-water percentage -0.5 points. The concurrent lower water and lean readings are BIA hydration/glycogen noise, not rapid tissue loss. Activity: 633 move kcal, 18 exercise min, 15 stand hrs, 10,441 steps, 6.85 km and 8 flights; move and stand rings closed, exercise ring open. Sleep: 4h24m, fragmented from roughly 3 AM to 8 AM; bedtime 1:01 AM, 2h03m earlier than the displayed usual 3:03 AM. No formal workout supplied. Chicken quesadilla portion is based on a prior 440g restaurant serving; combined food uncertainty about +/-220 kcal. No breakfast was reported.",
+  "body_metrics": {
+    "weight_kg": 73.1,
+    "bmi": 23.3,
+    "body_fat_pct": 19.6,
+    "fat_mass_kg": 14.3,
+    "muscle_mass_kg": 55.7,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 56.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.6,
+    "bmr_kcal": 1640.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 264,
+    "notes": "4h24m total, fragmented between roughly 3 AM and 8 AM. Bedtime 1:01 AM, 2h03m earlier than the displayed usual 3:03 AM."
+  },
+  "activity": {
+    "move_calories": 633.0,
+    "exercise_minutes": 18,
+    "stand_hours": 15,
+    "steps": 10441,
+    "distance_km": 6.85
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken quesadilla and one jalapeno popper",
+      "calories": 875.0,
+      "protein_g": 49.8,
+      "carbs_g": 68.0,
+      "fat_g": 47.4,
+      "fiber_g": 7.2,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken quesadilla",
+          "quantity": 1.0,
+          "unit": "restaurant serving",
+          "calories": 795.0,
+          "protein_g": 45.8,
+          "carbs_g": 60.0,
+          "fat_g": 42.4,
+          "fiber_g": 6.2
+        },
+        {
+          "food_name": "Jalapeno popper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 80.0,
+          "protein_g": 4.0,
+          "carbs_g": 8.0,
+          "fat_g": 5.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 720.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 4.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 3500.0,
+    "vitamin_c_mg": 35.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.25,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 65.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 480.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 95.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 350.0,
+    "iodine_ug": 85.0
+  }
+}
