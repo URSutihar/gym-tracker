@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-19",
+  "notes": "No Xiaomi body-composition scan or formal workout supplied. Activity: 621 move kcal, 35 exercise min, 17 stand hrs, 13,974 steps, 9.60 km and 11 flights; all rings closed. Sleep: 4h35m, fragmented between about 5 AM and 10 AM; bedtime 1:11 AM, 1h49m earlier than the displayed usual 2:59 AM, but duration remained short. Chicken cheese-baked rice uses the prior restaurant estimate; paneer chowmein and spicy chicken puff are unweighed estimates. Combined food uncertainty about +/-300 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 275,
+    "notes": "4h35m total, fragmented between about 5 AM and 10 AM. Bedtime 1:11 AM, 1h49m earlier than the displayed usual 2:59 AM."
+  },
+  "activity": {
+    "move_calories": 621.0,
+    "exercise_minutes": 35,
+    "stand_hours": 17,
+    "steps": 13974,
+    "distance_km": 9.6
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken cheese-baked rice",
+      "calories": 850.0,
+      "protein_g": 45.0,
+      "carbs_g": 93.0,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken cheese-baked rice",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 850.0,
+          "protein_g": 45.0,
+          "carbs_g": 93.0,
+          "fat_g": 32.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "One Snickers bar and 200g fresh sugarcane juice",
+      "calories": 400.0,
+      "protein_g": 4.0,
+      "carbs_g": 70.5,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Snickers bar",
+          "quantity": 1.0,
+          "unit": "bar",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sugarcane juice",
+          "quantity": 200.0,
+          "unit": "g",
+          "calories": 150.0,
+          "protein_g": 0.0,
+          "carbs_g": 37.5,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Indian paneer chowmein",
+      "calories": 700.0,
+      "protein_g": 25.0,
+      "carbs_g": 90.0,
+      "fat_g": 25.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Indian paneer chowmein",
+          "quantity": 1.0,
+          "unit": "restaurant serving",
+          "calories": 700.0,
+          "protein_g": 25.0,
+          "carbs_g": 90.0,
+          "fat_g": 25.0,
+          "fiber_g": 5.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Spicy chicken puff",
+      "calories": 270.0,
+      "protein_g": 11.0,
+      "carbs_g": 25.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Spicy chicken puff",
+          "quantity": 1.0,
+          "unit": "puff",
+          "calories": 270.0,
+          "protein_g": 11.0,
+          "carbs_g": 25.0,
+          "fat_g": 14.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 420.0,
+    "folate_ug": 230.0,
+    "selenium_ug": 85.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 280.0,
+    "iodine_ug": 80.0
+  }
+}
