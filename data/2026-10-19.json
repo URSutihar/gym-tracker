@@ -1,6 +1,8 @@
 {
   "date": "2026-10-19",
-  "notes": "No Xiaomi body-composition scan or formal workout supplied. Activity: 621 move kcal, 35 exercise min, 17 stand hrs, 13,974 steps, 9.60 km and 11 flights; all rings closed. Sleep: 4h35m, fragmented between about 5 AM and 10 AM; bedtime 1:11 AM, 1h49m earlier than the displayed usual 2:59 AM, but duration remained short. Chicken cheese-baked rice uses the prior restaurant estimate; paneer chowmein and spicy chicken puff are unweighed estimates. Combined food uncertainty about +/-300 kcal.",
+  "notes": "No Xiaomi body-composition scan supplied. Activity: 621 move kcal, 35 exercise min, 17 stand hrs, 13,974 steps, 9.60 km and 11 flights; all rings closed. Sleep: 4h35m, fragmented between about 5 AM and 10 AM; bedtime 1:11 AM, 1h49m earlier than the displayed usual 2:59 AM, but duration remained short. Core gym: 30 min, RPE 3.5, 6 lifting sets, 68 reps and 3,080 kg volume. Separate 90-minute Muay Thai session logged; Apple Watch exercise minutes undercount the reported 120 minutes of training. Chicken cheese-baked rice uses the prior restaurant estimate; paneer chowmein and spicy chicken puff are unweighed estimates. Combined food uncertainty about +/-300 kcal.",
+  "overall_rpe": 3.5,
+  "gym_minutes": 30,
   "sleep": {
     "total_sleep_minutes": 275,
     "notes": "4h35m total, fragmented between about 5 AM and 10 AM. Bedtime 1:11 AM, 1h49m earlier than the displayed usual 2:59 AM."
@@ -11,6 +13,81 @@
     "stand_hours": 17,
     "steps": 13974,
     "distance_km": 9.6
+  },
+  "workout": {
+    "duration_minutes": 120,
+    "notes": "30-minute core gym session at RPE 3.5, plus 90 minutes Muay Thai. Apple Watch recorded 35 exercise minutes, so watch totals undercount reported training duration.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 50.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 73.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Criss-Cross Cable Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "cardio",
+        "name": "Muay Thai",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 90.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
   },
   "meals": [
     {
