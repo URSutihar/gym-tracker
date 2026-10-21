@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "notes": "Xiaomi scan at 8:49 AM: 73.4 kg. Versus Oct 18: weight +1.1 kg, body-fat percentage +0.5 points, fat mass +0.6 kg, muscle mass +0.5 kg, skeletal muscle +0.4 kg, and body-water percentage -0.2 points (water mass +0.5 kg). These opposing short-interval BIA changes are hydration/glycogen and measurement variation, not simultaneous tissue gain. The scan reflects Oct 19: 2,220 kcal against a 2,088 kcal empirical TDEE (about 132 kcal logged surplus), 621 move kcal and only 4h35m sleep; that cannot account for 1.1 kg of fat gain. Sleep: 6h39m, roughly 1 AM-8 AM with multiple brief wakes, versus displayed 7-day average 6h50m. Activity: 869 move kcal, 81 exercise min, 14 stand hrs, 18,323 steps, 12.73 km and 11 flights; all rings closed. No separate gym workout supplied. Chicken rice uses the standard template; Korean hotplate reuses the prior full-plate restaurant template. Cloud cake portion, grain chips and kaju barfi are estimated; combined food uncertainty about +/-180 kcal.",
+  "notes": "Xiaomi scan at 8:49 AM: 73.4 kg. Versus Oct 18: weight +1.1 kg, body-fat percentage +0.5 points, fat mass +0.6 kg, muscle mass +0.5 kg, skeletal muscle +0.4 kg, and body-water percentage -0.2 points (water mass +0.5 kg). These opposing short-interval BIA changes are hydration/glycogen and measurement variation, not simultaneous tissue gain. The scan reflects Oct 19: 2,220 kcal against a 2,088 kcal empirical TDEE (about 132 kcal logged surplus), 621 move kcal and only 4h35m sleep; that cannot account for 1.1 kg of fat gain. Sleep: 6h39m, roughly 1 AM-8 AM with multiple brief wakes, versus displayed 7-day average 6h50m. Activity: 869 move kcal, 81 exercise min, 14 stand hrs, 18,323 steps, 12.73 km and 11 flights; all rings closed. No separate gym workout supplied. Chicken rice uses the standard template; Korean hotplate reuses the prior full-plate restaurant template. Cloud cake portion, grain chips, kaju barfi and Magnum White Chocolate & Cookies bar are estimated; combined food uncertainty about +/-210 kcal.",
   "body_metrics": {
     "weight_kg": 73.4,
     "bmi": 23.4,
@@ -52,11 +52,11 @@
     },
     {
       "meal_type": "snacks",
-      "description": "About 2/3 cloud cake, grain chips (70 kcal pack), and 1 kaju barfi",
-      "calories": 400.0,
-      "protein_g": 7.0,
-      "carbs_g": 52.0,
-      "fat_g": 19.0,
+      "description": "About 2/3 cloud cake, grain chips (70 kcal pack), 1 kaju barfi, and Magnum White Chocolate & Cookies ice-cream bar",
+      "calories": 660.0,
+      "protein_g": 11.0,
+      "carbs_g": 77.0,
+      "fat_g": 35.0,
       "fiber_g": 2.0,
       "is_estimated": true,
       "foods": [
@@ -89,6 +89,16 @@
           "carbs_g": 15.0,
           "fat_g": 7.0,
           "fiber_g": 0.5
+        },
+        {
+          "food_name": "Magnum White Chocolate & Cookies ice-cream bar",
+          "quantity": 1.0,
+          "unit": "bar",
+          "calories": 260.0,
+          "protein_g": 4.0,
+          "carbs_g": 25.0,
+          "fat_g": 16.0,
+          "fiber_g": 0.0
         }
       ]
     },
@@ -146,15 +156,15 @@
     }
   ],
   "micros": {
-    "calcium_mg": 500.0,
+    "calcium_mg": 600.0,
     "iron_mg": 8.0,
     "zinc_mg": 9.0,
-    "b12_ug": 2.5,
-    "potassium_mg": 1750.0,
-    "sodium_mg": 3150.0,
+    "b12_ug": 2.9,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 3230.0,
     "vitamin_c_mg": 35.0,
     "vitamin_d_ug": 1.5,
     "omega3_g": 0.25,
-    "magnesium_mg": 145.0
+    "magnesium_mg": 160.0
   }
 }
