@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-22",
+  "notes": "No Xiaomi body-composition scan supplied; trend weight carried from Oct 21. Sleep: 7h05m, fragmented morning sleep from roughly 5 AM to 9:30 AM plus an afternoon block around 3:30-6:30 PM; displayed seven-day average 6h52m. Activity: 723 move kcal, 39 exercise min, 15 stand hrs, 17,204 steps, 11.27 km and 3 flights; all rings closed. No separate gym workout supplied. Breakfast was three 30g slices (90g) of milk cloud cake; this is 1.5 times the two-slice / 60g portion logged on Oct 20. Coffee cans use their label (89 kcal per 240ml can); espresso is logged at 2 kcal. Dabba grilled-chicken Birriyarito bowl is an unweighed restaurant estimate using the reported lettuce/onion base, garlic sauce and chaat-potato filling. Combined food uncertainty about +/-180 kcal. Two canned coffees plus espresso were late-night; their caffeine timing may affect the following night's sleep, rather than the Oct 22 sleep shown here.",
+  "sleep": {
+    "total_sleep_minutes": 425,
+    "notes": "7h05m total. Chart shows fragmented morning sleep from roughly 5 AM to 9:30 AM, plus an afternoon block around 3:30-6:30 PM; displayed seven-day average was 6h52m."
+  },
+  "activity": {
+    "move_calories": 723.0,
+    "exercise_minutes": 39,
+    "stand_hours": 15,
+    "steps": 17204,
+    "distance_km": 11.27
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Milk cloud cake, 3 slices (30g each; 90g total)",
+      "calories": 300.0,
+      "protein_g": 4.5,
+      "carbs_g": 40.5,
+      "fat_g": 13.5,
+      "fiber_g": 0.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Milk cloud cake",
+          "quantity": 90.0,
+          "unit": "g (3 slices)",
+          "calories": 300.0,
+          "protein_g": 4.5,
+          "carbs_g": 40.5,
+          "fat_g": 13.5,
+          "fiber_g": 0.8
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken McCrispy Spicy, 2 pieces",
+      "calories": 689.0,
+      "protein_g": 39.0,
+      "carbs_g": 42.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy 2pc (spicy or original)",
+          "quantity": 1.0,
+          "unit": "2 pieces",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Dabba Bowl: grilled chicken Birriyarito with lettuce and onion base, garlic sauce and chaat-potato filling",
+      "calories": 800.0,
+      "protein_g": 45.0,
+      "carbs_g": 80.0,
+      "fat_g": 30.0,
+      "fiber_g": 7.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Grilled chicken Birriyarito filling",
+          "quantity": 150.0,
+          "unit": "g cooked chicken estimate",
+          "calories": 260.0,
+          "protein_g": 38.0,
+          "carbs_g": 3.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chaat-potato filling",
+          "quantity": 180.0,
+          "unit": "g estimate",
+          "calories": 270.0,
+          "protein_g": 5.0,
+          "carbs_g": 50.0,
+          "fat_g": 5.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Biryani-style rice and wrap components",
+          "quantity": 1.0,
+          "unit": "serving estimate",
+          "calories": 140.0,
+          "protein_g": 2.0,
+          "carbs_g": 25.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Garlic sauce",
+          "quantity": 30.0,
+          "unit": "g estimate",
+          "calories": 110.0,
+          "protein_g": 0.0,
+          "carbs_g": 2.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Lettuce and onions",
+          "quantity": 100.0,
+          "unit": "g estimate",
+          "calories": 20.0,
+          "protein_g": 0.0,
+          "carbs_g": 0.0,
+          "fat_g": 1.0,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "late_night_snack",
+      "description": "Two 240ml canned coffees (label) and one espresso",
+      "calories": 180.0,
+      "protein_g": 5.0,
+      "carbs_g": 22.2,
+      "fat_g": 3.8,
+      "fiber_g": 1.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Canned coffee",
+          "quantity": 2.0,
+          "unit": "240ml can",
+          "calories": 178.0,
+          "protein_g": 4.8,
+          "carbs_g": 22.2,
+          "fat_g": 3.8,
+          "fiber_g": 1.6
+        },
+        {
+          "food_name": "Espresso",
+          "quantity": 1.0,
+          "unit": "shot",
+          "calories": 2.0,
+          "protein_g": 0.2,
+          "carbs_g": 0.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 390.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 1650.0,
+    "sodium_mg": 3300.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 135.0,
+    "vitamin_k_ug": 75.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 190.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 20.0,
+    "choline_mg": 280.0,
+    "iodine_ug": 65.0
+  }
+}
