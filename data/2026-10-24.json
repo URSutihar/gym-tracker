@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "notes": "Xiaomi scan at 13:19: 72.1 kg, BMI 23.0, 19.1% body fat, 13.8 kg fat mass, 55.2 kg muscle mass, 29.7 kg skeletal muscle, 56.9% body water, 40.9 kg body-water mass, 13.6 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 21: weight -0.6 kg, fat mass -0.2 kg, muscle mass -0.4 kg, skeletal muscle -0.2 kg and water mass -0.4 kg; this is BIA/hydration and glycogen noise, not resolvable tissue change, particularly after Oct 23's explicitly recorded zero sleep, potentially incomplete 1,137 kcal intake, and very high activity. Sleep was user-corrected from the displayed 10h22m by adding 2h31m = 12h53m. The chart shows split sleep with an overnight block, a long late-morning/afternoon block and a later short block; displayed bedtime was 5:59 PM versus a 2:58 AM average. Activity: 579 move kcal, 36 exercise min, 9 stand hrs, 10,537 steps, 6.76 km and 58 flights. Move and exercise goals were closed; stand finished one hour short. No structured workout was supplied. Masala dosa and tandoori chicken are unweighed restaurant estimates; combined uncertainty is about +/-150 kcal. McChicken and cheesecake use established references.",
+  "notes": "Xiaomi scan at 13:19: 72.1 kg, BMI 23.0, 19.1% body fat, 13.8 kg fat mass, 55.2 kg muscle mass, 29.7 kg skeletal muscle, 56.9% body water, 40.9 kg body-water mass, 13.6 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 21: weight -0.6 kg, fat mass -0.2 kg, muscle mass -0.4 kg, skeletal muscle -0.2 kg and water mass -0.4 kg; this is BIA/hydration and glycogen noise, not resolvable tissue change, particularly after Oct 23's explicitly recorded zero sleep, potentially incomplete 1,137 kcal intake, and very high activity. Sleep was user-corrected from the displayed 10h22m by adding 2h31m = 12h53m. The chart shows split sleep with an overnight block, a long late-morning/afternoon block and a later short block; displayed bedtime was 5:59 PM versus a 2:58 AM average. Activity: 579 move kcal, 36 exercise min, 9 stand hrs, 10,537 steps, 6.76 km and 58 flights. Move and exercise goals were closed; stand finished one hour short. No structured workout was supplied. Masala dosa and tandoori chicken are unweighed restaurant estimates; user clarified the combined boneless cooked tandoori portion was 120g, replacing the prior two-leg-quarter assumption. Combined food uncertainty is about +/-150 kcal. McChicken and cheesecake use established references.",
   "body_metrics": {
     "weight_kg": 72.1,
     "bmi": 23.0,
@@ -104,22 +104,22 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Tandoori chicken, 2 pieces",
-      "calories": 340.0,
-      "protein_g": 50.0,
-      "carbs_g": 2.0,
-      "fat_g": 14.0,
+      "description": "Tandoori chicken, 2 pieces (120g boneless cooked combined)",
+      "calories": 200.0,
+      "protein_g": 28.0,
+      "carbs_g": 1.2,
+      "fat_g": 9.6,
       "fiber_g": 0.0,
       "is_estimated": true,
       "foods": [
         {
           "food_name": "Tandoori chicken",
-          "quantity": 2.0,
-          "unit": "leg quarter",
-          "calories": 340.0,
-          "protein_g": 50.0,
-          "carbs_g": 2.0,
-          "fat_g": 14.0,
+          "quantity": 120.0,
+          "unit": "g boneless cooked",
+          "calories": 200.0,
+          "protein_g": 28.0,
+          "carbs_g": 1.2,
+          "fat_g": 9.6,
           "fiber_g": 0.0
         }
       ]
@@ -149,11 +149,11 @@
   ],
   "micros": {
     "calcium_mg": 460.0,
-    "iron_mg": 10.0,
-    "zinc_mg": 13.0,
-    "b12_ug": 4.0,
-    "potassium_mg": 1900.0,
-    "sodium_mg": 3500.0,
+    "iron_mg": 9.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 3.3,
+    "potassium_mg": 1770.0,
+    "sodium_mg": 3300.0,
     "vitamin_c_mg": 20.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.2,
@@ -162,9 +162,9 @@
     "vitamin_e_mg": 5.0,
     "vitamin_a_ug": 320.0,
     "folate_ug": 200.0,
-    "selenium_ug": 120.0,
+    "selenium_ug": 105.0,
     "epa_dha_mg": 30.0,
-    "choline_mg": 330.0,
+    "choline_mg": 280.0,
     "iodine_ug": 75.0
   }
 }

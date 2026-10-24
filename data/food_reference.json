@@ -125,6 +125,20 @@
       "notes": "Derived from the settled '300g drumstick + tandoori + 4 boiled eggs + 10g psyllium = 635' composite minus 4 boiled eggs (~310 / 25 / 2 / 21 / 0) and psyllium. Scale by raw weight."
     },
     {
+      "name": "Restaurant tandoori chicken, boneless cooked",
+      "aliases": [
+        "tandoori chicken 120g boneless cooked"
+      ],
+      "serving": "120g boneless cooked",
+      "calories": 200,
+      "protein_g": 28.0,
+      "carbs_g": 1.2,
+      "fat_g": 9.6,
+      "fiber_g": 0.0,
+      "confirmed": "2026-10-25",
+      "notes": "Portion basis supplied by user for two restaurant pieces; conservative estimate, not a package label. Scale linearly when the cooked boneless weight is known."
+    },
+    {
       "name": "Boiled egg",
       "aliases": [
         "boiled eggs",
