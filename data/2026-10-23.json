@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-23",
+  "notes": "No Xiaomi body-composition scan supplied; trend weight carried from Oct 22. Sleep was explicitly reported as 0 minutes. Activity was exceptionally high: 910 move kcal, 19 exercise min, 21 stand hrs, 22,564 steps, 14.32 km and 3 flights. Move and stand goals were closed; exercise was 19/30 minutes. No structured workout was supplied. Dinner uses the established Chicken Sotti/Satti Sorru claypot-rice template; one Cookies & Cream cheesecake slice uses the confirmed 70g package label. Only dinner and cheesecake were reported, so the 1,137 kcal intake is potentially incomplete and should not be interpreted as a deliberate large deficit without confirming all food/drinks. Claypot rice remains an unweighed restaurant estimate (+/-150 kcal).",
+  "sleep": {
+    "total_sleep_minutes": 0,
+    "notes": "Explicitly reported by user as 0 minutes of sleep."
+  },
+  "activity": {
+    "move_calories": 910.0,
+    "exercise_minutes": 19,
+    "stand_hours": 21,
+    "steps": 22564,
+    "distance_km": 14.32
+  },
+  "meals": [
+    {
+      "meal_type": "dinner",
+      "description": "Chicken Satti Sorru claypot rice with raita and 1 papad",
+      "calories": 900.0,
+      "protein_g": 45.0,
+      "carbs_g": 105.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken claypot flavoured rice",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 790.0,
+          "protein_g": 42.0,
+          "carbs_g": 98.0,
+          "fat_g": 25.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 1.0,
+          "unit": "small serving",
+          "calories": 60.0,
+          "protein_g": 2.0,
+          "carbs_g": 5.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Papad",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Cookies & Cream cheesecake, 70g slice",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 1.0,
+          "unit": "70g slice",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 320.0,
+    "iron_mg": 8.0,
+    "zinc_mg": 9.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1250.0,
+    "sodium_mg": 2600.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 110.0,
+    "vitamin_k_ug": 25.0,
+    "vitamin_e_mg": 4.0,
+    "vitamin_a_ug": 250.0,
+    "folate_ug": 170.0,
+    "selenium_ug": 75.0,
+    "epa_dha_mg": 20.0,
+    "choline_mg": 230.0,
+    "iodine_ug": 65.0
+  }
+}
