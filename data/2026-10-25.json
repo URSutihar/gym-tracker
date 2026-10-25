@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "notes": "Activity screenshot was named in the submission but was unavailable at its supplied local path, so no activity values are recorded rather than inferred. Xiaomi scan at 12:46: 72.4 kg, BMI 23.1, 19.2% body fat, 13.9 kg fat mass, 55.4 kg muscle mass, 30.0 kg skeletal muscle, 57.0% body water, 41.3 kg body-water mass, 13.5 kg protein mass, BMR 1,634 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 24: weight +0.3 kg, fat mass +0.1 kg, muscle mass +0.2 kg, skeletal muscle +0.3 kg and water mass +0.4 kg; this is BIA hydration/glycogen variation, not a one-day tissue change. Sleep was user-corrected from 10h26m by subtracting 2h32m = 7h54m; chart shows split evening/overnight and afternoon sleep blocks, with a displayed seven-day average of 7h33m. No structured workout was supplied. Milk amount was not stated, so breakfast uses an estimated 250ml glass of whole milk. Kiwi package gives per-100g nutrition but no net edible weight; two fruit are estimated as 150g edible. Mala dry, cheesecake macros beyond the supplied calories/protein, and dinner are restaurant/unlabelled estimates. Dinner uses 150g cooked rice (75% of the stated 200g) and a conservative 200g served chilli-chicken/broad-bean dish because most of the served weight was chilli, only about 20% of which was eaten. Combined food uncertainty is about +/-220 kcal.",
+  "notes": "Activity: 688 move kcal, 53 exercise min, 14 stand hrs, 16,911 steps, 11.25 km and 23 flights; all rings closed. Xiaomi scan at 12:46: 72.4 kg, BMI 23.1, 19.2% body fat, 13.9 kg fat mass, 55.4 kg muscle mass, 30.0 kg skeletal muscle, 57.0% body water, 41.3 kg body-water mass, 13.5 kg protein mass, BMR 1,634 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 24: weight +0.3 kg, fat mass +0.1 kg, muscle mass +0.2 kg, skeletal muscle +0.3 kg and water mass +0.4 kg; this is BIA hydration/glycogen variation, not a one-day tissue change. Sleep was user-corrected from 10h26m by subtracting 2h32m = 7h54m; chart shows split evening/overnight and afternoon sleep blocks, with a displayed seven-day average of 7h33m. No structured workout was supplied. Milk amount was not stated, so breakfast uses an estimated 250ml glass of whole milk. Kiwi package gives per-100g nutrition but no net edible weight; two fruit are estimated as 150g edible. Mala dry, cheesecake macros beyond the supplied calories/protein, and dinner are restaurant/unlabelled estimates. Dinner uses 150g cooked rice (75% of the stated 200g) and a conservative 200g served chilli-chicken/broad-bean dish because most of the served weight was chilli, only about 20% of which was eaten. Combined food uncertainty is about +/-220 kcal.",
   "body_metrics": {
     "weight_kg": 72.4,
     "bmi": 23.1,
@@ -19,6 +19,13 @@
   "sleep": {
     "total_sleep_minutes": 474,
     "notes": "User correction: displayed 10h26m minus 2h32m = 7h54m. Chart shows split evening/overnight and afternoon sleep blocks; displayed seven-day average 7h33m."
+  },
+  "activity": {
+    "move_calories": 688.0,
+    "exercise_minutes": 53,
+    "stand_hours": 14,
+    "steps": 16911,
+    "distance_km": 11.25
   },
   "meals": [
     {
