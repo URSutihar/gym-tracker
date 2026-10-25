@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-25",
+  "notes": "Activity screenshot was named in the submission but was unavailable at its supplied local path, so no activity values are recorded rather than inferred. Xiaomi scan at 12:46: 72.4 kg, BMI 23.1, 19.2% body fat, 13.9 kg fat mass, 55.4 kg muscle mass, 30.0 kg skeletal muscle, 57.0% body water, 41.3 kg body-water mass, 13.5 kg protein mass, BMR 1,634 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 24: weight +0.3 kg, fat mass +0.1 kg, muscle mass +0.2 kg, skeletal muscle +0.3 kg and water mass +0.4 kg; this is BIA hydration/glycogen variation, not a one-day tissue change. Sleep was user-corrected from 10h26m by subtracting 2h32m = 7h54m; chart shows split evening/overnight and afternoon sleep blocks, with a displayed seven-day average of 7h33m. No structured workout was supplied. Milk amount was not stated, so breakfast uses an estimated 250ml glass of whole milk. Kiwi package gives per-100g nutrition but no net edible weight; two fruit are estimated as 150g edible. Mala dry, cheesecake macros beyond the supplied calories/protein, and dinner are restaurant/unlabelled estimates. Dinner uses 150g cooked rice (75% of the stated 200g) and a conservative 200g served chilli-chicken/broad-bean dish because most of the served weight was chilli, only about 20% of which was eaten. Combined food uncertainty is about +/-220 kcal.",
+  "body_metrics": {
+    "weight_kg": 72.4,
+    "bmi": 23.1,
+    "body_fat_pct": 19.2,
+    "fat_mass_kg": 13.9,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 30.0,
+    "body_water_pct": 57.0,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.5,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 474,
+    "notes": "User correction: displayed 10h26m minus 2h32m = 7h54m. Chart shows split evening/overnight and afternoon sleep blocks; displayed seven-day average 7h33m."
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Want Want milk pudding, two Zespri SunGold kiwifruit, and milk",
+      "calories": 348.5,
+      "protein_g": 11.9,
+      "carbs_g": 40.7,
+      "fat_g": 14.2,
+      "fiber_g": 2.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Want Want pudding, milk flavour",
+          "quantity": 1.0,
+          "unit": "115g pot",
+          "calories": 105.0,
+          "protein_g": 2.5,
+          "carbs_g": 12.0,
+          "fat_g": 5.2,
+          "fiber_g": 0.7
+        },
+        {
+          "food_name": "Zespri SunGold kiwifruit",
+          "quantity": 150.0,
+          "unit": "g edible estimate (2 fruit)",
+          "calories": 88.5,
+          "protein_g": 1.4,
+          "carbs_g": 16.7,
+          "fat_g": 0.5,
+          "fiber_g": 1.7
+        },
+        {
+          "food_name": "Whole milk",
+          "quantity": 250.0,
+          "unit": "ml estimated glass",
+          "calories": 155.0,
+          "protein_g": 8.0,
+          "carbs_g": 12.0,
+          "fat_g": 8.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Mala dry: noodles, chicken sausage, chicken breast and thigh, cabbage, and two cheese tofu pieces",
+      "calories": 790.0,
+      "protein_g": 55.0,
+      "carbs_g": 65.0,
+      "fat_g": 34.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Noodles",
+          "quantity": 150.0,
+          "unit": "g cooked estimate",
+          "calories": 240.0,
+          "protein_g": 7.0,
+          "carbs_g": 48.0,
+          "fat_g": 2.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Chicken sausage",
+          "quantity": 1.0,
+          "unit": "piece estimate",
+          "calories": 140.0,
+          "protein_g": 7.0,
+          "carbs_g": 4.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken breast and thigh",
+          "quantity": 120.0,
+          "unit": "g cooked estimate",
+          "calories": 230.0,
+          "protein_g": 34.0,
+          "carbs_g": 0.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cabbage",
+          "quantity": 80.0,
+          "unit": "g estimate",
+          "calories": 20.0,
+          "protein_g": 1.0,
+          "carbs_g": 4.0,
+          "fat_g": 0.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Cheese tofu",
+          "quantity": 2.0,
+          "unit": "piece estimate",
+          "calories": 120.0,
+          "protein_g": 6.0,
+          "carbs_g": 4.0,
+          "fat_g": 8.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Mala sauce and cooking oil",
+          "quantity": 1.0,
+          "unit": "serving estimate",
+          "calories": 40.0,
+          "protein_g": 0.0,
+          "carbs_g": 5.0,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Half-baked cheesecake, half portion",
+      "calories": 190.0,
+      "protein_g": 4.2,
+      "carbs_g": 18.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Half-baked cheesecake",
+          "quantity": 0.5,
+          "unit": "portion",
+          "calories": 190.0,
+          "protein_g": 4.2,
+          "carbs_g": 18.0,
+          "fat_g": 11.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Dried-chilli spicy chicken with broad beans (200g served; all chicken and beans, about 20% of chillies) and 150g cooked rice",
+      "calories": 385.0,
+      "protein_g": 21.0,
+      "carbs_g": 48.0,
+      "fat_g": 11.4,
+      "fiber_g": 2.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Dried-chilli chicken and broad beans, consumed solids",
+          "quantity": 1.0,
+          "unit": "portion from 200g served dish",
+          "calories": 190.0,
+          "protein_g": 17.0,
+          "carbs_g": 6.0,
+          "fat_g": 11.0,
+          "fiber_g": 2.7
+        },
+        {
+          "food_name": "Cooked white rice",
+          "quantity": 150.0,
+          "unit": "g (75% of 200g)",
+          "calories": 195.0,
+          "protein_g": 4.0,
+          "carbs_g": 42.0,
+          "fat_g": 0.4,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 520.0,
+    "iron_mg": 9.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 1950.0,
+    "sodium_mg": 3300.0,
+    "vitamin_c_mg": 150.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 160.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 320.0,
+    "folate_ug": 220.0,
+    "selenium_ug": 105.0,
+    "epa_dha_mg": 20.0,
+    "choline_mg": 270.0,
+    "iodine_ug": 80.0
+  }
+}
