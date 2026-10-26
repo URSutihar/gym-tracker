@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "notes": "Xiaomi scan at 15:56: 72.1 kg, BMI 23.0, 19.1% body fat, 13.8 kg fat mass, 55.2 kg muscle mass, 29.8 kg skeletal muscle, 56.9% body water, 40.9 kg body-water mass, 13.6 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 25: weight -0.3 kg, fat mass -0.1 kg, muscle mass -0.2 kg, skeletal muscle -0.2 kg and water mass -0.4 kg; this is BIA hydration/glycogen variation, not a one-day tissue change. Activity: 865 move kcal, 94 Apple Watch exercise min, 11 stand hrs, 8,658 steps, 5.61 km and 3 flights; all rings closed. Sleep: 3h51m, a late-morning to early-afternoon block, well below the displayed 7-day average of 7h05m. Gym: 80 min, RPE 9, 23 lifting sets / 270 logged reps; dumbbell weights are per hand and wrist, shrug and preacher-hammer work was per hand. Separate 60 min Muay Thai sparring recorded; watch exercise minutes are broadly consistent with the combined 140 minutes of reported training. Meiji multi-vitamin milk, Thai pink guava at 250g edible, and Omega-3 eggs use existing references. The chicken drumstick was 293g raw, skin-on and bone-in before air-frying. Its corrected estimate follows the closest prior like-for-like record: 282g raw skin-on bone-in drumstick plus 14g tandoori paste = 330 kcal / 34g protein / 2g carbs / 20g fat, scaled conservatively for 293g plus 12g paste. Mixed rice and cheesecake are unweighed estimates. Added three 30g milk-cloud-cake slices. Combined food uncertainty about +/-220 kcal.",
+  "notes": "Xiaomi scan at 15:56: 72.1 kg, BMI 23.0, 19.1% body fat, 13.8 kg fat mass, 55.2 kg muscle mass, 29.8 kg skeletal muscle, 56.9% body water, 40.9 kg body-water mass, 13.6 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 25: weight -0.3 kg, fat mass -0.1 kg, muscle mass -0.2 kg, skeletal muscle -0.2 kg and water mass -0.4 kg; this is BIA hydration/glycogen variation, not a one-day tissue change. Activity: 865 move kcal, 94 Apple Watch exercise min, 11 stand hrs, 8,658 steps, 5.61 km and 3 flights; all rings closed. Sleep: 3h51m, a late-morning to early-afternoon block, well below the displayed 7-day average of 7h05m. Gym: 80 min, RPE 9, 23 lifting sets / 270 logged reps; dumbbell weights are per hand and wrist, shrug and preacher-hammer work was per hand. Separate 60 min Muay Thai sparring recorded; watch exercise minutes are broadly consistent with the combined 140 minutes of reported training. Meiji multi-vitamin milk, Thai pink guava at 250g edible, and Omega-3 eggs use existing references. The chicken drumstick was 293g raw, skin-on and bone-in before air-frying. Its externally sourced estimate uses the user's prior measured mean edible yield of 69.9% (204.7g edible), current USDA FoodData Central Foundation values for raw drumstick meat-and-skin, and 12g generic tandoori paste. Mixed rice and cheesecake are unweighed estimates. Added three 30g milk-cloud-cake slices. Combined food uncertainty about +/-220 kcal.",
   "overall_rpe": 9.0,
   "gym_minutes": 80,
   "body_metrics": {
@@ -280,10 +280,10 @@
     {
       "meal_type": "dinner",
       "description": "Thai pink guava, air-fried skin-on bone-in chicken drumstick with tandoori paste, and two Omega-3 eggs",
-      "calories": 640.5,
-      "protein_g": 53.8,
-      "carbs_g": 35.2,
-      "fat_g": 33.1,
+      "calories": 577.8,
+      "protein_g": 56.8,
+      "carbs_g": 34.0,
+      "fat_g": 24.8,
       "fiber_g": 12.5,
       "is_estimated": true,
       "foods": [
@@ -301,10 +301,10 @@
           "food_name": "Air-fried skin-on bone-in chicken drumstick with tandoori paste",
           "quantity": 293.0,
           "unit": "g raw bone-in weight + 12g paste",
-          "calories": 340.0,
-          "protein_g": 35.0,
-          "carbs_g": 2.0,
-          "fat_g": 21.0,
+          "calories": 277.3,
+          "protein_g": 38.0,
+          "carbs_g": 0.8,
+          "fat_g": 12.7,
           "fiber_g": 0.0
         },
         {

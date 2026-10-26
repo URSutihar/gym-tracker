@@ -125,6 +125,21 @@
       "notes": "Derived from the settled '300g drumstick + tandoori + 4 boiled eggs + 10g psyllium = 635' composite minus 4 boiled eggs (~310 / 25 / 2 / 21 / 0) and psyllium. Scale by raw weight."
     },
     {
+      "name": "Skin-on bone-in chicken drumstick + tandoori paste",
+      "aliases": [
+        "skin-on drumstick tandoori",
+        "skin on bone in drumstick tandoori"
+      ],
+      "serving": "293g raw bone-in drumstick + 12g paste",
+      "calories": 277,
+      "protein_g": 38.0,
+      "carbs_g": 0.8,
+      "fat_g": 12.7,
+      "fiber_g": 0.0,
+      "confirmed": "2026-10-27",
+      "notes": "Source-based estimate: historical weighed yields were 197/282g, 155/222g and 144/206g edible (mean 69.9%). Applied to 293g raw bone-in = 204.7g edible. USDA FoodData Central Foundation chicken drumstick, meat and skin, raw (FDC 2727566): 125-130 kcal, 18.4g protein and 5.94g fat per 100g edible; plus 12g generic Patak's tandoori paste (93 kcal, 2.7g protein, 6.7g carbohydrate, 4.5g fat per 100g)."
+    },
+    {
       "name": "Restaurant tandoori chicken, boneless cooked",
       "aliases": [
         "tandoori chicken 120g boneless cooked"
