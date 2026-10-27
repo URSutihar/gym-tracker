@@ -473,6 +473,22 @@
       "fiber_g": 4.8,
       "confirmed": "2026-08-21",
       "notes": "Estimated. Spinach gravy makes this the highest vitamin K meal in the rotation (~480ug from ~100g spinach). Lower sodium than the chicken rice and Korean stall options."
+    },
+    {
+      "name": "Chicken Satti Sorru claypot rice set",
+      "aliases": [
+        "satti sorru chicken rice",
+        "chicken satti sorru",
+        "satti sorru"
+      ],
+      "serving": "1 claypot rice serving with raita and 1 papad",
+      "calories": 900,
+      "protein_g": 45.0,
+      "carbs_g": 105.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "confirmed": "2026-10-28",
+      "notes": "Established Oct 23 template: chicken claypot flavoured rice (790 kcal) plus raita (60 kcal) and one papad (50 kcal). Restaurant portion estimate."
     }
   ]
 }

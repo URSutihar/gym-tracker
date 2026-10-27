@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-27",
+  "notes": "No Xiaomi body-composition scan supplied; trend weight carried from Oct 26. Activity: 652 move kcal, 45 exercise min, 13 stand hrs, 15,379 steps, 10.01 km and 14 flights; all rings closed. Sleep: 7h07m, near the displayed 7-day average of 7h05m; sleep was late and visibly fragmented with multiple awake periods. No structured workout details supplied. Meiji multi-vitamin milk logged as 250ml (scaled from the 200ml reference); Thai pink guava assumed 250g edible. Satti Sorru uses the established chicken claypot-rice set estimate with raita and papad. Food intake uncertainty about +/-170 kcal, mainly from the restaurant meal.",
+  "sleep": {
+    "total_sleep_minutes": 427,
+    "notes": "7h07m; late, fragmented sleep from roughly 4 AM into early afternoon with several wake periods. Displayed 7-day average: 7h05m."
+  },
+  "activity": {
+    "move_calories": 652.0,
+    "exercise_minutes": 45,
+    "stand_hours": 13,
+    "steps": 15379,
+    "distance_km": 10.01
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Meiji multi-vitamin milk (250ml) and Thai pink guava (250g assumed edible)",
+      "calories": 267.5,
+      "protein_g": 14.5,
+      "carbs_g": 44.0,
+      "fat_g": 5.4,
+      "fiber_g": 12.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g edible (assumed)",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Satti Sorru claypot rice with raita and 1 papad",
+      "calories": 900.0,
+      "protein_g": 45.0,
+      "carbs_g": 105.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken claypot flavoured rice",
+          "quantity": 1.0,
+          "unit": "serving estimate",
+          "calories": 790.0,
+          "protein_g": 42.0,
+          "carbs_g": 98.0,
+          "fat_g": 25.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 1.0,
+          "unit": "small serving estimate",
+          "calories": 60.0,
+          "protein_g": 2.0,
+          "carbs_g": 5.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Papad",
+          "quantity": 1.0,
+          "unit": "piece estimate",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 2.0,
+          "fat_g": 0.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 620.0,
+    "iron_mg": 8.0,
+    "zinc_mg": 9.0,
+    "b12_ug": 3.2,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 1800.0,
+    "vitamin_c_mg": 258.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.1,
+    "magnesium_mg": 155.0,
+    "vitamin_k_ug": 25.0,
+    "vitamin_e_mg": 5.5,
+    "vitamin_a_ug": 360.0,
+    "folate_ug": 135.0,
+    "selenium_ug": 65.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 205.0,
+    "iodine_ug": 35.0
+  }
+}
