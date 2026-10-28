@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-28",
+  "notes": "Xiaomi scan at 12:46: 71.9 kg, BMI 22.9, 18.8% body fat, 13.5 kg fat mass, 55.3 kg muscle mass, 29.9 kg skeletal muscle, 57.4% body water, 41.3 kg body-water mass, 13.4 kg protein mass, BMR 1,631 kcal, visceral-fat rating 7, WHR 1.0 and body age 20. Versus Oct 26: weight -0.2 kg, fat mass -0.3 kg, muscle mass +0.1 kg, skeletal muscle +0.1 kg and water mass +0.4 kg; these short-interval opposing BIA changes are hydration/glycogen variation, not tissue change. Activity: 590 move kcal, 65 exercise min, 7 stand hrs, 15,418 steps, 10.07 km and 1 flight; move and exercise goals closed, stand goal missed. Sleep: 8h50m split between a morning block and a late-afternoon block; above the displayed monthly average of 7h09m. No structured workout details supplied. Unlisted meals were not eaten. The Indian-set photo supports a ~250g rice serving, one naan, chicken curry, palak-corn, dal and one rasgulla; restaurant portions remain estimated. Meiji multi-vitamin milk is 250ml; Thai pink guava is assumed 250g edible. The raw 465g skin-on bone-in chicken thigh uses a provisional 70% edible-yield estimate. Combined food uncertainty about +/-300 kcal, mainly from the Indian set, thigh yield and barfi piece size.",
+  "body_metrics": {
+    "weight_kg": 71.9,
+    "bmi": 22.9,
+    "body_fat_pct": 18.8,
+    "fat_mass_kg": 13.5,
+    "muscle_mass_kg": 55.3,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 57.4,
+    "protein_mass_kg": 13.4,
+    "bmr_kcal": 1631.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 530,
+    "notes": "8h50m total, split between a morning block and a late-afternoon block; displayed monthly average 7h09m."
+  },
+  "activity": {
+    "move_calories": 590.0,
+    "exercise_minutes": 65,
+    "stand_hours": 7,
+    "steps": 15418,
+    "distance_km": 10.07
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Indian set: rice, naan, chicken, palak-corn, dal and rasgulla",
+      "calories": 1350.0,
+      "protein_g": 55.8,
+      "carbs_g": 197.5,
+      "fat_g": 37.3,
+      "fiber_g": 15.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice",
+          "quantity": 250.0,
+          "unit": "g photo-based estimate",
+          "calories": 325.0,
+          "protein_g": 6.8,
+          "carbs_g": 70.5,
+          "fat_g": 0.8,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Naan",
+          "quantity": 1.0,
+          "unit": "piece estimate",
+          "calories": 300.0,
+          "protein_g": 9.0,
+          "carbs_g": 50.0,
+          "fat_g": 7.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Chicken curry",
+          "quantity": 130.0,
+          "unit": "g edible estimate",
+          "calories": 230.0,
+          "protein_g": 22.0,
+          "carbs_g": 3.0,
+          "fat_g": 14.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Palak-corn",
+          "quantity": 1.0,
+          "unit": "serving estimate",
+          "calories": 200.0,
+          "protein_g": 7.0,
+          "carbs_g": 22.0,
+          "fat_g": 10.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Dal",
+          "quantity": 1.0,
+          "unit": "serving estimate",
+          "calories": 170.0,
+          "protein_g": 9.0,
+          "carbs_g": 25.0,
+          "fat_g": 4.5,
+          "fiber_g": 7.0
+        },
+        {
+          "food_name": "Rasgulla",
+          "quantity": 1.0,
+          "unit": "piece estimate",
+          "calories": 125.0,
+          "protein_g": 2.0,
+          "carbs_g": 27.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Meiji multi-vitamin milk (250ml) and Thai pink guava (250g assumed edible)",
+      "calories": 267.5,
+      "protein_g": 14.5,
+      "carbs_g": 44.0,
+      "fat_g": 5.4,
+      "fiber_g": 12.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Meiji multi-vitamin milk",
+          "quantity": 250.0,
+          "unit": "ml",
+          "calories": 115.0,
+          "protein_g": 9.5,
+          "carbs_g": 11.5,
+          "fat_g": 3.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 250.0,
+          "unit": "g edible (assumed)",
+          "calories": 152.5,
+          "protein_g": 5.0,
+          "carbs_g": 32.5,
+          "fat_g": 1.9,
+          "fiber_g": 11.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Air-fried skin-on bone-in chicken thigh with tandoori paste, two boiled eggs and eight kaju barfi",
+      "calories": 1831.2,
+      "protein_g": 92.7,
+      "carbs_g": 122.4,
+      "fat_g": 110.7,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Skin-on bone-in chicken thigh + tandoori paste",
+          "quantity": 465.0,
+          "unit": "g raw bone-in + 18g paste",
+          "calories": 635.2,
+          "protein_g": 56.1,
+          "carbs_g": 1.2,
+          "fat_g": 44.1,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg",
+          "quantity": 2.0,
+          "unit": "large egg",
+          "calories": 156.0,
+          "protein_g": 12.6,
+          "carbs_g": 1.2,
+          "fat_g": 10.6,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Kaju barfi",
+          "quantity": 8.0,
+          "unit": "piece estimate",
+          "calories": 1040.0,
+          "protein_g": 24.0,
+          "carbs_g": 120.0,
+          "fat_g": 56.0,
+          "fiber_g": 4.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 1250.0,
+    "iron_mg": 20.0,
+    "zinc_mg": 18.0,
+    "b12_ug": 3.6,
+    "potassium_mg": 4100.0,
+    "sodium_mg": 2500.0,
+    "vitamin_c_mg": 280.0,
+    "vitamin_d_ug": 5.0,
+    "omega3_g": 0.25,
+    "magnesium_mg": 440.0,
+    "vitamin_k_ug": 700.0,
+    "vitamin_e_mg": 16.0,
+    "vitamin_a_ug": 700.0,
+    "folate_ug": 430.0,
+    "selenium_ug": 130.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 500.0,
+    "iodine_ug": 160.0
+  }
+}
