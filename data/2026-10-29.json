@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-29",
+  "notes": "Xiaomi scan at 15:35: 72.0 kg, BMI 23.0, 19.0% body fat, 13.7 kg fat mass, 55.2 kg muscle mass, 29.9 kg skeletal muscle, 57.2% body water, 41.1 kg body-water mass, 13.4 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 28: weight +0.1 kg, fat mass +0.2 kg, muscle mass -0.1 kg, skeletal muscle unchanged and water mass -0.2 kg; this one-day redistribution is BIA hydration/glycogen variation, not measurable tissue change. Activity: 748 move kcal, 37 exercise min, 12 stand hrs, 18,571 steps, 12.35 km and 11 flights; all three rings closed. The sleep screenshot confirms a 2h28m afternoon block (4:04-6:32 PM on Oct 28) should be excluded, but its all-sleep total is not visible, so no sleep duration is recorded rather than estimating from the stage chart. No structured workout details supplied. Unlisted meals were not eaten. Kaju barfi piece size and the unlabelled fried chicken, fries and chili-oil gyoza are estimates; combined food uncertainty about +/-250 kcal.",
+  "body_metrics": {
+    "weight_kg": 72.0,
+    "bmi": 23.0,
+    "body_fat_pct": 19.0,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 57.2,
+    "protein_mass_kg": 13.4,
+    "bmr_kcal": 1629.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "activity": {
+    "move_calories": 748.0,
+    "exercise_minutes": 37,
+    "stand_hours": 12,
+    "steps": 18571,
+    "distance_km": 12.35
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Six kaju barfi",
+      "calories": 780.0,
+      "protein_g": 18.0,
+      "carbs_g": 90.0,
+      "fat_g": 42.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Kaju barfi",
+          "quantity": 6.0,
+          "unit": "piece estimate",
+          "calories": 780.0,
+          "protein_g": 18.0,
+          "carbs_g": 90.0,
+          "fat_g": 42.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "One piece fried chicken, large fries and five chili-oil steamed gyoza",
+      "calories": 1139.0,
+      "protein_g": 44.4,
+      "carbs_g": 109.0,
+      "fat_g": 57.0,
+      "fiber_g": 8.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fried chicken, bone-in",
+          "quantity": 1.0,
+          "unit": "average restaurant piece estimate",
+          "calories": 350.0,
+          "protein_g": 25.0,
+          "carbs_g": 15.0,
+          "fat_g": 20.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Large fries",
+          "quantity": 1.0,
+          "unit": "large fast-food serving estimate",
+          "calories": 489.0,
+          "protein_g": 6.4,
+          "carbs_g": 59.0,
+          "fat_g": 25.0,
+          "fiber_g": 6.0
+        },
+        {
+          "food_name": "Steamed gyoza with chili oil",
+          "quantity": 5.0,
+          "unit": "piece estimate",
+          "calories": 300.0,
+          "protein_g": 13.0,
+          "carbs_g": 35.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken McCrispy Spicy, three pieces",
+      "calories": 1033.5,
+      "protein_g": 58.5,
+      "carbs_g": 63.0,
+      "fat_g": 61.5,
+      "fiber_g": 4.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy 2pc (spicy or original)",
+          "quantity": 1.5,
+          "unit": "two-piece label serving",
+          "calories": 1033.5,
+          "protein_g": 58.5,
+          "carbs_g": 63.0,
+          "fat_g": 61.5,
+          "fiber_g": 4.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 5200.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 25.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 260.0,
+    "folate_ug": 130.0,
+    "selenium_ug": 85.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 250.0,
+    "iodine_ug": 70.0
+  }
+}
