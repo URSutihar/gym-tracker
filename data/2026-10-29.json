@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "notes": "Xiaomi scan at 15:35: 72.0 kg, BMI 23.0, 19.0% body fat, 13.7 kg fat mass, 55.2 kg muscle mass, 29.9 kg skeletal muscle, 57.2% body water, 41.1 kg body-water mass, 13.4 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 28: weight +0.1 kg, fat mass +0.2 kg, muscle mass -0.1 kg, skeletal muscle unchanged and water mass -0.2 kg; this one-day redistribution is BIA hydration/glycogen variation, not measurable tissue change. Activity: 748 move kcal, 37 exercise min, 12 stand hrs, 18,571 steps, 12.35 km and 11 flights; all three rings closed. Sleep: 7h07m after excluding the 2h28m afternoon block from 4:04-6:32 PM on Oct 28; this is 3 minutes above the displayed October average of 7h04m. No structured workout details supplied. Unlisted meals were not eaten. Breakfast guava is logged as the usual 250g assumed edible Thai pink guava. Kaju barfi piece size and the unlabelled fried chicken, fries and chili-oil gyoza are estimates; combined food uncertainty about +/-250 kcal.",
+  "notes": "Xiaomi scan at 15:35: 72.0 kg, BMI 23.0, 19.0% body fat, 13.7 kg fat mass, 55.2 kg muscle mass, 29.9 kg skeletal muscle, 57.2% body water, 41.1 kg body-water mass, 13.4 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 28: weight +0.1 kg, fat mass +0.2 kg, muscle mass -0.1 kg, skeletal muscle unchanged and water mass -0.2 kg; this one-day redistribution is BIA hydration/glycogen variation, not measurable tissue change. Activity: 748 move kcal, 37 exercise min, 12 stand hrs, 18,571 steps, 12.35 km and 11 flights; all three rings closed. Sleep: 4h39m, calculated as the image total of 7h07m minus the 2h28m afternoon block from 4:04-6:32 PM on Oct 28. This is 2h25m below the displayed October average of 7h04m. No structured workout details supplied. Unlisted meals were not eaten. Breakfast guava is logged as the usual 250g assumed edible Thai pink guava. Kaju barfi piece size and the unlabelled fried chicken, fries and chili-oil gyoza are estimates; combined food uncertainty about +/-250 kcal.",
   "body_metrics": {
     "weight_kg": 72.0,
     "bmi": 23.0,
@@ -16,8 +16,8 @@
     "waist_hip_ratio": 0.9
   },
   "sleep": {
-    "total_sleep_minutes": 427,
-    "notes": "7h07m after excluding the 2h28m afternoon block from 4:04-6:32 PM on Oct 28; displayed October average 7h04m."
+    "total_sleep_minutes": 279,
+    "notes": "4h39m, calculated as the image total of 7h07m minus the 2h28m afternoon block from 4:04-6:32 PM on Oct 28; displayed October average 7h04m."
   },
   "activity": {
     "move_calories": 748.0,
