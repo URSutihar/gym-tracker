@@ -534,6 +534,52 @@
       "fiber_g": 0.5,
       "confirmed": "2026-10-29",
       "notes": "Existing tracker estimate from Oct 20; piece size varies, so scale only when pieces are similar."
+    },
+    {
+      "name": "Kung Pao chicken rice bowl",
+      "aliases": [
+        "kung pao chicken rice",
+        "kung pao rice"
+      ],
+      "serving": "1 restaurant bowl, no fried egg",
+      "calories": 650,
+      "protein_g": 35.0,
+      "carbs_g": 75.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "confirmed": "2026-10-31",
+      "notes": "Established restaurant estimate from prior tracker entries. This is the no-fried-egg variant; the separate +1 fried egg reference is higher."
+    },
+    {
+      "name": "Plain cheesecake",
+      "aliases": [
+        "normal cheesecake",
+        "plain cheesecake",
+        "cheesecake normal"
+      ],
+      "serving": "100g slice estimate",
+      "calories": 314,
+      "protein_g": 4.7,
+      "carbs_g": 12.4,
+      "fat_g": 27.6,
+      "fiber_g": 0.5,
+      "confirmed": "2026-10-31",
+      "notes": "Plain cheesecake label previously logged on 2026-08-17: 313.6 kcal, 4.7g protein, 12.4g carbohydrate and 27.6g fat per 100g. Distinct from the 70g Cookies & Cream cheesecake template."
+    },
+    {
+      "name": "Chicken coating mix",
+      "aliases": [
+        "chicken coating",
+        "seasoned chicken coating"
+      ],
+      "serving": "16g",
+      "calories": 60,
+      "protein_g": 1.8,
+      "carbs_g": 10.8,
+      "fat_g": 1.1,
+      "fiber_g": 0.0,
+      "confirmed": "2026-10-31",
+      "notes": "Package label: 16g serving, 60 kcal, 1.8g protein, 10.8g carbohydrate, 1.1g fat and 288mg sodium."
     }
   ]
 }

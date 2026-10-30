@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-30",
+  "notes": "No Xiaomi body-composition scan supplied; trend weight is carried forward. Sleep: 9h03m, calculated as the displayed 7h51m plus a separate 1h12m block; chart shows repeated wake spikes in the main morning block and a later afternoon block. Displayed bedtime was 6:00 PM versus a 5:04 AM average. Activity: 282 move kcal, 8 exercise min, 9 stand hrs, 6,081 steps, 4.07 km and 2 flights; none of the three rings closed. No structured workout supplied. Unlisted meals were not eaten. Kung Pao chicken rice is the no-fried-egg restaurant estimate. Plain cheesecake is the normal 100g-slice reference, explicitly not the Cookies & Cream template. The 305g chicken is raw skin-on bone-in drumlets; the calculation uses the prior 69.9% edible-yield mean, and all 40g of labelled coating is counted. Combined food uncertainty about +/-150 kcal, mainly cheesecake slice size and Kung Pao restaurant portion.",
+  "sleep": {
+    "total_sleep_minutes": 543,
+    "notes": "9h03m total: displayed 7h51m plus a separate 1h12m block. Main chart shows repeated wake spikes and a later afternoon sleep block; displayed bedtime 6:00 PM versus 5:04 AM average."
+  },
+  "activity": {
+    "move_calories": 282.0,
+    "exercise_minutes": 8,
+    "stand_hours": 9,
+    "steps": 6081,
+    "distance_km": 4.07
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 75.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Kung Pao chicken rice bowl",
+          "quantity": 1.0,
+          "unit": "restaurant bowl, no fried egg",
+          "calories": 650.0,
+          "protein_g": 35.0,
+          "carbs_g": 75.0,
+          "fat_g": 22.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Two plain cheesecake slices (100g each estimated)",
+      "calories": 628.0,
+      "protein_g": 9.4,
+      "carbs_g": 24.8,
+      "fat_g": 55.2,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Plain cheesecake",
+          "quantity": 2.0,
+          "unit": "100g slice estimate",
+          "calories": 628.0,
+          "protein_g": 9.4,
+          "carbs_g": 24.8,
+          "fat_g": 55.2,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Air-fried skin-on bone-in chicken drumlets with one egg and 40g coating",
+      "calories": 505.2,
+      "protein_g": 50.0,
+      "carbs_g": 27.6,
+      "fat_g": 20.7,
+      "fiber_g": 0.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Skin-on bone-in chicken drumlets, air-fried",
+          "quantity": 305.0,
+          "unit": "g raw bone-in; 213.2g edible estimated",
+          "calories": 277.2,
+          "protein_g": 39.2,
+          "carbs_g": 0.0,
+          "fat_g": 12.7,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Egg",
+          "quantity": 1.0,
+          "unit": "large",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken coating mix",
+          "quantity": 40.0,
+          "unit": "g (2.5 label servings)",
+          "calories": 150.0,
+          "protein_g": 4.5,
+          "carbs_g": 27.0,
+          "fat_g": 2.75,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 520.0,
+    "iron_mg": 8.0,
+    "zinc_mg": 9.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2650.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 25.0,
+    "vitamin_e_mg": 4.0,
+    "vitamin_a_ug": 250.0,
+    "folate_ug": 120.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 300.0,
+    "iodine_ug": 25.0
+  }
+}
