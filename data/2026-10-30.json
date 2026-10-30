@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "notes": "No Xiaomi body-composition scan supplied; trend weight is carried forward. Sleep: 9h03m, calculated as the displayed 7h51m plus a separate 1h12m block; chart shows repeated wake spikes in the main morning block and a later afternoon block. Displayed bedtime was 6:00 PM versus a 5:04 AM average. Activity: 282 move kcal, 8 exercise min, 9 stand hrs, 6,081 steps, 4.07 km and 2 flights; none of the three rings closed. No structured workout supplied. Unlisted meals were not eaten. Kung Pao chicken rice is the no-fried-egg restaurant estimate. Plain cheesecake is the normal 100g-slice reference, explicitly not the Cookies & Cream template. The 305g chicken is raw skin-on bone-in drumlets; the calculation uses the prior 69.9% edible-yield mean, and all 40g of labelled coating is counted. Combined food uncertainty about +/-150 kcal, mainly cheesecake slice size and Kung Pao restaurant portion.",
+  "notes": "No Xiaomi body-composition scan supplied; trend weight is carried forward. Sleep: 9h03m, calculated as the displayed 7h51m plus a separate 1h12m block; chart shows repeated wake spikes in the main morning block and a later afternoon block. Displayed bedtime was 6:00 PM versus a 5:04 AM average. Activity: 282 move kcal, 8 exercise min, 9 stand hrs, 6,081 steps, 4.07 km and 2 flights; none of the three rings closed. No structured workout supplied. Unlisted meals were not eaten. Kung Pao chicken rice is the no-fried-egg restaurant estimate. Plain cheesecake is the normal 100g-slice reference, explicitly not the Cookies & Cream template. The 305g chicken is raw skin-on bone-in drumlets; the calculation uses the prior 69.9% edible-yield mean, and all 40g of labelled coating is counted. Four Cavendish bananas were added to dinner after initial logging. Combined food uncertainty about +/-150 kcal, mainly cheesecake slice size and Kung Pao restaurant portion.",
   "sleep": {
     "total_sleep_minutes": 543,
     "notes": "9h03m total: displayed 7h51m plus a separate 1h12m block. Main chart shows repeated wake spikes and a later afternoon sleep block; displayed bedtime 6:00 PM versus 5:04 AM average."
@@ -59,12 +59,12 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Air-fried skin-on bone-in chicken drumlets with one egg and 40g coating",
-      "calories": 505.2,
-      "protein_g": 50.0,
-      "carbs_g": 27.6,
-      "fat_g": 20.7,
-      "fiber_g": 0.0,
+      "description": "Air-fried skin-on bone-in chicken drumlets with one egg, 40g coating and four bananas",
+      "calories": 933.2,
+      "protein_g": 55.2,
+      "carbs_g": 136.0,
+      "fat_g": 22.3,
+      "fiber_g": 12.0,
       "is_estimated": true,
       "foods": [
         {
@@ -96,28 +96,38 @@
           "carbs_g": 27.0,
           "fat_g": 2.75,
           "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cavendish banana",
+          "quantity": 4.0,
+          "unit": "medium banana",
+          "calories": 428.0,
+          "protein_g": 5.2,
+          "carbs_g": 108.4,
+          "fat_g": 1.6,
+          "fiber_g": 12.0
         }
       ]
     }
   ],
   "micros": {
-    "calcium_mg": 520.0,
-    "iron_mg": 8.0,
-    "zinc_mg": 9.0,
+    "calcium_mg": 540.0,
+    "iron_mg": 9.2,
+    "zinc_mg": 9.6,
     "b12_ug": 2.5,
-    "potassium_mg": 1500.0,
+    "potassium_mg": 3188.0,
     "sodium_mg": 2650.0,
-    "vitamin_c_mg": 10.0,
+    "vitamin_c_mg": 50.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.3,
-    "magnesium_mg": 200.0,
+    "magnesium_mg": 328.0,
     "vitamin_k_ug": 25.0,
-    "vitamin_e_mg": 4.0,
-    "vitamin_a_ug": 250.0,
-    "folate_ug": 120.0,
-    "selenium_ug": 100.0,
+    "vitamin_e_mg": 4.4,
+    "vitamin_a_ug": 270.0,
+    "folate_ug": 200.0,
+    "selenium_ug": 104.0,
     "epa_dha_mg": 0.0,
-    "choline_mg": 300.0,
+    "choline_mg": 340.0,
     "iodine_ug": 25.0
   }
 }
