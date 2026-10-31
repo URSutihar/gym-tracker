@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-31",
+  "notes": "Xiaomi scan at 13:23: 72.1 kg, BMI 23.0, 19.0% body fat, 13.7 kg fat mass, 55.2 kg muscle mass, 29.9 kg skeletal muscle, 57.1% body water, 41.1 kg body-water mass, 13.5 kg protein mass, BMR 1,631 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Oct 29, weight, body-fat percentage, fat mass, muscle mass, skeletal muscle and body-water mass are unchanged; protein mass is +0.1 kg and water percentage -0.1 points, normal BIA variation rather than tissue change. Activity: 1,089 move kcal, 41 exercise min, 17 stand hrs, 32,728 steps, 21.02 km and 4 flights; all three rings closed. Sleep: 2h00m from 11 AM to 1 PM, with no additional block supplied. No structured workout details supplied. Unlisted meals were not eaten. Both restaurant meals are estimates; scallion/chili-oil quantity is the largest food uncertainty (about +/-120 kcal).",
+  "body_metrics": {
+    "weight_kg": 72.1,
+    "bmi": 23.0,
+    "body_fat_pct": 19.0,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 29.9,
+    "body_water_pct": 57.1,
+    "protein_mass_kg": 13.5,
+    "bmr_kcal": 1631.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 120,
+    "notes": "11 AM-1 PM only; no additional sleep block supplied."
+  },
+  "activity": {
+    "move_calories": 1089.0,
+    "exercise_minutes": 41,
+    "stand_hours": 17,
+    "steps": 32728,
+    "distance_km": 21.02
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Steamed chicken hor fun with soup",
+      "calories": 500.0,
+      "protein_g": 35.0,
+      "carbs_g": 65.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Steamed chicken hor fun with soup",
+          "quantity": 1.0,
+          "unit": "restaurant bowl",
+          "calories": 500.0,
+          "protein_g": 35.0,
+          "carbs_g": 65.0,
+          "fat_g": 8.0,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Scallion oil noodles with half egg, shredded chicken and chili oil",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 72.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Scallion oil noodles with shredded chicken and chili oil",
+          "quantity": 1.0,
+          "unit": "restaurant bowl with half egg",
+          "calories": 650.0,
+          "protein_g": 35.0,
+          "carbs_g": 72.0,
+          "fat_g": 26.0,
+          "fiber_g": 3.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 150.0,
+    "iron_mg": 6.0,
+    "zinc_mg": 9.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 2300.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.2,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 15.0,
+    "vitamin_e_mg": 2.0,
+    "vitamin_a_ug": 150.0,
+    "folate_ug": 80.0,
+    "selenium_ug": 80.0,
+    "epa_dha_mg": 0.0,
+    "choline_mg": 260.0,
+    "iodine_ug": 25.0
+  }
+}

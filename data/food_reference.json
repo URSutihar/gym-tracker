@@ -580,6 +580,37 @@
       "fiber_g": 0.0,
       "confirmed": "2026-10-31",
       "notes": "Package label: 16g serving, 60 kcal, 1.8g protein, 10.8g carbohydrate, 1.1g fat and 288mg sodium."
+    },
+    {
+      "name": "Steamed chicken hor fun with soup",
+      "aliases": [
+        "steamed chicken hor fun",
+        "chicken hor fun"
+      ],
+      "serving": "1 restaurant bowl with clear soup",
+      "calories": 500,
+      "protein_g": 35.0,
+      "carbs_g": 65.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.5,
+      "confirmed": "2026-11-01",
+      "notes": "Established estimate from the 2026-07-11 chicken-rice-stall version: ~250g flat rice noodles, ~100g steamed skin-on chicken and clear soup/garnish."
+    },
+    {
+      "name": "Scallion oil noodles with shredded chicken and chili oil",
+      "aliases": [
+        "scallion oil noodles",
+        "scallion noodles",
+        "shredded chicken scallion noodles"
+      ],
+      "serving": "1 restaurant bowl with half egg",
+      "calories": 650,
+      "protein_g": 35.0,
+      "carbs_g": 72.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "confirmed": "2026-11-01",
+      "notes": "Restaurant estimate for wheat noodles, scallion oil, chili oil, shredded chicken and half an egg; oil quantity is the main uncertainty."
     }
   ]
 }
