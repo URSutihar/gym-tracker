@@ -611,6 +611,22 @@
       "fiber_g": 3.0,
       "confirmed": "2026-11-01",
       "notes": "Restaurant estimate for wheat noodles, scallion oil, chili oil, shredded chicken and half an egg; oil quantity is the main uncertainty."
+    },
+    {
+      "name": "Hyderabadi chicken dum biryani with gravy",
+      "aliases": [
+        "hyderabadi chicken dum biryani",
+        "hcdb",
+        "chicken dum biryani"
+      ],
+      "serving": "standard restaurant portion: 500g rice, 150g chicken, egg and gravy",
+      "calories": 1253,
+      "protein_g": 60.8,
+      "carbs_g": 138.6,
+      "fat_g": 46.3,
+      "fiber_g": 3.5,
+      "confirmed": "2026-11-02",
+      "notes": "Established tracker template. A raita portion is logged separately when supplied. Restaurant portion estimate."
     }
   ]
 }

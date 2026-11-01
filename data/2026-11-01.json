@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-01",
+  "notes": "Xiaomi scan at 15:58: 71.5 kg, BMI 22.8, 18.5% body fat, 13.2 kg fat mass, 55.2 kg muscle mass, 30.3 kg skeletal muscle, 58.0% body water, 41.5 kg body-water mass, 13.0 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 1.0 and body age 20. Versus Oct 31: weight -0.6 kg, body fat -0.5 points, fat mass -0.5 kg, muscle mass unchanged, skeletal muscle +0.4 kg and water mass +0.4 kg. The simultaneous lower weight/fat with higher water and skeletal muscle, after Oct 31's low logged intake and 32,728 steps, is hydration/glycogen BIA variation rather than one-day tissue change. Sleep: 9h43m, roughly 1 AM through late morning with multiple brief wakes, above the displayed 7-day average of 6h58m. Activity: 634 move kcal, 94 exercise min, 7 stand hrs, 16,714 steps, 10.55 km and zero flights; move and exercise goals closed, stand missed. No structured workout details supplied. Unlisted meals were not eaten. Lunch is the established biryani template plus half a raita serving. Dinner thigh uses 70% edible yield from its raw bone-in weight; food uncertainty about +/-180 kcal, mainly restaurant biryani and thigh yield.",
+  "body_metrics": {
+    "weight_kg": 71.5,
+    "bmi": 22.8,
+    "body_fat_pct": 18.5,
+    "fat_mass_kg": 13.2,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 30.3,
+    "body_water_pct": 58.0,
+    "protein_mass_kg": 13.0,
+    "bmr_kcal": 1629.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 1.0
+  },
+  "sleep": {
+    "total_sleep_minutes": 583,
+    "notes": "9h43m, approximately 1 AM through late morning with multiple brief awakenings; displayed 7-day average 6h58m."
+  },
+  "activity": {
+    "move_calories": 634.0,
+    "exercise_minutes": 94,
+    "stand_hours": 7,
+    "steps": 16714,
+    "distance_km": 10.55
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hyderabadi chicken dum biryani with gravy and half a raita serving",
+      "calories": 1278.0,
+      "protein_g": 62.1,
+      "carbs_g": 140.6,
+      "fat_g": 47.8,
+      "fiber_g": 3.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Hyderabadi chicken dum biryani with gravy",
+          "quantity": 1.0,
+          "unit": "standard restaurant portion",
+          "calories": 1253.0,
+          "protein_g": 60.8,
+          "carbs_g": 138.6,
+          "fat_g": 46.3,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "Raita",
+          "quantity": 40.0,
+          "unit": "g (half serving)",
+          "calories": 25.0,
+          "protein_g": 1.25,
+          "carbs_g": 2.0,
+          "fat_g": 1.5,
+          "fiber_g": 0.1
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Milk cloud cake, four bananas, and air-fried skin-on bone-in chicken thigh with tandoori paste",
+      "calories": 1201.7,
+      "protein_g": 51.4,
+      "carbs_g": 150.0,
+      "fat_g": 47.9,
+      "fiber_g": 12.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Milk cloud cake",
+          "quantity": 90.0,
+          "unit": "g (3 slices)",
+          "calories": 300.0,
+          "protein_g": 4.5,
+          "carbs_g": 40.5,
+          "fat_g": 13.5,
+          "fiber_g": 0.8
+        },
+        {
+          "food_name": "Cavendish banana",
+          "quantity": 4.0,
+          "unit": "medium banana",
+          "calories": 428.0,
+          "protein_g": 5.2,
+          "carbs_g": 108.4,
+          "fat_g": 1.6,
+          "fiber_g": 12.0
+        },
+        {
+          "food_name": "Skin-on bone-in chicken thigh with tandoori paste",
+          "quantity": 345.0,
+          "unit": "g raw bone-in + 16g paste; 241.5g edible estimated",
+          "calories": 473.7,
+          "protein_g": 41.7,
+          "carbs_g": 1.1,
+          "fat_g": 32.8,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 660.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 5.0,
+    "potassium_mg": 3200.0,
+    "sodium_mg": 2600.0,
+    "vitamin_c_mg": 40.0,
+    "vitamin_d_ug": 3.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 330.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 400.0,
+    "folate_ug": 320.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 480.0,
+    "iodine_ug": 150.0
+  }
+}
