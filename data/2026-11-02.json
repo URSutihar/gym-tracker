@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-02",
+  "notes": "No Xiaomi body-composition scan supplied. Sleep: 5h31m, primarily a fragmented early-morning block with an additional afternoon block shown around 5 PM; the displayed bedtime was 5:38 PM, far earlier than the 5:11 AM recent average. Activity: 505 move kcal, 44 Apple Watch exercise min, 12 stand hrs, 12,840 steps, 8.17 km and 5 flights; all rings closed. Separate 150-minute Muay Thai sparring session logged; Apple Watch exercise minutes undercount the reported training duration. No breakfast or supper was supplied. Standard chicken-rice template includes clear soup. Traditional beancurd dessert, Polar butter-cake slice and Chili-Lime McChicken are unweighed estimates; the Chili-Lime burger is derived from the regular McChicken because no current official Singapore nutrition label was available. Combined food uncertainty about +/-260 kcal.",
+  "sleep": {
+    "total_sleep_minutes": 331,
+    "notes": "5h31m. Fragmented early-morning sleep with an additional afternoon block around 5 PM; displayed bedtime 5:38 PM versus 5:11 AM recent average."
+  },
+  "activity": {
+    "move_calories": 505.0,
+    "exercise_minutes": 44,
+    "stand_hours": 12,
+    "steps": 12840,
+    "distance_km": 8.17
+  },
+  "workout": {
+    "duration_minutes": 150,
+    "notes": "Muay Thai sparring. Apple Watch recorded 44 exercise minutes, so the watch exercise figure undercounts the reported 150-minute session.",
+    "exercises": [
+      {
+        "type": "cardio",
+        "name": "Muay Thai",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 150.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Hainanese chicken rice (standard template) with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "standard serving with soup",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Traditional beancurd dessert and Polar butter-cake slice",
+      "calories": 500.0,
+      "protein_g": 11.0,
+      "carbs_g": 70.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Traditional beancurd dessert",
+          "quantity": 1.0,
+          "unit": "bowl",
+          "calories": 220.0,
+          "protein_g": 7.0,
+          "carbs_g": 35.0,
+          "fat_g": 6.0,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Polar butter cake",
+          "quantity": 1.0,
+          "unit": "slice",
+          "calories": 280.0,
+          "protein_g": 4.0,
+          "carbs_g": 35.0,
+          "fat_g": 14.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's McChicken, Chili-Lime McChicken, medium fries and apple pie",
+      "calories": 1441.0,
+      "protein_g": 37.0,
+      "carbs_g": 164.0,
+      "fat_g": 70.0,
+      "fiber_g": 10.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Chili-Lime McChicken",
+          "quantity": 1.0,
+          "unit": "burger; estimated from regular McChicken plus flavoured sauce",
+          "calories": 416.0,
+          "protein_g": 15.0,
+          "carbs_g": 43.0,
+          "fat_g": 20.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "McDonald's French Fries (medium)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 384.0,
+          "protein_g": 5.0,
+          "carbs_g": 46.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "McDonald's Apple Pie",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 250.0,
+          "protein_g": 2.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 420.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 2000.0,
+    "sodium_mg": 3000.0,
+    "vitamin_c_mg": 5.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 170.0,
+    "vitamin_k_ug": 60.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 200.0,
+    "folate_ug": 220.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 250.0,
+    "iodine_ug": 60.0
+  }
+}
