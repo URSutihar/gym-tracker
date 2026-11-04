@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-03",
+  "notes": "Xiaomi scan at 12:53: 72.3 kg, BMI 23.1, 19.1% body fat, 13.8 kg fat mass, 55.4 kg muscle mass, 30.0 kg skeletal muscle, 57.1% body water, 41.3 kg body-water mass, 13.5 kg protein mass, BMR 1,634 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Nov 1: weight +0.8 kg, body fat +0.6 points, fat mass +0.6 kg, muscle +0.2 kg, skeletal muscle -0.3 kg and body-water mass -0.2 kg. The conflicting two-day BIA changes reflect hydration, glycogen and food mass following Nov 2's restaurant sodium, 150-minute sparring session and short sleep, not tissue change. Sleep corrected by user from 5h55m minus 1h06m = 4h49m; the remaining early-morning block was fragmented, with displayed bedtime 3:21 AM, 2h16 earlier than the 5:37 AM average. Activity: 644 move kcal, 34 exercise min, 12 stand hrs, 16,105 steps, 10.08 km and 6 flights; all rings closed. No structured workout supplied. No breakfast or supper was supplied. Mixed rice, cinnamon roll and protein-focused mala are unweighed restaurant estimates. Mala is conservatively modelled as lean chicken/tofu and vegetables with mala oil, rather than a noodle- or pork-belly-heavy bowl; combined food uncertainty about +/-350 kcal.",
+  "body_metrics": {
+    "weight_kg": 72.3,
+    "bmi": 23.1,
+    "body_fat_pct": 19.1,
+    "fat_mass_kg": 13.8,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 30.0,
+    "body_water_pct": 57.1,
+    "protein_mass_kg": 13.5,
+    "bmr_kcal": 1634.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 289,
+    "notes": "User-corrected: 5h55m displayed minus a 1h06m block = 4h49m. Fragmented early-morning block; bedtime 3:21 AM, 2h16 earlier than displayed 5:37 AM average."
+  },
+  "activity": {
+    "move_calories": 644.0,
+    "exercise_minutes": 34,
+    "stand_hours": 12,
+    "steps": 16105,
+    "distance_km": 10.08
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice: rice, tofu, chicken, vegetables and sauce",
+      "calories": 700.0,
+      "protein_g": 42.0,
+      "carbs_g": 80.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mixed rice: rice, tofu, chicken, vegetables and sauce",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 700.0,
+          "protein_g": 42.0,
+          "carbs_g": 80.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Cinnamon roll",
+      "calories": 360.0,
+      "protein_g": 6.0,
+      "carbs_g": 50.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cinnamon roll",
+          "quantity": 1.0,
+          "unit": "standard bakery roll",
+          "calories": 360.0,
+          "protein_g": 6.0,
+          "carbs_g": 50.0,
+          "fat_g": 16.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Protein-focused mala hotpot: lean chicken, tofu, vegetables and mala oil",
+      "calories": 950.0,
+      "protein_g": 95.0,
+      "carbs_g": 35.0,
+      "fat_g": 50.0,
+      "fiber_g": 7.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Protein-focused mala hotpot",
+          "quantity": 1.0,
+          "unit": "restaurant bowl; lean chicken/tofu/vegetable-led estimate",
+          "calories": 950.0,
+          "protein_g": 95.0,
+          "carbs_g": 35.0,
+          "fat_g": 50.0,
+          "fiber_g": 7.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 550.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 16.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 2500.0,
+    "sodium_mg": 3600.0,
+    "vitamin_c_mg": 45.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 270.0,
+    "vitamin_k_ug": 90.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 600.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 450.0,
+    "iodine_ug": 100.0
+  }
+}
