@@ -1,0 +1,326 @@
+{
+  "date": "2026-11-04",
+  "notes": "Xiaomi scan at 10:47: 72.8 kg, BMI 23.2, 19.3% body fat, 14.1 kg fat mass, 55.6 kg muscle mass, 30.3 kg skeletal muscle, 57.3% body water, 41.7 kg body-water mass, 13.2 kg protein mass, BMR 1,638 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Nov 3: weight +0.5 kg, body fat +0.2 points, fat +0.3 kg, muscle +0.2 kg, skeletal muscle +0.3 kg and water mass +0.4 kg. This is hydration/glycogen and food-mass BIA variation after Nov 3's restaurant sodium, 16,105 steps and short sleep, not a one-day tissue change. Sleep: 9h23m split between an early-morning block and a substantial afternoon block; displayed bedtime 5:46 PM versus 5:23 AM recent average, with several wake spikes. Activity: 638 move kcal, 33 exercise min, 13 stand hrs, 16,870 steps, 10.94 km and 5 flights; all rings closed. Back and biceps gym: 80 min, RPE 9, 24 listed work sets (half-kneeling pulldown performed each arm). Barbell curl numbers are treated as total plates added plus the 20 kg Olympic bar, so 20 and 30 kg plates are stored as 40 and 50 kg total; explicit deadlift bar plus 20 kg is 40 kg. Close-grip pulldown 39 kg rest-pause 8+4 is logged as 12 total reps. No breakfast or supper supplied. Mixed rice, samosas and banh mi are unweighed restaurant estimates; combined food uncertainty about +/-300 kcal.",
+  "overall_rpe": 9.0,
+  "gym_minutes": 80,
+  "body_metrics": {
+    "weight_kg": 72.8,
+    "bmi": 23.2,
+    "body_fat_pct": 19.3,
+    "fat_mass_kg": 14.1,
+    "muscle_mass_kg": 55.6,
+    "skeletal_muscle_mass_kg": 30.3,
+    "body_water_pct": 57.3,
+    "protein_mass_kg": 13.2,
+    "bmr_kcal": 1638.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 563,
+    "notes": "9h23m, split between a fragmented early-morning block and a substantial afternoon block. Displayed bedtime 5:46 PM versus 5:23 AM recent average."
+  },
+  "activity": {
+    "move_calories": 638.0,
+    "exercise_minutes": 33,
+    "stand_hours": 13,
+    "steps": 16870,
+    "distance_km": 10.94
+  },
+  "workout": {
+    "duration_minutes": 80,
+    "notes": "Back and biceps, RPE 9. Barbell curl values include the 20 kg Olympic bar: user-stated 20 and 30 kg total plates are logged as 40 and 50 kg. Half-kneeling single-arm pulldown was done each arm; close-grip 39 kg was rest-pause 8+4, logged as 12 total reps.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Bicep Curl",
+        "muscle_group": "biceps",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bayesian Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 11.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 16.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wide Grip Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 39.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Close Grip Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 39.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Half-Kneeling Single-Arm Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Deadlift",
+        "muscle_group": "back",
+        "equipment": "barbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 40.0,
+            "reps": 5
+          },
+          {
+            "set": 2,
+            "weight_kg": 40.0,
+            "reps": 5
+          },
+          {
+            "set": 3,
+            "weight_kg": 40.0,
+            "reps": 5
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice: rice, tofu, chicken, vegetables, egg and sauce",
+      "calories": 800.0,
+      "protein_g": 50.0,
+      "carbs_g": 85.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mixed rice: rice, tofu, chicken, vegetables, egg and sauce",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 800.0,
+          "protein_g": 50.0,
+          "carbs_g": 85.0,
+          "fat_g": 28.0,
+          "fiber_g": 4.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Two standard samosas",
+      "calories": 400.0,
+      "protein_g": 10.0,
+      "carbs_g": 50.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Samosa",
+          "quantity": 2.0,
+          "unit": "standard piece",
+          "calories": 400.0,
+          "protein_g": 10.0,
+          "carbs_g": 50.0,
+          "fat_g": 20.0,
+          "fiber_g": 4.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chili-lemongrass chicken banh mi",
+      "calories": 600.0,
+      "protein_g": 32.0,
+      "carbs_g": 75.0,
+      "fat_g": 18.0,
+      "fiber_g": 5.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chili-lemongrass chicken banh mi",
+          "quantity": 1.0,
+          "unit": "restaurant sandwich",
+          "calories": 600.0,
+          "protein_g": 32.0,
+          "carbs_g": 75.0,
+          "fat_g": 18.0,
+          "fiber_g": 5.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 400.0,
+    "iron_mg": 14.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 3500.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 250.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 330.0,
+    "iodine_ug": 90.0
+  }
+}
