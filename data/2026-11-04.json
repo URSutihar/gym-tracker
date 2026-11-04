@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "notes": "Xiaomi scan at 10:47: 72.8 kg, BMI 23.2, 19.3% body fat, 14.1 kg fat mass, 55.6 kg muscle mass, 30.3 kg skeletal muscle, 57.3% body water, 41.7 kg body-water mass, 13.2 kg protein mass, BMR 1,638 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Nov 3: weight +0.5 kg, body fat +0.2 points, fat +0.3 kg, muscle +0.2 kg, skeletal muscle +0.3 kg and water mass +0.4 kg. This is hydration/glycogen and food-mass BIA variation after Nov 3's restaurant sodium, 16,105 steps and short sleep, not a one-day tissue change. Sleep: 9h23m split between an early-morning block and a substantial afternoon block; displayed bedtime 5:46 PM versus 5:23 AM recent average, with several wake spikes. Activity: 638 move kcal, 33 exercise min, 13 stand hrs, 16,870 steps, 10.94 km and 5 flights; all rings closed. Back and biceps gym: 80 min, RPE 9, 24 listed work sets (half-kneeling pulldown performed each arm). Barbell curl numbers are treated as total plates added plus the 20 kg Olympic bar, so 20 and 30 kg plates are stored as 40 and 50 kg total; explicit deadlift bar plus 20 kg is 40 kg. Close-grip pulldown 39 kg rest-pause 8+4 is logged as 12 total reps. No breakfast or supper supplied. Mixed rice, samosas and banh mi are unweighed restaurant estimates; combined food uncertainty about +/-300 kcal.",
+  "notes": "Xiaomi scan at 10:47: 72.8 kg, BMI 23.2, 19.3% body fat, 14.1 kg fat mass, 55.6 kg muscle mass, 30.3 kg skeletal muscle, 57.3% body water, 41.7 kg body-water mass, 13.2 kg protein mass, BMR 1,638 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus Nov 3: weight +0.5 kg, body fat +0.2 points, fat +0.3 kg, muscle +0.2 kg, skeletal muscle +0.3 kg and water mass +0.4 kg. This is hydration/glycogen and food-mass BIA variation after Nov 3's restaurant sodium, 16,105 steps and short sleep, not a one-day tissue change. Sleep: 9h23m split between an early-morning block and a substantial afternoon block; displayed bedtime 5:46 PM versus 5:23 AM recent average, with several wake spikes. Activity: 638 move kcal, 33 exercise min, 13 stand hrs, 16,870 steps, 10.94 km and 5 flights; all rings closed. Back and biceps gym: 80 min, RPE 9, 24 listed work sets (half-kneeling pulldown performed each arm). Barbell curl is logged exactly as supplied: 20 kg x12 and 30 kg x12. Explicit deadlift bar plus 20 kg is 40 kg. Close-grip pulldown 39 kg rest-pause 8+4 is logged as 12 total reps. No breakfast or supper supplied. Mixed rice, samosas and banh mi are unweighed restaurant estimates; combined food uncertainty about +/-300 kcal.",
   "overall_rpe": 9.0,
   "gym_minutes": 80,
   "body_metrics": {
@@ -30,7 +30,7 @@
   },
   "workout": {
     "duration_minutes": 80,
-    "notes": "Back and biceps, RPE 9. Barbell curl values include the 20 kg Olympic bar: user-stated 20 and 30 kg total plates are logged as 40 and 50 kg. Half-kneeling single-arm pulldown was done each arm; close-grip 39 kg was rest-pause 8+4, logged as 12 total reps.",
+    "notes": "Back and biceps, RPE 9. Barbell curl is logged exactly as supplied: 20 kg x12 and 30 kg x12. Half-kneeling single-arm pulldown was done each arm; close-grip 39 kg was rest-pause 8+4, logged as 12 total reps.",
     "exercises": [
       {
         "type": "lifting",
@@ -41,12 +41,12 @@
         "sets": [
           {
             "set": 1,
-            "weight_kg": 40.0,
+            "weight_kg": 20.0,
             "reps": 12
           },
           {
             "set": 2,
-            "weight_kg": 50.0,
+            "weight_kg": 30.0,
             "reps": 12
           }
         ]
