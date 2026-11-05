@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-05",
+  "notes": "No Xiaomi body-composition scan or structured workout supplied. Sleep: 3h17m, substantially below the displayed 7-day average of 5h50m. The chart shows a very short early-evening block and a longer but fragmented morning block with wake spikes. Activity: 433 move kcal, 7 exercise min, 11 stand hrs, 7,791 steps, 5.01 km and 12 flights; Stand ring closed, Move and Exercise rings remained open. No breakfast or supper was supplied. Chicken cheese-baked rice is the established restaurant estimate; Snickers uses the established 51g-bar value. Chicken rice is the standard template with no add-on meat, and chicken dumpling soup is an unweighed restaurant portion estimate. Combined food uncertainty about +/-220 kcal, chiefly the baked rice and soup.",
+  "sleep": {
+    "total_sleep_minutes": 197,
+    "notes": "3h17m. Very short early-evening block plus a longer fragmented morning block with wake spikes; displayed 7-day average 5h50m."
+  },
+  "activity": {
+    "move_calories": 433.0,
+    "exercise_minutes": 7,
+    "stand_hours": 11,
+    "steps": 7791,
+    "distance_km": 5.01
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken cheese-baked rice",
+      "calories": 850.0,
+      "protein_g": 45.0,
+      "carbs_g": 93.0,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken cheese-baked rice",
+          "quantity": 1.0,
+          "unit": "restaurant portion",
+          "calories": 850.0,
+          "protein_g": 45.0,
+          "carbs_g": 93.0,
+          "fat_g": 32.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Two 51g Snickers bars",
+      "calories": 500.0,
+      "protein_g": 8.0,
+      "carbs_g": 66.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Snickers bar",
+          "quantity": 2.0,
+          "unit": "51g bar",
+          "calories": 500.0,
+          "protein_g": 8.0,
+          "carbs_g": 66.0,
+          "fat_g": 24.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Hainanese chicken rice with soup (no add-on meat) and chicken dumpling soup",
+      "calories": 1156.0,
+      "protein_g": 70.1,
+      "carbs_g": 153.8,
+      "fat_g": 27.1,
+      "fiber_g": 5.6,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "standard serving with soup; no add-on meat",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        },
+        {
+          "food_name": "Chicken dumpling soup",
+          "quantity": 1.0,
+          "unit": "restaurant bowl",
+          "calories": 380.0,
+          "protein_g": 23.0,
+          "carbs_g": 42.0,
+          "fat_g": 13.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 350.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 13.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 4100.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 200.0,
+    "vitamin_k_ug": 50.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 230.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 35.0,
+    "choline_mg": 400.0,
+    "iodine_ug": 80.0
+  }
+}

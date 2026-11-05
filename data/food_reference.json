@@ -627,6 +627,36 @@
       "fiber_g": 3.5,
       "confirmed": "2026-11-02",
       "notes": "Established tracker template. A raita portion is logged separately when supplied. Restaurant portion estimate."
+    },
+    {
+      "name": "Chicken cheese-baked rice",
+      "aliases": [
+        "chicken cheese baked rice",
+        "chicken cheese-baked rice"
+      ],
+      "serving": "1 restaurant portion",
+      "calories": 850,
+      "protein_g": 45.0,
+      "carbs_g": 93.0,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "confirmed": "2026-11-06",
+      "notes": "Established unweighed restaurant estimate from the prior 2026-10-19 entry; cheese and white-sauce quantity drive the uncertainty."
+    },
+    {
+      "name": "Snickers bar",
+      "aliases": [
+        "snickers",
+        "snickers 51g"
+      ],
+      "serving": "51g bar",
+      "calories": 250,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "confirmed": "2026-11-06",
+      "notes": "Established tracker value for one standard 51g bar; scale linearly for multiples."
     }
   ]
 }
