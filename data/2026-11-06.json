@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-06",
+  "notes": "Xiaomi scan at 18:59: 72.0 kg, BMI 23.0, 19.0% body fat, 13.7 kg fat mass, 55.2 kg muscle mass, 29.7 kg skeletal muscle, 56.9% body water, 40.9 kg body-water mass, 13.6 kg protein mass, BMR 1,629 kcal, visceral-fat rating 7, WHR 0.9 and body age 20. Versus the Nov 4 scan: weight -0.8 kg, body fat -0.3 points, fat -0.4 kg, muscle -0.4 kg, skeletal muscle -0.6 kg and water mass -0.8 kg. This is short-term hydration, glycogen and gut-content variation after Nov 5's high estimated sodium intake and 3h17m sleep, not a two-day tissue change. Sleep: 9h36m, above the displayed 7-day average of 7h10m, but split between early-morning and afternoon blocks with several wake spikes. Activity: 574 move kcal, 33 exercise min, 12 stand hrs, 12,175 steps, 7.91 km and 33 flights; all rings closed. No breakfast, lunch, snacks or structured workout supplied. Dinner is an ingredient-based dry mala estimate; ingredient amounts and absorbed seasoning oil are unweighed, giving about +/-250 kcal uncertainty. Obalab Pure Triangle Cake uses a product-specific 80g serving estimate (400 kcal, 6g protein, 52g carbohydrate and 19g fat).",
+  "body_metrics": {
+    "weight_kg": 72.0,
+    "bmi": 23.0,
+    "body_fat_pct": 19.0,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 56.9,
+    "protein_mass_kg": 13.6,
+    "bmr_kcal": 1629.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 576,
+    "notes": "9h36m total, split between an early-morning block and an afternoon block; several wake spikes. Displayed 7-day average 7h10m."
+  },
+  "activity": {
+    "move_calories": 574.0,
+    "exercise_minutes": 33,
+    "stand_hours": 12,
+    "steps": 12175,
+    "distance_km": 7.91
+  },
+  "meals": [
+    {
+      "meal_type": "dinner",
+      "description": "Dry mala hotpot: noodles, 2 sausages, cabbage, chicken thigh, mushroom and seasoning oil; Obalab Pure Triangle Cake",
+      "calories": 1652.0,
+      "protein_g": 85.0,
+      "carbs_g": 133.0,
+      "fat_g": 87.3,
+      "fiber_g": 9.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Udon noodles",
+          "quantity": 1.0,
+          "unit": "pack (200g assumed)",
+          "calories": 250.0,
+          "protein_g": 6.0,
+          "carbs_g": 50.0,
+          "fat_g": 1.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Sausage",
+          "quantity": 2.0,
+          "unit": "piece",
+          "calories": 260.0,
+          "protein_g": 12.0,
+          "carbs_g": 6.0,
+          "fat_g": 22.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cabbage",
+          "quantity": 200.0,
+          "unit": "g assumed",
+          "calories": 50.0,
+          "protein_g": 3.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Chicken thigh",
+          "quantity": 200.0,
+          "unit": "g cooked assumed",
+          "calories": 420.0,
+          "protein_g": 52.0,
+          "carbs_g": 0.0,
+          "fat_g": 22.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mushrooms",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 22.0,
+          "protein_g": 3.0,
+          "carbs_g": 3.0,
+          "fat_g": 0.3,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Dry mala seasoning and oil",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 250.0,
+          "protein_g": 3.0,
+          "carbs_g": 10.0,
+          "fat_g": 23.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Obalab Pure Triangle Cake",
+          "quantity": 1.0,
+          "unit": "80g serving",
+          "calories": 400.0,
+          "protein_g": 6.0,
+          "carbs_g": 52.0,
+          "fat_g": 19.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 320.0,
+    "iron_mg": 9.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1800.0,
+    "sodium_mg": 4200.0,
+    "vitamin_c_mg": 70.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 150.0,
+    "vitamin_k_ug": 70.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 180.0,
+    "selenium_ug": 110.0,
+    "epa_dha_mg": 25.0,
+    "choline_mg": 350.0,
+    "iodine_ug": 75.0
+  }
+}
