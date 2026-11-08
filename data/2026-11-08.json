@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-08",
+  "notes": "Scale at 12:38: 71.5kg, BMI22.8, body fat18.9%, fat13.5kg, muscle54.9kg, skeletal muscle29.4kg, body water56.5% /40.4kg, protein13.9kg, BMR1623, visceral rating7, WHR0.9, body age20. Versus Nov7: weight -0.8kg, fat -0.5kg, muscle -0.3kg, skeletal muscle unchanged, water mass -0.1kg. These daily BIA changes cannot establish tissue loss; scan conditions, fluid and gut contents can contribute following Nov7's meals and 15,433 steps. Sleep5h09m, fragmented morning block roughly6-11:20AM, displayed seven-day average6h41m. Activity683 move kcal,74 exercise minutes,11 stand hours,15,343 steps,10.02km,3 flights; all rings closed. No structured workout or snacks supplied. Wings explicitly 382g cooked boneless skin-on edible portion: no bone deduction. USDA roasted wing meat and skin proxy per100g:254kcal,23.79g protein,16.87g fat (FDC173630; https://www.ars.usda.gov/ARSUserFiles/80400535/Data/SR/SR28/reports/sr28fg05.pdf). Rotisserie seasoning/sodium unlabelled and estimated. Chai assumed one sweetened milk-tea cup at100kcal; banana medium-size reference; chia20g dry using existing package reference. Approximate total food uncertainty +/-200kcal; all micronutrients estimates.",
+  "body_metrics": {
+    "weight_kg": 71.5,
+    "bmi": 22.8,
+    "body_fat_pct": 18.9,
+    "fat_mass_kg": 13.5,
+    "muscle_mass_kg": 54.9,
+    "skeletal_muscle_mass_kg": 29.4,
+    "body_water_pct": 56.5,
+    "protein_mass_kg": 13.9,
+    "bmr_kcal": 1623.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 309,
+    "notes": "5h09m; fragmented morning sleep approximately6-11:20AM, two clear wake spikes. Displayed seven-day average6h41m."
+  },
+  "activity": {
+    "move_calories": 683.0,
+    "exercise_minutes": 74,
+    "stand_hours": 11,
+    "steps": 15343,
+    "distance_km": 10.02
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "One cup chai",
+      "calories": 100.0,
+      "protein_g": 3.0,
+      "carbs_g": 16.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chai",
+          "quantity": 1.0,
+          "unit": "cup; assumed sweetened milk tea",
+          "calories": 100.0,
+          "protein_g": 3.0,
+          "carbs_g": 16.0,
+          "fat_g": 3.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "382g cooked boneless skin-on rotisserie chicken wings",
+      "calories": 970.3,
+      "protein_g": 90.9,
+      "carbs_g": 0.0,
+      "fat_g": 64.4,
+      "fiber_g": 0.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Rotisserie chicken wings, boneless skin-on",
+          "quantity": 382.0,
+          "unit": "g cooked edible meat and skin",
+          "calories": 970.3,
+          "protein_g": 90.9,
+          "carbs_g": 0.0,
+          "fat_g": 64.4,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Four bananas and 20g chia seeds",
+      "calories": 525.0,
+      "protein_g": 8.5,
+      "carbs_g": 120.4,
+      "fat_g": 7.8,
+      "fiber_g": 21.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cavendish banana",
+          "quantity": 4.0,
+          "unit": "medium banana",
+          "calories": 428.0,
+          "protein_g": 5.2,
+          "carbs_g": 108.4,
+          "fat_g": 1.6,
+          "fiber_g": 12.0
+        },
+        {
+          "food_name": "Chia seeds (soaked)",
+          "quantity": 20.0,
+          "unit": "g dry seed weight",
+          "calories": 97.0,
+          "protein_g": 3.3,
+          "carbs_g": 12.0,
+          "fat_g": 6.2,
+          "fiber_g": 9.6
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 330.0,
+    "iron_mg": 7.5,
+    "zinc_mg": 8.2,
+    "b12_ug": 1.6,
+    "potassium_mg": 3100.0,
+    "sodium_mg": 2400.0,
+    "vitamin_c_mg": 42.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 3.9,
+    "magnesium_mg": 300.0,
+    "vitamin_k_ug": 12.0,
+    "vitamin_e_mg": 2.0,
+    "vitamin_a_ug": 150.0,
+    "folate_ug": 140.0,
+    "selenium_ug": 95.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 350.0,
+    "iodine_ug": 65.0
+  }
+}
