@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-09",
+  "notes": "Scale11:36:71.3kg, BMI22.8, body fat18.8%, fat13.4kg, muscle54.8kg, skeletal muscle29.5kg, water56.9%/40.5kg, protein13.6kg, BMR1621, visceral7, WHR0.8, body age20. Versus Nov8:weight -0.2kg, fat -0.1kg, muscle -0.1kg, skeletal muscle +0.1kg, water mass +0.1kg. Daily BIA changes cannot establish tissue changes; prior day's estimated deficit and 15,343 steps provide context only. Sleep6h06m, fragmented morning block approximately3:35-10AM, seven-day displayed average6h43m. Activity619 move kcal,38 exercise min,13 stand hours,11,344 steps,7.70km,2 flights; all rings closed. No structured workout supplied. Ice-cream visible label190kcal,9g fat,16g sugar,50mg sodium; sugar is not total carbohydrate; protein3g and total carbohydrate24g estimated. Snickers uses standard51g reference. Small mala portion estimated. Dinner explicitly uses small tasting spoons:20g each chicken curry and25g biryani, not full portions. Naan halves, one malai tikka piece, jaljeera and mango dessert cup recorded separately. Dessert cup assumed120g; no glass size or sweetness supplied for jaljeera. Food uncertainty roughly +/-300kcal; micronutrients rough estimates.",
+  "body_metrics": {
+    "weight_kg": 71.3,
+    "bmi": 22.8,
+    "body_fat_pct": 18.8,
+    "fat_mass_kg": 13.4,
+    "muscle_mass_kg": 54.8,
+    "skeletal_muscle_mass_kg": 29.5,
+    "body_water_pct": 56.9,
+    "protein_mass_kg": 13.6,
+    "bmr_kcal": 1621.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 366,
+    "notes": "6h06m; fragmented morning block roughly3:35-10AM with several wake periods; displayed seven-day average6h43m."
+  },
+  "activity": {
+    "move_calories": 619.0,
+    "exercise_minutes": 38,
+    "stand_hours": 13,
+    "steps": 11344,
+    "distance_km": 7.7
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Ice-cream cone; visible label 190 kcal, 9g fat, 16g total sugar, 50mg sodium; protein/carbs/fibre estimated",
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Ice-cream cone",
+          "quantity": 1.0,
+          "unit": "cone",
+          "calories": 190.0,
+          "protein_g": 3.0,
+          "carbs_g": 24.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Small mala: noodles, lettuce, chicken and one fish tofu piece; all weights estimated",
+      "calories": 497.0,
+      "protein_g": 28.7,
+      "carbs_g": 37.7,
+      "fat_g": 24.0,
+      "fiber_g": 2.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked noodles",
+          "quantity": 120.0,
+          "unit": "g assumed",
+          "calories": 150.0,
+          "protein_g": 3.6,
+          "carbs_g": 30.0,
+          "fat_g": 0.6,
+          "fiber_g": 1.2
+        },
+        {
+          "food_name": "Chicken",
+          "quantity": 80.0,
+          "unit": "g cooked assumed",
+          "calories": 168.0,
+          "protein_g": 20.8,
+          "carbs_g": 0.0,
+          "fat_g": 8.8,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Lettuce",
+          "quantity": 60.0,
+          "unit": "g assumed",
+          "calories": 9.0,
+          "protein_g": 0.8,
+          "carbs_g": 1.7,
+          "fat_g": 0.1,
+          "fiber_g": 0.8
+        },
+        {
+          "food_name": "Fish tofu",
+          "quantity": 1.0,
+          "unit": "piece (~25g assumed)",
+          "calories": 45.0,
+          "protein_g": 2.5,
+          "carbs_g": 3.0,
+          "fat_g": 2.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mala seasoning and oil",
+          "quantity": 1.0,
+          "unit": "small portion",
+          "calories": 125.0,
+          "protein_g": 1.0,
+          "carbs_g": 3.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "One standard 51g Snickers bar",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Snickers bar",
+          "quantity": 1.0,
+          "unit": "51g bar",
+          "calories": 250.0,
+          "protein_g": 4.0,
+          "carbs_g": 33.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Indian dinner; small tasting spoons of curries and biryani, not serving-spoon portions",
+      "calories": 825.0,
+      "protein_g": 31.5,
+      "carbs_g": 100.5,
+      "fat_g": 32.7,
+      "fiber_g": 3.1,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Garlic naan",
+          "quantity": 0.5,
+          "unit": "naan",
+          "calories": 150.0,
+          "protein_g": 4.0,
+          "carbs_g": 23.5,
+          "fat_g": 4.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Garlic cheese naan",
+          "quantity": 0.5,
+          "unit": "naan",
+          "calories": 200.0,
+          "protein_g": 7.0,
+          "carbs_g": 24.0,
+          "fat_g": 8.5,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Jaljeera",
+          "quantity": 1.0,
+          "unit": "glass; lightly sweetened assumed",
+          "calories": 40.0,
+          "protein_g": 0.0,
+          "carbs_g": 10.0,
+          "fat_g": 0.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken malai tikka",
+          "quantity": 1.0,
+          "unit": "piece (~40g cooked assumed)",
+          "calories": 85.0,
+          "protein_g": 9.0,
+          "carbs_g": 1.0,
+          "fat_g": 5.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken karahi",
+          "quantity": 20.0,
+          "unit": "g assumed; couple small spoonfuls",
+          "calories": 35.0,
+          "protein_g": 3.0,
+          "carbs_g": 1.0,
+          "fat_g": 2.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Other chicken dish",
+          "quantity": 20.0,
+          "unit": "g assumed; couple small spoonfuls",
+          "calories": 35.0,
+          "protein_g": 3.0,
+          "carbs_g": 1.0,
+          "fat_g": 2.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Mutton biryani",
+          "quantity": 25.0,
+          "unit": "g assumed; 2-3 small spoonfuls",
+          "calories": 40.0,
+          "protein_g": 1.5,
+          "carbs_g": 6.0,
+          "fat_g": 1.2,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Mango ice-cream",
+          "quantity": 1.0,
+          "unit": "dessert cup (~120g assumed)",
+          "calories": 240.0,
+          "protein_g": 4.0,
+          "carbs_g": 34.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 620.0,
+    "iron_mg": 7.0,
+    "zinc_mg": 6.5,
+    "b12_ug": 2.0,
+    "potassium_mg": 1500.0,
+    "sodium_mg": 2900.0,
+    "vitamin_c_mg": 18.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.2,
+    "magnesium_mg": 150.0,
+    "vitamin_k_ug": 65.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 400.0,
+    "folate_ug": 180.0,
+    "selenium_ug": 65.0,
+    "epa_dha_mg": 45.0,
+    "choline_mg": 210.0,
+    "iodine_ug": 85.0
+  }
+}
