@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-11",
+  "notes": "No body scan or structured workout supplied. Sleep12h33m, split between overnight roughly11PM-9AM and afternoon roughly3-5:45PM, with several wake spikes. Displayed5:49PM bedtime highlight not used to override chart. Activity357 move kcal,17 exercise min,8 stand hours,6,970 steps,4.64km,21 flights; all three rings below goals. No breakfast reported. Snack wording 'macho and cheese sauce' interpreted provisionally as nachos with cheese sauce; assumed75g chips plus60g sauce. Mixed rice amounts estimated as250g cooked rice,120g chicken dish,100g tofu and one fried egg. McCrispy2pc and McChicken use established tracker references689kcal and391kcal. Small crisscut fries estimated330kcal; exact product/serving nutrition could not be verified in public McDonald's SG menu search. Food uncertainty roughly +/-350kcal chiefly lunch and nachos; micronutrients rough estimates.",
+  "sleep": {
+    "total_sleep_minutes": 753,
+    "notes": "12h33m split overnight and afternoon; several wake spikes. Chart roughly11PM-9AM and3-5:45PM; highlight bedtime5:49PM not treated as reliable start for these blocks."
+  },
+  "activity": {
+    "move_calories": 357.0,
+    "exercise_minutes": 17,
+    "stand_hours": 8,
+    "steps": 6970,
+    "distance_km": 4.64
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice: rice, chicken, tofu, fried egg",
+      "calories": 850.0,
+      "protein_g": 50.5,
+      "carbs_g": 85.0,
+      "fat_g": 33.2,
+      "fiber_g": 2.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 71.0,
+          "fat_g": 0.7,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Chicken with sauce",
+          "quantity": 120.0,
+          "unit": "g assumed",
+          "calories": 260.0,
+          "protein_g": 28.0,
+          "carbs_g": 8.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Tofu, cooked with oil/sauce",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 140.0,
+          "protein_g": 10.0,
+          "carbs_g": 5.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Fried egg",
+          "quantity": 1.0,
+          "unit": "egg",
+          "calories": 125.0,
+          "protein_g": 6.5,
+          "carbs_g": 1.0,
+          "fat_g": 10.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Nachos and cheese sauce; provisional interpretation of 'macho'",
+      "calories": 500.0,
+      "protein_g": 8.0,
+      "carbs_g": 52.0,
+      "fat_g": 28.5,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Nacho chips",
+          "quantity": 75.0,
+          "unit": "g assumed",
+          "calories": 375.0,
+          "protein_g": 5.0,
+          "carbs_g": 45.0,
+          "fat_g": 19.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Cheese sauce",
+          "quantity": 60.0,
+          "unit": "g assumed",
+          "calories": 125.0,
+          "protein_g": 3.0,
+          "carbs_g": 7.0,
+          "fat_g": 9.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McDonald's:2pc McCrispy, small crisscut fries, McChicken",
+      "calories": 1410.0,
+      "protein_g": 58.0,
+      "carbs_g": 124.0,
+      "fat_g": 76.0,
+      "fiber_g": 9.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken McCrispy 2pc (spicy or original)",
+          "quantity": 1.0,
+          "unit": "2-piece serving",
+          "calories": 689.0,
+          "protein_g": 39.0,
+          "carbs_g": 42.0,
+          "fat_g": 41.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Small crisscut fries",
+          "quantity": 1.0,
+          "unit": "small serving; estimated",
+          "calories": 330.0,
+          "protein_g": 4.0,
+          "carbs_g": 40.0,
+          "fat_g": 17.0,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 2.8,
+    "potassium_mg": 2400.0,
+    "sodium_mg": 4800.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 240.0,
+    "vitamin_k_ug": 40.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 240.0,
+    "selenium_ug": 150.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 480.0,
+    "iodine_ug": 90.0
+  }
+}
