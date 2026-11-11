@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-10",
+  "notes": "No scale scan or structured workout supplied. Sleep3h11m from screenshot; chart approximately5:10-8:45AM, fragmented with prolonged waking near the end. Highlight reports5:49PM bedtime, inconsistent with visible morning block; not used to infer sleep timing. Activity788 move kcal,34 exercise min,19 stand hours,17,080 steps,11.54km,12 flights; all rings closed. Midnight food assigned to Nov10 as requested: two325g chicken kimchi fried rice portions,650g total. No separate breakfast reported. Fried rice estimated at200kcal/100g (recipe/label unavailable); earlier unweighed restaurant entries cannot establish measured portion density. Four baklava assumed medium35g pieces,140g combined at about429kcal/100g. Mandi full big chicken leg uses prior Jul30 large leg estimate (380g cooked bone-in serving assumed; bones excluded in nutritional estimate); not a user-measured weight. Mandi rice175g cooked, midpoint of reported150-200g. No unreported sides or sauces added. Food uncertainty roughly +/-450kcal, chiefly fried-rice oil, baklava size and edible chicken yield. Micronutrients rough estimates.",
+  "sleep": {
+    "total_sleep_minutes": 191,
+    "notes": "3h11m. Visible chart roughly5:10-8:45AM with several wake periods and prolonged waking at end. Highlight5:49PM bedtime conflicts with chart; not adopted as sleep start."
+  },
+  "activity": {
+    "move_calories": 788.0,
+    "exercise_minutes": 34,
+    "stand_hours": 19,
+    "steps": 17080,
+    "distance_km": 11.54
+  },
+  "meals": [
+    {
+      "meal_type": "supper",
+      "description": "Midnight: two chicken kimchi fried rice portions,325g each (650g total)",
+      "calories": 1300.0,
+      "protein_g": 52.0,
+      "carbs_g": 169.0,
+      "fat_g": 46.8,
+      "fiber_g": 6.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken kimchi fried rice",
+          "quantity": 650.0,
+          "unit": "g net; two325g portions",
+          "calories": 1300.0,
+          "protein_g": 52.0,
+          "carbs_g": 169.0,
+          "fat_g": 46.8,
+          "fiber_g": 6.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Chicken rice with soup, standard serving",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate with soup",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Four baklava pieces; size estimated",
+      "calories": 600.0,
+      "protein_g": 8.0,
+      "carbs_g": 70.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Baklava",
+          "quantity": 4.0,
+          "unit": "medium pieces (~35g each assumed)",
+          "calories": 600.0,
+          "protein_g": 8.0,
+          "carbs_g": 70.0,
+          "fat_g": 32.0,
+          "fiber_g": 4.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mandi: full big chicken leg and150-200g rice",
+      "calories": 928.0,
+      "protein_g": 80.3,
+      "carbs_g": 48.1,
+      "fat_g": 43.5,
+      "fiber_g": 1.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mandi chicken leg, skin-on",
+          "quantity": 1.0,
+          "unit": "large full leg; ~380g cooked bone-in assumed",
+          "calories": 613.0,
+          "protein_g": 75.0,
+          "carbs_g": 0.0,
+          "fat_g": 33.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mandi rice",
+          "quantity": 175.0,
+          "unit": "g cooked; midpoint150-200g",
+          "calories": 315.0,
+          "protein_g": 5.3,
+          "carbs_g": 48.1,
+          "fat_g": 10.5,
+          "fiber_g": 1.3
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 380.0,
+    "iron_mg": 15.0,
+    "zinc_mg": 19.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 2900.0,
+    "sodium_mg": 5900.0,
+    "vitamin_c_mg": 30.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.6,
+    "magnesium_mg": 330.0,
+    "vitamin_k_ug": 80.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 190.0,
+    "epa_dha_mg": 70.0,
+    "choline_mg": 610.0,
+    "iodine_ug": 85.0
+  }
+}
