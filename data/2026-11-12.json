@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-12",
+  "notes": "No scale scan or structured workout supplied. Sleep corrected explicitly: screenshot3h49m(229min)+2h10m(130min)=5h59m(359min). Visible chart has brief evening block and fragmented morning block; added130min timing unspecified. Activity645 move kcal,50 exercise min,15 stand hours,15,406 steps,10.06km,2 flights; all rings closed. Breakfast estimated two medium fried char siew pao at300kcal each plus two unidentified steamed dumplings at70kcal each. Dumpling filling/size unknown, generic estimate only. Lunch dry hot-and-sour smoked duck instant mee estimated as100g dry instant noodles,100g smoked duck and additional sauce/oil; no soup assumed. McChicken and medium fries use established391/384kcal references. McChicken BLT provisional490kcal estimate from standard burger plus bacon/tomato/additional sauce; no verified Singapore product label found. Food uncertainty roughly +/-400kcal from bun/dumpling sizes, noodle quantity and oil, and BLT variant. Micronutrients rough estimates.",
+  "sleep": {
+    "total_sleep_minutes": 359,
+    "notes": "User correction:3h49m shown+2h10m=5h59m. Visible short evening sleep and fragmented morning sleep; additional block timing unspecified."
+  },
+  "activity": {
+    "move_calories": 645.0,
+    "exercise_minutes": 50,
+    "stand_hours": 15,
+    "steps": 15406,
+    "distance_km": 10.06
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Two fried char siew pao and two unidentified steamed dumplings",
+      "calories": 740.0,
+      "protein_g": 22.0,
+      "carbs_g": 94.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Fried char siew pao",
+          "quantity": 2.0,
+          "unit": "medium buns assumed",
+          "calories": 600.0,
+          "protein_g": 16.0,
+          "carbs_g": 76.0,
+          "fat_g": 26.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Steamed dumplings, type unspecified",
+          "quantity": 2.0,
+          "unit": "medium pieces assumed",
+          "calories": 140.0,
+          "protein_g": 6.0,
+          "carbs_g": 18.0,
+          "fat_g": 5.0,
+          "fiber_g": 0.8
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Hot-and-sour smoked duck instant mee, dry",
+      "calories": 800.0,
+      "protein_g": 31.5,
+      "carbs_g": 69.0,
+      "fat_g": 43.5,
+      "fiber_g": 3.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Instant noodles",
+          "quantity": 100.0,
+          "unit": "g dry assumed",
+          "calories": 450.0,
+          "protein_g": 9.0,
+          "carbs_g": 62.0,
+          "fat_g": 18.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Smoked duck",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 250.0,
+          "protein_g": 22.5,
+          "carbs_g": 0.0,
+          "fat_g": 17.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Hot-and-sour sauce and additional oil",
+          "quantity": 1.0,
+          "unit": "serving assumed",
+          "calories": 100.0,
+          "protein_g": 0.0,
+          "carbs_g": 7.0,
+          "fat_g": 8.0,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "McChicken BLT, McChicken and medium fries",
+      "calories": 1265.0,
+      "protein_g": 40.0,
+      "carbs_g": 133.0,
+      "fat_g": 64.0,
+      "fiber_g": 9.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "McChicken BLT",
+          "quantity": 1.0,
+          "unit": "burger; estimated",
+          "calories": 490.0,
+          "protein_g": 20.0,
+          "carbs_g": 45.0,
+          "fat_g": 26.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "McChicken (McDonald's Singapore)",
+          "quantity": 1.0,
+          "unit": "burger",
+          "calories": 391.0,
+          "protein_g": 15.0,
+          "carbs_g": 42.0,
+          "fat_g": 18.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "McDonald's French Fries (medium)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 384.0,
+          "protein_g": 5.0,
+          "carbs_g": 46.0,
+          "fat_g": 20.0,
+          "fiber_g": 5.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 5300.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.3,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 180.0,
+    "folate_ug": 240.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 45.0,
+    "choline_mg": 320.0,
+    "iodine_ug": 65.0
+  }
+}
