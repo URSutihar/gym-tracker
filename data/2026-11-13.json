@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-13",
+  "notes": "No scale scan or structured workout supplied. Sleep correction9h07m(547min)-2h10m(130min)=6h57m(417min); removed130min already assigned to Nov12. Remaining chart includes fragmented early-morning sleep and afternoon block; bedtime displayed4:20AM versus4:32AM usual. Activity791 move kcal,68 exercise min,12 stand hours,15,749 steps,10.24km,49 flights; all rings closed. No breakfast or snacks supplied. Chicken rice and bananas use established references. Classic Three Cup Chicken and rice use Oct7 component estimates; only kimchi included as side today, no unreported radish/carrot. Kimchi50g assumed. Restaurant portion and oil uncertainty about +/-250kcal. Micronutrients estimated.",
+  "sleep": {
+    "total_sleep_minutes": 417,
+    "notes": "9h07m shown minus user-specified2h10m=6h57m. Excluded block assigned to Nov12. Remaining morning and afternoon sleep; several wake spikes. Displayed bedtime4:20AM versus usual4:32AM."
+  },
+  "activity": {
+    "move_calories": 791.0,
+    "exercise_minutes": 68,
+    "stand_hours": 12,
+    "steps": 15749,
+    "distance_km": 10.24
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "plate with soup",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Classic Three Cup Chicken, rice and kimchi",
+      "calories": 850.0,
+      "protein_g": 46.0,
+      "carbs_g": 81.0,
+      "fat_g": 34.8,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Three Cup Chicken with onion",
+          "quantity": 1.0,
+          "unit": "restaurant portion; Oct7 estimate",
+          "calories": 570.0,
+          "protein_g": 42.0,
+          "carbs_g": 20.0,
+          "fat_g": 34.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Steamed rice",
+          "quantity": 1.0,
+          "unit": "bowl; Oct7 estimate",
+          "calories": 260.0,
+          "protein_g": 3.0,
+          "carbs_g": 58.0,
+          "fat_g": 0.5,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Kimchi",
+          "quantity": 50.0,
+          "unit": "g assumed",
+          "calories": 20.0,
+          "protein_g": 1.0,
+          "carbs_g": 3.0,
+          "fat_g": 0.3,
+          "fiber_g": 1.5
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Four bananas",
+      "calories": 428.0,
+      "protein_g": 5.2,
+      "carbs_g": 108.4,
+      "fat_g": 1.6,
+      "fiber_g": 12.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cavendish banana",
+          "quantity": 4.0,
+          "unit": "medium banana",
+          "calories": 428.0,
+          "protein_g": 5.2,
+          "carbs_g": 108.4,
+          "fat_g": 1.6,
+          "fiber_g": 12.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 230.0,
+    "iron_mg": 8.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 1.8,
+    "potassium_mg": 3400.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 55.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 280.0,
+    "vitamin_k_ug": 60.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 160.0,
+    "folate_ug": 190.0,
+    "selenium_ug": 95.0,
+    "epa_dha_mg": 45.0,
+    "choline_mg": 330.0,
+    "iodine_ug": 55.0
+  }
+}
