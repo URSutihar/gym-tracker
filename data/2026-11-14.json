@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-14",
+  "notes": "No scale scan or structured workout supplied. Sleep8h33m(513min)-1h34m(94min)=6h59m(419min), explicit user correction. Chart shows prior-evening block plus fragmented morning and afternoon blocks; exact removed block not specified. Activity1156 move kcal,70 exercise min,14 stand hours,30,151 steps,20.02km,62 flights; all rings closed. No breakfast or snacks reported. Lunch uses established chicken Satti Sorru set including raita and papad; assumed same customary set. Rotisserie chicken leg313g explicitly boneless skin-on, treated as cooked edible weight without bone deduction; scaled Nov7 estimate of200kcal,22g protein,12g fat per100g. Five bananas use medium-fruit reference. Food uncertainty about +/-250kcal chiefly restaurant oil, chicken skin proportion and banana size. Micros estimated.",
+  "sleep": {
+    "total_sleep_minutes": 419,
+    "notes": "8h33m screenshot minus1h34m user correction=6h59m. Fragmented morning and afternoon sleep visible alongside prior-evening block; exact excluded interval unspecified."
+  },
+  "activity": {
+    "move_calories": 1156.0,
+    "exercise_minutes": 70,
+    "stand_hours": 14,
+    "steps": 30151,
+    "distance_km": 20.02
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken Satti Sorru customary set with raita and papad",
+      "calories": 900.0,
+      "protein_g": 45.0,
+      "carbs_g": 105.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Chicken Satti Sorru claypot rice set",
+          "quantity": 1.0,
+          "unit": "usual set including raita and papad",
+          "calories": 900.0,
+          "protein_g": 45.0,
+          "carbs_g": 105.0,
+          "fat_g": 28.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "313g cooked boneless skin-on rotisserie chicken leg and five bananas",
+      "calories": 1161.0,
+      "protein_g": 75.4,
+      "carbs_g": 135.5,
+      "fat_g": 39.6,
+      "fiber_g": 15.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Boneless skin-on rotisserie chicken leg",
+          "quantity": 313.0,
+          "unit": "g cooked edible weight",
+          "calories": 626.0,
+          "protein_g": 68.9,
+          "carbs_g": 0.0,
+          "fat_g": 37.6,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cavendish banana",
+          "quantity": 5.0,
+          "unit": "medium banana",
+          "calories": 535.0,
+          "protein_g": 6.5,
+          "carbs_g": 135.5,
+          "fat_g": 2.0,
+          "fiber_g": 15.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 300.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 14.0,
+    "b12_ug": 3.0,
+    "potassium_mg": 3900.0,
+    "sodium_mg": 3300.0,
+    "vitamin_c_mg": 60.0,
+    "vitamin_d_ug": 1.5,
+    "omega3_g": 0.4,
+    "magnesium_mg": 330.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 220.0,
+    "folate_ug": 210.0,
+    "selenium_ug": 130.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 440.0,
+    "iodine_ug": 70.0
+  }
+}
