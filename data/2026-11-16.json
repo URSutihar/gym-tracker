@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-16",
+  "notes": "No breakfast eaten. Scale at13:26:71.4kg; water mass40.8kg, fat-free mass58kg. Activity616 move kcal,61 exercise minutes,10 stand hours,8505 steps,5.54km,0 flights; all rings closed. Gym40min RPE8 plus120min Muay Thai sparring/training; Watch exercise minutes are separate and not total session duration. All lifting weights preserved exactly, incline press equipment unspecified, no added bar weight. Incline press felt all shoulder; pain not reported. Lunch uses Nov11 mixed rice estimate, with fried egg assumed. Cheesecake70g uses saved Cookies & Cream70g reference; flavor not specified by user. Popeyes Singapore web search found Hainanese Chicken Rice Kick Bowl described as crispy chicken thigh over fragrant rice (https://www.foodpanda.sg/restaurant/nou3/popeyes-bugis-junction-nou3) and Cajun Gravy on https://popeyes.com.sg/menu-sauces, but no SG nutrition panel found. Dinner900kcal is a component estimate, NOT official nutrition:300g fragrant rice450kcal,1 breaded thigh fillet400kcal,one gravy portion50kcal. No unreported drink or side added. Day food uncertainty roughly +/-350kcal, particularly dinner portion and lunch oil; micros rough estimates.",
+  "overall_rpe": 8.0,
+  "gym_minutes": 40,
+  "body_metrics": {
+    "weight_kg": 71.4,
+    "bmi": 22.8,
+    "body_fat_pct": 18.8,
+    "fat_mass_kg": 13.4,
+    "muscle_mass_kg": 54.9,
+    "skeletal_muscle_mass_kg": 29.7,
+    "body_water_pct": 57.1,
+    "protein_mass_kg": 13.5,
+    "bmr_kcal": 1623.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 404,
+    "notes": "6h44m; morning block roughly2:25-9:20AM, several awake periods especially around4AM. Displayed bedtime2:25AM versus average4:30AM."
+  },
+  "activity": {
+    "move_calories": 616.0,
+    "exercise_minutes": 61,
+    "stand_hours": 10,
+    "steps": 8505,
+    "distance_km": 5.54
+  },
+  "workout": {
+    "duration_minutes": 160,
+    "notes": "Gym40min RPE8 plus Muay Thai120min sparring and training. Incline press20x12,30x12,25x12 felt all shoulder; equipment unspecified, pain not reported. Low-to-high crossover uses stated per-side stack loads; not doubled in stored weights.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Pec Fly",
+        "muscle_group": "chest",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 45.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Crossover",
+        "muscle_group": "chest",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 11.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 14.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Incline Bench Press",
+        "muscle_group": "chest",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 30.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 25.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "cardio",
+        "name": "Muay Thai",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 120.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice: rice,tofu,chicken,egg",
+      "calories": 850.0,
+      "protein_g": 50.5,
+      "carbs_g": 85.0,
+      "fat_g": 33.2,
+      "fiber_g": 2.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 71.0,
+          "fat_g": 0.7,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Chicken with sauce",
+          "quantity": 120.0,
+          "unit": "g assumed",
+          "calories": 260.0,
+          "protein_g": 28.0,
+          "carbs_g": 8.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Tofu, cooked with oil/sauce",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 140.0,
+          "protein_g": 10.0,
+          "carbs_g": 5.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Egg; fried preparation assumed",
+          "quantity": 1.0,
+          "unit": "egg",
+          "calories": 125.0,
+          "protein_g": 6.5,
+          "carbs_g": 1.0,
+          "fat_g": 10.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "70g cheesecake; saved Cookies & Cream reference assumed",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake",
+          "quantity": 70.0,
+          "unit": "g",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Popeyes SG Hainanese Chicken Rice Kick Bowl plus Cajun gravy; estimated",
+      "calories": 900.0,
+      "protein_g": 36.0,
+      "carbs_g": 114.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Hainanese fragrant rice",
+          "quantity": 300.0,
+          "unit": "g cooked assumed",
+          "calories": 450.0,
+          "protein_g": 7.0,
+          "carbs_g": 85.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Crispy breaded chicken thigh fillet",
+          "quantity": 1.0,
+          "unit": "fillet; size unknown",
+          "calories": 400.0,
+          "protein_g": 28.0,
+          "carbs_g": 22.0,
+          "fat_g": 22.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Cajun gravy",
+          "quantity": 1.0,
+          "unit": "portion assumed",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 7.0,
+          "fat_g": 2.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 500.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 3900.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 190.0,
+    "vitamin_k_ug": 30.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 280.0,
+    "folate_ug": 180.0,
+    "selenium_ug": 110.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 420.0,
+    "iodine_ug": 85.0
+  }
+}
