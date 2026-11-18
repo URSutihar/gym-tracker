@@ -1,0 +1,326 @@
+{
+  "date": "2026-11-18",
+  "notes": "No breakfast eaten. No scale scan supplied. Sleep5h28m confirmed for Nov18, morning roughly3:24-9:35AM with prolonged awake periods around5-6AM; displayed7day average7h20m. Activity729 move kcal,75 exercise min,13 stand hours,15942 steps,10.40km,9 flights; all rings closed. Gym50min RPE8.5;17 working sets. Loads/reps exactly as reported, no added bar weight. Bicep preacher equipment unspecified. Hammer preacher treated as dumbbell per established history, per-hand loads. Crisscross/reverse cable crunch reps retained without inventing per-side doubling. Chicken rice and one70g Cookies & Cream cheesecake use saved templates. Mala assumed1 instant-noodle pack,200g cabbage,3 cheese tofu,1 sausage,2 thigh portions totaling300g cooked edible chicken; skin/bone/size not supplied, no gross bone weight counted. Cooked thigh proxy210kcal/100g, consumed mala oil/sauce250kcal. No extra rice or extra noodle seasoning added. Food uncertainty roughly +/-450kcal mainly thigh size, noodle pack and oil; micros rough estimates.",
+  "overall_rpe": 8.5,
+  "gym_minutes": 50,
+  "sleep": {
+    "total_sleep_minutes": 328,
+    "notes": "5h28m, roughly3:24-9:35AM with substantial awake periods around5-6AM. Displayed seven-day average7h20m."
+  },
+  "activity": {
+    "move_calories": 729.0,
+    "exercise_minutes": 75,
+    "stand_hours": 13,
+    "steps": 15942,
+    "distance_km": 10.4
+  },
+  "workout": {
+    "duration_minutes": 50,
+    "notes": "RPE8.5.17 working sets:6 biceps,8 core,3 triceps. Preacher equipment unspecified; dumbbell hammer preacher uses per-hand loads. All weights/reps exact; no bar-weight addition or per-side rep doubling.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Preacher Curl",
+        "muscle_group": "biceps",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 23.0,
+            "reps": 8
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 8
+          },
+          {
+            "set": 3,
+            "weight_kg": 23.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 46.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 59.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 73.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Criss-Cross Cable Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 46.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 59.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Reverse Crunch",
+        "muscle_group": "core",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 46.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Preacher Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 10.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 12.5,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Extension",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 36.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Abdominal Crunch",
+        "muscle_group": "core",
+        "equipment": "machine",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 54.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Tricep Pushdown",
+        "muscle_group": "triceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 50.0,
+            "reps": 11
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Standard chicken rice template",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Cheesecake template, one70g slice",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake",
+          "quantity": 1.0,
+          "unit": "70g slice",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mala:instant noodles,cabbage,3 cheese tofu,sausage,2 chicken thighs",
+      "calories": 1760.0,
+      "protein_g": 115.0,
+      "carbs_g": 100.0,
+      "fat_g": 98.0,
+      "fiber_g": 9.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Instant noodles",
+          "quantity": 1.0,
+          "unit": "pack assumed",
+          "calories": 460.0,
+          "protein_g": 10.0,
+          "carbs_g": 63.0,
+          "fat_g": 16.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Cabbage",
+          "quantity": 200.0,
+          "unit": "g assumed",
+          "calories": 50.0,
+          "protein_g": 3.0,
+          "carbs_g": 12.0,
+          "fat_g": 0.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Cheese tofu",
+          "quantity": 3.0,
+          "unit": "pieces",
+          "calories": 240.0,
+          "protein_g": 15.0,
+          "carbs_g": 12.0,
+          "fat_g": 15.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sausage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "calories": 130.0,
+          "protein_g": 6.0,
+          "carbs_g": 3.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken thigh",
+          "quantity": 300.0,
+          "unit": "g cooked edible assumed across2 portions",
+          "calories": 630.0,
+          "protein_g": 78.0,
+          "carbs_g": 0.0,
+          "fat_g": 33.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Mala seasoning and consumed oil",
+          "quantity": 1.0,
+          "unit": "portion estimated",
+          "calories": 250.0,
+          "protein_g": 3.0,
+          "carbs_g": 10.0,
+          "fat_g": 23.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 600.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 17.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 2700.0,
+    "sodium_mg": 5200.0,
+    "vitamin_c_mg": 55.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.5,
+    "magnesium_mg": 290.0,
+    "vitamin_k_ug": 130.0,
+    "vitamin_e_mg": 10.0,
+    "vitamin_a_ug": 250.0,
+    "folate_ug": 250.0,
+    "selenium_ug": 170.0,
+    "epa_dha_mg": 80.0,
+    "choline_mg": 470.0,
+    "iodine_ug": 95.0
+  }
+}
