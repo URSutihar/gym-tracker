@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "notes": "No breakfast eaten. No scale scan supplied. Sleep5h28m confirmed for Nov18, morning roughly3:24-9:35AM with prolonged awake periods around5-6AM; displayed7day average7h20m. Activity729 move kcal,75 exercise min,13 stand hours,15942 steps,10.40km,9 flights; all rings closed. Gym50min RPE8.5;17 working sets. Loads/reps exactly as reported, no added bar weight. Bicep preacher equipment unspecified. Hammer preacher treated as dumbbell per established history, per-hand loads. Crisscross/reverse cable crunch reps retained without inventing per-side doubling. Chicken rice and one70g Cookies & Cream cheesecake use saved templates. Mala assumed1 instant-noodle pack,200g cabbage,3 cheese tofu,1 sausage,2 thigh portions totaling300g cooked edible chicken; skin/bone/size not supplied, no gross bone weight counted. Cooked thigh proxy210kcal/100g, consumed mala oil/sauce250kcal. No extra rice or extra noodle seasoning added. Food uncertainty roughly +/-450kcal mainly thigh size, noodle pack and oil; micros rough estimates.",
+  "notes": "No breakfast eaten. No scale scan supplied. Sleep5h28m confirmed for Nov18, morning roughly3:24-9:35AM with prolonged awake periods around5-6AM; displayed7day average7h20m. Activity729 move kcal,75 exercise min,13 stand hours,15942 steps,10.40km,9 flights; all rings closed. Gym50min RPE8.5;17 working sets. Loads/reps exactly as reported, no added bar weight. Bicep preacher equipment unspecified. Hammer preacher treated as dumbbell per established history, per-hand loads. Crisscross/reverse cable crunch reps retained without inventing per-side doubling. Chicken rice and one70g Cookies & Cream cheesecake use saved templates. Mala assumed1 instant-noodle pack,200g cabbage,3 cheese tofu,1 sausage,2 chicken thigh portions totaling approximately250g RAW, corrected by user; not two whole thighs. Boneless edible weight assumed; skin status unspecified, existing raw meat-and-skin proxy used:190kcal,17.1g protein,13.3g fat per100g. Chicken475kcal,42.8g protein,33.3g fat, consumed mala oil/sauce250kcal. No extra rice or extra noodle seasoning added. Food uncertainty roughly +/-450kcal mainly noodle pack, oil, approximate chicken weight and unspecified skin; micros rough estimates.",
   "overall_rpe": 8.5,
   "gym_minutes": 50,
   "sleep": {
@@ -232,11 +232,11 @@
     },
     {
       "meal_type": "dinner",
-      "description": "Mala:instant noodles,cabbage,3 cheese tofu,sausage,2 chicken thighs",
-      "calories": 1760.0,
-      "protein_g": 115.0,
+      "description": "Mala:instant noodles,cabbage,3 cheese tofu,sausage,2 chicken thigh portions (approximately250g raw total)",
+      "calories": 1605.0,
+      "protein_g": 79.8,
       "carbs_g": 100.0,
-      "fat_g": 98.0,
+      "fat_g": 98.3,
       "fiber_g": 9.0,
       "is_estimated": true,
       "foods": [
@@ -282,12 +282,12 @@
         },
         {
           "food_name": "Chicken thigh",
-          "quantity": 300.0,
-          "unit": "g cooked edible assumed across2 portions",
-          "calories": 630.0,
-          "protein_g": 78.0,
+          "quantity": 250.0,
+          "unit": "g raw total across2 portions; boneless edible assumed, skin-on proxy",
+          "calories": 475.0,
+          "protein_g": 42.8,
           "carbs_g": 0.0,
-          "fat_g": 33.0,
+          "fat_g": 33.3,
           "fiber_g": 0.0
         },
         {
@@ -305,22 +305,22 @@
   ],
   "micros": {
     "calcium_mg": 600.0,
-    "iron_mg": 13.0,
-    "zinc_mg": 17.0,
-    "b12_ug": 3.5,
-    "potassium_mg": 2700.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 15.0,
+    "b12_ug": 3.2,
+    "potassium_mg": 2400.0,
     "sodium_mg": 5200.0,
     "vitamin_c_mg": 55.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.5,
-    "magnesium_mg": 290.0,
+    "magnesium_mg": 265.0,
     "vitamin_k_ug": 130.0,
     "vitamin_e_mg": 10.0,
     "vitamin_a_ug": 250.0,
     "folate_ug": 250.0,
-    "selenium_ug": 170.0,
-    "epa_dha_mg": 80.0,
-    "choline_mg": 470.0,
+    "selenium_ug": 145.0,
+    "epa_dha_mg": 65.0,
+    "choline_mg": 400.0,
     "iodine_ug": 95.0
   }
 }
