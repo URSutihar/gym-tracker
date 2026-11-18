@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-17",
+  "notes": "Corrected screenshot confirms Nov17 sleep8h24m (504min). Nov18 screenshot not assigned to this day. No breakfast eaten; no structured workout supplied. Scale10:58:71.5kg,water mass40.5kg,fat-free mass58.1kg. Activity714 move kcal,58 exercise min,14 stand hours,15755 steps,10.34km,16 flights; all rings closed. Lunch specifically two roasted wings and one drumstick, not standard chicken serving plus extra meat. Assuming whole wings, skin eaten: approximately80g cooked edible wings total and80g cooked edible drumstick; piece size unknown. Seasoned rice250g assumed. No bone mass included in edible estimates. Dinner uses prior Sep15 no-raita/no-gravy biryani template1123kcal:500g rice,150g edible chicken,one customary egg assumed. Portion and egg presence not independently confirmed today. Milk cloud cake2x30g slices from reference. Food uncertainty roughly +/-350kcal; micros rough estimates. Sleep chart roughly1:45-10:25AM with several brief wakes; bedtime highlight3:24AM conflicts with chart and is not used as exact start.",
+  "body_metrics": {
+    "weight_kg": 71.5,
+    "bmi": 22.8,
+    "body_fat_pct": 18.8,
+    "fat_mass_kg": 13.4,
+    "muscle_mass_kg": 55.0,
+    "skeletal_muscle_mass_kg": 29.5,
+    "body_water_pct": 56.8,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.8,
+    "bmr_kcal": 1625.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 504,
+    "notes": "8h24m confirmed on corrected Nov17 screenshot. Chart roughly1:45-10:25AM, with several brief wakes. Highlight3:24AM not used as exact start because it conflicts with chart."
+  },
+  "activity": {
+    "move_calories": 714.0,
+    "exercise_minutes": 58,
+    "stand_hours": 14,
+    "steps": 15755,
+    "distance_km": 10.34
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Roasted chicken rice with two wings,one drumstick,and soup",
+      "calories": 910.0,
+      "protein_g": 53.0,
+      "carbs_g": 86.0,
+      "fat_g": 38.5,
+      "fiber_g": 1.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Seasoned chicken rice",
+          "quantity": 250.0,
+          "unit": "g cooked assumed",
+          "calories": 450.0,
+          "protein_g": 7.0,
+          "carbs_g": 78.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Roasted skin-on chicken wings",
+          "quantity": 2.0,
+          "unit": "whole wings;80g cooked edible total assumed",
+          "calories": 230.0,
+          "protein_g": 22.0,
+          "carbs_g": 0.0,
+          "fat_g": 16.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Roasted skin-on chicken drumstick",
+          "quantity": 1.0,
+          "unit": "piece;80g cooked edible assumed",
+          "calories": 175.0,
+          "protein_g": 22.0,
+          "carbs_g": 0.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken rice sauce",
+          "quantity": 1.0,
+          "unit": "portion assumed",
+          "calories": 35.0,
+          "protein_g": 0.0,
+          "carbs_g": 6.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Clear soup",
+          "quantity": 1.0,
+          "unit": "bowl",
+          "calories": 20.0,
+          "protein_g": 2.0,
+          "carbs_g": 2.0,
+          "fat_g": 0.5,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Two slices milk cloud cake",
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 27.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.54,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Milk cloud cake",
+          "quantity": 2.0,
+          "unit": "30g slice",
+          "calories": 200.0,
+          "protein_g": 3.0,
+          "carbs_g": 27.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.54
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Chicken dum biryani without raita or gravy; prior portion template",
+      "calories": 1123.0,
+      "protein_g": 56.3,
+      "carbs_g": 130.6,
+      "fat_g": 37.3,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken dum biryani rice",
+          "quantity": 500.0,
+          "unit": "g cooked assumed",
+          "calories": 795.0,
+          "protein_g": 15.0,
+          "carbs_g": 130.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Chicken in biryani",
+          "quantity": 150.0,
+          "unit": "g cooked edible assumed",
+          "calories": 250.0,
+          "protein_g": 35.0,
+          "carbs_g": 0.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Boiled egg in biryani",
+          "quantity": 1.0,
+          "unit": "egg assumed from usual template",
+          "calories": 78.0,
+          "protein_g": 6.3,
+          "carbs_g": 0.6,
+          "fat_g": 5.3,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 280.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 3300.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 25.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 260.0,
+    "folate_ug": 170.0,
+    "selenium_ug": 140.0,
+    "epa_dha_mg": 55.0,
+    "choline_mg": 450.0,
+    "iodine_ug": 75.0
+  }
+}
