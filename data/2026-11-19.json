@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-19",
+  "notes": "No scale scan or structured workout supplied. Sleep8h03m, morning roughly2-10:45AM with several brief awakenings; displayed7day average7h10m. Activity627 move kcal,32 exercise min,12 stand hours,14265 steps,10.02km,4 flights;all rings closed. Thai pink guava150g scaled from reference. Lunch component assumptions250g cooked rice,120g chicken dish,100g tofu,one fried egg,100g cooked vegetables; comparable Nov11 portions plus vegetables. Regular cream puff reference180kcal. Dinner is a new restaurant estimate: notably large fried thigh, assumed250g cooked edible meat/skin/coating (bones excluded),750kcal; small coconut rice100g180kcal; small Mongolian gravy30g70kcal; one baked potato wedge40g60kcal; cucumber50g8kcal. No unreported egg,peanuts,anchovies or sambal added. Dinner uncertainty roughly +/-300kcal; day roughly +/-400kcal, mainly thigh size/coating, oil and rice portion. Micros approximate.",
+  "sleep": {
+    "total_sleep_minutes": 483,
+    "notes": "8h03m; chart approximately2-10:45AM with several brief wakes. Displayed7day average7h10m."
+  },
+  "activity": {
+    "move_calories": 627.0,
+    "exercise_minutes": 32,
+    "stand_hours": 12,
+    "steps": 14265,
+    "distance_km": 10.02
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Thai pink guava150g",
+      "calories": 91.5,
+      "protein_g": 3.0,
+      "carbs_g": 19.5,
+      "fat_g": 1.1,
+      "fiber_g": 6.9,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Thai pink guava",
+          "quantity": 150.0,
+          "unit": "g",
+          "calories": 91.5,
+          "protein_g": 3.0,
+          "carbs_g": 19.5,
+          "fat_g": 1.1,
+          "fiber_g": 6.9
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Mixed rice:rice,chicken,tofu,egg,vegetables",
+      "calories": 910.0,
+      "protein_g": 52.5,
+      "carbs_g": 91.0,
+      "fat_g": 36.2,
+      "fiber_g": 4.8,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 71.0,
+          "fat_g": 0.7,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Chicken with sauce",
+          "quantity": 120.0,
+          "unit": "g assumed",
+          "calories": 260.0,
+          "protein_g": 28.0,
+          "carbs_g": 8.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Tofu cooked with oil/sauce",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 140.0,
+          "protein_g": 10.0,
+          "carbs_g": 5.0,
+          "fat_g": 9.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Egg;fried assumed",
+          "quantity": 1.0,
+          "unit": "egg",
+          "calories": 125.0,
+          "protein_g": 6.5,
+          "carbs_g": 1.0,
+          "fat_g": 10.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cooked vegetables with oil",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 60.0,
+          "protein_g": 2.0,
+          "carbs_g": 6.0,
+          "fat_g": 3.0,
+          "fiber_g": 2.5
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "One regular cream puff",
+      "calories": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cream puff",
+          "quantity": 1.0,
+          "unit": "regular piece",
+          "calories": 180.0,
+          "protein_g": 3.0,
+          "carbs_g": 18.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mongolian sauce nasi lemak:very large fried thigh,small rice/gravy,baked potato wedge,cucumber",
+      "calories": 1068.0,
+      "protein_g": 55.3,
+      "carbs_g": 73.8,
+      "fat_g": 61.1,
+      "fiber_g": 3.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Very large fried chicken thigh",
+          "quantity": 250.0,
+          "unit": "g cooked edible meat/skin/coating assumed;bone excluded",
+          "calories": 750.0,
+          "protein_g": 50.0,
+          "carbs_g": 25.0,
+          "fat_g": 50.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Coconut rice",
+          "quantity": 100.0,
+          "unit": "g cooked assumed",
+          "calories": 180.0,
+          "protein_g": 3.0,
+          "carbs_g": 30.0,
+          "fat_g": 5.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Mongolian sauce",
+          "quantity": 30.0,
+          "unit": "g assumed",
+          "calories": 70.0,
+          "protein_g": 1.0,
+          "carbs_g": 7.0,
+          "fat_g": 4.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Baked potato wedge",
+          "quantity": 40.0,
+          "unit": "g assumed;one wedge",
+          "calories": 60.0,
+          "protein_g": 1.0,
+          "carbs_g": 10.0,
+          "fat_g": 2.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Cucumber",
+          "quantity": 50.0,
+          "unit": "g assumed",
+          "calories": 8.0,
+          "protein_g": 0.3,
+          "carbs_g": 1.8,
+          "fat_g": 0.1,
+          "fiber_g": 0.3
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 500.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 2800.0,
+    "sodium_mg": 3500.0,
+    "vitamin_c_mg": 190.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 260.0,
+    "vitamin_k_ug": 150.0,
+    "vitamin_e_mg": 10.0,
+    "vitamin_a_ug": 550.0,
+    "folate_ug": 300.0,
+    "selenium_ug": 125.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 480.0,
+    "iodine_ug": 90.0
+  }
+}
