@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-20",
+  "notes": "Sleep5h49m+2h12m=8h01m (481min) per explicit user request. Evening sleep around20:47-23:15 is displayed underNov21 by Apple but assigned toNov20 here; do not double-count these132minutes in a futureNov21 entry. Morning sleep roughly3-9:20AM with brief wakes. No breakfast eaten; no structured workout supplied. Scale09:56:72.1kg,water mass41.3kg,fat-free mass58.3kg. Activity654 move kcal,36 exercise min,14 stand hours,15816 steps,10.49km,6 flights; all rings closed. Standard chicken rice with soup template. Snacks:3 regular Oreos assumed160kcal; unidentified bakery cake/biscuit slice estimated250kcal, marble cake assumed70g300kcal. Snack sizes unknown. Stuff'd receipt transcribed including separate black pepper quinoa, regular chicken burrito wrap,sour cream,tomato salsa,iceberg,habanero,mayonnaise,cilantro rice,mashed potatoes,adobo black beans,couscous,butter corn,guacamole and cheese; no nachos. Components from https://www.stuffd.com/sg/nutrition/ checked2026-11-21:12inch burrito wrap and one serving of each selected component, no extra chicken. Published quinoa22kcal used as listed; actual scoops unweighed. Dinner sodium about3396mg from published components; remaining micros rough. Food uncertainty roughly +/-350kcal chiefly bakery slices and serving variation.",
+  "body_metrics": {
+    "weight_kg": 72.1,
+    "bmi": 23.0,
+    "body_fat_pct": 19.1,
+    "fat_mass_kg": 13.8,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 30.2,
+    "body_water_pct": 57.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.2,
+    "bmr_kcal": 1629.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 481,
+    "notes": "349min morning +132min evening=481min, per user. Evening~20:47-23:15 displayed underNov21 but assigned toNov20; exclude same132min from futureNov21 total. Morning~3-9:20AM, several brief wakes."
+  },
+  "activity": {
+    "move_calories": 654.0,
+    "exercise_minutes": 36,
+    "stand_hours": 14,
+    "steps": 15816,
+    "distance_km": 10.49
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Standard chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "3 Oreo cookies,unidentified bakery slice,marble cake slice",
+      "calories": 710.0,
+      "protein_g": 8.0,
+      "carbs_g": 95.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Oreo cookies",
+          "quantity": 3.0,
+          "unit": "regular cookies assumed",
+          "calories": 160.0,
+          "protein_g": 1.0,
+          "carbs_g": 25.0,
+          "fat_g": 7.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Unidentified bakery cake or biscuit slice",
+          "quantity": 1.0,
+          "unit": "slice;estimated",
+          "calories": 250.0,
+          "protein_g": 3.0,
+          "carbs_g": 32.0,
+          "fat_g": 12.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Marble cake",
+          "quantity": 70.0,
+          "unit": "g assumed;one slice",
+          "calories": 300.0,
+          "protein_g": 4.0,
+          "carbs_g": 38.0,
+          "fat_g": 15.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Stuff'd chicken burrito and black pepper quinoa; all receipt components",
+      "calories": 1213.08,
+      "protein_g": 42.29,
+      "carbs_g": 122.24,
+      "fat_g": 64.89,
+      "fiber_g": 17.51,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Regular burrito wrap (12 inch)",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 249.6,
+          "protein_g": 6.63,
+          "carbs_g": 41.08,
+          "fat_g": 6.2,
+          "fiber_g": 2.48
+        },
+        {
+          "food_name": "Chicken",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 223.65,
+          "protein_g": 16.75,
+          "carbs_g": 6.75,
+          "fat_g": 14.31,
+          "fiber_g": 2.97
+        },
+        {
+          "food_name": "Sour cream",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 42.8,
+          "protein_g": 0.632,
+          "carbs_g": 0.854,
+          "fat_g": 4.192,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Tomato salsa",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 9.4,
+          "protein_g": 0.4,
+          "carbs_g": 2.1,
+          "fat_g": 0.1,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Iceberg lettuce",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 2.8,
+          "protein_g": 0.2,
+          "carbs_g": 0.6,
+          "fat_g": 0.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Habanero",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 14.8,
+          "protein_g": 0.4,
+          "carbs_g": 3.28,
+          "fat_g": 0.08,
+          "fiber_g": 0.32
+        },
+        {
+          "food_name": "Mayonnaise",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 120.0,
+          "protein_g": 0.4,
+          "carbs_g": 3.6,
+          "fat_g": 11.6,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cilantro rice",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 77.7,
+          "protein_g": 1.6,
+          "carbs_g": 11.7,
+          "fat_g": 2.9,
+          "fiber_g": 0.9
+        },
+        {
+          "food_name": "Mashed potatoes",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 76.82,
+          "protein_g": 0.71,
+          "carbs_g": 5.92,
+          "fat_g": 6.0,
+          "fiber_g": 0.7
+        },
+        {
+          "food_name": "Adobo black beans",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 72.91,
+          "protein_g": 4.27,
+          "carbs_g": 13.36,
+          "fat_g": 0.91,
+          "fiber_g": 3.64
+        },
+        {
+          "food_name": "Couscous",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 68.0,
+          "protein_g": 1.9,
+          "carbs_g": 11.6,
+          "fat_g": 1.4,
+          "fiber_g": 0.4
+        },
+        {
+          "food_name": "Butter corn",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 76.2,
+          "protein_g": 1.6,
+          "carbs_g": 10.8,
+          "fat_g": 3.9,
+          "fiber_g": 1.1
+        },
+        {
+          "food_name": "Guacamole add-on",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 89.4,
+          "protein_g": 1.2,
+          "carbs_g": 5.4,
+          "fat_g": 7.9,
+          "fiber_g": 3.8
+        },
+        {
+          "food_name": "Cheese add-on",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 67.0,
+          "protein_g": 4.4,
+          "carbs_g": 0.6,
+          "fat_g": 5.2,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Black pepper quinoa add-on",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 22.0,
+          "protein_g": 1.2,
+          "carbs_g": 4.6,
+          "fat_g": 0.2,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 2200.0,
+    "sodium_mg": 5000.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 260.0,
+    "vitamin_k_ug": 65.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 400.0,
+    "folate_ug": 320.0,
+    "selenium_ug": 105.0,
+    "epa_dha_mg": 40.0,
+    "choline_mg": 290.0,
+    "iodine_ug": 100.0
+  }
+}
