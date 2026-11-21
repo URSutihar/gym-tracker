@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-21",
+  "notes": "Sleep333-132=201min (3h21m) per user;132min evening Nov20 already assigned Nov20, not counted again. Morning block roughly05:00-08:35 with brief wake. Scale09:10:72.6kg;body water mass41.5kg,fat-free mass58.6kg. Activity1133 move kcal,91 exercise min,18 stand hours,32217steps,20.65km,4flights;all rings closed. No structured workout supplied. Cheesecake70g uses usual Cookies & Cream template provisionally; cream cheese waffle uses Sep23 estimate350kcal. Two chicken fajita tacos estimated300kcal each (tortilla,chicken,vegetables,oil/sauce); small chicken cheese kebab450kcal (bread,chicken,cheese,sauce); portions unweighed, no restaurant specified. Fairprice meal reused exactly from Nov15:250g cooked rice assumed,75g cooked boneless chicken,40g cooked duck,chilli/soy sauce. Top Ten vanilla assumed73ml bar:160kcal,P2,C16,F10 from https://www.walls.com.my/p/top-ten-vanilla-multipack.html/09556126621847 ; single-bar page lists inconsistent90kcal despite same macros, not used. Ice cream fibre estimated0.5g from label<1g. Day uncertainty approximately +/-350kcal, mainly taco/kebab and waffle portions. Micronutrients rough food-composition estimates, not labels.",
+  "body_metrics": {
+    "weight_kg": 72.6,
+    "bmi": 23.2,
+    "body_fat_pct": 19.3,
+    "fat_mass_kg": 14.0,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 30.2,
+    "body_water_pct": 57.2,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.3,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.9
+  },
+  "sleep": {
+    "total_sleep_minutes": 201,
+    "notes": "5h33m screenshot minus2h12m already assigned Nov20 =3h21m. Morning~05:00-08:35,brief waking. Displayed weekly average6h40m includes Apple date allocation."
+  },
+  "activity": {
+    "move_calories": 1133.0,
+    "exercise_minutes": 91,
+    "stand_hours": 18,
+    "steps": 32217,
+    "distance_km": 20.65
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "70g cheesecake and cream cheese waffle",
+      "calories": 587.0,
+      "protein_g": 11.2,
+      "carbs_g": 61.5,
+      "fat_g": 32.9,
+      "fiber_g": 4.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake template",
+          "quantity": 70.0,
+          "unit": "g; usual template assumed",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        },
+        {
+          "food_name": "Cream cheese waffle",
+          "quantity": 1.0,
+          "unit": "piece; prior estimate",
+          "calories": 350.0,
+          "protein_g": 7.0,
+          "carbs_g": 40.0,
+          "fat_g": 18.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Two chicken fajita tacos and small chicken cheese kebab",
+      "calories": 1050.0,
+      "protein_g": 63.0,
+      "carbs_g": 98.0,
+      "fat_g": 45.0,
+      "fiber_g": 8.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken fajita taco",
+          "quantity": 2.0,
+          "unit": "tacos; estimated300kcal each",
+          "calories": 600.0,
+          "protein_g": 36.0,
+          "carbs_g": 58.0,
+          "fat_g": 25.0,
+          "fiber_g": 5.0
+        },
+        {
+          "food_name": "Small chicken cheese kebab",
+          "quantity": 1.0,
+          "unit": "small; estimated",
+          "calories": 450.0,
+          "protein_g": 27.0,
+          "carbs_g": 40.0,
+          "fat_g": 20.0,
+          "fiber_g": 3.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Fairprice rotisserie meal, same as Nov15; Top Ten vanilla",
+      "calories": 785.0,
+      "protein_g": 34.5,
+      "carbs_g": 96.0,
+      "fat_g": 27.7,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 71.0,
+          "fat_g": 0.7,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Boneless rotisserie chicken",
+          "quantity": 75.0,
+          "unit": "g cooked; skin-on proxy",
+          "calories": 150.0,
+          "protein_g": 16.5,
+          "carbs_g": 0.0,
+          "fat_g": 9.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Duck",
+          "quantity": 40.0,
+          "unit": "g cooked; prior duck proxy",
+          "calories": 100.0,
+          "protein_g": 9.0,
+          "carbs_g": 0.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chilli and soy sauce",
+          "quantity": 1.0,
+          "unit": "portion assumed",
+          "calories": 50.0,
+          "protein_g": 1.0,
+          "carbs_g": 9.0,
+          "fat_g": 1.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Wall's Top Ten vanilla",
+          "quantity": 1.0,
+          "unit": "73ml bar assumed; manufacturer multipack label",
+          "calories": 160.0,
+          "protein_g": 2.0,
+          "carbs_g": 16.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 650.0,
+    "iron_mg": 12.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 3400.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 240.0,
+    "selenium_ug": 110.0,
+    "epa_dha_mg": 45.0,
+    "choline_mg": 330.0,
+    "iodine_ug": 90.0
+  }
+}
