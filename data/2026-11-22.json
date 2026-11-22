@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-22",
+  "notes": "No breakfast eaten; no structured workout supplied. Sleep6h39m,chart roughly04:00-10:40 with brief wakes near09:30 and10:15. Activity722 move kcal,61 exercise min,13 stand hours,16429steps,10.62km,4flights; all rings closed. Scale12:38:71.9kg,body water mass41.4kg,fat-free mass58.2kg. Lunch uses explicit Kung Pao chicken rice WITH fried egg food reference670kcal (not no-egg650kcal estimate plus extra egg). Satti Sorru uses customary chicken set900kcal including raita/papad, assumed same set. Taiwanese XL fried chicken35% estimated300kcal,P23,C18,F15; assumes300g cooked whole cutlet and105g eaten, not measured. Brand unknown; web search did not establish applicable official nutrition. Supper cheesecake provisionally usual Cookies & Cream70g template237kcal; size/flavour not explicitly supplied. Restaurant portion/oil uncertainty roughly +/-300kcal. Micros rough estimates.",
+  "body_metrics": {
+    "weight_kg": 71.9,
+    "bmi": 22.9,
+    "body_fat_pct": 19.0,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 30.1,
+    "body_water_pct": 57.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.1,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 399,
+    "notes": "6h39m,roughly04:00-10:40;brief wakes near09:30 and10:15. No adjustment requested. Displayed November average6h44m."
+  },
+  "activity": {
+    "move_calories": 722.0,
+    "exercise_minutes": 61,
+    "stand_hours": 13,
+    "steps": 16429,
+    "distance_km": 10.62
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Kung Pao chicken rice with fried egg",
+      "calories": 670.0,
+      "protein_g": 34.0,
+      "carbs_g": 62.5,
+      "fat_g": 27.0,
+      "fiber_g": 2.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Kung Pao chicken rice bowl + 1 fried egg",
+          "quantity": 1.0,
+          "unit": "1 bowl + 1 fried egg",
+          "calories": 670.0,
+          "protein_g": 34.0,
+          "carbs_g": 62.5,
+          "fat_g": 27.0,
+          "fiber_g": 2.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Usual chicken Satti Sorru set and35% Taiwanese XL fried chicken",
+      "calories": 1200.0,
+      "protein_g": 68.0,
+      "carbs_g": 123.0,
+      "fat_g": 43.0,
+      "fiber_g": 3.7,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken Satti Sorru claypot rice set",
+          "quantity": 1.0,
+          "unit": "1 claypot rice serving with raita and 1 papad",
+          "calories": 900.0,
+          "protein_g": 45.0,
+          "carbs_g": 105.0,
+          "fat_g": 28.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Taiwanese XL fried chicken",
+          "quantity": 0.35,
+          "unit": "whole cutlet;105g cooked assumed from300g whole",
+          "calories": 300.0,
+          "protein_g": 23.0,
+          "carbs_g": 18.0,
+          "fat_g": 15.0,
+          "fiber_g": 0.7
+        }
+      ]
+    },
+    {
+      "meal_type": "supper",
+      "description": "Cheesecake;usual70g Cookies & Cream template assumed",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 1.0,
+          "unit": "70g slice",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 420.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 11.0,
+    "b12_ug": 2.4,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 3800.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 220.0,
+    "vitamin_k_ug": 40.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 200.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 420.0,
+    "iodine_ug": 85.0
+  }
+}
