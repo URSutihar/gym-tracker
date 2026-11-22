@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "notes": "No breakfast eaten; no structured workout supplied. Sleep6h39m,chart roughly04:00-10:40 with brief wakes near09:30 and10:15. Activity722 move kcal,61 exercise min,13 stand hours,16429steps,10.62km,4flights; all rings closed. Scale12:38:71.9kg,body water mass41.4kg,fat-free mass58.2kg. Lunch uses explicit Kung Pao chicken rice WITH fried egg food reference670kcal (not no-egg650kcal estimate plus extra egg). Satti Sorru uses customary chicken set900kcal including raita/papad, assumed same set. Taiwanese XL fried chicken35% estimated300kcal,P23,C18,F15; assumes300g cooked whole cutlet and105g eaten, not measured. Brand unknown; web search did not establish applicable official nutrition. Supper cheesecake provisionally usual Cookies & Cream70g template237kcal; size/flavour not explicitly supplied. Restaurant portion/oil uncertainty roughly +/-300kcal. Micros rough estimates.",
+  "notes": "No breakfast eaten; no structured workout supplied. Sleep6h39m,chart roughly04:00-10:40 with brief wakes near09:30 and10:15. Activity722 move kcal,61 exercise min,13 stand hours,16429steps,10.62km,4flights; all rings closed. Scale12:38:71.9kg,body water mass41.4kg,fat-free mass58.2kg. Lunch uses explicit Kung Pao chicken rice WITH fried egg food reference670kcal (not no-egg650kcal estimate plus extra egg). Satti Sorru uses customary chicken set900kcal including raita/papad, assumed same set. Taiwanese XL fried chicken35% estimated300kcal,P23,C18,F15; assumes300g cooked whole cutlet and105g eaten, not measured. Brand unknown; web search did not establish applicable official nutrition. Supper cheesecake provisionally usual Cookies & Cream70g template237kcal; size/flavour not explicitly supplied. Restaurant portion/oil uncertainty roughly +/-300kcal. Micros rough estimates. Added user-confirmed Wang Zai original red245ml can; timing unspecified, categorized snacks. Provisional nutrition196kcal,P6,C26,F7.6,sodium120mg from https://www.mynetdiary.com/food/calories-in-milk-drink-by-want-want-ml-39900183-0.html ; market labels vary (another listing174kcal). Package label not supplied. Added estimated dairy micros:calcium200mg,potassium280mg,B12 0.6ug,zinc0.7mg,magnesium20mg,vitaminA40ug,selenium6ug,choline35mg,iodine30ug.",
   "body_metrics": {
     "weight_kg": 71.9,
     "bmi": 22.9,
@@ -103,26 +103,48 @@
           "fiber_g": 3.5
         }
       ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Wang Zai original milk245ml; timing unspecified",
+      "calories": 196.0,
+      "protein_g": 6.0,
+      "carbs_g": 26.0,
+      "fat_g": 7.6,
+      "fiber_g": 0.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Want Want Wang Zai original milk drink",
+          "quantity": 245.0,
+          "unit": "ml can",
+          "calories": 196.0,
+          "protein_g": 6.0,
+          "carbs_g": 26.0,
+          "fat_g": 7.6,
+          "fiber_g": 0.0
+        }
+      ]
     }
   ],
   "micros": {
-    "calcium_mg": 420.0,
+    "calcium_mg": 620.0,
     "iron_mg": 10.0,
-    "zinc_mg": 11.0,
-    "b12_ug": 2.4,
-    "potassium_mg": 2100.0,
-    "sodium_mg": 3800.0,
+    "zinc_mg": 11.7,
+    "b12_ug": 3.0,
+    "potassium_mg": 2380.0,
+    "sodium_mg": 3920.0,
     "vitamin_c_mg": 20.0,
     "vitamin_d_ug": 2.0,
     "omega3_g": 0.4,
-    "magnesium_mg": 220.0,
+    "magnesium_mg": 240.0,
     "vitamin_k_ug": 40.0,
     "vitamin_e_mg": 8.0,
-    "vitamin_a_ug": 300.0,
+    "vitamin_a_ug": 340.0,
     "folate_ug": 200.0,
-    "selenium_ug": 120.0,
+    "selenium_ug": 126.0,
     "epa_dha_mg": 50.0,
-    "choline_mg": 420.0,
-    "iodine_ug": 85.0
+    "choline_mg": 455.0,
+    "iodine_ug": 115.0
   }
 }

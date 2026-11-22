@@ -657,6 +657,21 @@
       "fiber_g": 0.0,
       "confirmed": "2026-11-06",
       "notes": "Established tracker value for one standard 51g bar; scale linearly for multiples."
+    },
+    {
+      "name": "Want Want Wang Zai original milk drink (245ml)",
+      "aliases": [
+        "wang zai milk",
+        "want want red milk can",
+        "旺仔牛奶"
+      ],
+      "serving": "245ml can",
+      "calories": 196,
+      "protein_g": 6,
+      "carbs_g": 26,
+      "fat_g": 7.6,
+      "fiber_g": 0,
+      "notes": "Product identity confirmed2026-11-23; nutrition provisional from MyNetDiary245ml entry196kcal,P6,C26,F7.6,sodium120mg. https://www.mynetdiary.com/food/calories-in-milk-drink-by-want-want-ml-39900183-0.html . Market variants differ; verify package label when available. Not milk pudding."
     }
   ]
 }
