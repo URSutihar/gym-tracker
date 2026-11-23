@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-23",
+  "notes": "Scale12:20:71.7kg,water mass41.8kg,FFM58.2kg. Sleep5h54m,roughly03:20-09:40 with brief wakes near07:20 and09:15;displayed7day average6h14m. Activity715 move kcal,89 exercise min,14 stand hours,16238steps,10.28km,10flights;all rings closed. Gym50min RPE8 plus120min Muay Thai training/sparring;Watch exercise minutes kept separate, no extra calorie burn added.17 lifting sets,196 logged reps,3000kg un-doubled recorded-load volume;dumbbells per hand,Lu raises9kg each side,equipment unspecified. Cheesecake breakfast and snack each provisionally usual70g Cookies & Cream template. Lunch standard chicken rice soup template. Dinner estimates250g cooked rice,120g cooked chicken,100g vegetables,100g stir-fried green beans;bean type and portions unspecified. Food uncertainty roughly +/-250kcal,mainly dinner oil/portions and cheesecake identity. Micros estimated.",
+  "overall_rpe": 8.0,
+  "gym_minutes": 50,
+  "body_metrics": {
+    "weight_kg": 71.7,
+    "bmi": 22.9,
+    "body_fat_pct": 18.8,
+    "fat_mass_kg": 13.5,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 30.6,
+    "body_water_pct": 58.3,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 12.6,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 6,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 354,
+    "notes": "5h54m,roughly03:20-09:40,brief wakes near07:20 and09:15. Displayed7day average6h14m."
+  },
+  "activity": {
+    "move_calories": 715.0,
+    "exercise_minutes": 89,
+    "stand_hours": 14,
+    "steps": 16238,
+    "distance_km": 10.28
+  },
+  "workout": {
+    "duration_minutes": 170,
+    "notes": "Gym50min RPE8,17sets;Muay Thai120min training/sparring. Dumbbells per hand. Lu9kg each side,equipment unspecified.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 7.5,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Face Pull",
+        "muscle_group": "rear delts",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 45.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Lu Raise",
+        "muscle_group": "shoulders",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 9.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 9.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Curl",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Wrist Extension",
+        "muscle_group": "forearms",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 7.5,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 7.5,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Shrug",
+        "muscle_group": "traps",
+        "equipment": "dumbbell",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 15.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "cardio",
+        "name": "Muay Thai",
+        "muscle_group": "cardio",
+        "intervals": [
+          {
+            "interval": 1,
+            "duration_min": 120.0,
+            "incline_pct": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Cheesecake;usual70g template assumed",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 1.0,
+          "unit": "70g slice assumed",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Standard chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Cheesecake;usual70g template assumed",
+      "calories": 237.0,
+      "protein_g": 4.2,
+      "carbs_g": 21.5,
+      "fat_g": 14.9,
+      "fiber_g": 3.5,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Cookies & Cream cheesecake (70g slice)",
+          "quantity": 1.0,
+          "unit": "70g slice assumed",
+          "calories": 237.0,
+          "protein_g": 4.2,
+          "carbs_g": 21.5,
+          "fat_g": 14.9,
+          "fiber_g": 3.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Mixed rice:rice,chicken,vegetables,beans",
+      "calories": 735.0,
+      "protein_g": 39.0,
+      "carbs_g": 95.0,
+      "fat_g": 21.7,
+      "fiber_g": 7.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice",
+          "quantity": 250.0,
+          "unit": "g assumed",
+          "calories": 325.0,
+          "protein_g": 6.0,
+          "carbs_g": 71.0,
+          "fat_g": 0.7,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Chicken with sauce",
+          "quantity": 120.0,
+          "unit": "g cooked assumed",
+          "calories": 260.0,
+          "protein_g": 28.0,
+          "carbs_g": 8.0,
+          "fat_g": 13.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Stir-fried vegetables",
+          "quantity": 100.0,
+          "unit": "g assumed",
+          "calories": 60.0,
+          "protein_g": 2.0,
+          "carbs_g": 6.0,
+          "fat_g": 3.0,
+          "fiber_g": 2.5
+        },
+        {
+          "food_name": "Stir-fried green beans",
+          "quantity": 100.0,
+          "unit": "g;type and portion assumed",
+          "calories": 90.0,
+          "protein_g": 3.0,
+          "carbs_g": 10.0,
+          "fat_g": 5.0,
+          "fiber_g": 3.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 480.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 2.2,
+    "potassium_mg": 2100.0,
+    "sodium_mg": 3000.0,
+    "vitamin_c_mg": 45.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 240.0,
+    "vitamin_k_ug": 160.0,
+    "vitamin_e_mg": 7.0,
+    "vitamin_a_ug": 550.0,
+    "folate_ug": 260.0,
+    "selenium_ug": 100.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 300.0,
+    "iodine_ug": 85.0
+  }
+}
