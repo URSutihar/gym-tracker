@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-24",
+  "notes": "Scale11:00:72.0kg,water mass41.4kg,FFM58.3kg. Sleep9h21m split between roughly01:20-09:40 and15:20-17:00;brief wakes in early night and afternoon block;November displayed average6h48m. Activity672 move kcal,59 exercise min,13stand hours,14772steps,10.09km,3flights;all rings closed. No structured workout supplied; no breakfast eaten. Standard chicken rice soup template. User confirmed one small filled custard Munchi pancake;estimated180kcal (roughly120-240),not a verified label. Stuffd receipt only lists couscous as grain filling;includes chicken plus extra chicken assumed one full published chicken serving,cheese,sour cream,salsa,lettuce,smokyBBQ,honey mustard,regular12inchwrap. Ingredient values from https://www.stuffd.com/sg/nutrition/ fetched2026-11-25;actual scoop sizes unverified. Combined food uncertainty roughly +/-250kcal. Micros rough food-based estimates.",
+  "body_metrics": {
+    "weight_kg": 72.0,
+    "bmi": 23.0,
+    "body_fat_pct": 19.0,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 55.2,
+    "skeletal_muscle_mass_kg": 30.3,
+    "body_water_pct": 57.6,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 13.1,
+    "bmr_kcal": 1629.0,
+    "visceral_fat": 7,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 561,
+    "notes": "9h21m across overnight and afternoon blocks,roughly01:20-09:40 and15:20-17:00;brief wakes. November displayed average6h48m."
+  },
+  "activity": {
+    "move_calories": 672.0,
+    "exercise_minutes": 59,
+    "stand_hours": 13,
+    "steps": 14772,
+    "distance_km": 10.09
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Standard chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "One small filled custard Munchi pancake; user confirmed count and size",
+      "calories": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 30.0,
+      "fat_g": 5.5,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Small custard Munchi pancake (estimated)",
+          "quantity": 1.0,
+          "unit": "piece; weight unknown",
+          "calories": 180.0,
+          "protein_g": 3.0,
+          "carbs_g": 30.0,
+          "fat_g": 5.5,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Stuff'd chicken burrito: regular wrap, lettuce, sour cream, salsa, smoky BBQ, honey mustard, couscous, extra chicken and cheese; no nachos",
+      "calories": 1016.1,
+      "protein_g": 48.042,
+      "carbs_g": 78.014,
+      "fat_g": 56.572,
+      "fiber_g": 10.77,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Regular burrito wrap (12 inch)",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 249.6,
+          "protein_g": 6.63,
+          "carbs_g": 41.08,
+          "fat_g": 6.2,
+          "fiber_g": 2.48
+        },
+        {
+          "food_name": "Chicken",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 223.65,
+          "protein_g": 16.75,
+          "carbs_g": 6.75,
+          "fat_g": 14.31,
+          "fiber_g": 2.97
+        },
+        {
+          "food_name": "Extra chicken add-on (one standard portion assumed)",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 223.65,
+          "protein_g": 16.75,
+          "carbs_g": 6.75,
+          "fat_g": 14.31,
+          "fiber_g": 2.97
+        },
+        {
+          "food_name": "Sour cream",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 42.8,
+          "protein_g": 0.632,
+          "carbs_g": 0.854,
+          "fat_g": 4.192,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Tomato salsa",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 9.4,
+          "protein_g": 0.4,
+          "carbs_g": 2.1,
+          "fat_g": 0.1,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Iceberg lettuce",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 2.8,
+          "protein_g": 0.2,
+          "carbs_g": 0.6,
+          "fat_g": 0.0,
+          "fiber_g": 0.2
+        },
+        {
+          "food_name": "Couscous",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 68.0,
+          "protein_g": 1.9,
+          "carbs_g": 11.6,
+          "fat_g": 1.4,
+          "fiber_g": 0.4
+        },
+        {
+          "food_name": "Cheese add-on",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 67.0,
+          "protein_g": 4.4,
+          "carbs_g": 0.6,
+          "fat_g": 5.2,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Smoky BBQ",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 15.6,
+          "protein_g": 0.36,
+          "carbs_g": 2.56,
+          "fat_g": 0.36,
+          "fiber_g": 0.24
+        },
+        {
+          "food_name": "Honey Mustard",
+          "quantity": 1.0,
+          "unit": "published serving; scoop size unverified",
+          "calories": 113.6,
+          "protein_g": 0.02,
+          "carbs_g": 5.12,
+          "fat_g": 10.5,
+          "fiber_g": 1.01
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 500.0,
+    "iron_mg": 10.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 2.5,
+    "potassium_mg": 1700.0,
+    "sodium_mg": 3500.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 180.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 300.0,
+    "folate_ug": 190.0,
+    "selenium_ug": 120.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 310.0,
+    "iodine_ug": 80.0
+  }
+}
