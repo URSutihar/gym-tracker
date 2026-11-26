@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-25",
+  "notes": "Scale10:14:72.3kg,body water mass42.1kg,FFM58.6kg. Sleep244min screenshot plus120min user-reported extra sleep=364min;extra block timing unspecified. Watch block roughly05:10-09:25,brief wakes;displayedNovember average6h45m excludes manual addition. Activity730move kcal,43exercise min,17stand hours,15817steps,10.46km,40flights;all rings closed. No structured workout supplied. Mochi132kcal user supplied;macros estimated because filling/label unknown. Chicken rice usual standard template. Custard pancake assumed same one small Munchi as Nov24. CTM set interpreted established250g chicken tikka masala+one plain naan+one garlic naan;no drink added. Restaurant food/macros and micros estimates;roughly +/-250kcal uncertainty.",
+  "body_metrics": {
+    "weight_kg": 72.3,
+    "bmi": 23.1,
+    "body_fat_pct": 19.0,
+    "fat_mass_kg": 13.7,
+    "muscle_mass_kg": 55.4,
+    "skeletal_muscle_mass_kg": 30.8,
+    "body_water_pct": 58.4,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 12.6,
+    "bmr_kcal": 1636.0,
+    "visceral_fat": 6,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 364,
+    "notes": "4h04m Watch screenshot plus2h user-reported=6h04m. Extra block timing unspecified. Chart roughly05:10-09:25 with brief wakes."
+  },
+  "activity": {
+    "move_calories": 730.0,
+    "exercise_minutes": 43,
+    "stand_hours": 17,
+    "steps": 15817,
+    "distance_km": 10.46
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Mochi;user supplied132kcal,macros estimated",
+      "calories": 132.0,
+      "protein_g": 2.0,
+      "carbs_g": 25.0,
+      "fat_g": 2.7,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Mochi (filling unspecified)",
+          "quantity": 1.0,
+          "unit": "reported serving",
+          "calories": 132.0,
+          "protein_g": 2.0,
+          "carbs_g": 25.0,
+          "fat_g": 2.7,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "lunch",
+      "description": "Chicken rice;usual standard template",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "Custard pancake;assumed one small Munchi as Nov24",
+      "calories": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 30.0,
+      "fat_g": 5.5,
+      "fiber_g": 0.5,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Small custard Munchi pancake (estimated)",
+          "quantity": 1.0,
+          "unit": "piece; weight unknown",
+          "calories": 180.0,
+          "protein_g": 3.0,
+          "carbs_g": 30.0,
+          "fat_g": 5.5,
+          "fiber_g": 0.5
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "CTM set:250g chicken tikka masala,one plain naan,one garlic naan;usual template",
+      "calories": 965.0,
+      "protein_g": 47.0,
+      "carbs_g": 105.0,
+      "fat_g": 40.0,
+      "fiber_g": 6.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken tikka masala",
+          "quantity": 250.0,
+          "unit": "g",
+          "calories": 425.0,
+          "protein_g": 32.0,
+          "carbs_g": 14.0,
+          "fat_g": 27.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Plain naan",
+          "quantity": 1.0,
+          "unit": "naan",
+          "calories": 260.0,
+          "protein_g": 8.0,
+          "carbs_g": 45.0,
+          "fat_g": 5.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Garlic naan",
+          "quantity": 1.0,
+          "unit": "naan",
+          "calories": 280.0,
+          "protein_g": 7.0,
+          "carbs_g": 46.0,
+          "fat_g": 8.0,
+          "fiber_g": 2.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 10.0,
+    "b12_ug": 2.2,
+    "potassium_mg": 1900.0,
+    "sodium_mg": 3200.0,
+    "vitamin_c_mg": 20.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 210.0,
+    "vitamin_k_ug": 35.0,
+    "vitamin_e_mg": 6.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 230.0,
+    "selenium_ug": 110.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 320.0,
+    "iodine_ug": 90.0
+  }
+}
