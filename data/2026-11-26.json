@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-26",
+  "notes": "No scale scan or structured workout supplied. Sleep8h21m,overnight roughly01:10-07:25 andafternoon16:15-18:50;several brief wakes. Watch displayed7day6h39m. Activity661move kcal,46exercise min,10stand hours,14342steps,10.03km,8flights;all rings closed. No breakfast reported. Baked rice uses prior850kcal reference;one full fried wing estimated180kcal. Palak paneer250g assumed using prior component350kcal;one plainnaan260kcal;no rice added. McCrispy 1 pieces scaled from established2piece689kcal reference. Biscoff McPop130kcal provisional singlefilledminidoughnut estimate;online verification unavailable. Rasmalai2pieces with milk sauce300kcal estimate. Food uncertainty roughly +/-350kcal,mainly restaurant portions,wing size,McPop and rasmalai serving. Micros rough estimates.",
+  "sleep": {
+    "total_sleep_minutes": 501,
+    "notes": "8h21m split overnight roughly01:10-07:25 andafternoon16:15-18:50 with brief wakes. Displayed7dayaverage6h39m."
+  },
+  "activity": {
+    "move_calories": 661.0,
+    "exercise_minutes": 46,
+    "stand_hours": 10,
+    "steps": 14342,
+    "distance_km": 10.03
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Chicken cheese baked rice and one fried full chicken wing",
+      "calories": 1030.0,
+      "protein_g": 59.0,
+      "carbs_g": 100.0,
+      "fat_g": 43.0,
+      "fiber_g": 3.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Chicken cheese baked rice",
+          "quantity": 1.0,
+          "unit": "usual restaurant portion estimate",
+          "calories": 850.0,
+          "protein_g": 45.0,
+          "carbs_g": 93.0,
+          "fat_g": 32.0,
+          "fiber_g": 3.0
+        },
+        {
+          "food_name": "Fried full chicken wing",
+          "quantity": 1.0,
+          "unit": "whole wing;edible portion estimated",
+          "calories": 180.0,
+          "protein_g": 14.0,
+          "carbs_g": 7.0,
+          "fat_g": 11.0,
+          "fiber_g": 0.3
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Palak paneer and one plain naan,Biscoff McPop,spicy McCrispy,two rasmalai",
+      "calories": 1384.5,
+      "protein_g": 56.1,
+      "carbs_g": 132.0,
+      "fat_g": 69.5,
+      "fiber_g": 8.4,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Palak paneer",
+          "quantity": 250.0,
+          "unit": "g assumed;prior component template",
+          "calories": 350.0,
+          "protein_g": 16.6,
+          "carbs_g": 11.0,
+          "fat_g": 26.0,
+          "fiber_g": 3.9
+        },
+        {
+          "food_name": "Plain naan",
+          "quantity": 1.0,
+          "unit": "naan",
+          "calories": 260.0,
+          "protein_g": 8.0,
+          "carbs_g": 45.0,
+          "fat_g": 5.0,
+          "fiber_g": 2.0
+        },
+        {
+          "food_name": "Biscoff McPop",
+          "quantity": 1.0,
+          "unit": "piece;unverified estimate",
+          "calories": 130.0,
+          "protein_g": 2.0,
+          "carbs_g": 17.0,
+          "fat_g": 6.0,
+          "fiber_g": 0.5
+        },
+        {
+          "food_name": "Chicken McCrispy Spicy",
+          "quantity": 1.0,
+          "unit": "pieces;scaled2pc reference",
+          "calories": 344.5,
+          "protein_g": 19.5,
+          "carbs_g": 21.0,
+          "fat_g": 20.5,
+          "fiber_g": 1.5
+        },
+        {
+          "food_name": "Rasmalai",
+          "quantity": 2.0,
+          "unit": "pieces with milk sauce;portion estimate",
+          "calories": 300.0,
+          "protein_g": 10.0,
+          "carbs_g": 38.0,
+          "fat_g": 12.0,
+          "fiber_g": 0.5
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 1100.0,
+    "iron_mg": 13.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 3.5,
+    "potassium_mg": 2400.0,
+    "sodium_mg": 3800.0,
+    "vitamin_c_mg": 30.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 260.0,
+    "vitamin_k_ug": 480.0,
+    "vitamin_e_mg": 8.0,
+    "vitamin_a_ug": 1000.0,
+    "folate_ug": 320.0,
+    "selenium_ug": 110.0,
+    "epa_dha_mg": 50.0,
+    "choline_mg": 350.0,
+    "iodine_ug": 130.0
+  }
+}
