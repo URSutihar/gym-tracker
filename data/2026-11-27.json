@@ -31,7 +31,7 @@
   },
   "workout": {
     "duration_minutes": 60,
-    "notes": "Gym60min,RPE7.5. Wide andclose gripT-bar rows separate entries undercanonicalT-Bar Row. Allkg exactlyuser supplied,no bar added. Singlearm work volume not doubled. Watchexercise38min retained independently.",
+    "notes": "Gym60min,RPE7.5. Wide andclose gripT-bar rows separate entries undercanonicalT-Bar Row. Allkg exactlyuser supplied,no bar added. Singlearm work volume not doubled. Watchexercise38min retained independently. Grip detail: first T-Bar Row entry is wide grip20x12,20x10;second is close grip20x10,20x8. Bayesian curls face away.",
     "exercises": [
       {
         "type": "lifting",
