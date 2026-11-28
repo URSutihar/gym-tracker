@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-28",
+  "notes": "Activity screenshot:39 flights climbed;all three rings closed. No weight or gym workout supplied. No lunch or snacks reported. Food estimates:regular vanilla latte assumed350ml with dairy milk and syrup;almond croissant uses prior Apr25 estimate. Dinner total400g supplied by user;assumed cooked rice cakes150g,chicken150g,cheese30g,sauce/vegetables including oil70g. Component weights and preparation are assumptions,not measured;chicken assumed unbreaded. Food total uncertainty roughly +/-300kcal;micronutrients rough estimates. Extra sleep17:40-20:30 allocated to Nov28 and should not be counted again on Nov29.",
+  "sleep": {
+    "total_sleep_minutes": 393,
+    "notes": "Apple Health Nov28 screenshot223min(3h43m),morning roughly04:08-07:55 with brief awakening around05:47. User added17:40-20:30(170min). Total393min(6h33m). Evening block allocated Nov28 to avoid next-day double counting."
+  },
+  "activity": {
+    "move_calories": 841.0,
+    "exercise_minutes": 55,
+    "stand_hours": 13,
+    "steps": 16300,
+    "distance_km": 10.53
+  },
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "description": "Vanilla latte and almond croissant",
+      "calories": 640.0,
+      "protein_g": 19.0,
+      "carbs_g": 77.0,
+      "fat_g": 29.0,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Vanilla latte",
+          "quantity": 350.0,
+          "unit": "ml assumed;dairy milk and vanilla syrup",
+          "calories": 240.0,
+          "protein_g": 10.0,
+          "carbs_g": 35.0,
+          "fat_g": 7.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Almond croissant",
+          "quantity": 1.0,
+          "unit": "piece;prior estimate",
+          "calories": 400.0,
+          "protein_g": 9.0,
+          "carbs_g": 42.0,
+          "fat_g": 22.0,
+          "fiber_g": 2.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Rice cake chicken with cheese;400g total meal weight",
+      "calories": 850.0,
+      "protein_g": 53.0,
+      "carbs_g": 94.0,
+      "fat_g": 29.2,
+      "fiber_g": 2.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Cooked rice cakes",
+          "quantity": 150.0,
+          "unit": "g assumed",
+          "calories": 345.0,
+          "protein_g": 6.0,
+          "carbs_g": 78.0,
+          "fat_g": 1.0,
+          "fiber_g": 1.0
+        },
+        {
+          "food_name": "Cooked chicken,unbreaded",
+          "quantity": 150.0,
+          "unit": "g assumed",
+          "calories": 315.0,
+          "protein_g": 39.0,
+          "carbs_g": 0.0,
+          "fat_g": 17.7,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Cheese",
+          "quantity": 30.0,
+          "unit": "g assumed",
+          "calories": 90.0,
+          "protein_g": 7.0,
+          "carbs_g": 1.0,
+          "fat_g": 6.5,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Sauce and vegetables including cooking oil",
+          "quantity": 70.0,
+          "unit": "g assumed",
+          "calories": 100.0,
+          "protein_g": 1.0,
+          "carbs_g": 15.0,
+          "fat_g": 4.0,
+          "fiber_g": 1.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 700.0,
+    "iron_mg": 5.0,
+    "zinc_mg": 6.0,
+    "b12_ug": 2.0,
+    "potassium_mg": 1400.0,
+    "sodium_mg": 2200.0,
+    "vitamin_c_mg": 10.0,
+    "vitamin_d_ug": 1.0,
+    "omega3_g": 0.3,
+    "magnesium_mg": 150.0,
+    "vitamin_k_ug": 20.0,
+    "vitamin_e_mg": 5.0,
+    "vitamin_a_ug": 350.0,
+    "folate_ug": 130.0,
+    "selenium_ug": 65.0,
+    "epa_dha_mg": 30.0,
+    "choline_mg": 220.0,
+    "iodine_ug": 100.0
+  }
+}
