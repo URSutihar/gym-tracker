@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-27",
+  "notes": "Scale12:38:71.6kg,bodywater mass41.5kg,FFM58.2kg. ComparedNov25:weight-0.7kg,fatmass-0.3kg,muscle-0.3kg,skeletal-0.4kg,watermass-0.6kg. Sleep7h18m split morning roughly04:09-10:30 andlateafternoon16:50-18:15;several awakenings;displayedbedtime04:09 vsaverage03:13. Activity673move kcal,38exercise min,12stand hours,14178steps,9.59km,9flights;all rings closed. No breakfast or structured workout supplied. Lunch usual chickenrice soup template. Burnt cheesecake distinct from usual70g cookiescream slice:assumed100g400kcal. Muahchee fewbites assumed40g120kcal. Jollof large rice assumed500g cooked including oil850kcal;thigh120g anddrumstick75g cooked edible withskin assumed,exclude bones;preparation unspecified,not assumed breaded. Dinner1350kcal. Food uncertainty roughly +/-400kcal chiefly rice/oil,cheesecake size and chicken preparation;micros rough estimates.",
+  "body_metrics": {
+    "weight_kg": 71.6,
+    "bmi": 22.9,
+    "body_fat_pct": 18.7,
+    "fat_mass_kg": 13.4,
+    "muscle_mass_kg": 55.1,
+    "skeletal_muscle_mass_kg": 30.4,
+    "body_water_pct": 58.1,
+    "bone_mineral_kg": 3.1,
+    "protein_mass_kg": 12.8,
+    "bmr_kcal": 1627.0,
+    "visceral_fat": 6,
+    "body_age": 20,
+    "waist_hip_ratio": 0.8
+  },
+  "sleep": {
+    "total_sleep_minutes": 438,
+    "notes": "7h18m,split morning roughly04:09-10:30 andlateafternoon16:50-18:15,several wakes. Bedtime04:09 vsusual03:13."
+  },
+  "activity": {
+    "move_calories": 673.0,
+    "exercise_minutes": 38,
+    "stand_hours": 12,
+    "steps": 14178,
+    "distance_km": 9.59
+  },
+  "meals": [
+    {
+      "meal_type": "lunch",
+      "description": "Standard chicken rice with soup",
+      "calories": 776.0,
+      "protein_g": 47.1,
+      "carbs_g": 111.8,
+      "fat_g": 14.1,
+      "fiber_g": 3.6,
+      "is_estimated": false,
+      "foods": [
+        {
+          "food_name": "Hainanese Chicken Rice (standard)",
+          "quantity": 1.0,
+          "unit": "serving",
+          "calories": 776.0,
+          "protein_g": 47.1,
+          "carbs_g": 111.8,
+          "fat_g": 14.1,
+          "fiber_g": 3.6
+        }
+      ]
+    },
+    {
+      "meal_type": "snacks",
+      "description": "One burnt cheesecake slice and a few bites of muah chee",
+      "calories": 520.0,
+      "protein_g": 9.0,
+      "carbs_g": 50.0,
+      "fat_g": 32.0,
+      "fiber_g": 1.3,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Burnt cheesecake",
+          "quantity": 100.0,
+          "unit": "g assumed;one slice",
+          "calories": 400.0,
+          "protein_g": 7.0,
+          "carbs_g": 30.0,
+          "fat_g": 28.0,
+          "fiber_g": 0.3
+        },
+        {
+          "food_name": "Muah chee with peanut sugar coating",
+          "quantity": 40.0,
+          "unit": "g assumed;few bites",
+          "calories": 120.0,
+          "protein_g": 2.0,
+          "carbs_g": 20.0,
+          "fat_g": 4.0,
+          "fiber_g": 1.0
+        }
+      ]
+    },
+    {
+      "meal_type": "dinner",
+      "description": "Large jollof rice with one chicken thigh and one drumstick",
+      "calories": 1350.0,
+      "protein_g": 62.0,
+      "carbs_g": 150.0,
+      "fat_g": 55.7,
+      "fiber_g": 4.0,
+      "is_estimated": true,
+      "foods": [
+        {
+          "food_name": "Jollof rice including cooking oil and tomato base",
+          "quantity": 500.0,
+          "unit": "g cooked assumed;large portion",
+          "calories": 850.0,
+          "protein_g": 12.0,
+          "carbs_g": 145.0,
+          "fat_g": 24.7,
+          "fiber_g": 4.0
+        },
+        {
+          "food_name": "Chicken thigh with skin",
+          "quantity": 120.0,
+          "unit": "g cooked edible assumed;one bone-in thigh,bone excluded",
+          "calories": 320.0,
+          "protein_g": 30.0,
+          "carbs_g": 3.0,
+          "fat_g": 21.0,
+          "fiber_g": 0.0
+        },
+        {
+          "food_name": "Chicken drumstick with skin",
+          "quantity": 75.0,
+          "unit": "g cooked edible assumed;one bone-in drumstick,bone excluded",
+          "calories": 180.0,
+          "protein_g": 20.0,
+          "carbs_g": 2.0,
+          "fat_g": 10.0,
+          "fiber_g": 0.0
+        }
+      ]
+    }
+  ],
+  "micros": {
+    "calcium_mg": 450.0,
+    "iron_mg": 11.0,
+    "zinc_mg": 12.0,
+    "b12_ug": 2.8,
+    "potassium_mg": 2300.0,
+    "sodium_mg": 3300.0,
+    "vitamin_c_mg": 25.0,
+    "vitamin_d_ug": 2.0,
+    "omega3_g": 0.4,
+    "magnesium_mg": 230.0,
+    "vitamin_k_ug": 45.0,
+    "vitamin_e_mg": 9.0,
+    "vitamin_a_ug": 450.0,
+    "folate_ug": 220.0,
+    "selenium_ug": 135.0,
+    "epa_dha_mg": 60.0,
+    "choline_mg": 400.0,
+    "iodine_ug": 90.0
+  }
+}
