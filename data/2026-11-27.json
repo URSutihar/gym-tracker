@@ -1,6 +1,8 @@
 {
   "date": "2026-11-27",
-  "notes": "Scale12:38:71.6kg,bodywater mass41.5kg,FFM58.2kg. ComparedNov25:weight-0.7kg,fatmass-0.3kg,muscle-0.3kg,skeletal-0.4kg,watermass-0.6kg. Sleep7h18m split morning roughly04:09-10:30 andlateafternoon16:50-18:15;several awakenings;displayedbedtime04:09 vsaverage03:13. Activity673move kcal,38exercise min,12stand hours,14178steps,9.59km,9flights;all rings closed. No breakfast or structured workout supplied. Lunch usual chickenrice soup template. Burnt cheesecake distinct from usual70g cookiescream slice:assumed100g400kcal. Muahchee fewbites assumed40g120kcal. Jollof large rice assumed500g cooked including oil850kcal;thigh120g anddrumstick75g cooked edible withskin assumed,exclude bones;preparation unspecified,not assumed breaded. Dinner1350kcal. Food uncertainty roughly +/-400kcal chiefly rice/oil,cheesecake size and chicken preparation;micros rough estimates.",
+  "notes": "Scale12:38:71.6kg,bodywater mass41.5kg,FFM58.2kg. ComparedNov25:weight-0.7kg,fatmass-0.3kg,muscle-0.3kg,skeletal-0.4kg,watermass-0.6kg. Sleep7h18m split morning roughly04:09-10:30 andlateafternoon16:50-18:15;several awakenings;displayedbedtime04:09 vsaverage03:13. Activity673move kcal,38exercise min,12stand hours,14178steps,9.59km,9flights;all rings closed. No breakfast reported. Gym added by user:60min,RPE7.5,19sets;back13,biceps6. All loads exactly as reported;no bar added;single-arm volume not doubled. Watch38exercise minutes retained independently,no additional exercise calories added. Lunch usual chickenrice soup template. Burnt cheesecake distinct from usual70g cookiescream slice:assumed100g400kcal. Muahchee fewbites assumed40g120kcal. Jollof large rice assumed500g cooked including oil850kcal;thigh120g anddrumstick75g cooked edible withskin assumed,exclude bones;preparation unspecified,not assumed breaded. Dinner1350kcal. Food uncertainty roughly +/-400kcal chiefly rice/oil,cheesecake size and chicken preparation;micros rough estimates.",
+  "overall_rpe": 7.5,
+  "gym_minutes": 60,
   "body_metrics": {
     "weight_kg": 71.6,
     "bmi": 22.9,
@@ -26,6 +28,168 @@
     "stand_hours": 12,
     "steps": 14178,
     "distance_km": 9.59
+  },
+  "workout": {
+    "duration_minutes": 60,
+    "notes": "Gym60min,RPE7.5. Wide andclose gripT-bar rows separate entries undercanonicalT-Bar Row. Allkg exactlyuser supplied,no bar added. Singlearm work volume not doubled. Watchexercise38min retained independently.",
+    "exercises": [
+      {
+        "type": "lifting",
+        "name": "Lat Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 32.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 41.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 50.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bayesian Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 14.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 18.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Bent-Over Row",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 36.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 46.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 55.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Cable Hammer Curl",
+        "muscle_group": "biceps",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 18.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 23.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 27.0,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "T-Bar Row",
+        "muscle_group": "back",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "T-Bar Row",
+        "muscle_group": "back",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 20.0,
+            "reps": 10
+          },
+          {
+            "set": 2,
+            "weight_kg": 20.0,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "type": "lifting",
+        "name": "Half-Kneeling Single-Arm Pulldown",
+        "muscle_group": "back",
+        "equipment": "cable",
+        "pain_flag": false,
+        "sets": [
+          {
+            "set": 1,
+            "weight_kg": 21.0,
+            "reps": 12
+          },
+          {
+            "set": 2,
+            "weight_kg": 27.0,
+            "reps": 12
+          },
+          {
+            "set": 3,
+            "weight_kg": 41.0,
+            "reps": 12
+          }
+        ]
+      }
+    ]
   },
   "meals": [
     {
